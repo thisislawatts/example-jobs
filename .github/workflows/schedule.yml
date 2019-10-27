@@ -1,4 +1,4 @@
-name: "Update Snyk Homebrew formula with latest release"
+name: "Update Snyk Job listings based on Greenhouse"
 on:
   push:
     branches:
