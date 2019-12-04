@@ -4,7 +4,7 @@ Solutions Engineer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Engineer</strong></p>
-<p><strong>Location: Germany/DACH (remote)</strong></p>
+<p><strong>Location: London</strong></p>
 <p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</strong></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
@@ -16,7 +16,7 @@ Solutions Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">working closely with channel partners to increase their proficiency in selling and supporting the Snyk solution through their sales process and beyond.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">work with channel partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <h3><strong>You should apply if:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you've spent 3 years or similar in the sales engineering, developer or security space</span></li>
@@ -45,7 +45,7 @@ Solutions Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4528030002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4214914002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
