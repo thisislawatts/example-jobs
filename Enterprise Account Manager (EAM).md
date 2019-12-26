@@ -3,7 +3,7 @@ Enterprise Account Manager (EAM)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p>The Enterprise Account Manager (EAM) be part of an expanding Enterprise Sales Team covering North American Fortune 500 and strategic accounts, in addition to developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers.</p>
+<p>The Enterprise Account Manager (EAM) will be part of an expanding Enterprise Sales Team covering North American Fortune 500 and strategic accounts, in addition to developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers.</p>
 <p>The focus of the Enterprise team will be in the largest and most strategic named accounts in North America. The EAM will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.  A successful Enterprise seller will:</p>
 <ul>
 <li>Be an aggressive self-starter with the ability to build executive relationships, articulate Snyk’s solution and business value, create demand and close deals.</li>
