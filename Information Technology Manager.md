@@ -33,7 +33,6 @@ Information Technology Manager
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with RPA concepts and tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have coding experience and experience with the use of APIs to automate processes and integrate systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with Business Operations systems such as Salesforce, Netsuite, Zuora etc.</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
