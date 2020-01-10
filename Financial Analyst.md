@@ -5,7 +5,7 @@ Financial Analyst
 
 <p><span style="font-weight: 400;">We’re looking for a driven, analytical, and creative financial analyst to join our FP&amp;A team to help us drive rapid growth in our software business.</span></p>
 <p><span style="font-weight: 400;">The FP&amp;A team is tasked with accurate and timely board reporting and is a trusted resource for executive decision making. The team collaborates closely with the accounting team, sales ops team, recruiting team, and all members of executive leadership. This year the team developed the 2020 company-wide operating plan, including all headcount phasing, major investments, and marketing program spends.</span></p>
-<p><span style="font-weight: 400;">You know how to tell a story using PowerPoint and Excel. You’ll use your knowledge of finance and economics to support your hypotheses on our company performance. Here at Snyk, you’ll learn how to take a question and turn it into a packaged and polished answer ready for executive decision making</span></p>
+<p><span style="font-weight: 400;">You know how to tell a story using PowerPoint and Excel. You’ll use your knowledge of finance and economics to support your hypotheses on our company performance. Here at Snyk, you’ll learn how to take a question and turn it into a packaged and polished answer ready for executive decision making.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">analyzing SaaS productivity metrics</span></li>
@@ -17,7 +17,7 @@ Financial Analyst
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are an excel guru (we move fast and do not have time to teach you)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are a whizz with Excel (we move fast and do not have time to teach you)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">can operate in ambiguity (we are a start-up!)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are not afraid to ask others for help</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are willing to pick up the phone and talk to someone to get to the bottom of something instead of trading emails</span></li>
