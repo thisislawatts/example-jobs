@@ -42,7 +42,7 @@ Business Intelligence Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4032923002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4582416002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
