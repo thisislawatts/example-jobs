@@ -3,10 +3,12 @@ Expansions & Renewals Representative
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p> </p>
 <p><strong>We're looking for a driven Expansions &amp; Renewals Representative to join our Team. This Rep will collaborate closely with both our SMB and Commercial clients along with our internal Salesforce and Technical Customer Success teams. </strong></p>
+<p>The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects aren't security experts. But we are. </p>
+<p>We're a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in. </p>
+<p>We're focused on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organisations that we have on board love us. We want to make security part of business as usual for software developers. </p>
+<h2>Your Role</h2>
 <p>This team is heavily focused on expanding and renewing customers by engaging early-on, before subscription anniversaries. The health of the existing customer base is crucial when retaining the dollars that have already been closed. The Technical Customer Success Managers will drive adoption and user satisfaction which will aid in the efforts for the Expansion &amp; Renewal team to grow the account. Prioritising by expiring deal size, runway for growth as well as imminent anniversary dates, this Expansions &amp; Renewals Representative will use these indicators to uncover and close expansion opportunities. </p>
-<p> </p>
 <h2><strong>You’ll spend your time:</strong></h2>
 <ul>
 <li>Building strong relationships with our existing client base from the SMB and Commercial Market.</li>
