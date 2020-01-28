@@ -29,7 +29,6 @@ Head of Product Enablement
 </ul>
 <p><br><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p> </p>
 <p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. </span><span style="font-weight: 400;">We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
