@@ -29,6 +29,8 @@ Sales Manager
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $70 Million,</span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"> <span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,  from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p> </p>
+<h6><span style="font-weight: 400;">#LI-AP1</span></h6>
 
 Interested?
 ---
