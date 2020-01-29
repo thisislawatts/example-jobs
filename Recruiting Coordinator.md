@@ -3,7 +3,6 @@ Recruiting Coordinator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong><em>Please note</em></strong><em><span style="font-weight: 400;">: this is a fixed term contract which will be covering a maternity leave.  Snyk is growing fast: we’ll begin with 6 months and review in the Autumn, with the option to extend if this suits both parties.  We'll be reviewing applications from early January onwards.</span></em></p>
 <p><strong>We’re looking for a super organised and empathic Recruiting Coordinator with a flair for problem-solving, to help Snyk create a seamless, enjoyable and scalable recruiting process for all.  </strong></p>
 <p><span style="font-weight: 400;">As a Recruiting Coordinator for Snyk, you’ll support growth in our R&amp;D departments across EMEA, reporting into our R&amp;D Recruitment Lead and working closely with hiring managers on teams including engineering, product, security and data.  </span></p>
 <p><strong>You’ll spend your time:</strong></p>
