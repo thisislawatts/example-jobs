@@ -4,7 +4,7 @@ Sales Director, SMB
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><strong>Role title: Sales Director, SMB</strong></h3>
-<p><span style="font-weight: 400;">Location: London or Tel Aviv</span></p>
+<p><span style="font-weight: 400;">Location: London</span></p>
 <h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the UK!</strong></h3>
 <h2><strong>Your role</strong></h2>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.  As a Sales Director at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
@@ -28,6 +28,8 @@ Sales Director, SMB
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $70 Million, </span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"><span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,  from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p> </p>
+<h6><em>#LI-AP1</em></h6>
 
 Interested?
 ---
