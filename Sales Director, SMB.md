@@ -4,7 +4,7 @@ Sales Director, SMB
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><strong>Role title: Sales Director, SMB</strong></h3>
-<p><span style="font-weight: 400;">Location: London</span></p>
+<p><span style="font-weight: 400;">Location: Tel Aviv</span></p>
 <h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the UK!</strong></h3>
 <h2><strong>Your role</strong></h2>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.  As a Sales Director at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
@@ -34,7 +34,7 @@ Sales Director, SMB
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4575233002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4614682002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
