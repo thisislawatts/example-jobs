@@ -37,6 +37,8 @@ Channel Sales Manager, DACH
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
 <p><span style="font-weight: 400;">We’re focussed on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and we’ve already secured some great</span><a href="https://snyk.io/partners"><span style="font-weight: 400;"> partners</span></a><span style="font-weight: 400;">. We want to make security part of business as usual for software developers.</span></p>
+<p> </p>
+<h6><em><span style="font-weight: 400;">#LI-AP1</span></em></h6>
 
 Interested?
 ---
