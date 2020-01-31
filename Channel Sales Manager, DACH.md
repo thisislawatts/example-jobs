@@ -23,6 +23,7 @@ Channel Sales Manager, DACH
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <h2><strong>You should join us if:</strong></h2>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are a native German speaker </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have direct experience in channel development and scaling, specifically in the software security space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have background in software security, open source, DevOps, cloud or dev tooling space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You build meaningful relationships and love to find mutually beneficial opportunities</span></li>
@@ -43,7 +44,7 @@ Channel Sales Manager, DACH
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4526093002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4614690002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
