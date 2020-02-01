@@ -3,8 +3,8 @@ Senior Marketing Operations Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Marketing Operations (Senior) Analyst</strong></p>
-<p><strong>Location: </strong><strong>Tel Aviv or London</strong></p>
+<p><strong>Senior Marketing Operations Analyst</strong></p>
+<p><strong>Location: </strong><strong>Tel Aviv </strong></p>
 <p><span style="font-weight: 400;">We’re looking for a </span><span style="font-weight: 400;">self-starter and detail-oriented analyst </span><span style="font-weight: 400;">to join our </span><span style="font-weight: 400;">Marketing Operations</span><span style="font-weight: 400;"> team to</span><span style="font-weight: 400;"> provide recommendations to the Marketing team to support pipeline generation</span> <span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">The Marketing Operations team provide the technology, processes and insights to the Marketing team to allow efficient decision-making and support scalable growth through pipeline generation </span></p>
 <p><span style="font-weight: 400;">You know how to </span><span style="font-weight: 400;">identify key metrics, build dashboards and analyse data to provide business insights</span><span style="font-weight: 400;">. You’ll use that knowledge to </span><span style="font-weight: 400;">recommend what Marketing activities are the most impactful for our top and bottom lines </span><span style="font-weight: 400;">. Here at Snyk, you’ll </span><span style="font-weight: 400;">be a key contributor to pipeline build and business growth.</span><span style="font-weight: 400;"> </span></p>
@@ -49,7 +49,7 @@ Senior Marketing Operations Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4567472002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4567550002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!

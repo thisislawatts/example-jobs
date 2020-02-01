@@ -3,6 +3,8 @@ Expansions & Renewals Representative
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>Expansions &amp; Renewals Representative</strong></p>
+<p><strong>Location: London</strong></p>
 <p><strong>We're looking for a driven Expansions &amp; Renewals Representative to join our Team. This Rep will collaborate closely with both our SMB and Commercial clients along with our internal Salesforce and Technical Customer Success teams. </strong></p>
 <p>The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects aren't security experts. But we are. </p>
 <p>We're a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in. </p>
