@@ -3,6 +3,9 @@ Head of People Partnering
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h2><strong>Head of People Partnering</strong></h2>
+<p><em>Open date: 6th February, 2020</em></p>
+<p><em>Close date: 6th March, 2020</em></p>
 <p><strong>We’re looking for a strategic Head of People Partnering to lead the people partnering function and partner with our business leadership to drive our talent-focused and people-first agenda @ Snyk. </strong></p>
 <h3><strong>About Snyk</strong></h3>
 <p><strong>Snyk’s mission is to help developers use open source and stay secure</strong><span style="font-weight: 400;">.  Open source is an exponentially growing opportunity but security is a key concern: taking code written by others, often with little to no vetting of its security pedigree, can put companies at significant risk. Snyk protects companies by enabling developers and enterprise teams to find and fix vulnerabilities in their open source code.  We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users, and we are proud to be built by the best developers and security researchers in the space. </span></p>
