@@ -3,7 +3,7 @@ Financial Controller
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a proactive, super-organised, newly qualified Financial Controller to take charge of our accounting and assist our Group Financial Controller.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a proactive, super-organised, Financial Controller to take charge of our accounting and assist our Group Financial Controller.</span></p>
 <p><span style="font-weight: 400;">The finance team is responsible for gathering and providing accurate financial information to the management team and board members to help the business stay</span><span style="font-weight: 400;"> data-driven and strategy focused. This year the team has expanded massively, from a team of three to a team of thirteen, as the department has been broken down into three functions (Accounting, Billing and Financial Planning) in order to cope with company growth.</span></p>
 <p><span style="font-weight: 400;">In this role you’ll work closely with our Group Financial Controller, gain insight into how the finance function works in a high-growth multi-subsidiary global SaaS business, and have the opportunity to develop your finance skills. </span></p>
 <h3><strong>Your role:</strong></h3>
