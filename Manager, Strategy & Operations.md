@@ -31,6 +31,11 @@ Manager, Strategy & Operations
 <li style="font-weight: 400;"><span style="font-weight: 400;">have previously worked in a strategy and operations role at a technology company</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor’s Degree, or equivalent, required and 2-4 years of work experience required</span></li>
 </ul>
+<p><strong>About Snyk</strong></p>
+<p>Snyk’s mission is to help developers use open source code and stay secure. </p>
+<p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </p>
+<p>We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $150 Million, announced January, 2020, from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</p>
+<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 
 Interested?
 ---
