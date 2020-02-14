@@ -1,0 +1,51 @@
+Software Engineer: Cloud Native Group
+---
+
+<img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
+
+<p><span style="font-weight: 400;">We’re looking for a passionate and seasoned software engineer to join our Cloud-Native group to help us build </span><a href="https://snyk.io/product/container-vulnerability-management/"><span style="font-weight: 400;">Snyk Container</span></a><span style="font-weight: 400;">, our container vulnerability management solution.</span></p>
+<p><span style="font-weight: 400;">In the Cloud-Native group we build products that enable developers to test, fix and monitor open source vulnerabilities in their container images. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud-providers.</span></p>
+<h3><strong>You’ll spend your time:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">building and maintaining the services that power our Snyk Container product</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working across the stack to deliver new features from start-to-end</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">deploying new features to production</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">improving performance and overcoming scalability limits</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">talking to our customers, making sure we’re building a product they truly love</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with your team, planning the most important projects to work on next</span></li>
+</ul>
+<h3><strong>You should apply if you:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with containers in production</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have designed, built, deployed, and hosted microservices on a major cloud-provider </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">practice writing tests as an integral part of your software development life-cycle</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ensure a high-quality of code, that can be safely co-authored in a fast growing organisation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable working in a cross-functional team, working across the stack to deliver new features from start-to-end</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">communicate proactively and have a team-first mind-set</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers </span></li>
+</ul>
+<h3><strong>We’d especially love to hear from you if you:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have strong proficiency with JavaScript and Typescript</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with a front-end framework in the past (React, Angular, Vue, Ember)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked on a large-scale distributed system</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have production-grade experience with Kuberenetes either as a stand-alone or as a hosted cloud-service (AWS ECS/EKS, GKE or Azure AKS)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a good track record of project leadership and mentorship of software engineers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience contributing to open-source projects</span></li>
+</ul>
+<h3><strong>Interested?</strong></h3>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h3><strong>About Snyk</strong></h3>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
+<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,00 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security. </span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+
+Interested?
+---
+
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4648928002#app).
+
+We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
+If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
