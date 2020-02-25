@@ -19,8 +19,8 @@ Recruiter
 <li style="font-weight: 400;"><span style="font-weight: 400;">building a strong employer brand for Snyk globally, including designing swag, coordinating on messaging, and encouraging participation from other teams at Snyk to help us promote ourselves as a great employer globally</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">tracking and building an exceptional candidate experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understanding and improving our diversity metrics for Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">attending (or organising!) events and conferences</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">designing interview processes that minimise our risk of bias and maximise the likelihood of identifying the best candidates</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">attending (or organizing!) events and conferences</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">designing interview processes that minimize our risk of bias and maximize the likelihood of identifying the best candidates</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing and improving relationships with agencies and third parties</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">advising hiring managers in market nuances, offer decisions, role titles, and the competition.</span></li>
 </ul>
@@ -42,13 +42,11 @@ Recruiter
 <p><strong>Snyk's mission is to help developers use open source code and stay secure</strong><span style="font-weight: 400;">. Our product enables developers and enterprise security to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows. The use of open source is booming, but security is a key concern.</span></p>
 <p><strong>We are growing fast - </strong><span style="font-weight: 400;">we want you to join us!  By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $70 Million,</span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"> <span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,  from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p> </p>
-<p> </p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4648145002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4647761002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
