@@ -3,40 +3,35 @@ People Experience Lead Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a </span><span style="font-weight: 400;">pro-active People Experience Lead Specialist</span><span style="font-weight: 400;"> to join our </span><span style="font-weight: 400;">People</span><span style="font-weight: 400;"> team to create, initiate and improve Snyk Tel Aviv office’s experiences through a focus on the workplace, communications, and inclusion. You will be a key partner for employee concerns and suggestions, and use frequent feedback to create a culture that is engaging and familiar. </span></p>
+<p><span style="font-weight: 400;">We’re looking for a pro-active People Experience Lead Specialist to join our People team to create, initiate, and improve Snyk Tel Aviv office’s experiences through a focus on workplace, communications, and inclusion. You will be a key partner for employee concerns and suggestions, and use frequent feedback to create a culture that is engaging and familiar. </span></p>
+<p><span style="font-weight: 400;">The People Experience team’s mission is to create experiences that tangibly connect our employees to the Snyk values. We make Snyk the best place to work. This year we’ve refreshed the New Hire Experience, celebrated our first International Women’s Day, and are in the midst of building a new, exciting office in Tel Aviv. You know how to skillfully manage projects, relationships, and communications, and you’ll use that knowledge to create an engaging and inclusive workplace. </span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">monitoring Snyk’s feedback and perception regularly to ensure a standard of excellence </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">designing and delivering clear and tone-appropriate communications with internal stakeholders with local and global updates</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting an office of 150+ fantastic human beings to understand their business needs and create innovative solutions in the workplace </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">designing, creating, and initiating inclusive and engaging initiatives, socials, and bonding activities to energize the Snyk culture, while staying on schedule and in budget. </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">leading the local team to provide a safe, user-friendly, and well-maintained workplace</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">driving excellence in employee experiences through the delivery of innovative, responsive and professional services, ensuring total satisfaction of all customers and stakeholders within Snyk.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">conducting vendor management and negotiation: working with external vendors related to real estate, events, wellness, partnering with other branches of the People team (Recruiting, L&amp;D, People-Ops, Culture &amp; Engagement ) to build sustainable people-programs and help scale the organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">playing a key role in the roll-out of new initiatives and people-oriented projects like new hire on-boarding, employee relations, and retention</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">playing a major part in helping foster a company culture that aligns with Snyk’s values</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">planning, designing and executing on projects, social events, happy hours, off-sites and bonding activities within budget, on schedule, and in a way that helps contribute to an awesome working environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">contributing  to building employee engagement strategies and recognition programs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">creating clear and tone-appropriate communications with internal stakeholders with local + global updates</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Managing vendor negotiations and management: such as those related to real estate, events, wellness, and supplies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting the effective management of budgets and forecasting for the coming financial year</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working directly with the Head of People Experience on all real estate projects regarding headcount forecasting, new deliveries, lease renewals, and office refreshes and liaison with local contributors directly</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">leading people practices that foster innovation and collaboration between departments and teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">partnering directly with your regional People Experience team to collaborate and create consistency globally</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working directly with the Head of People Experience on all real estate projects regarding headcount forecasting, new deliveries, lease renewals, and office refreshes </span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have proven progressive experience in People Experience, People ops, Administration/Office Management or a related field. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have the </span><span style="font-weight: 400;">ability to build effective working relationships at all levels of the organization, with experience at executive level. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience managing vendor relationships</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">can excel in project management and partnering with stakeholders across timezones</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have good commercial acumen and the ability to manage budgets</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a fast-growing global organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a passion for problem-solving</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated, passionate, service-oriented with superior organizational skills and great follow through on tasks.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have excellent written and verbal communication in English</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are flexible and able to solve problems in an evolving environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to build effective working relationships at all levels of the organization, with experience at executive level</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">put people first, and are able to anticipate their needs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy puns, gifs, and getting people engaged!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience managing an office move project from start to completion</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a fast-growing global organization, partnering with stakeholders across time zones</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated, passionate, and service-oriented with superior organizational skills and great follow through on tasks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have excellent written and verbal communication in english</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a bachelor’s degree in human resources, business management, education, or a related discipline</span> <span style="font-weight: 400;">advantageous, but not required</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are able to multi-task and manage a workload in a time effective way with multiple daily priorities to deal with</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a high degree of integrity and honesty, with the ability to exercise confidentiality and neutrality in complex and sensitive situations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are able to multitask and manage a workload in a time effective way with multiple daily priorities to deal with</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a high degree of integrity and honesty; ability to exercise confidentiality and neutrality in complex and sensitive situations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator, who is able to influence actions and outcomes.</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
