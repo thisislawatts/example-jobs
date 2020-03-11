@@ -3,6 +3,7 @@ People Partner
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>*We are unable to begin interviewing until after 25th March 2020.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced People Partner to join our team and partner with managers, employees, and the wider HR team to help design and implement a People strategy across a broad range of initiatives. </span></p>
 <p><span style="font-weight: 400;">Being a local subject matter expert on employee matters and associated legislation, you’ll have experience partnering with a tech start up and have a thorough understanding of the pace and challenges we typically face in this environment.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
