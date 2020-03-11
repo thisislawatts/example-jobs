@@ -14,16 +14,16 @@ Social Media Marketing Manager
 <li style="font-weight: 400;"><span style="font-weight: 400;">Manage company social media channels, including LinkedIn, Twitter, YouTube, Facebook and other relevant platforms</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Develop appealing and engaging content to expand and strengthen brand awareness and online reputation</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Participate in relevant social discussions about our company, competitors, and/or industry, with our customers, prospects, influencers, and other new audiences</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Closely monitor and analyse program results to understand what works and how to optimise performance toward key KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Closely monitor and analyze program results to understand what works and how to optimize performance toward key KPIs</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Drive consistent, relevant traffic and leads from our social network presence and relevant communities</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Explore new ways to engage and new social networks to reach our target buyers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work closely with cross functional teams, campaigns and programs to implement the supporting social media activity.  </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Create content that promotes audience engagement and increases audience traffic to on company sites</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Propose new ideas and approaches to social media content and engagement. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Use timelines and scheduled content to create a consistent stream of new content for audience engagement while analysing, managing, and altering schedules where necessary to optimise visits </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use timelines and scheduled content to create a consistent stream of new content for audience engagement while analyzing, managing, and altering schedules where necessary to optimize visits </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Stay up-to-date with the latest conversations and trends in the application security, container security, devsecops and software development markets.  </span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have at least 3 years relevant working experience in a B2B tech environment</span></li>
@@ -50,7 +50,7 @@ Social Media Marketing Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4645253002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4645119002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
