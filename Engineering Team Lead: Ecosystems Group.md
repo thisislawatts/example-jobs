@@ -3,6 +3,7 @@ Engineering Team Lead: Ecosystems Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><u>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</u></strong></p>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, collaborative, and goal-oriented team leader to lead one of our ecosystem group teams. These teams improve our support for languages, build tools, package managers, source code management and more.</span></p>
 <p><span style="font-weight: 400;">You know how to get a team collaborating to achieve goals, by making sure everyone is clear on the mission, while also having the freedom and space to figure out how to achieve them.</span></p>
 <p><span style="font-weight: 400;">You'll grow and retain an effective, impactful team that evolves its own processes and practices. Helping your team members develop and practise their skills. Finding them the right opportunities to step up, as well as hands on support with pairing and mentoring.</span></p>

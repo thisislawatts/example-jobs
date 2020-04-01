@@ -3,6 +3,7 @@ Software Engineer: Ecosystems Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><span style="text-decoration: underline;"><strong>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></span></p>
 <p><span style="font-weight: 400;">We are looking for a collaborative, capable software engineer to join our ecosystems group and help us help developers write secure software!</span></p>
 <p><span style="font-weight: 400;">In our ecosystems group we introduce and improve support for dev tools, languages, build systems, package managers, source code management and more. This means tackling challenges such as taming the complexity in developer ecosystems, providing a reliable and fast service at scale, and optimising the algorithms behind dependency resolution.</span></p>
 <p><span style="font-weight: 400;">You’ll join a team that owns the future product direction, development, and operational reliability of parts of our service. You’ll coding across the stack, mostly with TypeScript and JavaScript. </span></p>

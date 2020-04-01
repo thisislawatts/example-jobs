@@ -3,6 +3,7 @@ Software Engineer: Cloud Native Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><span style="text-decoration: underline;"><strong>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></span></p>
 <p><span style="font-weight: 400;">We’re looking for a passionate and seasoned software engineer to join our Cloud-Native group to help us build </span><a href="https://snyk.io/product/container-vulnerability-management/"><span style="font-weight: 400;">Snyk Container</span></a><span style="font-weight: 400;">, our container vulnerability management solution.</span></p>
 <p><span style="font-weight: 400;">In the Cloud-Native group we build products that enable developers to test, fix and monitor open source vulnerabilities in their container images. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud-providers.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
