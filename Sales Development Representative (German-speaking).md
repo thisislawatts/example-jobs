@@ -4,7 +4,7 @@ Sales Development Representative (German-speaking)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Development Representative</strong><span style="font-weight: 400;"> (German-speaking) </span></p>
-<p><strong>Location:</strong><span style="font-weight: 400;"> London </span></p>
+<p><strong>Location: Tel Aviv</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll have great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and lots of mentorship and training.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
@@ -40,7 +40,7 @@ Sales Development Representative (German-speaking)
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4545859002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4614686002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
