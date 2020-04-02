@@ -4,11 +4,11 @@ Senior Technical Writer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">We’re looking for a senior technical writer to join our Design team to lead and own all our user-facing documentation. </span></p>
-<p><span style="font-weight: 400;">In this role you will aim to elevate our documentation content, organisation and processes to a world class standard, and collaborate closely with our Product, Engineering, and Customer Success teams as we go to market with new features and capabilities.</span></p>
-<p><span style="font-weight: 400;">You will be skilled in crafting documentation in a way that is empathetic to a range of users including engineers of all levels, and those who do not have English as their first language. At Snyk you will be guiding readers through tasks such as setting up integrations, how to use our CLI and API, and how our product handles different languages and package managers.</span></p>
+<p><span style="font-weight: 400;">In this role, you will aim to elevate our technical content, its organization and the processes to a world-class standard, and collaborate closely with our Product, Engineering, and Customer Success teams as we go to market with new features and capabilities.</span></p>
+<p><span style="font-weight: 400;">You will be skilled in crafting clear and concise copy, being the filter between our internal jargon and being empathetic to our wide range of users and those who do not have English as their first language. At Snyk you will be guiding readers through tasks such as setting up integrations, how to use our CLI and API, and how our product handles different programming languages and package managers.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">handling the full process of planning and writing documentation, right through to publishing it on our site</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">handling the full process of planning and writing documentation and video scripts, right through to publishing it on our site</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">meeting regularly with our customer success team to highlight areas where our users are struggling</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">identifying where improvements to our documentation will add the most value, and working to achieve this</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">establishing a workable, repeatable process to allow for easy periodical review of our documentation</span></li>
