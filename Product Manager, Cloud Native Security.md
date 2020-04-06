@@ -3,6 +3,7 @@ Product Manager, Cloud Native Security
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><u>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</u></strong></p>
 <p><strong>We're looking for a Product Manager who can help us design, build and ship industry defining products to help software developers build more secure applications.</strong></p>
 <p><span style="font-weight: 400;">Working with a distributed team of designers and developers you will join our new Cloud Native group which is focused on building products to help developers adopt technologies like Docker, Kubernetes, Serverless (and what comes next) in a secure manner. </span></p>
 <p><span style="font-weight: 400;">You’ll also work closely with our customer success, marketing and sales teams on supporting existing customers, identifying common user problems and taking the solutions you define to market.</span></p>
@@ -29,7 +30,7 @@ Product Manager, Cloud Native Security
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
-<p><span style="font-weight: 400;">You'll be primarily based either in our London office in Shoreditch, or our office in Tel Aviv.</span></p>
+<p><span style="font-weight: 400;">You'll be primarily based either in our office in Tel Aviv.</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
 
 Interested?
