@@ -3,6 +3,7 @@ Senior Manager Public Relations/Analyst Relations
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></em></h3>
 <p><span style="font-weight: 400;">Snyk is leading the market in developer-first security, helping development and security teams build software quickly </span><em><span style="font-weight: 400;">and</span></em><span style="font-weight: 400;"> securely.  We’re growing fast, adding thousands of new users, onboarding new enterprise customers, rapidly expanding our teams every quarter, and sharing our story with the market  - and we want YOU to join us for the ride! </span></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced, driven, and creative PR/AR marketer to lead our public and analyst relations strategy and execution. </span></p>
 <p><span style="font-weight: 400;">Your role:</span></p>
