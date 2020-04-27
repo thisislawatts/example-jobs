@@ -33,6 +33,7 @@ Digital Marketing Manager
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech.</span></p>
+<p><span style="font-weight: 400;">#LI-CS1</span></p>
 
 Interested?
 ---
