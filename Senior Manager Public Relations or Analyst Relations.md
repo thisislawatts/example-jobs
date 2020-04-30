@@ -32,6 +32,7 @@ Senior Manager Public Relations/Analyst Relations
 <li style="font-weight: 400;"><span style="font-weight: 400;">Strong project management skills.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">B2B tech experienced required; Security, DevOps and/or Development category experience highly preferred.</span></li>
 </ul>
+<p><span style="font-weight: 400;">#LI-CS1</span></p>
 
 Interested?
 ---
