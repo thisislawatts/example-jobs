@@ -13,11 +13,12 @@ Enterprise Account Executive - Austin
 <p><span style="font-weight: 400;">We’re looking for highly motivated salespeople who thrive with the freedom to decide how to spend your day, and how best to contribute to your team’s goals.</span></p>
 <h2><strong>You should join us if:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience selling a technical product to Enterprise level accounts (Fortune 100), and you want to hone your craft in a startup on its way to success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have 5+ years experience selling a technical product to Enterprise level accounts (Fortune 100), and you want to hone your craft in a startup on its way to success</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re self-motivated and hard-working: you aim to exceed your quota, and you enjoy and thrive,working in fast-paced environments</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are collaborative with marketing, sales engineers, product, customer success, and others to get your deal done, and work well in a “teaming” environment.  </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in CyberSecurity, Application Security, DevOps, or DevSecOps (highly preferred)</span></li>
 </ul>
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">We'd love to hear from you!</span></p>

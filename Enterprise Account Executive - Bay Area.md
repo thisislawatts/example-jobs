@@ -1,4 +1,4 @@
-Enterprise Account Executive - Chicago
+Enterprise Account Executive - Bay Area
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
@@ -34,7 +34,7 @@ Enterprise Account Executive - Chicago
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4757537002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4750407002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
