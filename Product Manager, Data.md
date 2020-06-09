@@ -26,6 +26,7 @@ Product Manager, Data
 <h3>You should apply if</h3>
 <ul>
 <li>You have at least 3 years of hands-on product management experience, preferably SaaS products, and you delivered features\products end to end</li>
+<li>You have engineering experience and you are familiar with Git &amp; the open source world</li>
 <li>You have good technical skills and you learn new things fast</li>
 <li>You've worked closely with external customers</li>
 <li>You feel comfortable with vagueness and enjoy starting things from scratch</li>
@@ -36,8 +37,6 @@ Product Manager, Data
 </ul>
 <h3>We’d especially love to hear from you if you</h3>
 <ul>
-<li>Have engineering experience</li>
-<li>Are familiar with Git &amp; the open source world</li>
 <li>Have experience with leading data based products</li>
 </ul>
 <h3>Interested?</h3>
