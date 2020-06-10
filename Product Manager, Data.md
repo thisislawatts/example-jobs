@@ -6,10 +6,10 @@ Product Manager, Data
 <p>We're looking for an experienced Product Manager to join us and lead our data teams. Our data teams provide valuable insights which helps our customers to take actions and make sure they are able to use open source and stay secured.</p>
 <h3>Your role</h3>
 <p>You will be working with super talented engineering and Data teams which have a major role in making sure our customers are successful by providing them the right insights at the right time. As the Product Manager of the Data teams, you will own 2 main areas:</p>
-<ol>
+<ul>
 <li>Working closely with our Data team to find and expose valuable insights into the core product to allow developers to take actions and make sure they use open source and stay secure.</li>
 <li>Working closely with our Security team and tie our security expertise into the core product</li>
-</ol>
+</ul>
 <p>You will be the owner of your domain and will lead the products and features from ideation &amp; research throughout the product lifecycle including release and making sure each one of the features achieve their business goals.</p>
 <h3>You’ll spend your time</h3>
 <ul>
@@ -41,7 +41,7 @@ Product Manager, Data
 </ul>
 <h3>Interested?</h3>
 <p>Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</p>
-<p><strong>About Snyk</strong></p>
+<p>About Snyk</p>
 <p>Snyk’s mission is to help developers use open source code and stay secure.</p>
 <p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</p>
 <p>We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). It's an exciting time to join as we have carried the momentum we built in 2019 into the new year! Our January 2020 Series C funding round of $150M has tipped us over a $1Billion company valuation.</p>
