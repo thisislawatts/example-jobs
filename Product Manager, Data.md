@@ -46,6 +46,8 @@ Product Manager, Data
 <p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</p>
 <p>We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). It's an exciting time to join as we have carried the momentum we built in 2019 into the new year! Our January 2020 Series C funding round of $150M has tipped us over a $1Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
+<p> </p>
+<p><span style="font-weight: 400;">#LI-TO1</span></p>
 
 Interested?
 ---
