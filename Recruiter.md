@@ -9,7 +9,7 @@ Recruiter
 <p><span style="font-weight: 400;">As a Recruiter for Snyk, you'll join the Go-To-Market (GTM) Recruiting team within our global People Team. This role reports into our GTM Recruitment Lead, and supports hiring for sales, marketing, customer experience, and alliances teams.  We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.  </span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications across North America for the roles that you’re responsible for</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications globally for the roles that you’re responsible for</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">building up diverse pipelines of passive candidates using creative sourcing methods and other employer branding initiatives</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting and encouraging employee referrals </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing the recruitment process for the roles you are assigned</span></li>
