@@ -3,7 +3,7 @@ Solutions Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong>Currently, this role is on hold.  We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></em></h3>
+<h3><em><strong>Currently, this role is on hold.  We’re expecting to continue hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></em></h3>
 <p>We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
 <p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.  Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
 <p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!  </span></p>
@@ -19,6 +19,7 @@ Solutions Engineer
 </ul>
 <h3><strong>You should apply if:</strong></h3>
 <ul>
+<li style="font-weight: 400;">you have a degree or similar in Information Technology, or an equivalent field</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you've spent 3 years or similar in the sales engineering, developer or security space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you’re familiar with a wide variety of coding languages and how they work</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you have a good knowledge of the developer and DevOps ecosystems and practices</span></li>
