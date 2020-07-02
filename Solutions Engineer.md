@@ -19,7 +19,6 @@ Solutions Engineer
 </ul>
 <h3><strong>You should apply if:</strong></h3>
 <ul>
-<li style="font-weight: 400;">you have a degree or similar in Information Technology, or an equivalent field</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you've spent 3 years or similar in the sales engineering, developer or security space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you’re familiar with a wide variety of coding languages and how they work</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you have a good knowledge of the developer and DevOps ecosystems and practices</span></li>
