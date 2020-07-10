@@ -6,9 +6,7 @@ Lead Technical Writer
 <p><span style="font-weight: 400;">We’re looking for an experienced technical writer to join our Design team to lead and own all our user-facing documentation.&nbsp;</span></p>
 <p><span style="font-weight: 400;">In this role, you will aim to elevate our technical content, its organization and the processes to a world-class standard, and collaborate closely with our Product, Engineering, and Customer Success teams as we go to market with new features and capabilities.</span></p>
 <p><span style="font-weight: 400;">You will be skilled in crafting clear and concise copy, being the filter between our internal jargon and being empathetic to our wide range of users and those who do not have English as their first language. At Snyk you will be guiding readers through tasks such as setting up integrations, how to use our CLI and API, and how our product handles different programming languages and package managers.</span></p>
-<p><span style="font-weight: 400;">You will have experience in defining and executing a content strategy, while ready to roll up your sleeves.&nbsp;</span></p>
 <h2><strong>You’ll spend your time:</strong></h2>
-<h3>&nbsp;</h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">handling the full process of planning and writing documentation and video scripts, right through to publishing it on our site</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">meeting regularly with our customer success team to highlight areas where our users are struggling</span></li>
@@ -19,6 +17,8 @@ Lead Technical Writer
 </ul>
 <h2><strong>You should apply if you:</strong></h2>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in defining a content strategy to support different audiences&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in enabling agile product teams to write high quality content</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience of writing documentation for technical products for developer tooling</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have managed the user experience of a large documentation site and can clearly show the role you played in making it great</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">can write in a way that is easy for developers with a range of abilities to understand</span></li>
@@ -44,7 +44,7 @@ Lead Technical Writer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4289445002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4789371002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
