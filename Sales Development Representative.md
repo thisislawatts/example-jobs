@@ -15,9 +15,9 @@ Sales Development Representative
 <li><span style="font-weight: 400;">Sourcing qualified contacts using our persona guidelines</span></li>
 <li><span style="font-weight: 400;">Leverage tools to prioritize account out-reach</span></li>
 <li><span style="font-weight: 400;">Enroll accounts/contacts in customized sequences</span></li>
-<li><span style="font-weight: 400;">Set meetings and generate pipeline for sales team </span></li>
+<li><span style="font-weight: 400;">Set meetings and generate pipeline for sales team&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account execs, including participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a  high-growth technology company focussed on security.</span></p>
+<p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account execs, including participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a&nbsp; high-growth technology company focussed on security.</span></p>
 <p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as your progress into a high-commission account executive role.</span></p>
 <h2><strong>You should join us if:</strong></h2>
 <ul>

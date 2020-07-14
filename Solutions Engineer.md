@@ -3,10 +3,10 @@ Solutions Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong>Currently, this role is on hold.  We’re expecting to continue hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></em></h3>
+<h3><em><strong>Currently, this role is on hold.&nbsp; We’re expecting to continue hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</strong></em></h3>
 <p>We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
-<p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.  Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
-<p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!  </span></p>
+<p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
+<p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">becoming a technical product expert, evangelist and coach, able to give technical sales demonstrations to customer and partners in your sleep</span></li>
@@ -36,7 +36,7 @@ Solutions Engineer
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway. </span></p>
+<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.&nbsp;</span></p>
 
 Interested?
 ---

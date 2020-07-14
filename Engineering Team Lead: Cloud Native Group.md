@@ -6,21 +6,21 @@ Engineering Team Lead: Cloud Native Group
 <p><span style="font-weight: 400;">We’re looking for an empathetic, collaborative, and goal-oriented team leader to lead one of our cloud native group teams. These teams build and maintain products that enable developers to test, fix and monitor open source vulnerabilities in their </span><a href="https://snyk.io/blog/putting-container-security-in-the-hands-of-developers/"><span style="font-weight: 400;">container images</span></a><span style="font-weight: 400;"> and </span><a href="https://snyk.io/blog/checking-helm-charts-for-security-misconfigurations/"><span style="font-weight: 400;">infrastructure-as-code</span></a><span style="font-weight: 400;"> components. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud-providers.</span></p>
 <p><span style="font-weight: 400;">You know how to get a team collaborating to achieve goals, by making sure everyone is clear on the mission, while also having the freedom and space to figure out how to achieve them.</span></p>
 <p><span style="font-weight: 400;">You'll grow and retain an effective, impactful team that evolves its own processes and practices. Helping your team members develop and practise their skills. Finding them the right opportunities to step up, as well as hands on support with pairing and mentoring.</span></p>
-<p><span style="font-weight: 400;">Your team will be split across London and Tel Aviv. You will own the future product direction, development, and operational reliability of parts of our platform. </span></p>
+<p><span style="font-weight: 400;">Your team will be split across London and Tel Aviv. You will own the future product direction, development, and operational reliability of parts of our platform.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">doing hands-on software development</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">direct line management of team members providing regular feedback, coaching, and mentoring</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">hiring the right people to enhance the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working with your team’s product manager to plan and achieve goals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring the team: </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring the team:&nbsp;</span></li>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">shapes the product vision, plan, and achieves goals</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">communicates proactively and sets realistic expectations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">keeps its tech running reliably in production</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supports customers and other Snyk teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">balances delivery of current goals with ongoing tech investment </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">is learning and building domain expertise </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">balances delivery of current goals with ongoing tech investment&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">is learning and building domain expertise&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">is continuously improving</span></li>
 </ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">participating in an on-call rotation (currently one week every three months, with multiple people sharing each rotation)</span></li>
@@ -30,7 +30,7 @@ Engineering Team Lead: Cloud Native Group
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience leading an engineering team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate people management competence </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate people management competence&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are energised by supporting and growing others</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable leading a geographically distributed team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with JavaScript/TypeScript and Golang</span></li>
@@ -53,11 +53,11 @@ Engineering Team Lead: Cloud Native Group
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $150 Million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21st, 2020</span></a><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p> </p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
 
 Interested?

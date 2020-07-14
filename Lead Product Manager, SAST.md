@@ -4,11 +4,11 @@ Lead Product Manager, SAST
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>We're looking for a Product Management lead who can help us design, build and ship a disruptive developer first product to help software developers build more secure applications.</strong></p>
-<p><span style="font-weight: 400;">Working with a distributed team of designers and developers you will lead product management in a new group which is focused on empowering developers to find and fix vulnerabilities in their custom code in an integrated and scalable manner. </span></p>
+<p><span style="font-weight: 400;">Working with a distributed team of designers and developers you will lead product management in a new group which is focused on empowering developers to find and fix vulnerabilities in their custom code in an integrated and scalable manner.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You’ll also work closely with our customer success, marketing and sales teams on supporting existing customers, identifying common user problems and taking the solutions you define to market.</span></p>
 <h3><strong>You’ll spend your time</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working very closely with the engineering and cto teams in order to create a differentiated developer friendly offering </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working very closely with the engineering and cto teams in order to create a differentiated developer friendly offering&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Setting the product vision. You will set the business goals and you will work with the team to make sure you meet the goals.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working very closely with our Security teams and make sure our security depth is exposed in our product in a way that helps developers to write secure code</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Engaging with customers and prospects to get their feedback, discuss their challenges and gain a full understanding of their needs.</span></li>

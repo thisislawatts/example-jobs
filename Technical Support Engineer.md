@@ -3,7 +3,7 @@ Technical Support Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We're looking for an experienced technical support engineer with a proactive and curious approach to problem-solving to join our Customer Success &amp; Support team, helping us to provide prompt and delightful technical support to the developers who use Snyk. This role will be supporting our West Coast US customers. </span></p>
+<p><span style="font-weight: 400;">We're looking for an experienced technical support engineer with a proactive and curious approach to problem-solving to join our Customer Success &amp; Support team, helping us to provide prompt and delightful technical support to the developers who use Snyk. This role will be supporting our West Coast US customers.&nbsp;</span></p>
 <p><strong>Snyk's mission is to help developers use open source code and stay secure.</strong><span style="font-weight: 400;"> The use of open source is booming, but </span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Our product enables developers and enterprise security to find &amp; fix vulnerable dependencies, without slowing down development. Snyk integrates seamlessly into developer workflows so that security becomes business as usual.</span></p>
 <p><span style="font-weight: 400;">Over 300,000 developers depend on Snyk to keep their software secure. We have many large organizations on board, including Disney, Google, New Relic, and ASOS, and we are growing rapidly.</span></p>
 <h2><strong>Your role</strong></h2>
