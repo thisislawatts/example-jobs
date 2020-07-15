@@ -3,7 +3,7 @@ Sales Director
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><strong>Role title: Sales Director, Commercial</strong></h3>
+<h3><strong>Role title: Sales Director, SMB</strong></h3>
 <p><span style="font-weight: 400;">Location: Tel Aviv</span></p>
 <h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the UK!</strong></h3>
 <h2><strong>Your role</strong></h2>
