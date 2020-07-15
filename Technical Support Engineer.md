@@ -7,7 +7,7 @@ Technical Support Engineer
 <p>Snyk's mission is to help developers use open source code and stay secure. The use of open source is booming, but security is a key concern. Our product enables developers and enterprise security to find &amp; fix vulnerable dependencies, without slowing down development. Snyk integrates seamlessly into developer workflows so that security becomes business as usual.&nbsp;</p>
 <p>Over 300,000 developers depend on Snyk to keep their software secure. We have many large organisations on board, including Disney, Google, New Relic and ASOS, and we are growing rapidly.&nbsp;</p>
 <p><strong>Your Role</strong></p>
-<p>As a Technical Support Engineer, you'll be the first line of defense against technical support issues that arrive via email, chat and GitHub issues. You will work closely with the current Technical Support Manager (based in Canada) and our talented core engineering team to drive solutions for our European customers. You will be working directly with active and prospective Snyk customers every day, building and maintaining their trust, whilst balancing the needs of enterprise and self-service customers alike.&nbsp;</p>
+<p>As a Technical Support Engineer, you'll be the first line of defence against technical support issues that arrive via email, chat and GitHub issues. <span style="font-weight: 400;">You will act as the Senior Technical Support representative for our European customers, working with our talented core engineering team to support and drive solutions for our European customers, whilst supporting the Technical Support manager to maintain standards during EMEA hours.</span> You will be working directly with active and prospective Snyk customers every day, building and maintaining their trust, whilst balancing the needs of enterprise and self-service customers alike.&nbsp;</p>
 <p>As a frontline engineer for our Technical Support team, you will also play a key role in building a solid relationship with our enterprise and large accounts through steady and helpful communications and guidance each and every day!&nbsp;</p>
 <p><strong>You'll Spend Your Time</strong></p>
 <ul>
@@ -32,6 +32,7 @@ Technical Support Engineer
 <p><strong>Interested?</strong></p>
 <p>Please apply! You can ask us questions about this role by emailing <a href="mailto:eric@snyk.io" target="_blank">eric@snyk.io</a></p>
 <p>We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role but are not totally sure whether you're the right person, please apply anyway!</p>
+<p><span style="font-weight: 400;">#LI-CY1</span></p>
 
 Interested?
 ---
