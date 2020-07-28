@@ -29,7 +29,7 @@ Sales Director
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $70 Million, </span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"><span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,&nbsp; from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
-<h6><em>#LI-AP1</em></h6>
+<h6><em>#LI-CY1</em></h6>
 
 Interested?
 ---
