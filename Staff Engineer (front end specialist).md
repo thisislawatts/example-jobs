@@ -3,7 +3,6 @@ Staff Engineer (front end specialist)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong><u>Currently, this role is on hold.&nbsp; We’re expecting to be hiring for this role later this year, so if you’re interested in being contacted when we start the hiring process, please apply for the position and we’ll be in touch as soon as we can.</u></strong></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced front end specialist to join our engineering team to build a first-class front end stack, and to collaborate with our engineers in order to improve their skills and to ensure the quality and capabilities of our front end are high. You will help us to create a modern, performant and usable website.</span></p>
 <p><span style="font-weight: 400;">Snyk prides itself on being a developer's first product for our customers. We also want to have internal tooling that is ridiculously easy to work with and enables our feature teams to build the best experiences quickly and effectively.</span></p>
 <p><span style="font-weight: 400;">The front end team collaborates with our feature teams, enabling them to release valuable features and functionality. We aim to:</span></p>
