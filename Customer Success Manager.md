@@ -32,6 +32,8 @@ Customer Success Manager
 <p><strong>Interested?</strong></p>
 <p>Please apply below! We're a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes. We care deeply about the warm, inclusive environment we've created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you're the right person, do apply anyway!</p>
 <p>We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We've made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others' perspectives.&nbsp;</p>
+<p>&nbsp;</p>
+<p>#LI-CY1</p>
 
 Interested?
 ---
