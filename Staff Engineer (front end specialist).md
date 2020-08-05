@@ -46,7 +46,7 @@ Staff Engineer (front end specialist)
 <p>We are distributed across four offices in London, Tel Aviv, Boston, and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</p>
 <p>At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,00 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million,&nbsp;<a href="https://snyk.io/blog/snyk-closes-150m/">announced January 21, 2020</a>. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</p>
 <p>We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p>#LI-FS1</p>
+<p>#LI-NS1</p>
 
 Interested?
 ---
