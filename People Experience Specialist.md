@@ -38,7 +38,7 @@ People Experience Specialist
 </ul>
 <p><strong>Interested?</strong></p>
 <p>Please apply below! Snyk offers competitive compensation. We care deeply about the warm, inclusive environment we've created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you're the right person, do apply anyway!</p>
-<p>This job will be open to applicants until 1st September.</p>
+<p>This job will be open to applicants until 2nd September.</p>
 
 Interested?
 ---
