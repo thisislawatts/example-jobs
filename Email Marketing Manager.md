@@ -23,6 +23,7 @@ Email Marketing Manager
 <p><strong>You Should Apply if You:&nbsp;</strong></p>
 <ul>
 <li>Have proven experience with privacy and GDPR compliance best practices.</li>
+<li>Have experience with HubSpot, Marketo and HTML.</li>
 <li>Have experience with email deliverability optimisation.</li>
 <li>Are very organised and experienced in campaign planning.</li>
 <li>Have a data-driven mindset and experience with analysing campaign results to provide business recommendations.</li>
