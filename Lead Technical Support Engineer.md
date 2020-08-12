@@ -34,7 +34,7 @@ Lead Technical Support Engineer
 <p><strong>Interested?</strong></p>
 <p>Please apply! You can ask us questions about this role by emailing <a href="mailto:eric@snyk.io" target="_blank">eric@snyk.io</a></p>
 <p>We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role but are not totally sure whether you're the right person, please apply anyway!</p>
-<p><span style="font-weight: 400;">#LI-CY1</span></p>
+<p><span style="font-weight: 400;">#LI-NS1</span></p>
 
 Interested?
 ---
