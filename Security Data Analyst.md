@@ -35,7 +35,7 @@ Security Data Analyst
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience PoCing vulnerabilities and dealing with vulnerability disclosures</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have worked closely with Data Scientists in the past and have experience working with ML</span></li>
 </ul>
-<p><span style="font-weight: 400;">*Wants to learn more why do organisations trust Snyk - <a href="https://snyk.io/blog/why-snyk-wins-open-source-security-battle/" target="_blank">read the following blog .</a></span></p>
+<p><span style="font-weight: 400;">*Want to learn more about this role and the team-- <a href="https://snyk.io/blog/why-snyk-wins-open-source-security-battle/" target="_blank">read the following blog .</a></span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p>&nbsp;</p>
