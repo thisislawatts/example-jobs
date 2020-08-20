@@ -4,6 +4,7 @@ Senior Partner Marketing Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h2><strong>Senior Partner Marketing Manager&nbsp;</strong></h2>
+<p style="text-align: center;"><em><span style="font-weight: 400;">Due to COVID-19 and to protect our candidates' and interviewers' health and wellbeing, we will be conducting all Snyk interviews globally virtually via Zoom for the foreseeable future</span></em></p>
 <p><span style="font-weight: 400;">Location: Boston or Remote&nbsp;</span></p>
 <p><span style="font-weight: 400;">We're looking for a hands-on Partner Marketing manager to execute marketing activities with strategic business, technology, and global system integrators.&nbsp;</span></p>
 <p><strong>Your role:</strong></p>
