@@ -16,7 +16,7 @@ Internal Communications Lead
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have delivered internal communications in a fast-paced, high-growth business which uses Slack, rather than email.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 4+ years experience of delivering internal communications, some of which has been spent in a fast-paced, high-growth business which uses Slack, rather than email.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience of planning communications globally with input from multiple stakeholders</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong copywriting and content creation skills which you’ve used to communicate to a largely technical audience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience of designing high-impact virtual and in-person events, big and small</span></li>
