@@ -3,7 +3,7 @@ Senior Software Engineer, Ecosystems
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We are looking for a collaborative, experienced software engineer to join our ecosystems team and help us help developers write secure software!</span></p>
+<p><span style="font-weight: 400;">We are looking for a collaborative, experienced senior software engineer to join our ecosystems team and help us help developers write secure software!</span></p>
 <p><span style="font-weight: 400;">In our ecosystems team we introduce and improve support for dev tools, languages, build systems, package managers, source code management and more. This means tackling challenges such as taming the complexity in developer ecosystems, providing a reliable and fast service at scale, and optimising the algorithms behind dependency resolution.</span></p>
 <p><span style="font-weight: 400;">You’ll join a team that owns the future product direction, development, and operational reliability of parts of our service. You’ll coding across the stack, mostly with TypeScript and JavaScript.&nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
@@ -19,8 +19,7 @@ Senior Software Engineer, Ecosystems
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and happy to work with TypeScript/JavaScript</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have significant experience building production software using: c++, jvm or .net based language, Python</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and are experienced working with TypeScript/JavaScript</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understand the importance of testing and code quality</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">prioritise collaboration, pair programming, and code review</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">work sustainably, quickly and iteratively—through high quality code and continuous delivery</span></li>
@@ -46,12 +45,12 @@ Senior Software Engineer, Ecosystems
 <p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,00 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-FS1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4650652002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4839545002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
