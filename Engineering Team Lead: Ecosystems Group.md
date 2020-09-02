@@ -3,11 +3,13 @@ Engineering Team Lead: Ecosystems Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>Engineering Team Lead: Ecosystems Group</strong></p>
+<p><strong>Location: London, Tel Aviv</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, collaborative, and goal-oriented team leader to lead one of our ecosystem group teams. These teams improve our support for languages, build tools, package managers, source code management and more.</span></p>
 <p><span style="font-weight: 400;">You know how to get a team collaborating to achieve goals, by making sure everyone is clear on the mission, while also having the freedom and space to figure out how to achieve them.</span></p>
 <p><span style="font-weight: 400;">You'll grow and retain an effective, impactful team that evolves its own processes and practices. Helping your team members develop and practise their skills. Finding them the right opportunities to step up, as well as hands on support with pairing and mentoring.</span></p>
 <p><span style="font-weight: 400;">Your team will be split across London and Tel Aviv. You will own the future product direction, development, and operational reliability of parts of our platform.&nbsp;</span></p>
-<h3><strong>You’ll spend your time:</strong></h3>
+<h3><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">coding for up to half of your time</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">providing team members with regular feedback, coaching, and mentoring</span></li>
@@ -51,12 +53,6 @@ Engineering Team Lead: Ecosystems Group
 <p><span style="font-weight: 400;">While we are looking for candidates with existing experience with our tech stack we believe curiosity, communication, and the ability to learn are most important.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we have teams across multiple offices, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
 

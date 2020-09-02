@@ -3,6 +3,8 @@ Engineering Team Lead: Cloud Native
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>Engineering Team Lead: Cloud Native</strong></p>
+<p><strong>Location: Remote</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, collaborative team leader to lead one of our cloud-native group teams. These teams build and maintain products that enable developers to test, fix, and monitor open source vulnerabilities in their </span><a href="https://snyk.io/blog/putting-container-security-in-the-hands-of-developers/"><span style="font-weight: 400;">container images</span></a><span style="font-weight: 400;"> and </span><a href="https://snyk.io/blog/checking-helm-charts-for-security-misconfigurations/"><span style="font-weight: 400;">infrastructure-as-code</span></a><span style="font-weight: 400;"> components. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud providers.</span></p>
 <p><span style="font-weight: 400;">Managing a geographically distributed team between London and Tel Aviv, you’ll know how to encourage strong collaboration, communicate the mission of the team clearly, and guide team members on how to achieve their goals through pairing and mentoring.</span></p>
 <p><span style="font-weight: 400;">You will own the future product technical direction, development, and operational reliability of parts of our platform, and grow and retain an effective, data-driven, impactful team that evolves its own processes and practices.&nbsp;</span></p>
@@ -47,12 +49,6 @@ Engineering Team Lead: Cloud Native
 <p><span style="font-weight: 400;">Our current stack consists of NodeJS, JavaScript, Go, Vue.js, TypeScript, jQuery, Express, Postgresql, SQL, Sass, BEM, CSS, Google Cloud, BigQuery, Docker, Fractal, Kibana, Elasticsearch, Kubernetes.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps, and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS, and others). We also raised an additional $150 Million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21st, 2020</span></a><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
-<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-FS1</span></p>
 
 Interested?
