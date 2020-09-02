@@ -31,8 +31,14 @@ Lead Technical Support Engineer
 <li>You're interested in security or open source software, and you believe in our mission.&nbsp;</li>
 </ul>
 <p><strong>Interested?</strong></p>
-<p>Please apply! You can ask us questions about this role by emailing <a href="mailto:eric@snyk.io" target="_blank">eric@snyk.io</a></p>
+<p>Please apply below!</p>
 <p>We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role but are not totally sure whether you're the right person, please apply anyway!</p>
+<p><strong>About Snyk</strong></p>
+<p>Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</p>
+<p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps, and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</p>
+<p>We are experiencing rapid growth - and we want you to join us! By the end of Q3 2020 alone, Snyk was already adopted by over 600,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS, and others). We also raised an additional $150 Million, <a href="https://snyk.io/blog/snyk-closes-150m/">announced January 21st, 2020</a>, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential.</p>
+<p>We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-NS1</span></p>
 
 Interested?
