@@ -35,7 +35,7 @@ Director, EMEA Channel Marketing
 <h3><strong>About Snyk:</strong></h3>
 <p><span style="font-weight: 400;">Snyk is a developer-first security company that helps software-driven businesses&nbsp;</span></p>
 <p><span style="font-weight: 400;">develop fast and stay secure. Snyk is the only solution that seamlessly and proactively finds and fixes vulnerabilities and license violations in open source dependencies and container images. Snyk’s solution is built on a comprehensive, proprietary vulnerability database, maintained by an expert security research team in Israel and London. With tight integration into existing developer workflows, source control (including GitHub, Bitbucket, GitLab), and CI/CD pipelines, Snyk enables efficient security workflows and reduces mean-time-to-fix. For more information or to get started with Snyk for free today, visit </span><a href="https://snyk.io"><span style="font-weight: 400;">https://snyk.io</span></a><span style="font-weight: 400;">.&nbsp;</span></p>
-<h3><br><br></h3>
+<p><span style="font-weight: 400;">#LI-ES1</span></p>
 
 Interested?
 ---
