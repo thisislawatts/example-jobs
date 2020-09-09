@@ -3,11 +3,12 @@ Senior People Experience Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly strategic and driven by a good Senior People Experience Specialist to join our People team to oversee the Snyk Boston and New York offices and set the tone of our local culture through a focus on workplace, communications, and inclusion. You will be a key partner for our US leaders during this exciting time of growth.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly strategic and motivated Senior People Experience Specialist to join our People team to oversee the Snyk Boston and New York offices and set the tone of our local culture through a focus on workplace, communications, and inclusion. You will be a key partner for our US leaders during this exciting time of growth.</span></p>
 <p><span style="font-weight: 400;">The People Experience team’s mission is to create experiences that tangibly connect our employees to the Snyk values. Essentially, we make Snyk the best place to work. This year we’ve refreshed the New Hire Experience, celebrated our first International Women’s Day, and are opening 2 new offices. We’re looking for someone who knows how to skillfully manage several projects, and has a strong commitment to excellence.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You’ll spend your time:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Leading an office of 100+ fantastic human beings and building innovative experiences in the workplace that solve for our business needs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building out a 30k+ sqft office that reflects our business needs and fun culture</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Designing an inclusive and engaging culture that promotes diversity and an empowerment to be one’s authentic self</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Managing the local team to provide a safe, user-friendly, and well-maintained workplace</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Owning local vendor relationships and negotiations that support our needs and values</span></li>
@@ -17,6 +18,7 @@ Senior People Experience Specialist
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have proven progressive experience in People Experience, People ops, Administration/Office Management or a related field.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are flexible and stimulated by solving problems in an evolving environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with architects and construction teams to design and create intuitive, safe, and engaging work spaces</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have the ability to build effective working relationships at all levels of the organization, with experience at executive level</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Put people first, with a commitment to managing expectations and transparency</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy puns, gifs, and getting people engaged!</span></li>
