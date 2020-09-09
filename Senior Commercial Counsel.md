@@ -17,7 +17,7 @@ Senior Commercial Counsel
 </ul>
 <p><strong>You Should Apply If:&nbsp;</strong></p>
 <ul>
-<li>You have a minimum of four years of experience, of which a minimum of two years has been spent in-house at a high-growth tech company.&nbsp;</li>
+<li>You have a minimum of eight years of experience, of which a minimum of two years has been spent in-house at a high-growth tech company.&nbsp;</li>
 <li>You have experience in drafting and advising clients on technology-related commercial agreements, including software licensing, strategic partnerships and reseller arrangements.&nbsp;</li>
 <li>You are able to juggle multiple priorities and tasks whilst remaining cheerful and resilient.&nbsp;</li>
 <li>You enjoy communicating complex ideas in simple language to non-lawyers.</li>
@@ -31,12 +31,11 @@ Senior Commercial Counsel
 <li>You have a background in software engineering.&nbsp;</li>
 </ul>
 <p><strong>About Snyk</strong></p>
-<p>Snyk's mission is to help developers use open source code and stay secure.&nbsp;</p>
-<p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/" target="_blank">https://snyk.io/stateofossecurity/</a>). Snyk's unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</p>
-<p>We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $150 million, announced January 2020, from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk's progress and potential.&nbsp;</p>
-<p>We believe open source software is a force for good, and we're building Snyk to make it easier for developers who aren't security experts to stay secure.&nbsp;</p>
+<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We just raised an additional $200m in our Series D round of fundraising, bringing our total investment to $450m and a valuation of $2.6bn. (</span><a href="https://techcrunch.com/2020/09/09/snyk-bags-another-200m-at-2-6b-valuation-9-months-after-last-raise/"><span style="font-weight: 400;">https://techcrunch.com/2020/09/09/snyk-bags-another-200m-at-2-6b-valuation-9-months-after-last-raise/</span></a><span style="font-weight: 400;">)</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech and law.&nbsp; If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
 <p><span style="font-weight: 400;">#LI-CY1</span></p>
 
 Interested?
