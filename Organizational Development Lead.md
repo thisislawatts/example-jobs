@@ -5,7 +5,6 @@ Organizational Development Lead
 
 <p><span style="font-weight: 400;">We’re looking for a forward-thinking, collaborative Organizational Development Lead to join our People Enablement team to help us mature our organization. You’ll partner with our Executive Team and other senior leaders, ensuring we have the right capabilities, governance and structure as we rapidly grow our business.</span></p>
 <p><span style="font-weight: 400;">The People Enablement team is a new team which focuses on three areas: organizational development, communications and learning &amp; development. This year the team has piloted manager development programs, defined our communication etiquette in Slack, and begun building an organization-wide induction program. You’ll have an understanding of how to mature a high-growth business from the inside, and use that insight to deliver change.</span></p>
-<p>&nbsp;</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with our Executive Team on Snyk’s OD agenda, and end-to-end implementation of that strategy</span></li>

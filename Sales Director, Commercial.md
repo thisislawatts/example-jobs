@@ -3,13 +3,14 @@ Sales Director, Commercial
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Location: US Remote (West Coast ideally)&nbsp;</span></p>
-<h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the US!</strong></h3>
-<h2><strong>Your role</strong></h2>
+<p><strong>Role: Sales Director, Commercial</strong></p>
+<p><strong>Location: US Remote (West Coast)</strong></p>
+<h4><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the US!</strong></h4>
+<p><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></p>
 <p><span style="font-weight: 400;">As part of the US sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.&nbsp; As a Sales Director at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
 <p><span style="font-weight: 400;">You will have the opportunity to contribute to the iterative improvement of our sales process, tone and approach, and you’ll have plenty of scope to inform the way we develop our internal tooling to help you work efficiently and effectively.</span></p>
 <p><span style="font-weight: 400;">We’re a collaborative team from a variety of backgrounds, made up of sales executives and technical sales engineers.&nbsp; We spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team to maximize performance and earning potential..&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<h2><strong>You should join us if:</strong></h2>
+<p><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience selling a technical product, and you want to join a startup on its way to success</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>

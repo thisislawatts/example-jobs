@@ -4,8 +4,7 @@ Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Customer Success Manager</strong></p>
-<p><strong>Location: Remote</strong></p>
-<p>&nbsp;</p>
+<p><strong>Location: UK (Remote)</strong></p>
 <p><span style="font-weight: 400;">We're looking for an organised and personable Customer Success Manager to help delight our customers by optimising their onboarding experience and driving adoption while helping them to accomplish their goals.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You will be responsible for helping our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
