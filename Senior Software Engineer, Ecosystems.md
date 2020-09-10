@@ -5,7 +5,7 @@ Senior Software Engineer, Ecosystems
 
 <p><span style="font-weight: 400;">We are looking for a collaborative, experienced senior software engineer to join our ecosystems team and help us help developers write secure software!</span></p>
 <p><span style="font-weight: 400;">In our ecosystems team we introduce and improve support for dev tools, languages, build systems, package managers, source code management and more. This means tackling challenges such as taming the complexity in developer ecosystems, providing a reliable and fast service at scale, and optimising the algorithms behind dependency resolution.</span></p>
-<p><span style="font-weight: 400;">You’ll join a team that owns the future product direction, development, and operational reliability of parts of our service. You’ll coding across the stack, mostly with TypeScript and JavaScript.&nbsp;</span></p>
+<p><span style="font-weight: 400;">You’ll join a team that owns the future product direction, development, and operational reliability of parts of our service. You’ll be coding across the stack, mostly with TypeScript and JavaScript.&nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">coding and pair programming, building the services that power Snyk</span></li>
