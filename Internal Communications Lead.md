@@ -5,7 +5,6 @@ Internal Communications Lead
 
 <p><span style="font-weight: 400;">We’re looking for a creative, organised Communications Lead to join our People Enablement team to help get the right information to the right people at the right time. You’ll partner with senior leaders across the business to find the most compelling ways to communicate with our people.</span></p>
 <p><span style="font-weight: 400;">The People Enablement team is a new team which focuses on three areas: organizational development, communications and learning &amp; development. This year the team has piloted manager development programmes, defined our communication etiquette in Slack, and begun building an organization-wide induction programme. You’ll know how to establish an internal communications presence, and use that to unify and enable our people with information.</span></p>
-<p><br><br></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Designing and implementing Snyk’s communication strategy</span></li>
