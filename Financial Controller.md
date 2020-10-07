@@ -6,7 +6,6 @@ Financial Controller
 <h3><strong>We’re looking for a proactive, super-organized newly qualified Financial Controller to take charge of our accounting and assist our Group Finance Director.</strong></h3>
 <p><strong>Our mission is to help software developers to use open-source code and stay secure.</strong><span style="font-weight: 400;"> The use of open source is booming, but security is a key concern. We enable developers to find and fix vulnerabilities as part of their development workflow, and we help security and governance teams understand their status, and drive improvement.</span></p>
 <p><span style="font-weight: 400;">Over 160,000 developers depend on Snyk to find and fix their vulnerable dependencies. We have a series of top-brand customers on board including Google, Skyscanner, Microsoft, Asos and more. Gartner named us a Cool Vendor in May 2018, and we recently raised Series D ($200m) from investors such as Accel, GV, Additions and Stripes..</span><span style="font-weight: 400;">.</span></p>
-<h3>&nbsp;</h3>
 <h3><strong>Your role:</strong></h3>
 <h3><span style="font-weight: 400;">You’ll take full responsibility for reviewing our invoice set up process, issuing payments and related operational finance tasks. Wherever we can, we try to automate repetitive processes </span><span style="font-weight: 400;">and use tools that enable us to maximiz e the value we create with the work we do.</span></h3>
 <h3><span style="font-weight: 400;">Among other things, you’ll spend your time:</span></h3>
@@ -37,12 +36,14 @@ Financial Controller
 <li style="font-weight: 400;"><span style="font-weight: 400;">you see finance as a tool to enable business</span></li>
 </ul>
 <p><span style="font-weight: 400;">We use Netsuite for accounting and Billing/CPQ from SFDC for billing, so familiarity with these is a bonus, but we’re happy to help you get up to speed if not :)</span></p>
-<p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
+<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
+<p class="p1"><span class="s1">Snyk’s mission is to help developers use open source code and stay secure. The use of open source is booming, but <a href="https://snyk.io/blog/devsecops-insights-2020/"><span class="s2">security is a key concern</span></a>. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</span></p>
+<p class="p1"><span class="s1">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.&nbsp;</span></p>
+<p class="p1"><span class="s1">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,00 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, <a href="https://snyk.io/blog/snyk-closes-150m/"><span class="s2">announced January 21, 2020</span></a>. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
+<p class="p1"><span class="s1">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p><br><br></p>
 
 Interested?
