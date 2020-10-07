@@ -29,8 +29,9 @@ Customer Success Manager
 <li style="font-weight: 400;"><span style="font-weight: 400;">you're interested in open source and security, cloud, and containers.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you're excited about what we do and want to help our customers gain more value from Snyk.</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
+<p>The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
+<p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>&nbsp;</p>
 <p>#LI-CY1</p>
 
