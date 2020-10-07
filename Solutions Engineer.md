@@ -16,7 +16,6 @@ Solutions Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">working closely with channel partners to increase their proficiency in selling and supporting the Snyk solution through their sales process and beyond.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">work with channel partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <h4><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></h4>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have spent 3 years or similar in the sales engineering, developer or security space</span></li>

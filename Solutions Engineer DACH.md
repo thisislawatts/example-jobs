@@ -15,7 +15,6 @@ Solutions Engineer DACH
 <li>Working closely with channel partners to increase their proficiency in selling and supporting the Snyk solution through their sales process and beyond.</li>
 <li>Work with channel partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations.</li>
 </ul>
-<p>We are distributed across four primary offices in London, Tel Aviv, Boston and Ottawa, whilst expanding into many new regions. We've made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others' perspectives. As well as an always-on webcam so we can see what's happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</p>
 <p><strong>You Should Apply If:&nbsp;</strong></p>
 <ul>
 <li>You have proven commercial experience in the Sales Engineering, Developer or Security space.</li>
@@ -25,13 +24,13 @@ Solutions Engineer DACH
 <li>You over communicate, create alignment, rally resources and satisfy stakeholders.</li>
 <li>You love to teach and coaching is a habit.</li>
 </ul>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech and law.&nbsp; If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
 <p>Snyk’s mission is to help developers use open source code and stay secure.</p>
 <p>The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
 <p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech and law.&nbsp; If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-CY1</span></p>
 
 Interested?

@@ -21,13 +21,13 @@ Sales Director (Account Executive), Commercial
 <li>are open, honest and take an entrepreneurial approach to sales, mindful of your customer's risk tolerance.&nbsp;</li>
 <li>have experience working in a fully remote position.&nbsp;</li>
 </ul>
-<p>We are distributed across four offices in Boston, London, Tel Aviv and Ottawa, with 15% of the company working fully-remote. We've made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others' perspectives. As well as an always-on webcam so we can see what's happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.&nbsp;</p>
 <p><strong>Interested?&nbsp;</strong></p>
 <p>Please apply below! We care deeply about the warm, inclusive environment we've created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you're the right person, do apply anyway :)&nbsp;</p>
-<p><strong>About Snyk</strong></p>
-<p>Snyk's mission is to help companies develop fast and stay secure.&nbsp;</p>
-<p>Digital transformation has driven companies in all industries to develop faster and adopt modern DevOps processes, modern cloud-native application structure, and an increased dependency on the software supply chain. Traditional application security tools have not been able to keep up. (<a href="https://snyk.io/stateofsecurity/" target="_blank">https://snyk.io/stateofsecurity/</a>). Snyk's unique developer-first approach to cloud native application security enables developers and enterprise security teams to build software securely throughout the software development lifecycle. We care deeply about the quality and usefulness of the tools we develop, and always focus on our customers and users.&nbsp;</p>
-<p>We are experiencing rapid growth - and we want you to join us! By the end of 2019, Snyk had adopted more than 450,000 developers, over 500 customers (such as Google, New Relic, ASOS, Intuit and others). We've also raised an additional $150 million, announced in January 2020, to enable us to execute on our mission.&nbsp;</p>
+<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
+<p class="p1">Snyk’s mission is to help developers use open source code and stay secure.The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>).</p>
+<p class="p1">Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
+<p class="p1">By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
+<p class="p1">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>#LI-ES1</p>
 
 Interested?

@@ -12,29 +12,28 @@ Sales Director, Commercial
 <p><span style="font-weight: 400;">We’re a collaborative team from a variety of backgrounds, made up of sales executives and technical sales engineers.&nbsp; We spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team to maximize performance and earning potential..&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <p><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience selling a technical product, and you want to join a startup on its way to success</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience of both short and long sales cycles</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative and love belonging to a high-achieving sales team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a fully remote position</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience selling a technical product, and you want to join a startup on its way to success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience of both short and long sales cycles</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are collaborative and love belonging to a high-achieving sales team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience working in a fully remote position</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in Boston, London, Tel Aviv and Ottawa, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $150 Million, </span><span style="font-weight: 400;">announced January, 2020</span><span style="font-weight: 400;">,&nbsp; from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
+<p class="p1">Snyk’s mission is to help developers use open source code and stay secure.The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>).</p>
+<p class="p1">Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
+<p class="p1">By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
+<p class="p1">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p><span style="font-weight: 400;">#LI-ES1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4663075002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4841568002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
