@@ -20,7 +20,7 @@ Financial Controller
 <li style="font-weight: 400;"><span style="font-weight: 400;">improving the processes that we use so that they’re frictionless, effective and precise</span></li>
 </ul>
 <p><span style="font-weight: 400;">You’ll work closely with our Group Finance Director, who’s based in London, and you’ll have opportunities to develop your finance skills as well as gaining insight into how the finance function works in a high-growth multi-subsidiary global SaaS business.</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.&nbsp;</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a professional accounting qualification (CPA or equivalent) and a solid understanding of financial reporting standards</span></li>

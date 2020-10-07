@@ -20,7 +20,7 @@ Director of Product Management, Product-led Growth
 <li style="font-weight: 400;"><span style="font-weight: 400;">Leading key partnership activities, in collaboration with Business Development, that aim at significantly growing Snyk’s user base&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working closely with Marketing, Developer Relations and Customer Success teams to efficiently drive growth activities.</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.&nbsp;</span></p>
 <h3><strong>You should apply if you</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have significant, proven experience as a successful product management leader in some or all of B2B SaaS, developer tooling or B2C technical products.</span></li>

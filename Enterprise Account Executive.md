@@ -20,7 +20,7 @@ Enterprise Account Executive
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
