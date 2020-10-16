@@ -19,7 +19,7 @@ Senior Software Engineer, Ecosystems
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and are experienced working with TypeScript/JavaScript</span></li>
+<li style="font-weight: 400;">are a capable coder, and are experienced working with TypeScript/JavaScript and Node.js</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understand the importance of testing and code quality</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">prioritise collaboration, pair programming, and code review</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">work sustainably, quickly and iteratively—through high quality code and continuous delivery</span></li>
@@ -29,7 +29,6 @@ Senior Software Engineer, Ecosystems
 </ul>
 <h3><strong>We’d especially love to hear from you if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked on large scale projects using c/c++</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understand software dependency management in depth</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience contributing to open-source project</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with test driven development</span></li>
