@@ -8,7 +8,6 @@ Experienced Software Engineer- Security Group
 <p><span style="font-weight: 400;">Here at Snyk, you’ll help us expand the reach of our vulnerability pipeline, and contribute to the building of our critical infrastructure that supports our analyst team to verify and publish all the vulnerabilities you find.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of experience in developing high performance and scaled environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Implementing algorithms into our data-intensive pipeline system</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">modelling the data in our database and displaying it in our management system</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">engineering systems to scale (this is an ongoing effort, as the scale is constantly increasing)</span></li>
@@ -19,6 +18,7 @@ Experienced Software Engineer- Security Group
 <p>&nbsp;</p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
+<li><span style="font-weight: 400;">3+ years of experience in developing high performance and scaled environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Interested in data and using Python and JS (Typescript) for coding</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have recreated large scraping frameworks from design to implementation</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience building infrastructure for large scale databases</span></li>
