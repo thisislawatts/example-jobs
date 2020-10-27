@@ -12,6 +12,7 @@ DACH Channel Account Manager (German Speaking)
 <p><span style="font-weight: 400;">Among other things, <strong>you’ll spend your time:</strong></span></p>
 <ul>
 <li><span style="font-weight: 400;">Recruiting new channel partners.</span></li>
+<li><span style="font-weight: 400;">Executing with partners in collaboration with our Sales team to get deals and revenue.</span></li>
 <li><span style="font-weight: 400;">Enabling channel partners and building pipelines.</span></li>
 <li><span style="font-weight: 400;">Working closely with the channel team to execute an overall EMEA plan.</span></li>
 <li><span style="font-weight: 400;">Executing with partners in collaboration with our Sales team to get deals and revenue.</span></li>
@@ -20,12 +21,11 @@ DACH Channel Account Manager (German Speaking)
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have direct experience in channel development and scaling, specifically in the software security space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are ready to get stuck into the weeds and be the first on the ground in the region here</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have background in software security, open source, DevOps, cloud or dev tooling space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in building out channels at scale utilising Distribution</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love to build meaningful relationships and find mutually beneficial opportunities</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand how large and small channel partners work, and how as a startup we can best partner with them</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are process-oriented&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are open, honest, outcome-driven and take an entrepreneurial approach</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are adaptable and take an entrepreneurial approach</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are excited about the opportunity to build an effective, impactful channel programme!</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have fluent German language skills.</span></li>
 </ul>
