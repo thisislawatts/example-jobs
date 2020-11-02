@@ -17,6 +17,7 @@ Software Engineer, Cloud Native
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 3+ years of work experience in software engineering</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">know how containers work internally and have significant experience with containers in production</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">know and have deployed/used/managed large-scale Kubernetes clusters in production</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have designed, built, deployed, and hosted microservices on a major cloud-provider&nbsp;</span></li>
