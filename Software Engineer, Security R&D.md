@@ -38,7 +38,7 @@ Software Engineer, Security R&D
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others).</span></p>
 <p><span style="font-weight: 400;">Our September 2020 Series D funding round of $200M has put us at over $2.6 billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LFS1</span></p>
+<p><span style="font-weight: 400;">#LI-FS1</span></p>
 
 Interested?
 ---
