@@ -15,7 +15,7 @@ Software Engineer, Security R&D
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 3+ years of experience working in software engineering</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years of experience working in software engineering</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and have occupational experience working with TypeScript/JavaScript and Node.js</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable working across the stack as part of a cross-functional team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked in FE frameworks (vue, react, etc), and love to craft beautiful websites that help to engage users and convert them into loyal customers</span></li>
