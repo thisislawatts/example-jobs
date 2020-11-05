@@ -3,7 +3,7 @@ Solutions Engineering Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p>We're looking for a people-focused Solutions Engineering Manager to front our team of very talented Solutions Engineers who enable the adoption of Snyk into new organisations and helping to focus what Snyk has to offer.</p>
+<p>We're looking for a people-focused Solutions Engineering Manager to front our team of very talented Solutions Engineers who enable the adoption of Snyk into new organisations and help focus what Snyk has to offer.</p>
 <p>Snyk's mission is to help developers and organisations use open source code and stay secure. We believe that open source is a force for good, but security is a key concern. Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</p>
 <p>Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focused on scaling our business to keep up with demand!</p>
 <p><strong>Your day to day will look like:&nbsp;</strong></p>
