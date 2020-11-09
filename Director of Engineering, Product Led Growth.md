@@ -3,8 +3,9 @@ Director of Engineering, Product Led Growth
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>*Please note we will not be conducting 1st interviews until after 20th November*</strong></p>
 <p><span style="font-weight: 400;">Snyk is used by over 1.5M developers, driven by its successful freemium motion; unique in the security industry. Growing this rapid adoption is critical to Snyk’s mission of driving developer first security, and a core pillar of Snyk’s business success.</span></p>
-<p><strong>We're looking for a Director of Engineering who can lead Snyk’s development efforts in developer acquisition, activation, and freemium conversion, driving the product-led growth of Snyk’s disruptive developer-first security platform.</strong></p>
+<p>We're looking for a Director of Engineering who can lead Snyk’s development efforts in developer acquisition, activation, and freemium conversion, driving the product-led growth of Snyk’s disruptive developer-first security platform.</p>
 <p><span style="font-weight: 400;">Reporting to the VP of Engineering, you will partner with the Director of Product for Product Led Growth, to own the top-level company vision and KPIs for our product-led growth, from accelerating viral growth of users signing up, to making them even more successful in finding and fixing their security issues, all the way to having them self-serve to become paying customers.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You’ll be building and leading an engineering group, focusing on mentoring and coaching engineering managers. You will also be working closely with a distributed team of product managers, designers and developers, as well as with our marketing, business development and customer success teams on driving joint efforts in order to reach the highest market impact.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
