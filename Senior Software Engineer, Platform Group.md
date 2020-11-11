@@ -3,7 +3,6 @@ Senior Software Engineer, Platform Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Please note we are not currently reviewing applications as this role is on hold until mid-November. However, if you would like to leave your application with us, we'll be happy to get back to you after this period.&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a supportive, proactive senior software engineer to join one of our core product teams to help our enterprise customers adopt open source and stay secure.</span></p>
 <p><span style="font-weight: 400;">The teams on the Enterprise Group aim to solve challenges encountered by the CISO of a large enterprise, namely:</span></p>
 <ul>
