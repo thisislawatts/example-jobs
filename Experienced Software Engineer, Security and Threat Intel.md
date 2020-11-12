@@ -29,7 +29,6 @@ Experienced Software Engineer, Security and Threat Intel
 <li style="font-weight: 400;"><span style="font-weight: 400;">Really enjoy solving problems, and love learning new things</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Interested in security or open source software, and you believe in our mission</span></li>
 </ul>
-<p><br><br></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
@@ -39,8 +38,7 @@ Experienced Software Engineer, Security and Threat Intel
 <p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q 2020 alone, Snyk had already over 600,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $200 million,</span><a href="https://snyk.io/blog/snyk-closes-200m-to-modernize-security-industry/"> <span style="font-weight: 400;">announced Sep, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2021 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-NS1</span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">#LI-FS1</span></p>
 
 Interested?
 ---
