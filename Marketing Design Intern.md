@@ -5,7 +5,7 @@ Marketing Design Intern
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
 <p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
-<p><span style="font-weight: 400;">We’re looking for a self-motivated and detail-oriented Marketing Design Associate to join our growing Design team and help craft beautiful designs across all areas of marketing for Snyk.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a curious Marketing Design Associate to join our growing Design team and help craft beautiful designs across all areas of marketing for Snyk.</span></p>
 <p><span style="font-weight: 400;">You'll join our fast growing design team and participate in the creation of all company marketing materials, recruiting and sales support materials, brand creatives, ads, and exhibition stands.&nbsp;</span></p>
 <p><strong>You'll spend your time:</strong></p>
 <ul>
@@ -15,10 +15,9 @@ Marketing Design Intern
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong visual design skills with an eye for good typography, composition, and use of color.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have good knowledge of visual design skills with an eye for good typography, composition, and use of color.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a portfolio that demonstrates your design skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a passion for web and digital design</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to contribute to group brainstorms and bring innovative ideas to existing challenges</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">pay attention to detail, stay organized with multiple projects, and can manage a timeline</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">like to start new things, see them through to production, and learn from your mistakes.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy being part of a team that believes candid critique is critical to the design process.</span></li>
