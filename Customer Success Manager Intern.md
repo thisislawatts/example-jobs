@@ -10,11 +10,10 @@ Customer Success Manager Intern
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understanding each organization's technical setup and workflow, and help the CSM to plan a Snyk program that suits their needs.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring customers are getting the most out of the product and are adopting new features.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">gathering data and account history to analyze trends that support customer business reviews.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with our tech support team and product teams on customer updates.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">gathering usage patterns, feature requests, and feedback then sharing these with the product team.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working on special projects with the CS management and operations team.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">supporting the team to ensure customers are getting the most out of the product and are adopting new features.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">learning how to gather data and account history to analyze trends that support customer business reviews.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">supporting our tech support team and product teams on customer updates.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">learning how to gather usage patterns, feature requests, and feedback to share with the product team.&nbsp;</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
