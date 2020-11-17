@@ -5,13 +5,12 @@ Marketing Design Intern
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
 <p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
-<p><span style="font-weight: 400;">We’re looking for a curious Marketing Design Associate to join our growing Design team and help craft beautiful designs across all areas of marketing for Snyk.</span></p>
-<p><span style="font-weight: 400;">You'll join our fast growing design team and participate in the creation of all company marketing materials, recruiting and sales support materials, brand creatives, ads, and exhibition stands.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a curious Marketing Design Intern to join our growing Design team and learn how to craft beautiful designs across all areas of marketing for Snyk.</span></p>
 <p><strong>You'll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">helping to deliver high-quality creative assets for our desktop and mobile website.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You’ll get experience of web design and print.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Potential opportunity Creating ads, emails, and web pages.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">gaining experience of web design and print.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">gaining exposure in creating ads, emails, and web pages.</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
