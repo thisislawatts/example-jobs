@@ -5,6 +5,7 @@ Intern Software Engineer, Snyk Infrastructure-as-Code
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
 <p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. The Infrastructure as Code team helps developers find and fix security issues in Kubernetes and Terraform code, well before anything reaches production. Snyk’s developer-first approach meets developers where they work and provides fixes that can be directly merged into code.&nbsp;</span></p>
 <p><span style="font-weight: 400;">If you’re highly motivated by success, are looking to touch and learn all aspects of engineering, get to see how your project directly impacts Snyk and its users - this job will be for you! We’re looking for an analytical, creative, and driven person to join us.</span></p>
 <p><strong>What you’ll be doing:</strong></p>

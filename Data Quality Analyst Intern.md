@@ -4,7 +4,8 @@ Data Quality Analyst Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p><span style="font-weight: 400;">We’re looking for a self-starter Data Quality Intern to join our Marketing Operations team and ensure our Marketing data remain spotless to support all marketing campaigns and activities.</span></p>
 <p><span style="font-weight: 400;">The Marketing Operations team provide the technology, processes and insights to the Marketing team to allow efficient decision-making and support scalable growth through pipeline generation.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>

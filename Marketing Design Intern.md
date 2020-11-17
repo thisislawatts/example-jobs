@@ -4,7 +4,8 @@ Marketing Design Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p><span style="font-weight: 400;">We’re looking for a curious Marketing Design Intern to join our growing Design team and learn how to craft beautiful designs across all areas of marketing for Snyk.</span></p>
 <p><strong>You'll spend your time:</strong></p>
 <ul>

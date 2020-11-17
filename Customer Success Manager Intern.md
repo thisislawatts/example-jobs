@@ -4,7 +4,8 @@ Customer Success Manager Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p><span style="font-weight: 400;">We’re looking for a curious and personable Customer Success Associate-to-be to join our Customer Experience team and work to drive value for our customers.</span><strong><br></strong></p>
 <p><span style="font-weight: 400;">The Customer Success team helps our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll help build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.</span></p>
 <p><strong>You’ll spend your time:</strong></p>

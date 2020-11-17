@@ -4,7 +4,8 @@ Marketing Programs Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p>Snyk is in the exciting business of cybersecurity and this marketing team is at the core of its insanely fast growth. We are a team of 20+ (and growing!) marketers who like to get creative, collaborate with all other teams, be agile about our work, and have a lot of fun in the process. We love our work and are passionate about Snyk's mission. Our office is located at 100 Summer Street in the Boston Seaport area, but we are operating remote for now to keep everyone safe!</p>
 <p>If you're highly motivated by success, are looking to touch and learn all aspects of marketing, and would like to see how your every project directly impacts sales - this job will be for you! We're looking for an analytical, creative, and driven person to join us.</p>
 <p><strong>You’ll spend your time:</strong></p>

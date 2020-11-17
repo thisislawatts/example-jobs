@@ -4,16 +4,16 @@ Sales Apprentice Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
-<p><span style="font-weight: 400;">We’re looking for a motivated and entrepreneurial Sales Apprentice to join our Sales Development Representative (SDR) team where sales training is the focus, professional development is the obsession, and the pipeline generation activities are the driving force behind incremental revenue growth for our Sales organization.</span></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
+<p><span style="font-weight: 400;">We’re looking for an enthusiastic Sales Apprentice to join our Sales Development Representative (SDR) team where sales training is the focus, professional development is the obsession, and the pipeline generation activities are the driving force behind incremental revenue growth for our Sales organization.</span></p>
 <p><span style="font-weight: 400;">The Sales Development team is an integral member of our global go to market strategy - assisting with tactical account planning, new client prospecting and expanding our partnership with existing Snyk customers. This year, 50% of Snyk's record setting revenue started with opportunities sourced by the Sales Development team.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Liaising with the Sales Leadership and other go-to-market partners on strategies to acquire new customers and expand existing ones</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Participating in sales training sessions, team meetings, and professional development workshops</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Performing market research and prospecting for new sales opportunities</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Observing and carrying out sales processes and procedures</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Reviewing sales performance against sales targets and making recommendations for continued improvement</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">understanding how to conduct sales training sessions, team meetings, and professional development workshops</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">learning how to perform market research and prospecting for new sales opportunities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">learning sales processes and procedures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the team in reviewing sales performance against sales targets&nbsp;</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>

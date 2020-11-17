@@ -4,7 +4,8 @@ Intern Software Engineer, Snyk Container
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace. </strong></p>
+<p><strong>As part of Snyk’s commitment to diversity and inclusion, we are launching a 3 month (minimum) internship program aimed at supporting some of the most disproportionately impacted groups following Covid as they make the jump out of education and into the workplace.</strong></p>
+<p><strong>Applications close on 25th November 2020. </strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. Our Snyk Container teams build products that enable developers to test, fix, and monitor open source vulnerabilities in their container images. It can happen locally, on-premise, or in the cloud, where we integrate with the world’s most popular cloud providers.</span></p>
 <p><span style="font-weight: 400;">If you’re highly motivated by success, are looking to touch and learn all aspects of engineering, get to see how your every project directly impacts Snyk and its users - this job will be for you! We’re looking for an analytical, creative, and driven person to join us.</span></p>
 <p><strong>What you’ll be doing:</strong></p>
