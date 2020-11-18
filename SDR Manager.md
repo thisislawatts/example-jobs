@@ -32,6 +32,8 @@ SDR Manager
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
+<p>&nbsp;</p>
+<h6><span style="font-weight: 400;">#LI-EO1</span></h6>
 
 Interested?
 ---
