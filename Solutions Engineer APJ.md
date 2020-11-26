@@ -1,11 +1,11 @@
-Solutions Engineer
+Solutions Engineer APJ  
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Role: Sales Engineer</strong></p>
-<p><strong>Location: London &amp; Tel Aviv</strong></p>
-<p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</strong></p>
+<p><strong>Role: Sales Engineer APJ</strong></p>
+<p><strong>Location: Tel Aviv</strong></p>
+<p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer. This role will focus on our customers in APJ.&nbsp;</strong></p>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">becoming a technical product expert, evangelist and coach, able to give technical sales demonstrations to customer and partners in your sleep</span></li>
@@ -48,7 +48,7 @@ Solutions Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4214914002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4977773002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
