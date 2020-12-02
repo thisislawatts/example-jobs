@@ -3,8 +3,7 @@ Software Engineer, Cloud Native (experienced)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Please note this role is currently on hold until the end of </strong><strong>November. However, if you would like us to consider your application in the meantime, please do feel free to apply and we will get back to you in due course.&nbsp;</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a passionate and seasoned software engineer to join our Cloud-Native team to help us build </span><a href="https://snyk.io/product/container-vulnerability-management/"><span style="font-weight: 400;">Snyk Container</span></a><span style="font-weight: 400;">, our container vulnerability management solution.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate experienced software engineer to join our Cloud-Native team to help us build </span><a href="https://snyk.io/product/container-vulnerability-management/"><span style="font-weight: 400;">Snyk Container</span></a><span style="font-weight: 400;">, our container vulnerability management solution.</span></p>
 <p><span style="font-weight: 400;">In the cloud-native team we build products that enable developers to test, fix and monitor open source vulnerabilities in their container images. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud-providers.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
