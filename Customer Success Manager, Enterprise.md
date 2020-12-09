@@ -3,44 +3,40 @@ Customer Success Manager, Enterprise
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Customer Success Manager, Enterprise</strong></p>
-<p><strong>Location: London</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an organised, personable Customer Success Manager to help delight our Enterprise users by optimising their on-boarding experience, and help them to accomplish their goals.</span></p>
-<h2><strong>Your role</strong></h2>
-<p><span style="font-weight: 400;">You will join our Customer Success team, who is responsible for helping new organisations to use Snyk to build value for their company quickly and effectively. This includes taking them through the technical on-boarding journey, and helping them build value for their company through using Snyk.</span></p>
-<h3><strong>Being successful in this role involves:</strong></h3>
+<p><strong>Enterprise Customer Success Manager</strong></p>
+<p><strong>Location: Remote&nbsp;</strong></p>
+<p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Enterprise Customer Success Organization to help retain and grow Snyk’s largest and most strategic customers.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Enterprise Customer Success team works hand-in-hand with Development and Security leaders from Fortune 100 organizations to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
+<p><span style="font-weight: 400;">As an Enterprise CSM, you’ll spend your time:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with key technical stakeholders to agree on objectives and define a success plan</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understanding each organisation’s technical setup and workflow, and planning a rollout that suits their needs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">helping customers set up single sign-on (whatever type of identity provider they’re using), by editing config files, configuring auth0, pushing to their environment for testing and iterating.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring customers are getting the most out of the product and are adopting new features</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with the sales team to support successful customer renewals and account growth</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">providing quarterly customer business reviews to each customer to demonstrate the value they are getting from Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">gathering usage patterns, feature requests, and feedback then sharing these with the product team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building and fostering trusted relationships with leaders from our customers’ engineering and security organizations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Designing and executing&nbsp; customized onboarding programs helping customers achieve their security program goals through the use of Snyk’s suite of products</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mobilizing internal and external resources to remove barriers to adoption</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Advocating internally for the needs of your customers, working proactively with Sales, Product, Support and other teams to identify expansion opportunities and mitigate risks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Preparing and facilitating business review meetings, training sessions, product feedback/roadmap reviews, and other strategic customer interactions</span></li>
 </ul>
-<p><span style="font-weight: 400;">You’ll be the main point of contact for the organisations you support, so you will need to be proactive in how you communicate, and responsive to incoming requests. You will work with marketing on case studies, and product to understand our roadmap and ensure our customers’ needs are given due priority.</span></p>
-<p><span style="font-weight: 400;">We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<h2><strong>You should apply if:</strong></h2>
+<p><span style="font-weight: 400;">You should apply if you:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you ask incisive questions and are comfortable discussing complex requirements</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re extremely organised, good at prioritising and juggling multiple work streams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are pragmatic, realistic, and you build strong, respectful relationships across levels of seniority</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you have some experience in account management or customer success, ideally for a technical product</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are familiar with developer workflows and standard tooling e.g. GitHub, Jira.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re interested in open source and security</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re excited about what we do, and want to help our customers gain more value from Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 8-10 years of progressive experience in a customer-facing professional role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can demonstrate working knowledge of Developer or Application Security tools (e.g. GitHub, Jira, Jenkins, VScode)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience managing post-sales client relationships with Fortune 100 Enterprise companies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are an effective and influential communicator with a range of personas (from end user to C-level executive); you can facilitate challenging discussions and are adept at handling objections</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in a collaborative, fast-paced environment and as a part of a results oriented team</span></li>
 </ul>
-<h2><strong>Interested?</strong></h2>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h4><strong>Interested?</strong></h4>
+<p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
+<p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
-<p><strong>Our mission is to help organisations use open source software and stay secure.</strong><span style="font-weight: 400;"> Well over 300,000 developers have adopted Snyk as part of their workflow, and we have over 400,000 projects and over 1m patches, with a series of top brand customers on board (including Google, Skyscanner and Asos), and a large and ever-growing stream of incoming requests to buy Snyk Enterprise. We recently secured our series B funding round of $22m, bringing us to a total of $102m funding. </span></p>
-<p><span style="font-weight: 400;">We’re focused on enabling developers to find and fix open source vulnerabilities as they develop, and to help security and governance teams understand their status and drive improvement. Our product integrates seamlessly into typical development workflows, and the large organisations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
+<p><strong>Our mission is to help organizations use open source software and stay secure.</strong><span style="font-weight: 400;"> Well over 300,000 developers have adopted Snyk as part of their workflow, and we have over 400,000 projects and over 1m patches, with a series of top brand customers on board (including Google, Skyscanner and Asos), and a large and ever-growing stream of incoming requests to buy Snyk Enterprise. We recently secured our series B funding round of $22m, bringing us to a total of $102m funding.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re focused on enabling developers to find and fix open source vulnerabilities as they develop, and to help security and governance teams understand their status and drive improvement. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
+<p><span style="font-weight: 400;">#LI-ES1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4295578002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4353398002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
