@@ -28,7 +28,7 @@ Enterprise Account Executive (Benelux Region)
 <p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>&nbsp;</p>
-<h6>#LI-HP1</h6>
+<h6>#LI-HP1 #LI-REMOTE</h6>
 
 Interested?
 ---
