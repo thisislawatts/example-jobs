@@ -3,6 +3,7 @@ Software Engineer, Machine Learning & Program Analysis
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><strong>*Please note we will not be actively interviewing for this position until the beginning of January 2021.*</strong></h3>
 <p><span style="font-weight: 400;">We’re looking for an experienced and collaborative software engineer to build the next generation of code analysis based on a combination of machine learning and logical reasoning. What we call Snyk’s DeepCode Engine: the most advanced platform for semantic code analysis over BigCode.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The team will be focused on solving challenges including:</span></p>
 <ul>
