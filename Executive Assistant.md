@@ -3,50 +3,50 @@ Executive Assistant
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><strong>Executive Assistant </strong></h3>
-<p><span style="font-weight: 400;">Location: Tel Aviv, Isael </span></p>
-<h3><strong>We are looking for a proactive and super organised Executive Assistant to take care of our company’s CPO and VP of Engineering, handling a variety of responsibilities such as extensive travel arrangements, calendar coordination and working across time zones.</strong></h3>
-<p><strong>As an Executive Assistant for Snyk, </strong><span style="font-weight: 400;">you’ll join our Global People Operations team and provide effective and efficient administrative support for a small number of our C-suite. Our management team are super busy and need someone who understands them, cares deeply and is motivated by making their lives easier.</span></p>
-<h3><strong>You will be responsible for:</strong></h3>
+<p><span style="font-weight: 400;">We’re looking for an Executive Assistant to join our Snyk team to provide comprehensive, administrative support to multiple executives within our Go-To Market-function.&nbsp;</span></p>
+<p><strong>As an Executive Assistant for Snyk, </strong><span style="font-weight: 400;">you’ll join our Global People Operations team to provide effective and efficient administrative support for multiple executives on our management team. You’ll spend your time being the central point of contact for the executive(s) you support, making them accessible where possible. Calendar management for your executives will be done across multiple time zones, where you’ll be arranging meetings and appointments, as well as multi-faceted domestic and international travel itineraries (when current travel restrictions are lifted).</span></p>
+<p><span style="font-weight: 400;">To be successful in this role, you should be well-organized, adaptable and flexible, have exemplary time management skills and be able to act without guidance.</span></p>
+<p><span style="font-weight: 400;">Responsibilities include:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">managing calendars</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">scheduling and facilitating meetings internally and externally</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">support in areas that may need additional help (e.g internal events)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">handling extensive travel arrangements (flights, hotels)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">submitting monthly expenses</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">supporting communication and follow ups for various projects</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to work in a fast paced, multi-task environment with strong attention to detail and strong integrity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting your executive(s) with expense reports, travel and calendar management</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Providing best in class interaction with executives, customers and business partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Positive, professional attitude with ability to work independently or as a team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent verbal and written communication skills&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Independent judgment and initiative to resolve problems and make recommendations, determining when and if executive action is required and often supply a recommendation where appropriate</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Advanced organizational and follow through skills with strong attention to detail</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The highest level of confidentiality is needed for this position</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">From time to time, you may be asked to assist with other tasks not directly related to your remit.</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<h3><strong>You should apply if:</strong></h3>
+<p><span style="font-weight: 400;">Desired experience/attributes:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you're motivated by helping others, and love making people's lives easier</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re highly organised and love organising others too </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you have a track record of working under pressure or to tight deadlines</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are a proactive and a clear communicator, verbally and in writing </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you love putting attention into every small detail</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you enjoy multitasking over 3 continents at the same time</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re a self-starter with the ability to work independently and with little direction</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you value diversity and enjoy working alongside people from all different backgrounds and perspectives </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">At least 7+ years experience in a similar role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Well-organized and disciplined</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flexible and adaptable</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Able to manage workload independently</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Friendly and accommodating</span></li>
 </ul>
-<h3><strong>Experience we’re looking for</strong></h3>
+<p><span style="font-weight: 400;">Preferred skills (but non-essential):</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Professional-level English language ability </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of EA experience in a dynamic environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working in a young company undergoing rapid growth</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Google Suite</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Slack</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Expensify (expenses management)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Egencia (travel management)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Asana (Project Management tool)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Worked within a global organization before</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience managing more than one calendar</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). We also raised an additional $70 Million, </span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"><span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,  from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
-<p> </p>
+<p><span style="font-weight: 400;">Snyk, the cloud native application security leader, has a vision to empower every modern developer in the world to develop fast and stay secure. Only Snyk provides a platform to secure all of the critical components of today’s cloud native application development including the code, open source libraries, container infrastructure and infrastructure as code. Snyk’s security platform is built on an industry-leading proprietary vulnerability database, maintained by an expert security research team, that currently powers strategic partners such as Datadog, Docker, IBM Cloud, Rapid7, Red Hat and Trend Micro. The company works with global customers of all sizes to empower developers to automatically integrate security throughout their existing workflows.</span></p>
+<p><span style="font-weight: 400;">Named to the </span><a href="https://www.forbes.com/cloud100/#36abffd55f94"><span style="font-weight: 400;">2020 Forbes Cloud 100</span></a><span style="font-weight: 400;">, the definitive ranking of the top 100 private cloud companies in the world, Snyk was also recently recognized by Comparably as the #3 small-to-medium business for </span><a href="https://www.comparably.com/news/happiest-employees-2020/"><span style="font-weight: 400;">Happiest Employees in 2020</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p><span style="font-weight: 400;">For more information and to get started with Snyk for free today, visit </span><a href="https://snyk.io/"><span style="font-weight: 400;">https://snyk.io</span></a><span style="font-weight: 400;">.</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4459331002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5004908002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
