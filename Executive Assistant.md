@@ -42,6 +42,7 @@ Executive Assistant
 <p><span style="font-weight: 400;">By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p><span style="font-weight: 400;">For more information and to get started with Snyk for free today, visit </span><a href="https://snyk.io/"><span style="font-weight: 400;">https://snyk.io</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">#LI-ES1</span></p>
 
 Interested?
 ---
