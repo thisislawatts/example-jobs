@@ -3,6 +3,7 @@ DACH Channel Account Manager (German Speaking)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h5>This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. <a style="font-size: 14px;" href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
 <h3><strong>Channel Account Manager, DACH</strong></h3>
 <p><strong>Location: London or Germany (Remote)&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We are looking for a Channel Account Manager to help build our partner base in the DACH region, the responsibilities will include recruiting and enabling partners to build and deliver a pipeline and sales. Working with and enabling our Distribution partner to help you achieve these goals and utilising our key alliances in the region to form synergies with their key partners.</span></p>
