@@ -3,9 +3,9 @@ Implementation Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
 <p><strong>Title: Implementation Engineer</strong></p>
 <p><strong>Location: US (Boston or Remote, West Coast)</strong></p>
-<h3>&nbsp;</h3>
 <p><span style="font-weight: 400;">We’re looking for an organized, developer-centric Implementation Engineer to help our Enterprise &amp; Strategic customers achieve resounding success with their Snyk implementation.</span></p>
 <p><span style="font-weight: 400;">A Snyk Implementation Engineer is a key member of our Customer Success Organization who is an expert at overcoming any internal or external technical obstacles that may arise in a customer’s journey to success with Snyk.</span></p>
 <p><strong>As one of our first Implementation Engineers, you will:</strong></p>
