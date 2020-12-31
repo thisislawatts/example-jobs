@@ -37,6 +37,7 @@ Partner Solutions Architect, APM & Security
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p><span style="font-weight: 400;">For more information and to get started with Snyk for free today, visit </span><a href="https://snyk.io/"><span style="font-weight: 400;">https://snyk.io</span></a><span style="font-weight: 400;">.</span></p>
 <h6>#LI-CS1</h6>
+<h6>#LI-Remote</h6>
 
 Interested?
 ---
