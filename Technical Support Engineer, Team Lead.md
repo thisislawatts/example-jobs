@@ -39,7 +39,8 @@ Technical Support Engineer, Team Lead
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2020 alone, Snyk was already adopted by over 600,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS, and others). We also raised an additional $150 Million,</span><a href="https://snyk.io/blog/snyk-closes-150m/"> <span style="font-weight: 400;">announced January 21st, 2020</span></a><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
 <p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-NS1</span></p>
+<p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
