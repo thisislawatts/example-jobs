@@ -33,12 +33,12 @@ Sales Development Representative
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">We'd love to hear from you - please apply below.</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
-<p><span style="font-weight: 400;">#LI-CY1</span></p>
+<p><span style="font-weight: 400;">#LI-EO1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4082628002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5026911002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
