@@ -14,7 +14,7 @@ Senior Software Engineer, Infrastructure as Code, Cloud Native
 <p><span style="font-weight: 400;">Our web services use Node and Express backed by Postgres and our frontend web application uses Vue. We use Github for code review + Jest and CircleCI for testing and continuous integration. Infrastructure is currently managed using Helm and Kubernetes.</span></p>
 <p><strong>We're looking for someone who</strong></p>
 <p><span style="font-weight: 400;">Is a self described software engineer, excited to be part of building a new product, able to balance technical quality with delivering user value and working on all areas of the stack from designing features to deployments, front-end and infrastructure. Who has prior professional experience and a portfolio of work that they are proud of; for areas where they lack prior experience they are humble and willing to jump in and learn new skills.</span></p>
-<p><strong>You'll work on:</strong></p>
+<p><strong>You'll work on</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Maintaining and extending our existing services to keep them in line with best practices and new technologies.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Investigating and addressing performance and scalability concerns across our services as we grow.</span></li>
@@ -24,7 +24,7 @@ Senior Software Engineer, Infrastructure as Code, Cloud Native
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting, mentoring and guiding other engineers through pairing &amp; code review.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Participating in our on-call rotation, currently one week every three months and compensated.</span></li>
 </ul>
-<p><strong>You may be fit for this role if you:</strong></p>
+<p><strong>You may be fit for this role if you</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong technical background, including 4+ years of professional experience building web services &amp; applications.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Strong oral and written communication skills and the ability to talk about potentially complex technical concepts in ways that make it easy for others to understand.</span></li>
@@ -36,7 +36,7 @@ Senior Software Engineer, Infrastructure as Code, Cloud Native
 <blockquote>
 <p><span style="font-weight: 400;">💡 </span><em><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply.</span></em></p>
 </blockquote>
-<p><strong>We would especially love to hear from you if you:</strong></p>
+<p><strong>We would especially love to hear from you if you</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong proficiency with Typescript and/or Go.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kuberenetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
