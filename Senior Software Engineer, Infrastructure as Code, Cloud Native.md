@@ -3,7 +3,8 @@ Senior Software Engineer, Infrastructure as Code, Cloud Native
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
+<p><em>All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. <a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></em></p>
+<hr>
 <p><span style="font-weight: 400;">We have two openings for software engineers to join our growing team and help take </span><a href="https://snyk.io/product/infrastructure-as-code-security/"><span style="font-weight: 400;">Snyk Infrastructure as Code</span></a><span style="font-weight: 400;"> from an early-stage product with huge potential into a mature offering that stands alongside our core products. We're open to a range of experience levels for this role but we do require at least 4 years professional experience, or equivalent, as a software engineer.</span></p>
 <p><strong>Our Team</strong></p>
 <p><span style="font-weight: 400;">As part of the Infrastructure as Code team you will help us to build products that enable developers to write secure configurations, and validate them well before code reaches production. Snyk’s developer-first approach meets developers where they work and provides fixes that can be directly merged into code.</span></p>
@@ -32,7 +33,9 @@ Senior Software Engineer, Infrastructure as Code, Cloud Native
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working on early stage products; talking with customers to identify, prioritise and solve problems iteratively and build something that they really love.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production.</span></li>
 </ul>
+<blockquote>
 <p><span style="font-weight: 400;">💡 </span><em><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply.</span></em></p>
+</blockquote>
 <p><strong>We would especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong proficiency with Typescript and/or Go.</span></li>
