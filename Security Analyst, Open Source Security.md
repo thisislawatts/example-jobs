@@ -36,6 +36,11 @@ Security Analyst, Open Source Security
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p><strong>Want to learn more about the role?</strong></p>
+<p><span style="font-weight: 400;">Read about the </span><a href="https://snyk.io/blog/why-snyk-wins-open-source-security-battle/"><span style="font-weight: 400;">team’s mission and methodologies</span></a></p>
+<p><span style="font-weight: 400;">Read about our </span><a href="https://snyk.io/blog/vulnerability-disclosure-program/"><span style="font-weight: 400;">open source vulnerability disclosure program</span></a></p>
+<p><span style="font-weight: 400;">Read an example of </span><a href="https://snyk.io/blog/arbitrary-code-execution-in-js-grunt/"><span style="font-weight: 400;">how we find and disclose vulnerabilities</span></a></p>
+<p><span style="font-weight: 400;">Read some of our research on </span><a href="https://snyk.io/blog/demystifying-http-request-smuggling/"><span style="font-weight: 400;">HTTP Request Smuggling</span></a><span style="font-weight: 400;"> or </span><a href="https://snyk.io/blog/message-brokers/"><span style="font-weight: 400;">breaking out of message brokers</span></a></p>
 <p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps, and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
