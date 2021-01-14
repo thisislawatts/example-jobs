@@ -5,8 +5,8 @@ Solutions Engineer
 
 <h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
 <p><strong>Role: Solutions Engineer</strong></p>
-<p><strong>Location: US (East Coast) - Boston Office &amp; Remote</strong></p>
-<p>We’re looking for a driven, user-focused Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
+<p><strong>Location: US (West Coast) - Remote</strong></p>
+<p>We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
 <p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
 <p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
@@ -51,7 +51,7 @@ Solutions Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4958477002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4397845002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
