@@ -44,6 +44,7 @@ Senior Software Engineer, Ecosystems
 <p>Our September 2020 Series D funding round of $200M has put us at over $2.6 billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-FS1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
