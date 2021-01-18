@@ -5,36 +5,38 @@ Sales Enablement Specialist
 
 <h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
 <p><span style="font-weight: 400;">The Strategy &amp; Operations team’s mission is to drive Synk’s sustainable growth and productivity gains by enabling: good, efficient decision making; rapid effective execution; and scale.</span></p>
-<p><span style="font-weight: 400;">The Sales Enablement team exists to support and drive sales performance to support the growth of our company at scale. As a Sales Enablement specialist you will be responsible for the management of our sales content platform as well as content curation. You will also support our sales new hires in their onboarding to ensure they have great experience and can ramp as quickly as possible. </span></p>
-<p><span style="font-weight: 400;">All of our initiatives are focused on driving sales performance and measuring the effectiveness of our programs and for each of your programs you will be responsible for capturing and reporting on the metrics.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Sales Enablement team exists to support and drive sales performance to support the growth of our company at scale. As a Sales Enablement specialist you will be responsible for supporting our sales teams to optimise their performance to support our accelerated growth. </span></p>
+<p><span style="font-weight: 400;">You will work with contributing teams to ensure that content is sales ready and make recommendations based on usage data. You will support ongoing enablement campaigns that meet sellers within their workflow so that they can spend as much time as possible speaking to customers. </span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Manage the sales enablement content repository and ensure that all information is easily and readily accessible at point of need.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Determine content adoption metrics and define sales enablement best practices.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Driving call intelligence, content management and learning platform adoption</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building scalable enablement campaigns and measuring the impact on key sales metrics&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Train sales team on best use of marketing and sales enablement materials.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Gather feedback from the sales team on a regular basis to constantly improve support programs.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Coordinate the quarterly enablement plan&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Act as a liaison between Sales, Marketing, and Product teams.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Create written content to educate sales team and advance deals such as case studies, competitive information fact sheets, product collateral, and custom work.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create written content to educate the sales team and advance deals such as case studies, competitive information fact sheets, product collateral, and custom work.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Generating reporting to evidence performance/efficiency gains</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Field ad hoc content and support requests from the sales team.</span></li>
 </ul>
 <p><strong>You should apple if you:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in a sales or sales support role preferred.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in hyper-growth environment is desirable</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in content development and delivery (both face to face and virtual)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in content management/LMS management is desirable</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in content management &amp; learning management platforms is desirable</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Exceptional written and verbal communication skills.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to prioritize tasks effectively.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Team player with strong intrapersonal skills.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to thrive in a fast-paced, unpredictable environment.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Adept at project management and cross-functional collaboration.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Creative and strategic thinker.</span></li>
+<li style="font-weight: 400;">&nbsp;</li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have program/project management experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience developing content for sellers&nbsp; &nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience using Gong or Seismic platforms</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience developing content for sellers&nbsp;</span></li>
 </ul>
 <p><strong>About Snyk</strong></p>
 <p>Snyk’s mission is to help developers use open source code and stay secure.</p>
@@ -42,6 +44,7 @@ Sales Enablement Specialist
 <p>We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>#LI-TO1</p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
