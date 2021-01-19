@@ -22,6 +22,7 @@ Security Analyst, Open Source Security
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You're comfortable working with large datasets (we use BigQuery; ideally you'll have used one of BigQuery, elasticsearch, kibana, hadoop etc.)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have a passion for security and an interest in the problem space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have 2+ years work experience in a relevant field</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’ve triaged and analysed data before using techniques and tools such as pandas and jupyter</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience using statistical tools to help answer research questions</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You love to automate your work, through writing your own scripts (we use Python and JavaScript)</span></li>
