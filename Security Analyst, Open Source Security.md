@@ -3,6 +3,7 @@ Security Analyst, Open Source Security
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We are looking for a curious, analytical and detail-oriented Security Analyst to join our team and help us uncover unknown vulnerabilities that exist in open source.</span></p>
 <p><strong>Your Role</strong></p>
 <p><span style="font-weight: 400;">In modern software development, much of any project's code relies on open source packages. These are out there in the world, visible for anyone, and within that code there are vulnerabilities. As part of our security team, you'll join us on our mission to continually improve our ability to find these open source vulnerabilities in a programmatic way.</span></p>

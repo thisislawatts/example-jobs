@@ -3,6 +3,7 @@ Customer Success Manager, Commercial
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Commercial Customer Success Manager</strong></p>
 <p><strong>Location: Remote&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an organized, personable Customer Success Manager to help delight our customers by optimizing their onboarding experience and driving adoption while helping them to accomplish their goals.</span></p>

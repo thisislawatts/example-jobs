@@ -3,6 +3,7 @@ Sales Development Representative (French Speaking)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Sales Development Representative</strong><span style="font-weight: 400;"> (French-speaking)&nbsp;</span></p>
 <p><strong>Location:</strong><span style="font-weight: 400;"> London&nbsp;</span></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>

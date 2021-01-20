@@ -3,6 +3,7 @@ Product Manager, Ecosystems
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p>We're looking for an experienced Product Manager to join the Snyk Open Source product team. Our mission is to allow millions of developers from top brands to develop fast and stay secure while building on top of Open Source.</p>
 <h3>Your role</h3>
 <p>As the Product Manager of the Languages team, you will get familiar with how the development languages your team supports are managing Open Source. You will engage with our customers to understand how they use them in their day to day and together with your team, you will plan how Snyk will help our customers to find and fix vulnerabilities automatically as part of their Software Development lifecycle (SDLC)</p>

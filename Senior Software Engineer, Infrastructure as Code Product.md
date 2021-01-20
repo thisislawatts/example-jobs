@@ -3,7 +3,7 @@ Senior Software Engineer, Infrastructure as Code Product
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><em>All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. <a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></em></p>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
 <p><span style="font-weight: 400;">We have two openings for software engineers to join our growing team and help take </span><a href="https://snyk.io/product/infrastructure-as-code-security/"><span style="font-weight: 400;">Snyk Infrastructure as Code</span></a><span style="font-weight: 400;"> from an early-stage product with huge potential into a mature offering that stands alongside our core products. We're open to a range of experience levels for this role but we do require at least 4 years professional experience, or equivalent, as a software engineer.</span></p>
 <p><strong>Our Team</strong></p>

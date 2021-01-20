@@ -3,6 +3,7 @@ Solutions Engineer APJ
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Role: Sales Engineer APJ</strong></p>
 <p><strong>Location: Tel Aviv</strong></p>
 <p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer. This role will focus on our customers in APJ.&nbsp;</strong></p>
