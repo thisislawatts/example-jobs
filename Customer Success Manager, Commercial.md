@@ -6,30 +6,24 @@ Customer Success Manager, Commercial
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Commercial Customer Success Manager</strong></p>
 <p><strong>Location: Remote&nbsp;</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an organized, personable Customer Success Manager to help delight our customers by optimizing their onboarding experience and driving adoption while helping them to accomplish their goals.</span></p>
-<h3><strong>Your role</strong></h3>
-<p><span style="font-weight: 400;">You will be responsible for helping our customers build value using Snyk’s Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You’ll build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.</span></p>
-<h3><strong>Being successful in this role involves:</strong></h3>
+<p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Customer Success Organization to help retain and grow Snyk’s growing customer base..&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Customer Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
+<p><span style="font-weight: 400;">As a CSM, you’ll spend your time:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with key technical stakeholders to agree on objectives and define success plans</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understanding each organization’s technical setup and workflow, and planning a rollout that suits their needs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring customers are getting the most out of the product and are adopting new features</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with the sales team to support successful customer renewals and account growth</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">providing quarterly customer business reviews to each customer to demonstrate the value they are getting from Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">gathering usage patterns, feature requests, and feedback then sharing these with the product team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building and fostering trusted relationships with leaders from our customers’ engineering and security organizations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Designing and executing&nbsp; customized onboarding programs helping customers achieve their security program goals through the use of Snyk’s suite of products</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mobilizing internal and external resources to remove barriers to adoption</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Advocating internally for the needs of your customers, working proactively with Sales, Product, Support and other teams to identify expansion opportunities and mitigate risks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Preparing and facilitating business review meetings, training sessions, product feedback/roadmap reviews, and other strategic customer interactions</span></li>
 </ul>
-<p><span style="font-weight: 400;">You’ll be the main point of contact for the organizations you support, so you will need to be proactive in how you communicate, and responsive to incoming requests.</span></p>
-<h3><strong>You should apply if:</strong></h3>
+<p><span style="font-weight: 400;">You should apply if you:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have proven professional experience in an Application Security or Developer Tooling company.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have extensive customer-facing experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you ask incisive questions and are comfortable learning to discuss complex requirements</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are pragmatic, realistic, and you build strong, respectful relationships across levels of seniority both inside Snyk as well as the customer organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are comfortable with working through problems at a fast-growing company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you have experience in customer success or customer-facing role, for a technical product or services company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are familiar with developer workflows and standard tooling e.g. GitHub, Jira, Jenkins, VScode.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re interested in open source and security, cloud, and containers.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re excited about what we do and want to help our customers gain more value from Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 3-5 years of progressive experience in a customer-facing professional role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can demonstrate working knowledge of Developer or Application Security tools (e.g. GitHub, Jira, Jenkins, VScode)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience managing post-sales client relationships</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have exceptional organization and time-management skills and are able to effectively manage across competing priorities&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are an effective and influential communicator with a range of personas (from end user to executive); you can facilitate challenging discussions and are adept at handling objections</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in a collaborative, fast-paced environment and as a part of a results oriented team</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
