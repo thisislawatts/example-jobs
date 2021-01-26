@@ -28,7 +28,7 @@ Engineering Manager, Security
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in managing, coaching and mentoring software engineers and analysts</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about bottoms-up culture, invested in developing and growing both great engineers and great teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about bottom-up culture, invested in developing and growing both great engineers and great teams</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in cultivating a strong engineering culture in an iterative, agile environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with python</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">can challenge and empathise with architectural or coding opinions in the team</span></li>
