@@ -26,7 +26,7 @@ Engineering Manager, Product Led Growth
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in managing, coaching, and mentoring software engineers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with </span><span style="font-weight: 400;">JavaScript/TypeScript</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with </span><span style="font-weight: 400;">Java</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have 3+ years of experience managing teams&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">can challenge and empathise with architectural or coding opinions in the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in cultivating a strong engineering culture in an iterative, agile environment</span></li>
@@ -50,7 +50,7 @@ Engineering Manager, Product Led Growth
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4988692002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5040881002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
