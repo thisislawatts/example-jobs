@@ -4,7 +4,7 @@ SMB Account Executive
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><strong>Role title: Account Executive SMB</strong></h3>
-<p><span style="font-weight: 400;">Location: Tel Aviv or London</span></p>
+<p><span style="font-weight: 400;">Location: Tel Aviv&nbsp;</span></p>
 <h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the UK!</strong></h3>
 <h2><strong>Your role</strong></h2>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.&nbsp; As an Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
@@ -28,7 +28,7 @@ SMB Account Executive
 <p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-CY1</span></p>
+<p><span style="font-weight: 400;">#LI-HPC1</span></p>
 
 Interested?
 ---
