@@ -5,7 +5,7 @@ SMB Account Executive
 
 <h3><strong>Role title: Account Executive SMB</strong></h3>
 <p><span style="font-weight: 400;">Location: Tel Aviv&nbsp;</span></p>
-<h3><strong>We’re looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the UK!</strong></h3>
+<h3><strong>We’re looking for a collaborative, hard-working Account Executive to join one of the hottest startups in the UK!</strong></h3>
 <h2><strong>Your role</strong></h2>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.&nbsp; As an Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
 <p><span style="font-weight: 400;">You will have the opportunity to contribute to the iterative improvement of our sales process, tone and approach, and you’ll have plenty of scope to inform the way we develop our internal tooling to help you work efficiently and effectively.</span></p>

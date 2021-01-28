@@ -11,26 +11,27 @@ Senior Security Advocate
 <p><span style="font-weight: 400;">You will create, mentor, inspire and lead on a well-defined security advocacy strategy. You will identify and lead new projects and initiatives, growing awareness and interest in Snyk’s&nbsp; developer-first security approach and the Snyk platform.&nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">increasing awareness around the Snyk platform by educating open-source users, security-focused prospects and customers, and relevant communities about the importance of DevSecOps and the role Snyk plays in application security</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Creating content and presentation assets around developer-first security and app sec.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working closely together with our partners, customers, the development, product, and marketing teams, and of course the broader developer communities</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">identifying and leading innovative integrations and solutions to help users adopt modern security practices with Snyk in different environments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">being a thought leader in the wider developer/security relations group and helping lead the team with ideas and roadmap planning</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Increasing awareness around the Snyk platform by educating open-source users, security-focused prospects and customers, and relevant communities about the importance of DevSecOps and the role Snyk plays in application security</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating content and presentation assets around developer-first security and app sec</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working closely together with our partners, customers, the development, product, and marketing teams, and of course the broader developer communities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying and leading innovative integrations and solutions to help users adopt modern security practices with Snyk in different environments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Being a thought leader in the wider developer/security relations group and helping lead the team with ideas and roadmap planning</span></li>
 </ul>
 <p><span style="font-weight: 400;">We work in geographically distributed teams, generally split between the US and EU. We use Slack &amp; Zoom to keep in contact with one another, and you’ll travel around twice a year to spend time with colleagues who aren’t co-located with you.</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have previous application security experience: you have a variety of security related professional experience and have implemented the best practices of building security into application pipelines</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Can communicate and connect well with security practitioners and CISOs, both in prepared content and live activities, such as events, roundtable discussions, and meetings, as well as in more informal settings such as social media or in person conversation.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you’re passionate about building security into application development and are keen to share these approaches with Security professionals, Developers, and DevOps teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">pride yourself on the quality and accessibility of your writing and teaching</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Shine through presentation whether that is in a meeting, on a stage, or while presenting a product democare about both security and open source software, and are excited about learning how to live-hack demo repos!</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are at your best when thinking outside the box, innovating, and inspiring those around you</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have previous application security experience: you have a variety of security related professional experience and have implemented the best practices of building security into application pipelines</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can communicate and connect well with security practitioners and CISOs, both in prepared content and live activities, such as events, roundtable discussions, and meetings, as well as in more informal settings such as social media or in person conversation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re passionate about building security into application development and are keen to share these approaches with Security professionals, Developers, and DevOps teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pride yourself on the quality and accessibility of your writing and teaching</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Shine through presentation whether that is in a meeting, on a stage, or while presenting a product demo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Care about both security and open source software, and are excited about learning how to live-hack demo repos!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are at your best when thinking outside the box, innovating, and inspiring those around you</span></li>
 </ul>
 <h3><strong>We’d especially love to hear from you if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong security experience, or have worked with security engineers, including security leads.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have previous experience with containers, container orchestration, and other cloud-native technologies.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong security experience, or have worked with security engineers, including security leads</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have previous experience with containers, container orchestration, and other cloud-native technologies</span></li>
 </ul>
 <p><span style="font-weight: 400;">Right now, our work is purely virtual given the pandemic. Once made possible, you should expect to spend around a quarter of your time traveling, so you will need to hold a valid passport at all times.</span></p>
 <h3><strong>Interested?</strong></h3>
