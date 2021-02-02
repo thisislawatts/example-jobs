@@ -3,7 +3,8 @@ Director of Product Security
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a hands-on Director of Product Security to build and own the Product Security team, a blended, business-wide AppSec and CloudSec practice&nbsp;within a rapidly growing and increasingly global Information Security and Risk team, reporting to the Head of Information Security &amp; Risk.&nbsp;&nbsp;</span></p>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><span style="font-weight: 400;">We’re looking for a hands-on Director of Product Security to build and own the Product Security team, a blended, business-wide AppSec and CloudSec practice within a rapidly growing and increasingly global Information Security and Risk team, reporting to the Head of Information Security &amp; Risk.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">developing and investing in a first-class Product Security team and transparent, inclusive guild to find and engage stakeholders from every department</span></li>
@@ -37,6 +38,7 @@ Director of Product Security
 <p>We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
