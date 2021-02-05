@@ -3,12 +3,12 @@ Technical Operations Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We're looking for a Technical Operations Specialist to join our IT team, providing technical support across all offices with a focus on North America, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
+<p><span style="font-weight: 400;">We're looking for a Technical Operations Specialist to join our IT team, providing technical&nbsp; support across all offices with a focus on North America, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
 <p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across the different departments.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You are experienced with existing technologies, and comfortable with new ones. You are a problem solver with excellent execution and communication skills. You will use this experience to define the systems and policies that will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s Boston and Ottawa offices, including Networking and Conferencing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s London offices, including Networking and Conferencing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Snyk’s employee base with a data driven approach and a focus on user satisfaction</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and offboarding of leaving employees</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding our current technology stack and its usage across the company, as well as current gaps and requirements for future tools and systems</span></li>
@@ -17,21 +17,22 @@ Technical Operations Specialist
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end-user problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong technical skills and experience managing a large portfolio of business applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are able to analyze &amp; resolve users problems at 1st contact via phone and remote session</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent troubleshooting skills in hardware and software issues</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have good understanding of computer systems, mobile devices and other tech products</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent knowledge of macOS.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Help Desk or Systems Engineer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using expertise, analyze &amp; resolve the user problem at 1st contact via phone and remote session.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have demonstrated computer skills, Handle service requests from company users.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent troubleshooting skills in hardware and software issues, ability to diagnose and resolve advance technical issues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Good understanding of computer systems (macOS), mobile devices and other tech products</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are user-focussed and enjoy building effective relationships with stakeholders at all levels of the company</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are able to adapt in a fast-paced environment, with the ability to manage competing priorities and multi-task</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are user-focused and enjoy building effective relationships with stakeholders at all levels of the company</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to cover after-office hours and weekend support if there are any infrastructure issues.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have good knowledge of networks, including TCP/IP, LAN, VLAN, WLAN. VPN systems (IPSEC)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have coding experience and experience with the use of APIs to automate processes and integrate systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with a variety of cloud based applications and tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience managing access control systems and SSO</span></li>
+<li><span style="font-weight: 400;">Have strong technical skills and experience managing a large portfolio of business applications</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
