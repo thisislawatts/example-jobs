@@ -3,7 +3,7 @@ Customer Success Manager, Enterprise
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
+<h5><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></h5>
 <p><strong>Enterprise Customer Success Manager</strong></p>
 <p><strong>Location: Remote -&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Enterprise Customer Success Organization to help retain and grow Snyk’s largest and most strategic customers.&nbsp;</span></p>
@@ -35,7 +35,7 @@ Customer Success Manager, Enterprise
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we have teams across multiple offices, and we invest in communication so that we can benefit from each others’ perspectives. We make heavy use of video calls and Slack to stay connected.</span></p>
 <p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p><span style="font-weight: 400;">#LI-ES1</span></p>
+<p><span style="font-weight: 400;">#LI-ES1 #LI- Remote</span></p>
 
 Interested?
 ---

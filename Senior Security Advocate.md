@@ -3,6 +3,7 @@ Senior Security Advocate
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h4><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></h4>
 <h2><strong>Senior Security Advocate&nbsp;</strong></h2>
 <p><strong>Location: Boston, Remote US, London, Remote UK</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to build security into development - the only way security can scale. To get such dev adoption, we built a dev tooling company, not a cyber company. We’re looking to delight and engage developers as we help them secure what they build. This approach spans the entire company, from product to commercial to community - which is where you come in.</span></p>

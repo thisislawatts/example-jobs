@@ -3,6 +3,7 @@ HR Director, R&D
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
 <p><strong>Director, People Partnering R&amp;D</strong></p>
 <p><strong>Location: This role is based in our Tel Aviv office but is also open to some remote work.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced HR Director/Senior People Partner to join our team and partner with managers, employees, and the wider HR team.&nbsp; </span><span style="font-weight: 400;">As a contributing member of the People Partner team, this job is responsible for leading the partnering function for the R&amp;D group and working with the wider People team to help design and implement the People strategy over a broad range of initiatives.</span><span style="font-weight: 400;">&nbsp;</span></p>

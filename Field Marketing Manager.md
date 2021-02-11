@@ -35,7 +35,7 @@ Field Marketing Manager
 <p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-ES1</span></p>
+<p><span style="font-weight: 400;">#LI-ES1 #LI-Remote</span></p>
 
 Interested?
 ---

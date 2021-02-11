@@ -3,6 +3,7 @@ Sales Operations Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
 <p><span style="text-decoration: underline;"><strong>Sales Operations Manager</strong></span></p>
 <p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Sales Operations Manager to join our Strategy &amp; Operations team to support Snyk’s hyper-growth. The Strategy &amp; Operations team’s mission is to support Synk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale.&nbsp; The position will report directly to Snyk’s Sr. Director, GTM Strategy, Operations and Analytics.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>

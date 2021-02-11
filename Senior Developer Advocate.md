@@ -3,6 +3,7 @@ Senior Developer Advocate
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
 <p><strong>Senior Developer Advocate&nbsp;</strong></p>
 <p><strong>Location: Australia</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to build security into development - the only way security can scale. To get such dev adoption, we built a dev tooling company, not a cyber company. We’re looking to delight and engage developers as we help them secure what they build. This approach spans the entire company, from product to commercial to community - which is where you come in.</span></p>
@@ -43,7 +44,7 @@ Senior Developer Advocate
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). </span><span style="font-weight: 400;">We also raised an additional $150 Million, </span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"><span style="font-weight: 400;">a</span></a><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">nnounced </span></a><span style="font-weight: 400;"><a href="https://snyk.io/blog/snyk-closes-150m/">January 21st, 2020</a>, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential</span><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-ES1 #ES-Remote</span></p>
+<p><span style="font-weight: 400;">#LI-ES1 #LI-Remote</span></p>
 
 Interested?
 ---
