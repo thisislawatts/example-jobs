@@ -5,7 +5,7 @@ Technical Services Architect
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Role: Technical Services Architect&nbsp;</strong></p>
-<p><strong>Location: Tel Aviv</strong></p>
+<p><strong>Location: London or Tel Aviv</strong></p>
 <p>Technical Services is part of the Engineering group here at Snyk. It regroups individuals worldwide with deep technical expertise on Snyk products, DevOps technologies and practices as well as pure coding practices. Using strong product technical understanding along with broad yet deep expertise on DevOps technology and development practices, this is the source of technical knowledge in Snyk, getting to the bottom of issues and clearly articulating your findings to the rest of the relevant stakeholders.</p>
 <p>Snyk's mission is to help developers and organisations use open source code and stay secure. We believe that open source is a force for good, but security is a key concern. Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</p>
 <p>Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focused on scaling our business to keep up with demand!</p>
