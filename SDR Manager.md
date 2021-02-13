@@ -5,7 +5,7 @@ SDR Manager
 
 <p><strong>Role Title: SDR Manager&nbsp;</strong></p>
 <p><strong>Location: Singapore</strong></p>
-<p><strong>We’re looking for an empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives.</strong></p>
+<p><strong>We’re looking for an experienced, empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives.</strong></p>
 <p><strong>The role</strong></p>
 <p><span style="font-weight: 400;">As an SDR Manager for Snyk, you will manage the day-to-day activities and training of our SDR team, coaching them as they drive meetings, sales demos and pipeline to support incremental revenue growth for our Sales organisation.&nbsp; You’ll work closely with our Marketing team to define our ABM strategy and outbound process.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
