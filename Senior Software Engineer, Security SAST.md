@@ -3,7 +3,6 @@ Senior Software Engineer, Security SAST
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We’re looking for a talented, thoughtful software developer to join our SAST security team to work on our ML-enhanced pipeline and management tools and enable our analysts to efficiently curate and triage SAST security rules that power our </span><a href="https://snyk.io/blog/developer-first-sast-with-snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;"> offering.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The security team works to develop novel, effective methods to sift through likely vulnerabilities in open source which haven’t yet been discovered, verified, or disclosed. Through pulling them into our data pipeline, the team makes it as simple as possible for our security analysts and researchers to focus on validating them and adding them to our database.</span></p>
 <p><span style="font-weight: 400;">Here at Snyk, you’ll help us expand the reach of our vulnerability pipeline, and contribute to the building of our critical infrastructure that supports our analyst team to verify and publish all the vulnerabilities you find.&nbsp;</span></p>
