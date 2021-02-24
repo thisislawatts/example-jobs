@@ -5,7 +5,7 @@ Strategic Initiatives Manager
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="text-decoration: underline;"><strong>Strategic Initiatives Manager</strong></span></p>
-<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven individual to join our newly formed Strategy &amp; Operations team to support Snyk’s hyper-growth. The position will report to the Senior Director Strategy &amp; Operations running Snuk’s Strategic Initiatives team. The Strategy &amp; Operations team’s mission is to support Snyk’s leadership team in driving hyper-growth by enabling good, efficient decision making; rapid, effective execution; and scale.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven individual to join our newly formed Strategy &amp; Operations team to support Snyk’s hyper-growth. The position will report to the Senior Director Strategy &amp; Operations running Snyk’s Strategic Initiatives team. The Strategy &amp; Operations team’s mission is to support Snyk’s leadership team in driving hyper-growth by enabling good, efficient decision making; rapid, effective execution; and scale.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Developing and delivering organizational priorities&nbsp;</span></li>
