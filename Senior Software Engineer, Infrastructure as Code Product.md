@@ -5,13 +5,13 @@ Senior Software Engineer, Infrastructure as Code Product
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><span style="font-weight: 400;">We have two openings for software engineers to join our growing team and help take </span><a href="https://snyk.io/product/infrastructure-as-code-security/"><span style="font-weight: 400;">Snyk Infrastructure as Code</span></a><span style="font-weight: 400;"> from an early-stage product with huge potential into a mature offering that stands alongside our core products. We're open to a range of experience levels for this role but we do require at least 4 years professional experience, or equivalent, as a software engineer.</span></p>
+<p><span style="font-weight: 400;">We have an opening for a software engineer to join our growing team and help take </span><a href="https://snyk.io/product/infrastructure-as-code-security/"><span style="font-weight: 400;">Snyk Infrastructure as Code</span></a><span style="font-weight: 400;"> from an early-stage product with huge potential into a mature offering that stands alongside our core products. For this role we're looking for an experienced engineer with prior experience working on early-stage products and growing and mentoring engineering teams.<br></span></p>
 <p><strong>Our Team</strong></p>
 <p><span style="font-weight: 400;">As part of the Infrastructure as Code team you will help us to build products that enable developers to write secure configurations, and validate them well before code reaches production. Snyk’s developer-first approach meets developers where they work and provides fixes that can be directly merged into code.</span></p>
-<p><span style="font-weight: 400;">We're a small team of six engineers with a mix of web, security and product skills and a range of different backgrounds distributed across the UK (UTC) and Israel (UTC-2).</span></p>
+<p><span style="font-weight: 400;">We're a small team of eight engineers with a mix of web, security and product skills and a range of different backgrounds distributed across the UK (UTC) and Israel (UTC-2).</span></p>
 <p><strong>Our Tech</strong></p>
-<p><span style="font-weight: 400;">We work across the Snyk product range from the Snyk CLI tool, Snyk web application to backend microservices. We work primarily with TypeScript &amp; Node and Express with a little Go where needed. While we welcome those with familiarity in these technologies we don't require experience with our stack to apply, we have team members with backgrounds in all different technologies.</span></p>
-<p><span style="font-weight: 400;">Our web services use Node and Express backed by Postgres and our frontend web application uses Vue. We use Github for code review + Jest and CircleCI for testing and continuous integration. Infrastructure is currently managed using Helm and Kubernetes.</span></p>
+<p><span style="font-weight: 400;">We work across the Snyk product range from the Snyk CLI tool, Snyk web application to backend microservices. We work primarily with TypeScript, Node and Express with some Go where needed. While we welcome those with familiarity in these technologies we don't require experience with our stack to apply, we have team members with backgrounds in all different technologies.</span></p>
+<p><span style="font-weight: 400;">Our web services use Node, Express &amp; Go backed by Postgres and our frontend web application uses Vue. We use Github for code review + Jest and CircleCI for testing and continuous integration. Infrastructure is currently managed using Helm and Kubernetes.</span></p>
 <p><strong>We're looking for someone who</strong></p>
 <p><span style="font-weight: 400;">Is a self described software engineer, excited to be part of building a new product, able to balance technical quality with delivering user value and working on all areas of the stack from designing features to deployments, front-end and infrastructure. Who has prior professional experience and a portfolio of work that they are proud of; for areas where they lack prior experience they are humble and willing to jump in and learn new skills.</span></p>
 <p><strong>You'll work on</strong></p>
@@ -26,16 +26,14 @@ Senior Software Engineer, Infrastructure as Code Product
 </ul>
 <p><strong>You may be fit for this role if you</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong technical background, including 4+ years of professional experience building web services &amp; applications.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong technical background, including extensive professional experience building web services &amp; applications for multiple different companies.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Strong oral and written communication skills and the ability to talk about potentially complex technical concepts in ways that make it easy for others to understand.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a people orientated, team-first mindset and are invested in building a high performing team as much as a successful product.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have high standards and opinions on topics such as code quality, testing and continuous delivery and enjoy working with others to raise the bar.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working on early stage products; talking with customers to identify, prioritise and solve problems iteratively and build something that they really love.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production.</span></li>
+<li><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production.</span></li>
 </ul>
-<blockquote>
 <p><span style="font-weight: 400;">💡 </span><em><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply.</span></em></p>
-</blockquote>
 <p><strong>We would especially love to hear from you if you</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong proficiency with Typescript and/or Go.</span></li>
