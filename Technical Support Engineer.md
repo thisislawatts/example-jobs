@@ -30,20 +30,22 @@ Technical Support Engineer
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
 <p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
-<p>The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</p>
-<p>We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.6 billion company valuation.</p>
-<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
+<p>We’re on a mission to make the world a safer place with more secure software.</p>
+<p>We’re living in a world of digital transformation that is turning ever more industries into a software-development industry. Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!</p>
+<p>Snyk has already been adopted by over 1.5M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
+<p>By the end of 2020, we had raised an additional $200M in Series D funding, tipped over a $2.6 billion company valuation, successfully closed two strategic acquisitions, recorded a 200% year-on-year increase in revenue, and launched two new products. On top of that, we doubled the size of our global team, and we’re not stopping there!</p>
+<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure. Join us!</p>
 <p><strong>More about Snyk</strong></p>
 <p><span style="font-weight: 400;">We mostly work in JavaScript, both front-end and back-end, and our architecture follows the microservices pattern. We are very happy to help you learn if you don’t have previous experience with these - we believe curiosity, communication, and the ability to learn are most important.</span></p>
 <p><span style="font-weight: 400;">We work in geographically distributed teams and have offices in London, Tel Aviv, Boston, and Ottawa. We use Slack &amp; Zoom to keep in contact with one another, and you’ll travel around at least twice a year to spend time with colleagues who aren’t co-located with you.</span></p>
 <p>&nbsp;</p>
 <p>#LI-TO1</p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4985758002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5120177002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!

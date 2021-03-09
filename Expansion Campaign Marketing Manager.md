@@ -6,7 +6,7 @@ Expansion Campaign Marketing Manager
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<h2><span style="font-weight: 400;">Expansion Campaign Marketing Manager</span></h2>
+<h2><strong>Expansion Campaign Marketing Manager</strong></h2>
 <p><span style="font-weight: 400;">If you’re highly motivated by results, enjoy experimenting with all things marketing, are customer focused, and love working with sales - this job will be for you.</span></p>
 <p><span style="font-weight: 400;">Snyk is looking for an experienced campaign manager to join our Demand Marketing team.&nbsp; In this high impact role, you will put your analytical curiosities and creativity to work - driving expansion pipeline by designing and running highly targeted, multi-touch cross-sell/upsell campaigns for and with our sales teams. Your campaigns will span all channels&nbsp; including email, direct mail, advertising, webinars, events, and sales enablement. This role requires you to have experience with funnel management, a proven track record forming sales relationships, and an analytical approach to measuring the effectiveness of marketing investments and </span><span style="font-weight: 400;">a drive for impacting the business through expansion of existing customers.</span><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">You’ll spend your time:&nbsp;</span></p>
