@@ -24,6 +24,7 @@ Event Marketing Manager
 <p><strong>You’ll do amazing things at Snyk if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have 5+ years of experience with B2B event management and have managed the transition to virtual with delight. You have experience with virtual event platforms and mastered the ability to engage with users on them.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have previous experience in a tech and/or start up industry.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Care about the perfecting the small details and exceeding user experience expectations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have worked closely with an inside sales team and understand how to support and accelerate them.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a data-driven mindset and experience with analyzing campaign results to provide business recommendations.</span></li>
