@@ -37,6 +37,7 @@ National Partner Manager
 <p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
 <h6>#LI-EO1</h6>
+<h6>#LI-Remote</h6>
 
 Interested?
 ---
