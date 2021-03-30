@@ -3,6 +3,8 @@ Senior Software Engineer, Growth Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for impact driven, experienced software engineers to join our Growth group and amplify the value Snyk is bringing to developers all around the world.</span></p>
 <h3><strong>Who are we?</strong></h3>
 <p><span style="font-weight: 400;">The teams in the Growth group focus on acquisition, engagement and conversion of Snyk's individual users. In our work, we are motivated by making a business impact:</span></p>
@@ -61,7 +63,7 @@ Senior Software Engineer, Growth Group
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5146110002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5169886002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
