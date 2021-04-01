@@ -22,6 +22,7 @@ Senior Technical Sourcer, 3 month fixed term
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong network of engineering&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Love the thrill of sourcing, the more creative the better!&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a wealth of sourcing knowledge and tips that you’d love to share with recruiters and hiring managers alike&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Value diversity and believe in building inclusive teams&nbsp;</span></li>
@@ -33,6 +34,9 @@ Senior Technical Sourcer, 3 month fixed term
 <p><strong>We’re growing fast!</strong><span style="font-weight: 400;">&nbsp; We’ve recently raised an additional $300m <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment">Series E</a> with some exciting investors (including Accel &amp; Tiger Global); we support more than 2.2 million developers worldwide; and we’ve brought on board some top brand enterprise customers including Google, Atlassian, Docker, Twilio and Redhat: we’re well on our way to becoming the world’s top Cloud Native Application Security Platform for developers.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below!</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
+<p>&nbsp;</p>
+<h6><span style="font-weight: 400;">LI-EG1</span></h6>
+<h6><span style="font-weight: 400;">#LI-Remote</span></h6>
 
 Interested?
 ---
