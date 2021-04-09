@@ -3,8 +3,7 @@ Sales Development Representative
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team based in Boston.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <em><span style="font-weight: 400;">aren’t security experts</span></em></a><span style="font-weight: 400;">. But we are.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
 <p><span style="font-weight: 400;">We’re focussed on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
@@ -33,18 +32,13 @@ Sales Development Representative
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">We'd love to hear from you - please apply below.</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
-<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<p><span style="font-weight: 400;">#LI-EO1 #LI-HP1</span></p>
+<h6><em>#LI-HP1 </em></h6>
+<p>&nbsp;</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5026911002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4764994002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
