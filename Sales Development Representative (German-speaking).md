@@ -4,7 +4,7 @@ Sales Development Representative (German-speaking)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Development Representative</strong><span style="font-weight: 400;"> (German-speaking)&nbsp;</span></p>
-<p><strong>Location:</strong><span style="font-weight: 400;"> London&nbsp;</span></p>
+<p><strong>Location: Tel Aviv</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll have great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and lots of mentorship and training.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
@@ -34,12 +34,11 @@ Sales Development Representative (German-speaking)
 <p>Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
 <p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p>#LI-CY1</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4545859002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4614686002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
