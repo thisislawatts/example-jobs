@@ -4,7 +4,7 @@ Senior Software Engineer, Security Productization
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">We’re looking for a collaborative, experienced senior software engineer to join our security team to enable our users to make conscious and informed decisions about the vulnerabilities in their code.</span></p>
-<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooing specially built for their needs, and curates proprietary data for the vulnerabilities in our database.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooing specially built for their needs, and curates proprietary data for the vulnerabilities in our database.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with teams across the whole engineering org to integrate security knowledge into our products across the board</span></li>
@@ -44,7 +44,6 @@ Senior Software Engineer, Security Productization
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q 2020 alone, Snyk had already over 600,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $200 million,</span><a href="https://snyk.io/blog/snyk-closes-200m-to-modernize-security-industry/"> <span style="font-weight: 400;">announced Sep, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripes, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2021 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
 
 Interested?
