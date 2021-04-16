@@ -38,13 +38,13 @@ Technical Support Engineer
 <p><strong>More about Snyk</strong></p>
 <p><span style="font-weight: 400;">We mostly work in JavaScript, both front-end and back-end, and our architecture follows the microservices pattern. We are very happy to help you learn if you don’t have previous experience with these - we believe curiosity, communication, and the ability to learn are most important.</span></p>
 <p><span style="font-weight: 400;">We work in geographically distributed teams and have offices in London, Tel Aviv, Boston, and Ottawa. We use Slack &amp; Zoom to keep in contact with one another, and you’ll travel around at least twice a year to spend time with colleagues who aren’t co-located with you.</span></p>
+<p>&nbsp;</p>
 <p>#LI-TO1</p>
-<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5120177002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4985758002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
