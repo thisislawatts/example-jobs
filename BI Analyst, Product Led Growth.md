@@ -42,10 +42,10 @@ BI Analyst, Product Led Growth
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
-<p>The use of open source is booming, but security is a key concern (<a href="https://snyk.io/stateofossecurity/">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</p>
-<p>We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
-<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
+<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (https://snyk.io/stateofossecurity/). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</span></p>
+<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</span></p>
+<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
 <p><span style="font-weight: 400;">#LI-Remote</span></p>
 
