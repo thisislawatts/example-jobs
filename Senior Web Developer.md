@@ -6,37 +6,36 @@ Senior Web Developer
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><strong>Location: Remote US</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an exceptional UX designer to join our web team, to create compelling user experiences that developers will love.</span></p>
-<p><span style="font-weight: 400;">As the senior UX designer you’ll play an important role in achieving Snyk’s mission of helping software developers use open source and containers securely.</span></p>
-<p><strong>You’ll spend your time</strong></p>
+<p><strong>Location: US Remote&nbsp;</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate and experienced engineer to join our Marketing Web Team.</span></p>
+<p><span style="font-weight: 400;">For this role, you will work as part of our Marketing Web Team within the Global Marketing Team and partner with another web developer on the development, optimization and growth of our marketing websites.</span></p>
+<p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working on complex design problems, in a complicated domain</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">acquiring strong actionable insight through research and usability testing, iterating on the design and flows based on this feedback</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating cross-functionally with product management, engineering, and marketing to ensure a smooth product design process and consistent visual language.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">delivering artifacts to a high level of attention to detail and craft&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">creating the Marketing design system and evolving Snyk’s overall design system to ensure the UI is consistently implemented across Snyk’s web presences</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">helping to establish world class design practices and a strong design culture</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">building and maintaining the marketing website, community website and other micro-sites.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">being responsible for website performance and optimization.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">supporting the technical integrations of 3rd-party marketing tools e.g. Google Analytics, Marketo, Intercom.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working with the Marketing Designer to implement design, user experience changes and continuous improvements.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">helping with the implementation of temporary experiments and optimisation tests.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">being the technical partner to the Marketing Team to help us move faster, smarter and maintain a world-class website.</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">minimum of 5 years commercial design experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have deep understanding of design principles and industry trends</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have plenty of experience running usability testing sessions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate work process methodology including user workflows, wireframes/mockups and design explorations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged startup environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have flawless written English, and you're confident running customer-facing communications.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are hands-on, curious and love to explore new domains and technologies.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">critical thinker prepared to challenge the status quo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">love to craft beautiful websites that help to engage prospects and convert them into loyal customers.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working on a SaaS web application.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">believe testing and code quality is important and prioritize useful code review.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">move quickly and iteratively, and believe that shipping early is best.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable with Git, GitHub and Continuous Integration / Continuous Deployment workflows.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are proactive, and enjoy working on cross-functional delivery teams.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">like to start new things, see them through to production, and learn from your mistakes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are interested in security, developer tooling, and open source.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">experience of designing a website for a technical product</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">experience working with distributed, agile teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">experience with designing to improve activation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you can demonstrate experience in working from vague briefs, working through a robust process to deliver high quality, design artifacts&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">experience creating a flexible design system to create a scalable and flexible website</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with WordPress.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have good design sensibilities and understanding of design principles.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience of SEO best practices.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working as part of a distributed team.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Next.js, Node.js, Vue.js, and React.</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
