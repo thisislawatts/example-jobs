@@ -4,7 +4,7 @@ Senior IT Project Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across all departments, as well as the rollout of systems and integrations to support our fast growing company in its adoption of new systems.</span></p>
-<p><span style="font-weight: 400;">As the Senior Product Manager, you will be responsible for leading the IT team vision, and working closely with colleagues across the entire business.</span></p>
+<p><span style="font-weight: 400;">As the Senior Project Manager, you will be responsible for leading the IT team vision, and working closely with colleagues across the entire business.</span></p>
 <p><span style="font-weight: 400;">You will work closely with many business functions on the planning and execution of projects with a high impact on all departments. You will identify opportunities to influence our plans and priorities through regular internal customer engagements.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -16,7 +16,7 @@ Senior IT Project Manager
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in being a technical product manager</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in being a technical project manager</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with Cloud Native technologies in an Infrastructure domain. Successfully delivering cloud platforms at scale.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in building platforms and products for internal customers, with the ability to drive adoption of these products</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience collaborating with multiple stakeholders and managing priorities.</span></li>
