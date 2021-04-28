@@ -4,15 +4,13 @@ Solutions Engineer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><strong>Role: Solutions Engineer</strong></p>
-<p><strong>Location: US - West Coast</strong></p>
-<p>We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
-<p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
-<p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
+<p><strong>Role: Sales Engineer</strong></p>
+<p><strong>Location: London &amp; Tel Aviv</strong></p>
+<p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</strong></p>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">becoming a technical product expert, evangelist and coach, able to give technical sales demonstrations to customer and partners in your sleep</span></li>
-<li><span style="font-weight: 400;">educate customer and partners about the adoption of open source and the importance of empowering developers to stay secure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">educate customer and partners about the adoption of open source and the importance of empowering developers to stay secure</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">drive the technical aspects of the sale, providing demonstrations, managing proof of concepts, demonstrating product expertise and sharing best practice</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">interfacing with our channel partners, engineering, product and customer success teams to build solutions that actually solve our customers’ problems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">shaping and informing decisions on new features based off your experience and feedback from customers and channel partners</span></li>
@@ -32,28 +30,27 @@ Solutions Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked closely with highly technical customers before</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understand people and what makes them tick</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a team-oriented mindset</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">care about diversity and enjoy meeting people from all walks of life</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">care about diversity and enjoy meeting people from all walks of life.</span></li>
 </ul>
 <p><span style="text-decoration: underline;"><span style="font-weight: 400;"><strong>We’d especially love to hear from you if you:</strong></span></span></p>
 <ul>
-<li><span style="font-weight: 400;">have worked in early stage, fast growth startups (especially in developer tooling!)</span></li>
-<li><span style="font-weight: 400;">are fluent in additional languages</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in early stage, fast growth startups… especially in developer tooling!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are fluent in additional languages</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
-<p><span style="font-weight: 400;">Please apply below!</span></p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
 <p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
 <p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
 <p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<p>#LI-HP1 #LI-REMOTE</p>
+<p><span style="font-weight: 400;">#LI-CY1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4397845002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4214914002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
