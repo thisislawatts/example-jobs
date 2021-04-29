@@ -3,43 +3,44 @@ Implementation Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
-<p><strong>Title: Implementation Engineer</strong></p>
-<p><strong>Location: US (Boston or Remote, West Coast)</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an organized, developer-centric Implementation Engineer to help our Enterprise &amp; Strategic customers achieve resounding success with their Snyk implementation.</span></p>
-<p><span style="font-weight: 400;">A Snyk Implementation Engineer is a key member of our Customer Success Organization who is an expert at overcoming any internal or external technical obstacles that may arise in a customer’s journey to success with Snyk.</span></p>
-<p><strong>As one of our first Implementation Engineers, you will:</strong></p>
+<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
+<p><strong>Location: West Coast US (Pacific Time Zone) or Remote</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a self-driven, customer-focused, and technically savvy professional to join our Implementation Engineering team to retain and grow our most strategic customers with deep integrations, technical advisory, and in general “making things work”.</span></p>
+<p><span style="font-weight: 400;">The Implementation Engineering team focuses on accelerating the time to value and deeply integrating within the customer DevSecOps ecosystem, ultimately making them sticky with Snyk and successful in their mission of shipping secure cloud native applications.</span></p>
+<p><strong>As an Implementation Engineer, you’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Partner with the CSM to design and manage the technical implementations for both newly onboarding and existing customers. This may include the set-up of SSO and key integrations, advising on recommended API use cases and helping to incorporate where appropriate into a customer’s SLDC.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide live customer trainings to Security, DevSecOps and Developer audiences</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Serve as a technical center of excellence within the Customer Success organization, helping to improve our overall implementation process as our product evolves</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide live troubleshooting and advice for technical blockers and help to drive to technical solutions in collaboration with our Technical Support Engineers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contribute consistent and actionable feedback to our Product Team based on customer interactions.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work collaboratively with Product Management, Product Marketing, Design and Engineering during the development and launch of new features and products.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working alongside Customer Success as a technical overlay to ensure sound and successful integrations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">helping to define standards as we grow and scale, for repeatable delivery and consistent customer implementation strategies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">documenting and packaging your work into repeatable methodologies for customer success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working closely with our internal Product &amp; Engineering teams to continuously identify ways to improve the customer’s experience with the Snyk products</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">mobilizing internal and external resources to remove barriers to adoption</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">assisting with workshops and training sessions as needed for the most strategic and complex customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">applying a wide range of skills to make our customers successful, from consulting to creating best practice guides, and assisting in feature design</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience managing technical implementations within a SaaS organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have direct industry experience working in developer toolsets and writing/managing open source software</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Can leverage firsthand knowledge of enterprise software implementation methodologies for large deployments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a demonstrated track record of creating assets and defining processes to facilitate scaling</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Can demonstrate exceptional oral, written, presentation, collaboration, and interpersonal communication skills, both internally with various project teams and externally with a developer audience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are excited about open source security and genuinely want to help our customers gain maximum value from Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 3-5 years of experience in a customer facing, software consulting, or professional services role&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate a basic knowledge of developer ecosystems and the SDLC, and have some experience in software development even if as a hobby or in school</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">consider yourself a problem solver and able to pick up new concepts and technologies quickly</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">enjoy technology and learning if for no other reason than your own curiosity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">thrive in a collaborative, fast-paced environment as part of a results-oriented team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are an effective communicator, able to distill complexity into a clear plan of work to accomplish the goal</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we have teams across multiple offices, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<h3><br><br></h3>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, after recently securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions with DeepCode &amp; Manifold. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">#LI-ES1 #LI-Remote</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4966161002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5236460002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
