@@ -6,6 +6,7 @@ ANZ Regional Marketing Manager
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
+<p><strong>Location: Sydney, Australia&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a regional marketing manager eager to wake up each morning to define, build, drive, plan, and execute (of course with excellence), extraordinary regional marketing programs.</span></p>
 <p><span style="font-weight: 400;">Our ANZ business is booming, and the responsibilities of this marketeer is to define regional specific activities for prospects and existing customers, in order to contribute to the continuing success of our ANZ sales pipeline goals. The role requires multidisciplinary ownership of the regional marketing activities. It will involve daily interaction with the field sales teams in the region, as well as close collaboration with teams across multiple different departments, and, in some cases, our channel partners. Campaigns will include virtual, hybrid and live formats (both Snyk initiated, as well as with external vendors), channel related activities, third party regional conferences, customer specific programs, account based marketing, and much more.&nbsp;</span></p>
 <p><strong>Your role:</strong></p>
