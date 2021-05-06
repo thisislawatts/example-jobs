@@ -11,9 +11,10 @@ Account Executive, SMB (EMEA)
 <p><span style="font-weight: 400;">We’re a collaborative team from a variety of backgrounds, made up of Sales Executives and Technical Sales Engineers.&nbsp; We spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team to maximize performance and earning potential..&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <h2><strong>You should join us if:</strong></h2>
 <ul>
-<li><span style="font-weight: 400;">You have experience selling into a developer or security team.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience of both short and long sales cycles</span></li>
+<li><span style="font-weight: 400;">You have experience <strong>selling into a developer or security team</strong>.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You understand the <strong>software developer lifecycle</strong> and can articulate how a developer tooling product might fit in</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience of both <strong>short and long sales cycles</strong></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience <strong>selling a complex SaaS solution</strong></span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are collaborative and love belonging to a high-achieving sales team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
