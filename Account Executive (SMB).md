@@ -3,7 +3,7 @@ Account Executive (SMB)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Boston</strong></p>
+<p><strong>Locations: California / North East / South East</strong></p>
 <p><strong>We're looking for a collaborative, hard-working Sales Director to join one of the hottest startups in the US!</strong></p>
 <h3><strong>Your Role</strong></h3>
 <p><span style="font-weight: 400;">As part of the US Sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer Security space. As a Sales Director at Snyk, you'll be responsible for the end-to-end sales cycle for net new small medium business customers. This is an outbound sales role and will include sourcing leads and connecting with prospects in accounts that match our ideal customer profile, and building strong relationships with key stakeholders in the DevSecOps, Development, and Digital Transformation teams at those accounts. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
