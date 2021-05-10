@@ -3,13 +3,16 @@ Engineering Manager: Ecosystems Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p>&nbsp;</p>
 <p>We’re looking for an empathetic, collaborative, and goal-oriented team leader to lead one of our engineering teams. This team provides data from software ecosystems to power Snyk’s products.</p>
 <p>You know how to get a team collaborating to achieve goals, by making sure everyone is clear on the mission, while also having the freedom and space to figure out how to achieve them.</p>
 <p>You'll grow and retain an effective, impactful team that evolves its own processes and practices. Helping your team members develop and practise their skills. Finding them the right opportunities to step up, as well as hands on support with pairing and mentoring.</p>
-<p>Your team will be split across London and Tel Aviv. You will own the future product direction, development, and operational reliability of parts of our platform. </p>
+<p>Your team will be split across London and Tel Aviv. You will own the future product direction, development, and operational reliability of parts of our platform.</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">coding for up to half of your time</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">managing a team of strong software engineers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">providing team members with regular feedback, coaching, and mentoring</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">hiring the right people to enhance the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working with other teams to achieve shared goals</span></li>
