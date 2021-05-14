@@ -13,21 +13,19 @@ Engineering Manager, Product Led Growth
 </ul>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">leading a team of cross-functional Software Engineers, alongside a Product Manager</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">introducing and improving the Engineering practices on the team - from sprint planning to sprint retro, from innovation to operational excellence</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">leading a team of cross-functional Software Engineers, alongside a Product Manager and Product Marketing Manager</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">introducing and improving the Engineering practices on the team - from planning to retrospective; from innovation to operational excellence</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing the hiring for the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">coding and building features on ad-hoc, cross-functional feature teams&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working in a full CI/CD environment, at a sustainable pace, in two-week sprints&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working in a full CI/CD environment, at a sustainable pace, in two-week iterations&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">taking part in maintaining and supporting our service during our on-call rotation (for a week every 10 weeks)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">providing team members with regular feedback, coaching, and mentoring</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">hiring the right people to enhance the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">leading group initiatives or goals</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in managing, coaching, and mentoring software engineers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with </span><span style="font-weight: 400;">JavaScript/TypeScript</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 3+ years of experience managing teams&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in coaching, and mentoring software engineers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable coding in and happy to work with NodeJS</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">can challenge and empathise with architectural or coding opinions in the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in cultivating a strong engineering culture in an iterative, agile environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a strong multi-tasker, capable of managing multiple priorities</span></li>
@@ -35,22 +33,24 @@ Engineering Manager, Product Led Growth
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are excited by Snyk’s mission, open-source, or developer tools</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience leading a geographically distributed team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in experimental, lean and/or growth teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a geographically distributed team</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps, and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, including multiple enterprise customers (such as Google, New Relic, ASOS, and others). We also raised an additional $150 Million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21st, 2020</span></a><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential.</span></p>
-<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p>We’re on a mission to make the world a safer place with more secure software.</p>
+<p>We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
+<p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
+<p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
+<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
+<p><span style="font-weight: 400;">#LI-EO1</span></p>
 <p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4988692002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5154322002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
