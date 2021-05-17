@@ -3,47 +3,54 @@ Software Engineer, Security R&D
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a talented, thoughtful software developer to join our security team to enable our users to make conscious and informed decisions about the vulnerabilities in their code.</span></p>
-<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooling specially built for their needs, and curates proprietary data for the vulnerabilities in our database.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Here at Snyk as part of our team, you will concentrate on enhancing our users’ experience and understanding of security across all of our products and integrations, and help them make smart choices around managing and prioritising vulnerabilities in their projects.</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, experienced software engineer to join our team to enable our users to make conscious and informed decisions about the vulnerabilities in their code.</span></p>
+<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooing specially built for their needs, and curates proprietary data for the vulnerabilities in our database. Our team takes this data and surfaces it throughout the Snyk platform enabling our users to take informed actions and minimise their security risk.</span></p>
+<h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working collaboratively with security analysts to better understand vulnerabilities and how best to use that data to enhance our security offerings</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with teams across the whole engineering org to integrate security knowledge into our products across the board</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">developing full stack solutions for our understanding of customer needs, and ultimately a better user experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working across the full stack; Kubernetes, AWS, Vue, Typescript &amp; Node.js.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">owning everything from the commercial success to operational insight of specific features in our platform</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with teams across the whole engineering organization to integrate security knowledge into our products across the board</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">maintaining and supporting a high quality, reliable, fast service for users, at scale</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">talking to our users, collaborating with your team to build a product they truly love&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">enabling users to better prioritise and remediate the vulnerabilities in their code</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">continuously delivering small, high quality changes to production, at a sustainable pace</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">mentoring the other engineers in your team through feedback and advice</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">evolving our technology and architecture to meet the challenges ahead</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years of experience working in software engineering</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and have occupational experience working with TypeScript/JavaScript and Node.js</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working on a SaaS web application</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">encourage effective testing, code quality, and useful code review</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are a capable coder, and are experienced working with TypeScript, Node.js</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with distributed and data intensive systems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable working across the stack as part of a cross-functional team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in FE frameworks (vue, react, etc), and love to craft beautiful websites that help to engage users and convert them into loyal customers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">interested in or have worked with vulnerabilities, data and Python</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">prioritize collaboration, pair programming, and code review, but can still work independently if needed</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">think really understanding a task is 80% of the success of a project</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">interested in enabling users to better prioritize and remediate the vulnerabilities in their code</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">communicate proactively and speak English to a good standard</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand the importance of testing and code quality</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are interested in providing technical direction for the team, and influencing prioritisation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">enjoy learning and sharing with your peers, and are comfortable pair programming</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
+<h3><strong>We’d especially love to hear from you if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">like to learn and build, see things through to production, and learn from your mistakes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and users</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in front-end frameworks (vue, react, etc), and love to craft beautiful websites that help to engage users and convert them into loyal customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience developing in Python (django)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience leading and designing projects</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are interested in security and software vulnerabilities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are excited by Snyk’s mission, open-source, or developer tools</span></li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others).</span></p>
-<p><span style="font-weight: 400;">Our September 2020 Series D funding round of $200M has put us at over $2.6 billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-FS1</span></p>
+<p>We’re on a mission to make the world a safer place with more secure software.</p>
+<p>We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
+<p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
+<p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
+<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
+<p>#LI-TO1<br>#LI-Remote</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4941154002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5127769002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
