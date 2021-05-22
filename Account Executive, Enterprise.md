@@ -3,7 +3,7 @@ Account Executive, Enterprise
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working <strong>Account Executive</strong> to join our sales team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working <strong>Enterprise</strong> <strong>Account Executive</strong> to join our sales team.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is growing rapidly: technology is a core part of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <span style="font-weight: 400;">aren’t security experts</span></a><span style="font-weight: 400;">. But our team is.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security knowledge: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
 <p><span style="font-weight: 400;">We’re focused on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organisations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
