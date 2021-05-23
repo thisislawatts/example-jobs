@@ -45,7 +45,7 @@ Software Engineer, Security R&D
 <p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
 <p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
-<p>#LI-TO1<br>#LI-Remote</p>
+<p>#LI-HW1<br>#LI-Remote</p>
 
 Interested?
 ---
