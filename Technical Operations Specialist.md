@@ -8,7 +8,7 @@ Technical Operations Specialist
 <p><span style="font-weight: 400;">You are experienced with existing technologies, and comfortable with new ones. You are a problem solver with excellent execution and communication skills. You will use this experience to define the systems and policies that will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s London offices, including Networking and Conferencing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s Ottawa offices, including Networking and Conferencing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Snyk’s employee base with a data driven approach and a focus on user satisfaction</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and offboarding of leaving employees</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding our current technology stack and its usage across the company, as well as current gaps and requirements for future tools and systems</span></li>
@@ -43,6 +43,7 @@ Technical Operations Specialist
 <p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
