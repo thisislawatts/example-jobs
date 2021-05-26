@@ -58,7 +58,7 @@ Senior Software Engineer, Growth Group
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</span></p>
 <p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
+<p><span style="font-weight: 400;">#LI-KP1<br>#LI-Remote</span></p>
 
 Interested?
 ---
