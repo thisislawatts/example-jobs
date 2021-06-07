@@ -4,7 +4,7 @@ Software Engineer, Security R&D
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">We’re looking for a collaborative, experienced software engineer to join our team to enable our users to make conscious and informed decisions about the vulnerabilities in their code.</span></p>
-<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooing specially built for their needs, and curates proprietary data for the vulnerabilities in our database. Our team takes this data and surfaces it throughout the Snyk platform enabling our users to take informed actions and minimise their security risk.</span></p>
+<p><span style="font-weight: 400;">The security group researches vulnerabilities, adds them to the database with pipelines and tooling specially built for their needs, and curates proprietary data for the vulnerabilities in our database. Our team takes this data and surfaces it throughout the Snyk platform enabling our users to take informed actions and minimise their security risk.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working across the full stack; Kubernetes, AWS, Vue, Typescript &amp; Node.js.</span></li>
