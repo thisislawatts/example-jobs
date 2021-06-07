@@ -4,7 +4,7 @@ Sales Leader, SMB (EMEA)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h4><strong>Role: Sales Leader (SMB Sales)</strong></h4>
-<p><strong>Location: London&nbsp;</strong></p>
+<p><strong>Location: London or Remote, UK&nbsp;</strong></p>
 <h4><strong>We’re looking for a collaborative, hard-working Sales Manager to join one of the hottest startups in the UK!</strong></h4>
 <p><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></p>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces.&nbsp; <strong>You’ll be responsible for helping to lead the SMB and Inside Sales team's</strong> as well as for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
