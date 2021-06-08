@@ -43,6 +43,7 @@ Senior UX Product Designer
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
 ---
