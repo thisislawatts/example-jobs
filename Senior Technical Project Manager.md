@@ -3,20 +3,23 @@ Senior Technical Project Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across all departments, as well as the rollout of systems and integrations to support our fast growing company in its adoption of new systems.</span></p>
-<p><span style="font-weight: 400;">As the Senior Project Manager, you will be responsible for leading the IT team vision, and working closely with colleagues across the entire business.</span></p>
-<p><span style="font-weight: 400;">You will work closely with many business functions on the planning and execution of projects with a high impact on all departments. You will identify opportunities to influence our plans and priorities through regular internal customer engagements.</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">We are looking for a project management leader that will define/create much of our approach to IT project planning, management and delivery. You are not stepping into a clean, well-defined role. You are the “prototype” for the IT project management function at Snyk; the one who will help us figure out how to plan, execute and communicate this work to all of Snyk.</span></p>
+<p><span style="font-weight: 400;">You will not be managing one large, “waterfall” enterprise software project at a time. Instead, you will juggle 10-15 projects at a go. Some might only last a week, others a month or two. You will help us get better at planning and executing these projects. You will also put in place the measurements and data to help us better understand and communicate our capacity and commitments.</span></p>
+<h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Defining and communicating the product vision and roadmap for the IT group.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering closely with Snyk’s leadership across the board to ensure we are accurately translating internal needs into well defined backlogs.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Guiding our Tech Operations and Systems Engineering team in the prioritization and implementation of solutions that are aligned with the needs and prioritization of the company.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering closely with Snyk business stakeholders to ensure we are accurately translating internal needs into well defined projects and backlogs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Guiding our Tech Operations and Systems Engineering teams (our IT delivery teams) in the prioritisation and implementation of solutions that are aligned with the needs and prioritisation of the company.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Tracking and reporting on projects and their associated KPIs, such as the roll out of a new HRIS system (Workday), or the implementation of a company-wide internal support system and process</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Inspiring a Product Thinking mindset across the entire CIS group, as a well as introducing agility and transparency to our IT development processes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating project templates for reliable, repeatable execution of projects.</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<h3><strong>You should apply if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in being a technical project manager</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience managing an ongoing portfolio of varied projects. This is not a job for people with only serial project management experience.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in Agile methodologies. Ideally, you’re deep in Agile and have a strong understanding of roles, approaches, etc.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in Agile Coaching. Have helped implement or deepen an organization’s adoption of agile.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in a SaaS-heavy technical environment.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with Cloud Native technologies in an Infrastructure domain. Successfully delivering cloud platforms at scale.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in building platforms and products for internal customers, with the ability to drive adoption of these products</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience collaborating with multiple stakeholders and managing priorities.</span></li>
@@ -24,8 +27,9 @@ Senior Technical Project Manager
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are able to adapt in a fast-paced environment, with the ability to manage competing priorities and multi-task</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively, and enjoy working with people from multiple disciplines across engineering, marketing, sales, security, HR and finance</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Adept at working across multiple teams, with the ability to set a vision and roadmap at a group level</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in working in a geographically distributed / remote environment. You can set and manage your own work without direction from others. You are comfortable and experienced working asynchronously (Slack, written docs, other collaboration and communication tools).</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
+<h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
