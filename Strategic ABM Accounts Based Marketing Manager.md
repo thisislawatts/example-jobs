@@ -28,7 +28,7 @@ Strategic ABM Accounts Based Marketing Manager
 <p><span style="font-weight: 300;">We’re on a mission to make the world a safer place with more secure software. As we enter a world of all-things-digital and cybersecurity takes center stage in it, the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 300;">Snyk has been adopted by over 2M developers who find and fix vulnerabilities in their open source, code, container images, and infrastructure as code.&nbsp; It is no wonder then that in 2021 we doubled the size of our global team, successfully closed&nbsp; three strategic acquisitions, and raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion. And we’re not stopping there - this May 2021 Snyk debuted #15 on CNBC’s Disruptor 50 List - representing 50 private companies “aligned with today’s rapid pace of technological change - poised to emerge from the pandemic as the next generation of business leaders.”&nbsp;</span></p>
 <p><span style="font-weight: 300;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<p><span style="font-weight: 300;">#LI-CJL1 #LI-Remote</span></p>
+<h6><span style="font-weight: 300;">#LI-CJL1 #LI-Remote</span></h6>
 <p>&nbsp;</p>
 
 Interested?
