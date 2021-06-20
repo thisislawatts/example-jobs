@@ -4,11 +4,11 @@ Software Engineer, Snyk Code
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><span style="font-weight: 400;">We’re looking for a passionate senior software engineer to join our new team and help us build </span><a href="https://snyk.io/blog/developer-first-sast-with-snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;">, our developer-first SAST solution.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate software engineer to join our new team and help us build </span><a href="https://snyk.io/blog/developer-first-sast-with-snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;">, our developer-first SAST solution.</span></p>
 <p><span style="font-weight: 400;">Our new product enables developers to scan their own source code for security issues and provides meaningful and actionable results to fix those issues. We would like to build this awesome product gradually while keeping on Snyk’s main values: developer-first and security intelligence.</span><strong> You have a great opportunity to join us building this product almost from scratch while creating an innovative environment that evolves rapidly.</strong></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years of experience in engineering</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 2+ years of experience in engineering</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love building new products and getting innovative!</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have designed, built, deployed, and hosted microservices on a major cloud-provider&nbsp;</span></li>
