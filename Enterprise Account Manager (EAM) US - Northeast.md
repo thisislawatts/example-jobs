@@ -3,34 +3,28 @@ Enterprise Account Manager (EAM) US - Northeast
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Snyk Enterprise Account Manager (EAM):</span></p>
-<p><span style="font-weight: 400;">The <strong>Enterprise Account Manager</strong> will be part of an expanding Enterprise Sales Team covering North American F500 and strategic accounts.  The Snyk EAM will be responsible for developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers. The focus of the Enterprise team will be in the largest and most strategic named accounts in North America. The EAM will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.  A successful Enterprise seller will:</span></p>
+<p><strong>Enterprise Account Manager</strong></p>
+<p><strong>Location: Remote - US Northeast</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working Account Executive to join our sales team.</span></p>
+<p><span style="font-weight: 400;">As an Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies to large enterprises like Google and Salesforce.</span></p>
+<p><span style="font-weight: 400;">We want you to contribute to the iterative improvement of our sales process, tone and approach, and you’ll have plenty of scope to inform the way we develop our internal tooling to help you work efficiently and effectively. We’re a collaborative team with different experiences, and we spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for highly motivated salespeople who thrive with the freedom to decide how to spend your day, and how best to contribute to your team’s goals.</span></p>
+<p><strong>You should apply if you:</strong></p>
 <ul>
-<li><span style="font-weight: 400;"> Be an aggressive self-starter with the ability to build executive relationships, articulate Snyk’s solution and business value, create demand and close deals.</span></li>
-<li><span style="font-weight: 400;"> Develop a pipeline of activity that focuses on short, medium, and long-term revenue opportunities within the assigned accounts that result in quarterly measured revenue generation.</span></li>
-<li><span style="font-weight: 400;"> Set the sales strategy that drives demand and revenue generation and is responsible for developing and executing the business plan that includes a team of resources.</span></li>
-<li><span style="font-weight: 400;"> Must be able to effectively find, assess, and prioritize existing and future opportunities in conjunction with the customer, teammates, and the Channel Partner ecosystem.</span></li>
-<li><span style="font-weight: 400;"> Engage with strategic alliance partners to drive mutually beneficial revenue opportunities.</span></li>
-<li><span style="font-weight: 400;"> Propose, coordinate and participate in marketing activities to enterprise named accounts.</span></li>
-<li><span style="font-weight: 400;"> Effectively executes territory plan, account plans and opportunity plans to maximize revenue.</span></li>
-<li><span style="font-weight: 400;"> Must be available to travel up to 50% within the assigned territory.</span></li>
-<li><span style="font-weight: 400;"> Performs other duties as assigned.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years experience selling a technical product to Enterprise level accounts (Fortune 100), and you want to hone your craft in a startup on its way to success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated and hard-working: you aim to exceed your quota, and you enjoy and thrive,working in fast-paced environments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative with marketing, sales engineers, product, customer success, and others to get your deal done, and work well in a “teaming” environment.&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are open, honest and take an entrepreneurial approach to sales, and mindful of your customer’s risk tolerance</span></li>
 </ul>
-<p><span style="font-weight: 400;">A combination of education and experience will be considered:</span></p>
+<p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li><strong>MUST have experience selling and working in the Dev/Sec/Opps space with proven success of selling Security and/or DevOps software solutions</strong></li>
-<li><span style="font-weight: 400;">Bachelor’s Degree required. </span></li>
-<li><span style="font-weight: 400;">Minimum of five (5) or more years of enterprise sales experience; direct and channel sales experience required.</span></li>
-<li><span style="font-weight: 400;"> Proven ability to develop new sales with prospecting, relationship building and executions skills.</span></li>
-<li><span style="font-weight: 400;"> Must have knowledge of solution selling and value-based selling techniques.</span></li>
-<li><span style="font-weight: 400;"> Be a high-energy sales person who is comfortable working in a fast-paced environment where roles and responsibilities change quickly.</span></li>
-<li><span style="font-weight: 400;"> Excellent verbal and written communication skill.</span></li>
-<li><span style="font-weight: 400;"> Ability to work independently with limited direction in a fast-paced environment.</span></li>
-<li><span style="font-weight: 400;"> Ability to adapt to changes in roles and responsibilities.</span></li>
-<li><span style="font-weight: 400;"> Be an aggressive self-starter with the ability to build executive relationships, articulate Snyk’s solution and business value, create demand and close deals.</span></li>
-<li><span style="font-weight: 400;"> Develop a pipeline of activity that focuses on short, medium, and long-term revenue opportunities within the assigned accounts that result in quarterly measured revenue generation.</span></li>
-<li><span style="font-weight: 400;"> Set the sales strategy that drives demand and revenue generation and is responsible for developing and executing the business plan that includes a team of resources.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in CyberSecurity, Application Security, DevOps, or DevSecOps&nbsp;</span></li>
 </ul>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 Interested?
 ---
