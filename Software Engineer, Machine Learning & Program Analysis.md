@@ -18,9 +18,9 @@ Software Engineer, Machine Learning & Program Analysis
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have program analysis experience or developed large systems using C++</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are interested in algorithms and data structures</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">want to work on a new generation of explainable machine learning tools</span></li>
+<li><span style="font-weight: 400;">have significant experience in algorithms and data structures, in industry or academia (M.Sc/Ph.D)</span></li>
+<li><span style="font-weight: 400;">want to work on a new generation of explainable machine learning tools</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have program analysis experience or developed large systems using C/C++</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">prioritise collaboration, pair programming, and code review</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">work sustainably, quickly, and iteratively</span></li>
@@ -39,7 +39,7 @@ Software Engineer, Machine Learning & Program Analysis
 <p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">#LI-HW1</span></p>
 <p><span style="font-weight: 400;">#LI-Remote</span></p>
 
 Interested?
