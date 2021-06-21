@@ -1,4 +1,4 @@
-Senior Product Manager, Snyk Code
+Product Manager, Snyk Code
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
@@ -19,7 +19,7 @@ Senior Product Manager, Snyk Code
 </ul>
 <p><strong>You should apply if:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 4+ years experience working in a product management role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 2+ years experience working in a product management role</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have product management experience in some or all of B2B SaaS, developer tooling or cloud infrastructure</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong technical background</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are interested in the intersection of security and developer experience</span></li>
@@ -40,7 +40,7 @@ Senior Product Manager, Snyk Code
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5339079002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5341851002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!

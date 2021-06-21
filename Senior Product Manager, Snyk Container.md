@@ -1,12 +1,12 @@
-Senior Product Manager, Snyk Code
+Senior Product Manager, Snyk Container
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">Snyk is used by over 2.2M developers, from those working on open source projects to teams in large enterprise organisations.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We secure the code you write, with Snyk Code. The libraries you depend upon with Snyk Open Source. The containers you package it all into, with Snyk Container and lastly the infrastructure that you run it on with Snyk Infrastructure as Code.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We’re looking for a product manager for </span><strong>Snyk Code</strong><span style="font-weight: 400;">, to work as an integral part of our security, Program Analysis and ML teams to drive impact across this product.&nbsp;</span></p>
-<p><span style="font-weight: 400;">You will own Snyk Code core capabilities - from the future language coverage roadmap to internal tooling enabling our experts. Example initiatives could include understanding how to prioritise given programming language framework support, defining future ML/AI capabilities and iterating on tools that help security analysts who add and review Code rules run faster.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a product manager for </span><strong>Snyk Container</strong><span style="font-weight: 400;">, to work as an integral part of a balanced team with design and engineering to drive impact across this product.&nbsp;</span></p>
+<p><span style="font-weight: 400;">You will own core user journeys and the associated outcomes, focused on driving onboarding, engagement and retention with our product. Example initiatives could include working on the CLI interface, developing an integration with a 3rd party or collaborating across the Snyk Platform.</span></p>
 <h3><strong>You’ll spend your time</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Shipping new features and improving existing ones</span></li>
@@ -15,9 +15,9 @@ Senior Product Manager, Snyk Code
 <li style="font-weight: 400;"><span style="font-weight: 400;">Defining metrics and analysing data on usage and business performance</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Defining and then communicating the product roadmap, both inside Snyk and to customers and prospects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Researching the surrounding market, with an eye on gaps in the market, competitors and potential partnerships</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diving deep into the problem space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diving deep into the problem space - learning about how containers are used and secured</span></li>
 </ul>
-<p><strong>You should apply if:</strong></p>
+<h3><strong>You should apply if you</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have 4+ years experience working in a product management role</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have product management experience in some or all of B2B SaaS, developer tooling or cloud infrastructure</span></li>
@@ -25,7 +25,7 @@ Senior Product Manager, Snyk Code
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are interested in the intersection of security and developer experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent written and verbal communication skills in English, and enjoy helping others to learn new things</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are happy to travel at least once a quarter (under usual circumstances) to gather feedback from our users and to spend time working face-to-face with other colleagues that aren’t colocated with you</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Preferably have some experience with SAST or a closely related domain</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Preferably have some experience with containers and Kubernetes, or a closely related domain</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below. We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not sure if you meet all of the criteria - please apply anyway! We’d love to talk to you.&nbsp;</span></p>
@@ -35,12 +35,12 @@ Senior Product Manager, Snyk Code
 <p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
 <p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure. Join us!</span></p>
-<p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
+<p>#LI-TO1<br>#LI-Remote</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5339079002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5341886002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
