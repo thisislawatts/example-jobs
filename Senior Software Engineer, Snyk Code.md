@@ -7,7 +7,6 @@ Senior Software Engineer, Snyk Code
 <p><span style="font-weight: 400;">Our new product enables developers to scan their own source code for security issues and provides meaningful and actionable results to fix those issues. We would like to build this awesome product gradually while keeping on Snyk’s main values: developer-first and security intelligence.</span><strong> You have a great opportunity to join us building this product almost from scratch while creating an innovative environment that evolves rapidly.</strong></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 6+ years of experience in designing, building, deploying, and hosting microservices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love building new products and getting innovative!</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good track record of project leadership and mentorship of software engineers</span></li>
@@ -15,6 +14,7 @@ Senior Software Engineer, Snyk Code
 <li style="font-weight: 400;"><span style="font-weight: 400;">ensure a high-quality of code, that can be safely co-authored in a fast growing organisation</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable working in a cross-functional team, working across the stack to deliver new features from start-to-end</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">communicate proactively and have a team-first mind-set</span></li>
+<li><span style="font-weight: 400;">have 6+ years of experience in designing, building, deploying, and hosting microservices</span></li>
 </ul>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -30,8 +30,9 @@ Senior Software Engineer, Snyk Code
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have strong proficiency with JavaScript and Typescript</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with both low level languages (C / C++) and high level languages (like JavaScript)</span></li>
+<li><span style="font-weight: 400;">have worked with a front-end framework in the past (React, Angular, Vue, Ember)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good familiarity with static analysis tools or understanding of security issues as part of the developer’s environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with a front-end framework in the past (React, Angular, Vue, Ember)</span></li>
+<li><span style="font-weight: 400;">have a good track record of project leadership and mentorship of software engineers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked on a large-scale distributed system</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience contributing to open-source projects</span></li>
 </ul>
