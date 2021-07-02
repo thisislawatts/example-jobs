@@ -3,6 +3,7 @@ Sales Development Representative (German Speaking)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h3><span style="font-size: 13.65px;"><em>This is an entry level role and best suited for someone with little - to - no experience.</em></span></h3>
 <p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious German speaking, Sales Development Representative to join our team.</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll have insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and lots of mentorship and training.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
