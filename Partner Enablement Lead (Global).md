@@ -3,7 +3,7 @@ Partner Enablement Lead (Global)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">The Strategy &amp; Operations team’s mission is to drive Synk’s sustainable growth and productivity gains by enabling: good, efficient decision making; rapid effective execution; and scale.</span></p>
+<p><span style="font-weight: 400;">The Strategy &amp; Operations team’s mission is to drive Snyk’s sustainable growth and productivity gains by enabling: good, efficient decision making; rapid effective execution; and scale.</span></p>
 <p><span style="font-weight: 400;">The Go-to-Market Enablement team exists to support and drive performance across our client-facing teams to support the growth of our company at scale. As a Partner Enablement Lead you will be responsible for supporting our strategic alliance and channel partners globally to support our accelerated growth. You will partner with the Business Development Leadership team to define the enablement priorities and will be responsible for building and managing scalable enablement programs globally.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Partner Enablement Lead will become an expert in Snyk products and services, and be able to work cross-functionally to attract partners and ensure they are equipped with the technical and functional knowledge about our platform to successfully sell and implement it for their clients</span></p>
 <p><strong>You’ll spend your time:</strong></p>
