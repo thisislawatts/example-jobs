@@ -12,7 +12,6 @@ Security Engineer, Infosec Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">Taking ownership of key projects to improve our security posture</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Providing technical remediation guidance to stakeholders as needed</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Performing security testing of corporate assets and cloud&nbsp; infrastructure&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">MORE?</span></li>
 </ul>
 <p><span style="font-weight: 400;">You should apply if you have:</span></p>
 <ul>
