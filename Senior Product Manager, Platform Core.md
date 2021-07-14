@@ -3,6 +3,8 @@ Senior Product Manager, Platform Core
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><span style="font-weight: 400;"><em>All roles listed as remote are available as remote within the same country.</em></span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We're looking for a Senior Product Manager, focussing on supporting the scale and extensibility of Snyk’s platform to support multiple products, which are used by hundreds of thousands of developers, who collaborate on millions of projects, whilst staying ridiculously easy to work with.</span></p>
 <p><span style="font-weight: 400;"><strong>The Platform Core</strong> group focuses on capabilities that are shared between all Snyk’s products, including policies, reporting, user management and projects.</span></p>
 <p><span style="font-weight: 400;">As a Senior Product Manager for Snyk, you’ll collaborate with a distributed engineering team focused on the same goal: building and enhancing the common areas of our product that cater to all our users across all our products. You’ll work with your team to scale and standardize parts of the platform used by our customers and integrations (such as our API and webhooks), so they’re extensible and easy to use, helping broaden the impact that Snyk can have.&nbsp;</span></p>
