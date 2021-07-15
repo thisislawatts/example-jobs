@@ -3,7 +3,7 @@ Territory Account Executive (APJ / ANZ)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">The Regional Commercial Sales will be part of an expanding ANZ Sales Team covering the Australia / NZ region.&nbsp; This person will be responsible for developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers in there respective territories. The Commercial Sales rep will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.&nbsp; </span></p>
+<p><span style="font-weight: 400;">The Regional Territory Sales will be part of an expanding ANZ Sales Team covering the Australia / NZ region.&nbsp; This person will be responsible for developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers in there respective territories. The Commercial Sales rep will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.&nbsp; </span></p>
 <p><span style="font-weight: 400;">A successful seller will:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be an aggressive self-starter with the ability to build executive relationships, articulate Snyk’s solution and business value, create demand and close deals.</span></li>
