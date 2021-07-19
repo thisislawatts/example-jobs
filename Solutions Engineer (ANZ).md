@@ -18,7 +18,7 @@ Solutions Engineer (ANZ)
 </ul>
 <h4><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></h4>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have spent 3 years or similar in the sales engineering, developer or security space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have spent 5+ years or similar in the sales engineering, developer or security space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with a wide variety of coding languages and how they work</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good knowledge of the developer and DevOps ecosystems and practices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love to learn about new technology and you’re curious about how things work under the hood</span></li>
