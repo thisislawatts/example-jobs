@@ -3,8 +3,8 @@ Solutions Engineer (APJ)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Role: Sales Engineer</strong></p>
-<p><strong>Location: Singapore</strong></p>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><strong>Role: Solutions Engineer</strong></p>
 <p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</strong></p>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
 <ul>
@@ -43,12 +43,13 @@ Solutions Engineer (APJ)
 <p>Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
 <p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p><span style="font-weight: 400;">#LI-CY1</span></p>
+<p><span style="font-weight: 400;">#LI-HP1</span></p>
+<p>&nbsp;</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4991562002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5403207002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!

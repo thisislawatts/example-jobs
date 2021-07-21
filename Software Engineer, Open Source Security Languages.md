@@ -3,7 +3,6 @@ Software Engineer, Open Source Security Languages
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We are looking for a collaborative software engineer to join our team and help our </span><span style="font-weight: 400;">developers write software to keep our customers secure</span><span style="font-weight: 400;">!</span></p>
 <p><span style="font-weight: 400;">In our group we introduce and improve support for dev tools, languages, package managers, source code management and more. This means tackling challenges such as taming the complexity in developer ecosystems, providing a reliable and fast service at scale, and optimising the algorithms behind dependency resolution.&nbsp;</span></p>
 <p><span style="font-weight: 400;">If you've used </span><span style="font-weight: 400;">snyk test</span><span style="font-weight: 400;"> on the command line, have your GitHub code tested in the snyk web app, or use </span><span style="font-weight: 400;">snyk monitor</span><span style="font-weight: 400;"> in your CI pipeline - that's us!</span></p>
