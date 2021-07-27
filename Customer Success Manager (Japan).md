@@ -3,10 +3,10 @@ Customer Success Manager (Japan)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Tokyo, Japan</strong></p>
+<h2><strong>Location: Tokyo, Japan</strong></h2>
 <p><span style="font-weight: 400;">We're looking for an organised and personable Customer Success Manager to help delight our customers by optimising their onboarding experience and driving adoption while helping them to accomplish their goals.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You will be responsible for helping our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.&nbsp;</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<h2><strong>You’ll spend your time:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working with key technical stakeholders to agree on objectives and define success plans.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understanding each organisation's technical setup and workflow, and planning a rollout that suits their needs.&nbsp;</span></li>
@@ -16,7 +16,7 @@ Customer Success Manager (Japan)
 <li style="font-weight: 400;"><span style="font-weight: 400;">gathering usage patterns, feature requests, and feedback then sharing these with the product team.&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;">You'll be the main point of contact for the organisations you support, so you will need to be proactive in how you communicate, and responsive to incoming requests.&nbsp;</span></p>
-<p><strong>You should apply if you:</strong></p>
+<h2><strong>You should apply if you:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you ask incisive questions and are comfortable learning to discuss complex requirements.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you don't wait for an answer, you go and find one.&nbsp;</span></li>
@@ -28,12 +28,15 @@ Customer Success Manager (Japan)
 <li style="font-weight: 400;"><span style="font-weight: 400;">you're interested in open source and security, cloud, and containers.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you're excited about what we do and want to help our customers gain more value from Snyk.</span></li>
 </ul>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</span></p>
-<p><span style="font-weight: 400;">By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p><span style="font-weight: 400;">&nbsp;#LI-HP1&nbsp;</span></p>
+<h2><strong>Interested?</strong></h2>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h2><strong>About Snyk</strong></h2>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, only 6 months after securing an additional $200M in Series D funding in September 2020, and successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p><span style="font-weight: 400;">#LI-HP1</span></p>
 
 Interested?
 ---

@@ -6,7 +6,7 @@ Channel Enablement Lead (Global)
 <p><span style="font-weight: 400;">The Strategy &amp; Operations team’s mission is to drive Snyk’s sustainable growth and productivity gains by enabling: good, efficient decision making; rapid effective execution; and scale.</span></p>
 <p><span style="font-weight: 400;">The Go-to-Market Enablement team exists to support and drive performance across our client-facing teams to support the growth of our company at scale. As a Partner Enablement Lead you will be responsible for supporting our strategic alliance and channel partners globally to support our accelerated growth. You will partner with the Business Development Leadership team to define the enablement priorities and will be responsible for building and managing scalable enablement programs globally.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Partner Enablement Lead will become an expert in Snyk products and services, and be able to work cross-functionally to attract partners and ensure they are equipped with the technical and functional knowledge about our platform to successfully sell and implement it for their clients</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<h2><strong>You’ll spend your time:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Develop and execute detailed plans to enable the Snyk partner ecosystem</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Creating the partner learning and training infrastructure, building services training plan, documenting proven strategies and developing templates.</span></li>
@@ -23,7 +23,7 @@ Channel Enablement Lead (Global)
 <li style="font-weight: 400;"><span style="font-weight: 400;">Participate in measurement and evaluation activities</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Maintain stakeholder relationships with partners to drive program adoption.</span></li>
 </ul>
-<p><strong>You should apply if you:&nbsp;</strong></p>
+<h2><strong>You should apply if you:&nbsp;</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a partner enablement manager or similar role in a SaaS company</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experienced building and delivering effective training programs that enhance sales performance in a technical environment.</span></li>
@@ -33,16 +33,21 @@ Channel Enablement Lead (Global)
 <li style="font-weight: 400;"><span style="font-weight: 400;">Knowledge of leading partner/customer facing LMS solutions</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Cybersecurity or SaaS experience is desirable</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
+<h2><strong>We’d especially love to hear from you if you:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in a partner sales role </span><strong>and</strong><span style="font-weight: 400;"> have enablement experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in start-up/hyper-growth environment</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
-<p><strong>Please apply below! We're a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes. We care deeply about the warm, inclusive environment we've created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you're the right person, do apply anyway!</strong></p>
+<h2><strong>Interested?</strong></h2>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h2><strong>About Snyk</strong></h2>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, only 6 months after securing an additional $200M in Series D funding in September 2020, and successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p><span style="font-weight: 400;">#LI-HP1</span></p>
 <p>&nbsp;</p>
-<p><strong>We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We've made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others' perspectives.</strong></p>
-<p><br>#LI-HPC<br><br></p>
 
 Interested?
 ---

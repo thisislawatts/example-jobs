@@ -22,15 +22,15 @@ Account Executive (France)
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
 </ul>
 <p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
-<p><strong>Interested?</strong></p>
+<h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure. The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>).</p>
-<p>Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
-<p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
-<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p>&nbsp;</p>
-<h6><em>#LI-HP1</em></h6>
+<h2><strong>About Snyk</strong></h2>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, only 6 months after securing an additional $200M in Series D funding in September 2020, and successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p><span style="font-weight: 400;">#LI-HP1</span></p>
 
 Interested?
 ---

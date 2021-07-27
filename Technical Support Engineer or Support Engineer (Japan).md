@@ -33,9 +33,13 @@ Technical Support Engineer/Support Engineer (Japan)
 <p><span style="font-weight: 400;">We mostly work in JavaScript, both front-end and back-end, and our architecture follows the microservices pattern. We are very happy to help you learn if you don’t have previous experience with these - we believe curiosity, communication, and the ability to learn are most important.</span></p>
 <p><span style="font-weight: 400;">We work in geographically distributed teams and have offices in London, Tel Aviv, Boston, and Ottawa. We use Slack &amp; Zoom to keep in contact with one another, and you’ll travel around at least twice a year to spend time with colleagues who aren’t co-located with you.</span></p>
 <h2><strong>Interested?</strong></h2>
-<p><span style="font-weight: 400;">Please apply!&nbsp;</span></p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, please apply anyway!</span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h2><strong>About Snyk</strong></h2>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, only 6 months after securing an additional $200M in Series D funding in September 2020, and successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <p><span style="font-weight: 400;">#LI-HP1</span></p>
 
 Interested?

@@ -1,0 +1,48 @@
+Sales Development Representative (Japan)
+---
+
+<img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
+
+<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
+<p><span style="font-weight: 400;">The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <em><span style="font-weight: 400;">aren’t security experts</span></em></a><span style="font-weight: 400;">. But we are.</span></p>
+<p><span style="font-weight: 400;">We’re a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
+<p><span style="font-weight: 400;">We’re focussed on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
+<h2><strong>Your role</strong></h2>
+<p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll have great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and lots of mentorship and training.</span></p>
+<h3><strong>You’ll spend your time:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Account mapping and researching potential accounts that fit our Ideal Customer Profile</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sourcing qualified contacts using our persona guidelines</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Leverage tools to prioritize account out-reach for both Inbound and Outbound</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enroll accounts/contacts in customized sequences</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set meetings and generate pipeline for sales team&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account execs and gain a deep understanding of how multiple selling motions work in a&nbsp; high-growth technology company focussed on security.</span></p>
+<p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support your growth in various departments that peaks your interest.</span></p>
+<h2><strong>You should join us if:</strong></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are ambitious, organized and energetic</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You build strong, meaningful relationships and take pride in being a great communicator</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re driven: you strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are collaborative and want to work in a diverse, high-performing team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are resilient and continually working to be better</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re open, honest and love to learn</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re excited about technology and security, and you want to join a high-growth startup</span></li>
+</ul>
+<h2>Interested?</h2>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h2><strong>About Snyk</strong></h2>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, only 6 months after securing an additional $200M in Series D funding in September 2020, and successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p><span style="font-weight: 400;">#LI-HP1</span></p>
+
+Interested?
+---
+
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5393197002#app).
+
+We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
+If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
