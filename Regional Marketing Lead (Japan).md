@@ -35,7 +35,7 @@ Regional Marketing Lead (Japan)
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><br><br></p>
+<p><span style="font-weight: 400;">#LI-HP1 #LI-Remote</span><br><br></p>
 
 Interested?
 ---
