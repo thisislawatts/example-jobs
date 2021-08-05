@@ -4,11 +4,12 @@ Engineering Manager, Platform Group
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">We’re looking for an experienced, collaborative engineering manager to lead one of our core software development teams, building key technology capabilities for our product which helps enterprise and non-enterprise customers adopt open source and stay secure.</span></p>
-<p><span style="font-weight: 400;">The team will be focused on solving challenges including:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">How we scale the product capabilities for the large scale enterprise customers that we will be onboarding in the next few months and years, including the development of our hierarchical models such as groups and organisations&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Scalable and flexible User Management across all of Snyk’s products (user permissions, auth, SSO)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The continuing development of a set of flexible and powerful APIs that enable us, other Snyk teams, customers, and partners to rapidly and efficiently build robust additional capability on our platform.</span></li>
+<div class="p-rich_text_section"><strong>The team will be focused on solving challenges including:</strong></div>
+<ul class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0">Significantly evolving Snyk’s reporting capabilities for our enterprise customers, providing key insight and information on which they can assess risk, make decisions and take actions.</li>
+<li data-stringify-indent="0">Working to extract a core element of our platform out from its somewhat current monolithic form into a well defined and flexible stand alone service.</li>
+<li data-stringify-indent="0">Expanding and enhancing our policies framework within the Snyk products</li>
+<li data-stringify-indent="0">The continuing development of a set of flexible and powerful APIs that enable us, other Snyk teams, customers, and partners to rapidly and efficiently build robust additional capability on our platform.</li>
 </ul>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
