@@ -8,32 +8,32 @@ System Engineer
 <p><span style="font-weight: 400;">You are experienced with existing technologies, and comfortable with new ones. You are a problem solver with excellent execution and communication skills. You will use this experience to define the systems and policies that will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">managing all SaaS platforms used at Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">supporting the day to day operation of Snyk’s Boston and Ottawa offices, including networking and conferencing</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">functionally decomposing complex problems into simple, straight-forward solutions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">architecting, designing, implementing, supporting, and evaluating secure, infrastructure focused tools and services including project leadership roles</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">supporting and expanding international systems and infrastructure</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">helping to define and document Operations Methods &amp; Procedures (M&amp;Ps).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with the rest of the CIS team in defining policies and procedures, and making recommendations for operational best practices</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Managing all SaaS platforms in Snyk and implementing new services.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Functionally decomposing complex problems into simple, straight-forward solutions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Architecting, designing, implementing, supporting, and evaluating secure, infrastructure focused tools and services including project leadership roles.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting and expanding international systems and infrastructure.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Helping to define and document Operations Methods &amp; Procedures (M&amp;Ps).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the rest of the CIS team in defining policies and procedures, and making recommendations for operational best practices.</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Systems Engineer</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Good knowledge of networks, including TCP/IP, LAN, VLAN, WLAN. VPN systems (IPSEC)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Public Cloud (GCP) certification or experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Cisco Meraki systems&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Slack, Jira, Okta, G Suite platformes.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have strong Linux skills</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have a breadth of experience in automation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to script in shell, Python, Perl, or Powershell</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Systems Engineer.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Slack, Jira, Okta, G Suite platforms.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have strong macOS and Linux skills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in process automation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in scripting in Python or Node.JS.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Passionate about new technologies.&nbsp;</span></li>
 </ul>
 <p><strong>We’d especially like to hear from you if</strong><span style="font-weight: 400;">:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Knowledge of and ability to work across all platforms of macOS and Linux Server, networking, database administration, virtualization, and storage.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Local Storage/SAN/NAS/NFS/ISCSI Mounted Storage</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with patch management software, understand core concepts of patch strategy and software</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with patch management software, understand core concepts of patch strategy and software.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in scripting in Bash / Powershell.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to cover after-office hours and weekend support if there are any infrastructure issues.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Good knowledge of networks, including VPN systems (IPSEC).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with GCP and AWS environments.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Cisco Meraki systems.</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
