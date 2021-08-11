@@ -21,9 +21,6 @@ Sourcing Manager
 <li><span style="font-weight: 400;">May be required to take ownership on improving certain Procurement KPI’s or drive company-wide programs such as supplier diversity, risk assessments or sustainability ratings</span></li>
 <li><span style="font-weight: 400;">Serve as an escalation point for Buyers, while providing coaching and overall guidance for the team</span><strong><br></strong></li>
 </ul>
-<ol>
-<li>&nbsp;</li>
-</ol>
 <p><strong>Qualifications &amp; Experience</strong><strong><br></strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in procurement / sourcing experience in a global environment</span></li>
