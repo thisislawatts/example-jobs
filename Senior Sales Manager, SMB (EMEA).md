@@ -13,7 +13,7 @@ Senior Sales Manager, SMB (EMEA)
 <p><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience leading and managing a high performing team of Account Execs, Inside Sales Reps and Account Managers&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience selling a technical product, and you want to join a startup on its way to success</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience <strong>selling a technical product</strong>, and you want to join a startup on its way to success</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understand the <strong>software developer lifecycle</strong> and can articulate how a developer tooling product might fit in</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience of both short and long sales cycles</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
