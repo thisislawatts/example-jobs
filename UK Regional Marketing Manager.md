@@ -42,7 +42,7 @@ UK Regional Marketing Manager
 <p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
 <p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding, bringing our company valuation to&nbsp; $4.7 billion, after recently securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions with DeepCode &amp; Manifold. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<h5><strong>#LI-CL1 #LI-Remote</strong><br><br><br></h5>
+<h5><strong>#LI-VR1 #LI-Remote</strong><br><br><br></h5>
 
 Interested?
 ---
