@@ -5,8 +5,8 @@ Tech/Software Commercial Contracts, In-house Legal
 
 <p><strong>Location: US Pacific Timezone</strong></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">Snyk is looking for an experienced, entrepreneurial Attorney or Contracts Manager to join the growing Snyk Legal function and to support the US West Coast sales teams with commercially-driven legal advice, strong drafting skills and a tenacious, “can-do” work ethic.</span></p>
-<p><strong>As Legal Counsel at Snyk:</strong></p>
+<p><span style="font-weight: 400;">Snyk is looking for an experienced, Contracts Manager to join the growing Snyk Legal function and to support the US West Coast sales teams with commercially-driven legal advice, strong drafting skills and a tenacious, “can-do” work ethic.</span></p>
+<p><strong>As a member of our team at Snyk:</strong></p>
 <p><span style="font-weight: 400;">You will be based in the USA, ideally on Pacific time and you will report to the Senior Legal Counsel in Boston. You will collaborate closely with your legal team members in London, Boston and Singapore and help to scale legal support for the expanding go-to-market function in the US West Coast. You will have excellent contract drafting and business negotiation skills gained in a SaaS provider’s in-house legal department. You’ll use that knowledge to negotiate and close B2B deals with enterprise customers. We use Slack and Zoom to collaborate internally and you will be used to dealing with the demands of a fast-paced, high growth environment.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -17,7 +17,7 @@ Tech/Software Commercial Contracts, In-house Legal
 </ul>
 <p><strong>You should apply if:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are a qualified attorney with a minimum of five years of experience, of which a minimum of two years has been spent in-house, or an experienced contracts manager with a minimum of six years experience, in both cases, at a high-growth software company.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are a qualified Attorney or a Contracts Manager with 1-3 years of in house, commercial contracts experience.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in drafting and advising clients on technology-related commercial agreements, including software licensing and reseller arrangements.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are good with analyzing and presenting data on contract volume and workflows, using slides and dashboards.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are able to juggle multiple priorities and tasks whilst remaining cheerful and resilient.</span></li>
