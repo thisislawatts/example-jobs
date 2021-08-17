@@ -1,4 +1,4 @@
-Technical Support Engineer
+Senior Technical Support Engineer
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
@@ -6,9 +6,11 @@ Technical Support Engineer
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We're looking for an experienced technical analyst with a proactive and curious approach to problem-solving to join our Customer Success &amp; Support team, helping us to provide prompt and delightful technical support to the developers who use Snyk.</span></p>
 <p><strong>Your role</strong></p>
-<p><span style="font-weight: 400;">As a level 1 Technical Support Engineer on our small Customer Support team, you’ll be the first line of defense against technical support issues that arrive via email, chat and Github issues. You will work with the Tier 2 team and our talented core engineering team to help solve Snyk’s customer issues. You will be working directly with active and prospective Snyk customers every day, building and maintaining their trust, whilst balancing the needs of enterprise and self-service customers alike.</span></p>
+<p><span style="font-weight: 400;">As a senior technical support engineer on our growing technical support engineering team, you will be a technical escalation point for the talented frontline support team. While also responsible for complex technical support issues that arrive via email, chat and Github issues. You will work alongside our talented core engineering team to help reproduce issues and solve Snyk’s customer issues.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The buck stops with this role. You’re a leader not only on the team, but within the whole company as a subject matter expert.</span></p>
 <p><span style="font-weight: 400;">As a frontline engineer for our technical support team, you will also play a key role in building a solid relationship with our enterprise and large accounts through steady and helpful communications and guidance each and every day!</span></p>
-<p><strong>You'll spend your time:</strong></p>
+<h3><strong>You'll spend your time:</strong></h3>
+<p><span style="font-weight: 400;">In the morning you might be building and testing custom end user environments with Kubernetes, Docker, NodeJS, Java, Python, C# to test the limits of our SaaS tool. In the afternoon you might be leading a training session to develop and produce content for our teams, and you might finish the day creating Pull Requests to resolve simple issues.</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding, reproducing and resolving complicated technical issues that our customers have raised.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript</strong><span style="font-weight: 400;">, to figure out where the issue lies, and what a good solution might look like.</span></li>
@@ -17,7 +19,7 @@ Technical Support Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">Contributing to building up a best-in-class technical support function, including writing customer documentation and FAQs, building dashboards, or designing integrations between tools.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Over time, we’d love for you to have ambitions to develop your career as a developer or as a technical expert within Snyk!</span></li>
 </ul>
-<p><strong>You should join us if:</strong></p>
+<h2><strong>You should join us if:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have some experience as a developer or in a similar role.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy working with others’ code and have used GitHub or other source control tools.</span></li>
@@ -27,6 +29,9 @@ Technical Support Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are curious: you love to explore new challenges, but also know when you need guidance from someone with more domain experience.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re interested in security or open source software, and you believe in our mission.</span></li>
 </ul>
+<h2><strong>More about Snyk</strong></h2>
+<p><span style="font-weight: 400;">We mostly work in JavaScript, both front-end and back-end, and our architecture follows the microservices pattern. We are very happy to help you learn if you don’t have previous experience with these - we believe curiosity, communication, and the ability to learn are most important.</span></p>
+<p><span style="font-weight: 400;">We work in geographically distributed teams and have offices in London, Tel Aviv, Boston, and Ottawa. We use Slack &amp; Zoom to keep in contact with one another, and you’ll travel around at least twice a year to spend time with colleagues who aren’t co-located with you.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
 <p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
@@ -43,7 +48,7 @@ Technical Support Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5477070002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5477102002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
