@@ -15,7 +15,7 @@ Senior Technical Support Engineer
 <p><span style="font-weight: 400;">In the morning you might be building and testing custom end user environments with Kubernetes, Docker, NodeJS, Java, Python, C# to test the limits of our SaaS tool. In the afternoon you might be leading a training session to develop and produce content for our teams, and you might finish the day creating Pull Requests to resolve simple issues.</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding, reproducing and resolving complicated technical issues in a diverse set of environments.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript</strong><span style="font-weight: 400;">, to figure out where the issue lies, and what a good solution might look like.</span></li>
+<li><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript</strong><span style="font-weight: 400;">, to figure out where the issue lies, and what a good solution might look like.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Prioritizing and organizing the backlog of open issues, ensuring that the most critical issues are getting the attention that they need.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Providing expert communication, ensuring that every user knows exactly when they’ll hear back from us and providing regular updates while solving their problem.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Developing the Technical Support team’s knowledge and pushing the bar higher each day.</span></li>
