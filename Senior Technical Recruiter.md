@@ -37,7 +37,6 @@ Senior Technical Recruiter
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy working in a fast paced, high growth company and feel comfortable with ambiguity </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">value diversity and believe strongly in creating inclusive environment</span></li>
 </ul>
-<p><strong>Timescales: </strong><span style="font-weight: 400;">We are looking to close this role on the 2nd September and will strive to get back to all candidate by the 3rd September - we move fast and hope to make this a great candidate experience for anyone applying, whether successful or not.</span></p>
 <p><strong>Our values:</strong></p>
 <p><strong>One team: </strong><span style="font-weight: 400;">In a global and highly distributed company, we firmly believe our diversity makes us stronger, and we embrace our differences. We overcome boundaries by being highly transparent and collaborative in how we operate.</span></p>
 <p><strong>Ridiculously easy to work with: </strong><span style="font-weight: 400;">We aim to delight with our level of service. Where we don’t think we are rising to that bar, we are able to call it out and invest in improvement.</span></p>
