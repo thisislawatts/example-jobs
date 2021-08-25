@@ -15,22 +15,22 @@ Senior Technical Recruiter
 <li style="font-weight: 400;"><span style="font-weight: 400;">working to build our diverse pipelines of passive candidates using creative sourcing methods and other employer branding initiatives</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting and encouraging employee referrals&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing the recruitment process, striving for a quality candidate experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Negotiating and closing offers across our geographies for all hires to director level</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">negotiating and closing offers across our geographies for all hires to director level</span></li>
 </ul>
 <h3><strong>Along with other members of the Recruiting team, you’ll also get involved in:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">building a strong employer brand for Snyk globally</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">improving and tracking an exceptional candidate experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">tracking and improving an exceptional candidate experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">impacting and improving our diversity metrics for Snyk</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">designing interview processes that minimise our risk of bias and maximise the likelihood of identifying the best candidates </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">advising hiring managers in market nuances, offer decisions, role titles, and the competition.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">advising hiring managers in market nuances, offer decisions, role titles, and market competition</span></li>
 <li><span style="font-weight: 400;">attending (or organising!) events and conferences</span></li>
-<li><span style="font-weight: 400;">managing and improving relationships with agencies and third parties</span></li>
+<li><span style="font-weight: 400;">managing and improving relationships with agencies and third parties as relevant</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across multiple locations including offices in UK, Israel, US and Canada, with 15% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
+<p><span style="font-weight: 400;">We are distributed across multiple locations including offices in UK, Europe, Israel, US and Canada, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a strong track record in delivering full lifecycle technical recruiting and sourcing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a strong track record in delivering full lifecycle technical recruiting and sourcing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of technology products and the candidate markets in which they operate</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are great at building relationships with stakeholders</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love to source, but also enjoy managing relationships with direct or agency applicants</span></li>
@@ -39,9 +39,9 @@ Senior Technical Recruiter
 </ul>
 <p><strong>Our values:</strong></p>
 <p><strong>One team: </strong><span style="font-weight: 400;">In a global and highly distributed company, we firmly believe our diversity makes us stronger, and we embrace our differences. We overcome boundaries by being highly transparent and collaborative in how we operate.</span></p>
-<p><strong>Ridiculously easy to work with: </strong><span style="font-weight: 400;">We aim to delight with our level of service. Where we don’t think we are rising to that bar, we are able to call it out and invest in improvement.</span></p>
 <p><strong>Care Deeply:</strong><span style="font-weight: 400;"> We are passionate about our work and our team, and willing to go above and beyond to help both be successful.</span></p>
 <p><strong>Ship it: </strong><span style="font-weight: 400;">We drive for impact by acting speedily and iteratively, with a bias for action.</span></p>
+<p><strong>Think Bigger:&nbsp;</strong>As we continue to grow exponentially, we are constantly looking for new ways to scale, improve, and innovate, without compromising on quality or experience.</p>
 <p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway</span></p>
