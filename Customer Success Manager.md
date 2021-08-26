@@ -1,47 +1,49 @@
-Customer Success Manager 
+Customer Success Manager
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
-<p><strong>Customer Success Manager</strong></p>
-<p><strong>Location: UK (Remote)</strong></p>
-<p><span style="font-weight: 400;">We're looking for an organised and personable Customer Success Manager to help delight our customers by optimising their onboarding experience and driving adoption while helping them to accomplish their goals.&nbsp;</span></p>
-<p><span style="font-weight: 400;">You will be responsible for helping our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.&nbsp;</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><strong>Commercial Customer Success Manager</strong></p>
+<p><strong>Location: Australia or Singapore&nbsp;</strong></p>
+<p>We’re looking for an empathetic, curious and experienced professional to join our Customer Success Organization to help retain and grow Snyk’s growing customer base..&nbsp;</p>
+<p>The Customer Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform.</p>
+<p>As a CSM, you’ll spend your time:</p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with key technical stakeholders to agree on objectives and define success plans.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understanding each organisation's technical setup and workflow, and planning a rollout that suits their needs.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring customers are getting the most out of the product and are adopting new features.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with the sales team to support successful customer renewals and account growth.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">providing quarterly customer business reviews to each customer to demonstrate the value they are getting from Snyk.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">gathering usage patterns, feature requests, and feedback then sharing these with the product team.&nbsp;</span></li>
+<li>Building and fostering trusted relationships with leaders from our customers’ engineering and security organizations</li>
+<li>Designing and executing&nbsp; customized onboarding programs helping customers achieve their security program goals through the use of Snyk’s suite of products</li>
+<li>Mobilizing internal and external resources to remove barriers to adoption</li>
+<li>Advocating internally for the needs of your customers, working proactively with Sales, Product, Support and other teams to identify expansion opportunities and mitigate risks</li>
+<li>Preparing and facilitating business review meetings, training sessions, product feedback/roadmap reviews, and other strategic customer interactions</li>
 </ul>
-<p><span style="font-weight: 400;">You'll be the main point of contact for the organisations you support, so you will need to be proactive in how you communicate, and responsive to incoming requests.&nbsp;</span></p>
-<p><strong>You should apply if you:</strong></p>
+<p>You should apply if you:</p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you ask incisive questions and are comfortable learning to discuss complex requirements.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you don't wait for an answer, you go and find one.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you're well organised, good at prioritising and juggling multiple work streams.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are pragmatic, realistic, and you build strong, respectful relationships across levels of seniority both inside Snyk as well as the customer organisation.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are comfortable with working through problems at a fast-growing company.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you have experience in customer success or customer-facing role, for a technical product or services company.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are familiar with developer workflows and standard tooling e.g. GitHub, Jira, Jenkins, VScode.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you're interested in open source and security, cloud, and containers.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you're excited about what we do and want to help our customers gain more value from Snyk.</span></li>
+<li>Have 3+ years of progressive experience in a customer-facing professional role</li>
+<li>Can demonstrate working knowledge of Developer or Application Security tools (e.g. GitHub, Jira, Jenkins, VScode)</li>
+<li>Have proven experience managing post-sales client relationships</li>
+<li>Have exceptional organization and time-management skills and are able to effectively manage across competing priorities&nbsp;</li>
+<li>Are an effective and influential communicator with a range of personas (from end user to executive); you can facilitate challenging discussions and are adept at handling objections</li>
+<li>Thrive in a collaborative, fast-paced environment and as a part of a results oriented team</li>
 </ul>
-<p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
-<p>The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</p>
-<p>By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others). Our September 2020 Series D funding round of $200M has put us at over $2.5Billion company valuation.</p>
-<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
+<h3><strong>Interested?</strong></h3>
+<p>Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</p>
+<p>We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</p>
 <p>&nbsp;</p>
-<p>#LI-CY1</p>
+<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
+<p>We’re on a mission to make the world a safer place with more secure software.</p>
+<p>We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
+<p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
+<p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
+<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
+<p>&nbsp;</p>
+<p>#LI-EOI</p>
+<p>&nbsp;</p>
+<p>#LI-Remote</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4295578002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5502088002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
