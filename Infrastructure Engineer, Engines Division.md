@@ -4,7 +4,7 @@ Infrastructure Engineer, Engines Division
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Infrastructure Engineer, Engines Division</strong></p>
-<p><strong>Location: Israel, Sweden, Switzerland, or UK</strong></p>
+<p><strong>Location: Israel, Germany, Switzerland, or UK</strong></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for an experienced infrastructure engineer to help scale Snyk’s component identification engine. You will work closely with a warm and caring team. Together you’ll use your creativity to create new exciting tooling that helps developers find and fix vulnerabilities.</span></p>
 <p><span style="font-weight: 400;">You have relevant industry experience in automation and infrastructure to help deliver beautiful, reliable and fast service at scale. Teams at Snyk have a strong devops culture: the people who build the software, run the software. You will be learning and growing both your own skills and the skills of your team.&nbsp;</span></p>
@@ -16,6 +16,7 @@ Infrastructure Engineer, Engines Division
 <li style="font-weight: 400;"><span style="font-weight: 400;">Implementing Infrastructure-as-code in order to support multiple cloud providers and deployment options.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Participating in an on-call rotation with the development team.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Along with the rest of the team create and optimize both the systems that run our back office service like CI/CD, and the frontend services offered to our customers. This includes automated build and deployment, secrets management, system observability, monitoring, log aggregation, scaling, and more.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are or want to become comfortable crossing the border between development and infrastructure operations from one day to the next.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Helping the team create the needed tools and infrastructure to maintain scalability and reliability.<br></span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
