@@ -3,7 +3,7 @@ Customer Success Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Austin or US Remote</strong></p>
+<p><strong>Location: Boston or remote</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a self-driven, customer-focused, and technically savvy Customer Success Engineer (CSE) to join our Customer Success team to help retain and grow Snyk’s most strategic customers by driving wide-scale adoption of our platform and products across development teams and providing best-in-class technical advisory and consultancy.</span></p>
 <p><span style="font-weight: 400;">A Snyk CSE is a key member of our Customer Success Organization who is a product expert focused on maximizing customer value and deeply integrating within the customer DevSecOps ecosystem, ultimately making them sticky with Snyk and successful in their mission of shipping secure cloud native applications.</span></p>
 <p><strong>Here at Snyk, you’ll spend your time:</strong></p>
@@ -31,6 +31,7 @@ Customer Success Engineer
 </ul>
 <p><strong>We’d especially love to hear from you if you have</strong></p>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A degree in Computer Science with experience in programming&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a technical account manager, solution architect, sales engineer or similar for AppSec, CI, or DevSecOps products and services.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Security certification such as CEH, CISSP, or CSSLP, or other.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience with enterprise-scale web development technologies and microservices.</span></li>
@@ -50,7 +51,7 @@ Customer Success Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5389356002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5345926002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
