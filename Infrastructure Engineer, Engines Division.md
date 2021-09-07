@@ -4,7 +4,7 @@ Infrastructure Engineer, Engines Division
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Infrastructure Engineer, Engines Division</strong></p>
-<p><strong>Location: Israel, Germany, Switzerland, or UK</strong></p>
+<p><strong>Location: Sweden, Israel, Germany, Switzerland, or UK</strong></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for an experienced infrastructure engineer to help scale Snyk’s component identification engine. You will work closely with a warm and caring team. Together you’ll use your creativity to create new exciting tooling that helps developers find and fix vulnerabilities.</span></p>
 <p><span style="font-weight: 400;">You have relevant industry experience in automation and infrastructure to help deliver beautiful, reliable and fast service at scale. Teams at Snyk have a strong devops culture: the people who build the software, run the software. You will be learning and growing both your own skills and the skills of your team.&nbsp;</span></p>
