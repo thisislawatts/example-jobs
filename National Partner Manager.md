@@ -4,7 +4,7 @@ National Partner Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information</a></h5>
-<p><span style="font-weight: 400;">The Snyk</span><strong> National Partner Manager</strong><span style="font-weight: 400;"> is responsible for strategy, enablement, development, and performance of our strategic National Partners (in-particular</span><strong> Trace3, AHEAD </strong><span style="font-weight: 400;">and</span><strong> Presidio)</strong><span style="font-weight: 400;">. Your success in the role will rely on understanding Snyk’s sales segmentation and aligning the partners to the Snyk sales teams. You will be working within all levels of large partner organizations and have a thorough understanding of Snyk’s solutions and the business value to partners and customers.&nbsp;</span></p>
+<p>The Snyk National Partner Manager is responsible for strategy, enablement, development, and performance of our strategic National Partners (in-particular Trace3, AHEAD and Presidio). Your success in the role will rely on understanding Snyk’s sales segmentation and aligning the partners to the Snyk sales teams. You will be working within all levels of large partner organizations and have a thorough understanding of Snyk’s solutions and the business value to partners and customers.&nbsp;</p>
 <h3><strong>The Role:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Develop and execute a national strategy and business plan covering all aspects of the partner relationship</span></li>
@@ -33,7 +33,7 @@ National Partner Manager
 <p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
 <p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
 <p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
-<h6>#LI-HP1</h6>
+<h6>#LI-EO1</h6>
 <h6>#LI-Remote</h6>
 
 Interested?
