@@ -5,7 +5,7 @@ Customer Success Manager, Enterprise
 
 <h5><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></h5>
 <p><strong>Enterprise Customer Success Manager</strong></p>
-<p><strong>Location: Remote -&nbsp;</strong></p>
+<p><strong>Location: Denver or Remote in US West region</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Enterprise Customer Success Organization to help retain and grow Snyk’s largest and most strategic customers.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Enterprise Customer Success team works hand-in-hand with Development and Security leaders from Fortune 100 organizations to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
 <p><span style="font-weight: 400;">As an Enterprise CSM, you’ll spend your time:</span></p>
@@ -35,12 +35,12 @@ Customer Success Manager, Enterprise
 <p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
 <p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<p><span style="font-weight: 400;">#LI-ES1 #LI- Remote</span></p>
+<p><span style="font-weight: 400;">#LI-EO1 #LI- Remote</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4353398002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5514690002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
