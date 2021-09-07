@@ -3,7 +3,7 @@ Sales Manager - Commercial
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working Sales Manager to join our fast-growing, Ecoast, commercial sales team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working Sales Manager to join our fast-growing, East coast, commercial sales team.</span></p>
 <p><span style="font-weight: 400;">As a Sales Manager at Snyk you’ll be responsible for:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">End-to-end coaching, management and quota attainment of 6-8 sales representatives&nbsp;</span></li>
