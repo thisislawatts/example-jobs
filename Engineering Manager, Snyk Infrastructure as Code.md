@@ -3,7 +3,7 @@ Engineering Manager, Snyk Infrastructure as Code
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p>Location: Israel</p>
+<p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a><br><br><br><strong>Location: Tel Aviv </strong>(This role is also open to remote work from Israel)</p>
 <p>We have an opening for an experienced and collaborative Engineering Manager to join our growing team and help take <a href="https://snyk.io/product/infrastructure-as-code-security/">Snyk Infrastructure as Code</a> from an early-stage product with huge potential into a mature offering that stands alongside our core products.</p>
 <h2>Description</h2>
 <p>As part of the Infrastructure as Code team you will help us to build products that enable developers to write secure configurations, and validate them well before code reaches production. Snyk’s developer-first approach meets developers where they work and provides fixes that can be directly merged into code.</p>
@@ -36,24 +36,12 @@ Engineering Manager, Snyk Infrastructure as Code
 <li>Are comfortable working with a distributed cross-functional team.</li>
 </ul>
 <p><em>We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply.</em></p>
-<h2>Benefits</h2>
-<ul>
-<li>Competitive salary and generous equity.</li>
-<li>Annual leave plus the usual public holidays.</li>
-<li>An annual learning budget and time to spend on your personal development.</li>
-<li>We offer a flexible approach to work with team members able to from the office (when permissible), working remotely or adopting a mix of both.</li>
-<li>Working from home, mobile phone &amp; wellness stipends.</li>
-<li>Benefit plans to ensure that all Snykers have access to healthcare, income protection, the ability to save retirement and to take time off.</li>
-</ul>
-<h2>Interested?</h2>
-<p>Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</p>
-<p>&nbsp;</p>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (https://snyk.io/stateofossecurity/). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</span></p>
-<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">#LI-HW1</span></p>
 <p><span style="font-weight: 400;">#LI-remote</span></p>
 

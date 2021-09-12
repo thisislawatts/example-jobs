@@ -4,12 +4,11 @@ Infrastructure Engineer, Engines Division
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Infrastructure Engineer, Engines Division</strong></p>
+<p><strong><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></strong></p>
 <p><strong>Location: Sweden, Israel, Germany, Switzerland, or UK</strong></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for an experienced infrastructure engineer to help scale Snyk’s component identification engine. You will work closely with a warm and caring team. Together you’ll use your creativity to create new exciting tooling that helps developers find and fix vulnerabilities.</span></p>
 <p><span style="font-weight: 400;">You have relevant industry experience in automation and infrastructure to help deliver beautiful, reliable and fast service at scale. Teams at Snyk have a strong devops culture: the people who build the software, run the software. You will be learning and growing both your own skills and the skills of your team.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive working environment we've fostered, where we can benefit from the different perspectives within our team. We are collaborative, curious, and respectful - it’s important to us that everyone feels comfortable contributing their ideas and views.</span></p>
-<p><br><br></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Improving the reliability of our platform and product via open source observability tools such as Grafana and Prometheus.</span></li>
@@ -38,18 +37,13 @@ Infrastructure Engineer, Engines Division
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have some programming experience.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are curious and love to explore new domains, technologies, and approaches.</span></li>
 </ul>
-<p><span style="font-weight: 400;"><br></span><strong>Interested?</strong></p>
+<p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><br><br></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are distributed across 4 countries: Israel, Sweden, Switzerland and the UK, with a major part of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. We make heavy use of video calls, Slack, and some inter-office travel (when possible…).</span></p>
-<p><span style="font-weight: 400;">Join us!</span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-HW1</span></p>
 <p><span style="font-weight: 400;">#LI-remote</span></p>
