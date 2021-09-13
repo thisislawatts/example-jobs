@@ -3,7 +3,7 @@ Sales Manager - Commercial
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working Sales Manager to join our fast-growing, West coast, commercial sales team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working Sales Manager to join our fast-growing, East coast, commercial sales team.</span></p>
 <p><span style="font-weight: 400;">As a Sales Manager at Snyk you’ll be responsible for:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">End-to-end coaching, management and quota attainment of 6-8 sales representatives&nbsp;</span></li>
@@ -15,7 +15,7 @@ Sales Manager - Commercial
 <p><span style="font-weight: 400;">We’re looking for a highly motivated leader who thrives with the freedom to decide how to develop their team in a world class organization. This role will report directly to our VP of Sales.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years experience managing a successful team selling a technical product in the midmarket, commercial and/or low enterprise space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 2+ years experience managing a successful team selling a technical product in the midmarket, commercial and/or low enterprise space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are motivated by the development and success of your team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">aim to exceed quota, and enjoy working in fast-paced environment that embraces change</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative with other internal departments (Marketing, Sales Engineering, Product, Customer Success) to get your deal done&nbsp;</span></li>
@@ -38,7 +38,7 @@ Sales Manager - Commercial
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5536381002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5501844002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
