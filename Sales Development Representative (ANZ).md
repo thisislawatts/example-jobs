@@ -3,7 +3,7 @@ Sales Development Representative (ANZ)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team. This is a Sydney based role.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <em><span style="font-weight: 400;">aren’t security experts</span></em></a><span style="font-weight: 400;">. But we are.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
 <p><span style="font-weight: 400;">We’re focussed on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
@@ -39,8 +39,7 @@ Sales Development Representative (ANZ)
 <p><span style="font-weight: 400;">In March of 2021, we</span><a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/"> <span style="font-weight: 400;">raised $300M</span></a><span style="font-weight: 400;"> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <p>&nbsp;</p>
-<h6><em>#LI-HP1&nbsp;</em></h6>
-<p>&nbsp;</p>
+<p>#LI-RC5</p>
 
 Interested?
 ---
