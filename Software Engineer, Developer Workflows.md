@@ -26,6 +26,7 @@ Software Engineer, Developer Workflows
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply!</span></p>
 <p><span style="font-weight: 400;">We are a distributed team, and many of us work from home or in our offices. Your colleagues are based in the UK and Israel, while others in the wider group are also based in Germany, Switzerland, Czech Rep., Canada and the US.&nbsp;</span></p>
+<p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
 
 Interested?
 ---
