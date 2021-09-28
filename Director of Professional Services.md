@@ -15,7 +15,7 @@ Director of Professional Services
 <p><strong>Here at Snyk, you’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Developing and evolving the Snyk Customer Onboarding Methodology, with a particular focus on complex Enterprise deployments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Hiring, developing and leading a team of Onboarding Specialists, Project Managers, Technical Trainers and Consultants who will partner with the account teams to accelerate customer time to value&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;">Hiring, developing and leading a team of Onboarding Specialists, Project Managers and other Technical Specialists who will partner with the account teams to accelerate customer time to value</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Managing resourcing allocation across the team to maximize utilization and achieve gross margin targets&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Positioning the value of paid services offerings to existing and prospective Snyk customers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working alongside Snyk’s Partner and Channel teams to build out a partner-led delivery program for Snyk implementation services</span></li>
