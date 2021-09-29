@@ -26,6 +26,11 @@ Software Engineer, Developer Workflows
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, nor should you feel like you need to meet all of them to apply!</span></p>
 <p><span style="font-weight: 400;">We are a distributed team, and many of us work from home or in our offices. Your colleagues are based in the UK and Israel, while others in the wider group are also based in Germany, Switzerland, Czech Rep., Canada and the US.&nbsp;</span></p>
+<p>&nbsp;</p>
+<h3><strong>About Snyk</strong></h3>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the <a href="https://www.forbes.com/cloud100/#6f24b5ba5f94">Forbes Cloud 100 2021</a>, the <a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html">2021 CNBC Disruptor 50</a> and was named a Visionary in the<a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"> 2021 Gartner Magic Quadrant for AST</a>.<br></span></p>
 <p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
 
 Interested?
