@@ -6,7 +6,7 @@ Customer Success Manager, Commercial
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Commercial Customer Success Manager</strong></p>
 <p><strong>Location: Remote&nbsp;</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Customer Success Organization to help retain and grow Snyk’s growing customer base..&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Customer Success Organization to help retain and grow Snyk’s growing customer base.</span></p>
 <p><span style="font-weight: 400;">The Customer Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
 <p><span style="font-weight: 400;">As a CSM, you’ll spend your time:</span></p>
 <ul>
