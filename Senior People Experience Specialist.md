@@ -3,52 +3,60 @@ Senior People Experience Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly strategic and motivated Senior People Experience Specialist to join our People team to oversee the Snyk Boston and New York offices and set the tone of our local culture through a focus on workplace, communications, and inclusion. You will be a key partner for our US leaders during this exciting time of growth.</span></p>
-<p><span style="font-weight: 400;">The People Experience team’s mission is to create experiences that tangibly connect our employees to the Snyk values. Essentially, we make Snyk the best place to work. This year we’ve refreshed the New Hire Experience, celebrated our first International Women’s Day, and are opening 2 new offices. We’re looking for someone who knows how to skillfully manage several projects, and has a strong commitment to excellence.&nbsp;</span></p>
-<p><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Leading an office of 100+ fantastic human beings and building innovative experiences in the workplace that solve for our business needs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building out a 30k+ sqft office that reflects our business needs and fun culture</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Designing an inclusive and engaging culture that promotes diversity and an empowerment to be one’s authentic self</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Managing the local team to provide a safe, user-friendly, and well-maintained workplace</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Owning local vendor relationships and negotiations that support our needs and values</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working directly with the Head of People Experience on all real estate projects regarding headcount forecasting, budget reforecasting, lease renewals, and office refreshes&nbsp;</span></li>
-</ul>
-<p><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven progressive experience in People Experience, People ops, Administration/Office Management or a related field.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are flexible and stimulated by solving problems in an evolving environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with architects and construction teams to design and create intuitive, safe, and engaging work spaces</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have the ability to build effective working relationships at all levels of the organization, with experience at executive level</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Put people first, with a commitment to managing expectations and transparency</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy puns, gifs, and getting people engaged!</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience managing an office move project from start to completion</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working in a rapid-growing global organization, partnering with stakeholders across time zones</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are self-motivated, passionate, and service-oriented with superior organizational skills and great follow through on tasks</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent written and verbal communication in english</span></li>
-</ul>
-<p><span style="text-decoration: underline;"><strong>We’d especially love to hear from you if you:</strong></span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a bachelor’s degree in human resources, business management, education, or a related discipline advantageous, but not required</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have managed real estate build outs from start to finish</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in high volume events and culture building</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a high degree of integrity and honesty; ability to exercise confidentiality and neutrality in complex and sensitive situations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are an effective listener and communicator, who is able to influence actions and outcomes.</span></li>
-</ul>
+<hr>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<hr>
+<p><strong>Location: London, UK</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a Senior People Experience Specialist to e</span>levate the EMEA Snyker experiences through a focus on workplace, communications, and inclusion. The Senior PX Specialist will be a key partner to the 300+ EMEA Snyk population, and use frequent feedback to support a culture that is engaging and enabling.</p>
+<p class="p1"><strong>How you'll spend your time</strong></p>
+<p class="p2">• Liaise with key stakeholders to align their business needs in the workplace</p>
+<p class="p2">• Responsible for hiring, leading and supporting the development of the local team</p>
+<p class="p2">• Provide a safe, user-friendly, and well-maintained workplace&nbsp;</p>
+<p class="p2">• Design and relocate offices of 100+ employees that reflect Snyk’s brand, culture, and needs</p>
+<p class="p2">• Implement COVID safety regulations and initiatives in the EMEA region</p>
+<p class="p2">•Manage local vendors and partner with Procurement regarding negotiations</p>
+<p class="p2">• Project manage global PX initiatives and partner with other branches of the People team to build sustainable people-programs and help scale the organisation.&nbsp;</p>
+<p class="p2">• Plan, design and execute on projects, social events, off-sites and bonding activities within budget, on schedule and in a way that helps contribute to an awesome working environment!</p>
+<p class="p2">• Support the effective management of budgets and forecast for the coming financial year.</p>
+<p class="p2">• Work directly with the Director of PX on all real estate projects regarding headcount forecasting, new deliveries, lease renewals, and office refreshes and liaison with local contributors directly</p>
+<p class="p2">• Any other duties that may be required and which are considered by your manager to be consistent with the role.</p>
+<p class="p2"><strong>Champion the Snyk culture and live and breathe our values of:</strong></p>
+<p class="p2">•One Team</p>
+<p class="p2">•Think Bigger</p>
+<p class="p2">•Care Deeply</p>
+<p class="p2">•Ship It</p>
+<p class="p2"><strong>Health &amp; Safety</strong></p>
+<p class="p2">• Ensure the EMEA workplaces demonstrate safety requirements as per the city mandates</p>
+<p class="p2">• Take care to ensure the health, safety and wellbeing of not only others but also of yourself during the course of the day to day business.</p>
+<p class="p2">• Follow Snyk’s health &amp; safety guidelines including; recording and reporting all hazards, discomforts, accidents, incidents, potential health &amp; safety risks or reasonable instructions given by the business</p>
+<p class="p2"><strong>Diversity &amp; Inclusion</strong></p>
+<p class="p2">• Create, initiate, and advocate for inclusion in the workplace and culture.&nbsp;</p>
+<p class="p2">• Be an active, positive, kind and contributing member to the diverse community that makes up Snyk’s workforce</p>
+<p class="p2">• Participate in diversity initiatives and be an advocate for the awesome difference that makes Snyk a great place to work</p>
+<p><strong>You should apply if you:</strong></p>
+<p class="p1">• Have 4+ years’ of progressive experience in People Experience, People ops, Administration/Office Management or a related field.&nbsp;</p>
+<p class="p2">• The ability to build effective working relationships at all levels of the organization, with experience at executive level.&nbsp;</p>
+<p class="p2">• Have experience with managing vendor relationships</p>
+<p class="p2">• Excellence in project management and partnering with stakeholders across timezones</p>
+<p class="p2">• Good commercial acumen and the ability to manage budgets.</p>
+<p class="p2">• Have experience working in a fast-growing global organisation.</p>
+<p class="p2">• A passion for problem-solving.</p>
+<p class="p2">• Are self-motivated, passionate, service-oriented with superior organisational skills and great follow through on tasks.</p>
+<p class="p2">• Have excellent written and verbal communication in english.</p>
+<p class="p2">• Have the ability to multi-task and manage a workload in a time effective way with multiple daily priorities to deal with</p>
+<p class="p2">• Have a high degree of integrity and honesty; ability to exercise confidentiality and neutrality in complex and sensitive situations</p>
+<p class="p2">• Are an effective listener and communicator - able to influence actions and outcomes.</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but</span><a href="https://snyk.io/blog/devsecops-insights-2020/"> <span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million,</span><a href="https://snyk.io/blog/snyk-closes-150m/"> <span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>#LI-ES1</p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">#LI-VR1</span></p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4834094002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5453812002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
