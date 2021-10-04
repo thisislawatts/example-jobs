@@ -4,7 +4,7 @@ Solutions Engineer Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
-<p><strong>Our Community Outreach internship program was first designed and launched during the pandemic, when we were particularly concerned the disproportionate economic impact of the pandemic on women and under-represented communities. We want to leverage the incredible growth and success we have experienced at Snyk to play our role in supporting under-represented minorities through opportunity and growth. The internship program allows minority groups with career opportunities while simultaneously aligning with our own talent growth strategy as a company.</strong></p>
+<p><strong>Our Community Outreach internship program was first designed and launched during the Covid-19 pandemic, when we were particularly concerned on the disproportionate economic impact of the pandemic on women and under-represented communities. </strong><strong>We want to leverage the incredible growth and success we have experienced at Snyk to play our role in supporting women and under-represented minorities who have graduated either in 2020/2021. The internship program allows minority groups with career opportunities while simultaneously aligning with our own talent growth strategy as a company.</strong></p>
 <p><strong>Applications close on 15th October 2021.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a curious, driven, and user-focused individual to join Snyk as an Solutions Engineer Intern. This person would be the technical expert in pre-sales discussions with customers, as we look to scale Snyk to greater heights!&nbsp;</span></p>
 <p><span style="font-weight: 400;">Snyk's mission is to help developers and organizations use open source code and stay secure. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
@@ -34,10 +34,7 @@ Solutions Engineer Intern
 </ul>
 <p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Please apply below!</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
+<p>Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity.&nbsp; We’ve designed these internships to support some of the groups most impacted by Covid, so this role is specifically for women and underrepresented ethnic groups who have/will graduate in 2020/2021 and are preparing to transition out of education and into full time employment.</p>
 <h3><strong>About Snyk</strong></h3>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
