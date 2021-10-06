@@ -3,9 +3,8 @@ Solutions Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><strong>Role: Solutions Engineer</strong></p>
-<p><strong>Location: US - Remote</strong></p>
+<h3><em><strong><sub>.</sub></strong></em><strong>Role: Solutions Engineer</strong></h3>
+<p><strong>Location: Boston, MA&nbsp;</strong></p>
 <p>We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</p>
 <p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
 <p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
@@ -44,17 +43,19 @@ Solutions Engineer
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.&nbsp;</span></p>
 <p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
 <p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation. Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk was named a </span><a href="https://snyk.io/news/snyk-named-a-visionary-in-2021-gartner-magic-quadrant-for-application-security-testing/"><span style="font-weight: 400;">Visionary in 2021 Gartner Magic Quadrant</span></a><span style="font-weight: 400;"> for Application Security Testing.</span></p>
+<p><span style="font-weight: 400;">Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, and faster.</span></p>
+<p><span style="font-weight: 400;">As of Sept of 2021, we have raised $530M in Series F funding, bringing our company valuation to&nbsp; $8.5 billion, in addition to successfully closing three strategic acquisitions with DeepCode, Manifold &amp; FossID. On top of that, we have doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us</span></p>
 <p>#LI-EO1</p>
-<p>#LI-REMOTE</p>
+<p>&nbsp;</p>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5278821002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5599501002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
