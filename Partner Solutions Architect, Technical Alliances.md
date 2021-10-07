@@ -4,7 +4,7 @@ Partner Solutions Architect, Technical Alliances
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">Partner Solutions Architect - Technical Alliances</span></p>
-<p><span style="font-weight: 400;">Location: SF Bay Area, Boston, Ottawa, West Coast (remote)</span></p>
+<p><span style="font-weight: 400;">Location: SF Bay Area, Boston, US Remote, West Coast (remote)</span></p>
 <h1><span style="font-weight: 400;">Overview</span></h1>
 <p><span style="font-weight: 400;">Snyk is looking to add a Partner Solutions Architect to join our Business Development organization. This is the perfect role for </span><span style="font-weight: 400;">motivated technologists who possess a unique balance of technical depth, breadth, and strong interpersonal and writing skills. </span><span style="font-weight: 400;">You will </span><span style="font-weight: 400;">develop highly technical, scalable, flexible, and resilient cloud solutions </span><span style="font-weight: 400;">and narratives of how Snyk complements the partner story while delivering unique value to our joint customer base.&nbsp;</span></p>
 <p>&nbsp;</p>
@@ -45,6 +45,7 @@ Partner Solutions Architect, Technical Alliances
 <p><br><br></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway. :)</span></p>
+<p><span style="font-weight: 400;"><strong data-stringify-type="bold">Minimum Base Salary of $100,000 + equity + benefits, but can go up depending on and individuals experience + qualifications.</strong></span></p>
 <h6>#LI-EO1</h6>
 <h6>#LI-Remote</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
