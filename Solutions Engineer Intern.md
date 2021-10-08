@@ -3,11 +3,10 @@ Solutions Engineer Intern
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Community Outreach Program: Internships for underrepresented groups </strong><span style="text-decoration: underline;"><em><strong>who have/will graduate in 2020/2021</strong></em></span></p>
-<p>Our Community Outreach internship program was first designed and launched during the Covid-19 pandemic, when we were particularly concerned on the disproportionate economic impact of the pandemic on women and under-represented communities.</p>
-<p>We want to leverage the incredible growth and success we have experienced at Snyk to play our role in supporting women and under-represented minorities. The internship program allows minority groups with career opportunities while simultaneously aligning with our own talent growth strategy as a company.</p>
+<p><strong>Community Outreach Program: Internships for underrepresented groups&nbsp;</strong></p>
+<p><strong>Our Community Outreach internship program was first designed and launched during the Covid-19 pandemic, when we were particularly concerned on the disproportionate economic impact of the pandemic on women and under-represented communities. </strong><strong>We want to leverage the incredible growth and success we have experienced at Snyk to play our role in supporting women and under-represented minorities who have graduated either in 2020/2021. The internship program allows minority groups with career opportunities while simultaneously aligning with our own talent growth strategy as a company.</strong></p>
 <p><strong>Applications close on 15th October 2021.</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a curious, driven, and user-focused individual to join Snyk as a Solutions Engineer Intern. This person would be the technical expert in pre-sales discussions with customers, as we look to scale Snyk to greater heights!&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a curious, driven, and user-focused individual to join Snyk as an Solutions Engineer Intern. This person would be the technical expert in pre-sales discussions with customers, as we look to scale Snyk to greater heights!&nbsp;</span></p>
 <p><span style="font-weight: 400;">Snyk's mission is to help developers and organizations use open source code and stay secure. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -42,7 +41,7 @@ Solutions Engineer Intern
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5592429002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5580444002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
