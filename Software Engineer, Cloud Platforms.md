@@ -21,7 +21,7 @@ Software Engineer, Cloud Platforms
 <li style="font-weight: 400;"><span style="font-weight: 400;">Believe that DevOps is an outcome, not a role.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have hands-on experience as an Infrastructure Engineer, implementing Cloud Native architectures for various domains and contexts.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have extensive experience running Kubernetes in a production environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience building and maintaining automation and tooling.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience building and maintaining automation and tooling, such as: Kubernetes, Helm, Terraform, CI and CD tooling, integrations with Slack, Okta, IRM tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively, and enjoy working with people from multiple disciplines.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have seen good (and bad) infrastructure, and have opinions about what works and what doesn’t</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are hands-on, curious and love to explore new domains, technologies, and approaches.</span></li>
