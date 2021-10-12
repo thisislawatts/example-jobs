@@ -5,9 +5,23 @@ Infrastructure Engineer, Engines Division
 
 <p><strong>Infrastructure Engineer, Engines Division</strong></p>
 <p><strong><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></strong></p>
-<p><strong>Location: Sweden, Israel, Germany, Switzerland, or UK</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an experienced infrastructure engineer to help scale Snyk’s component identification engine. You will work closely with a warm and caring team. Together you’ll use your creativity to create new exciting tooling that helps developers find and fix vulnerabilities.</span></p>
-<p><span style="font-weight: 400;">You have relevant industry experience in automation and infrastructure to help deliver beautiful, reliable and fast service at scale. Teams at Snyk have a strong devops culture: the people who build the software, run the software. You will be learning and growing both your own skills and the skills of your team.&nbsp;</span></p>
+<p><span style="font-weight: 400;"><br>We’re looking for an experienced infrastructure engineer to help scale Snyk’s component identification engine. You will work closely with a warm and caring team. Together you’ll use your creativity to create new exciting tooling that helps developers find and fix vulnerabilities.</span></p>
+<p><span style="font-weight: 400;">You have relevant industry experience in automation and infrastructure to help deliver beautiful, reliable and fast service at scale. Teams at Snyk have a strong devops culture: the people who build the software, run the software. You will be learning and growing both your own skills and the skills of your team.&nbsp;<br></span></p>
+<div class="c-message_kit__gutter">
+<div class="c-message_kit__gutter__right" data-qa="message_content">
+<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text">
+<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block">
+<div class="p-rich_text_section">Within Snyk, all teams run their own infrastructure. While we are currently running parts of our software stack on a highly optimised self-maintained cloud based setup, we expect you to be comfortable in designing, implementing and maintaining services that run either in a fully managed environment (i.e. Kubernetes) or that needs its end-to-end optimised stack. In the former case, the focus will be on your skills relating to software development which is why we are looking for candidates strong in both software development and infrastructure.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive working environment we've fostered, where we can benefit from the different perspectives within our team. We are collaborative, curious, and respectful - it’s important to us that everyone feels comfortable contributing their ideas and views.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
