@@ -24,7 +24,7 @@ Financial Controller
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have at least 10 years + finance &amp; accounting experience&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have prior SaaS industry experience and have an understanding of US GAAP</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have prior SaaS industry experience and have an understanding of &nbsp;SAAS accounting &amp; US GAAP</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a chartered accountant or equivalent</span></li>
 </ul>
 <ul>
