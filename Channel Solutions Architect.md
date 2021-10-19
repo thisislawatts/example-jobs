@@ -3,58 +3,40 @@ Channel Solutions Architect
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p>&nbsp;</p>
+<h3><strong><em>All roles listed as ‘remote’ are available as remote within the same country.</em></strong></h3>
 <p><strong>Role: Channel Solutions Architect</strong></p>
 <p><strong>Location: US (Boston) - Remote</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a driven, user-focused Channel Solutions Architect to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organizations and helping to evolve what Snyk has to offer.</span></p>
-<p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
-<p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Snyk</span><strong> Channel Solutions Architect</strong><span style="font-weight: 400;"> is responsible for strategy, enablement, development, and performance of our strategic National Partners (Trace3, Presidio, and AHEAD)</span><span style="font-weight: 400;">. You will be working within all levels of large partner organizations and have a thorough understanding of Snyk’s solutions and the business value to partners and customers.&nbsp;</span></p>
 <h4><strong>You’ll spend your time:</strong></h4>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Managing the technical components of Snyk’s Platinum partners</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">enable partner sales teams with training and content to support partner growth</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">establish relationships with technical leaders as trusted partner</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">building training curriculums and certification programs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">managing technical training environments such as Strigo</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">educate customers and partners about the adoption of open source and the importance of empowering developers to stay secure</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">supporting the partner with the technical aspects of the sale, providing demonstrations, demonstrating product expertise and sharing best practice</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating roadmap sessions to gather critical feedback from Channel Partners</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working closely with Channel Partners to increase their proficiency in selling and supporting the Snyk solution through their sales process and beyond.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">work with Channel Partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Managing the technical components of Snyk’s strategic partners.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enabling partner sales teams with training and content to support partner growth.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Establishing relationships with technical leaders as trusted partner.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Providing guidance to build training curriculums and certification programs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Educating customers and partners about the importance of developer-first security.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aligning Snyk sales org with key partner sales teams to scale efforts.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating roadmap sessions to gather critical feedback from partners.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working closely with partners to increase their proficiency in selling and supporting the Snyk platform through their sales process and beyond, including on-site visits.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work with partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations.</span></li>
 </ul>
 <h4><strong>You should apply if you:</strong></h4>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have proven track record of creating and maintaining strong Channel Partner relationships</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong leadership skills with the ability to set and manage expectations with Executive team members and key stakeholders</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have spent 5 years or similar in the engineering, developer or security space</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with a wide variety of coding languages and how they work</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a good knowledge of the developer and DevOps ecosystems and practices</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">love to learn about new technology and you’re curious about how things work under the hood</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">over communicate, create alignment, rally resources and satisfying stakeholders</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">love to teach and coaching is a habit</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong written and spoken English</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked closely with highly technical customers before</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand people and what makes them tick</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a team-oriented mindset</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">care about diversity and enjoy meeting people from all walks of life</span></li>
-</ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in early stage, fast growth startups (especially in developer tooling!)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are fluent in additional languages</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a proven track record of creating and maintaining strong Channel Partner relationships.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong leadership skills with the ability to set and manage expectations with Executive team members and key stakeholders.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have spent 5 years or similar in managing strategic partnerships.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with a wide variety of coding languages and how they work.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have background in software security, open source, DevOps, cloud or dev tooling space</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway. </span></p>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we</span><a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/"> <span style="font-weight: 400;">raised $300M</span></a><span style="font-weight: 400;"> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
+<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.&nbsp;</span></p>
 <p>#LI-EO1</p>
-<p>&nbsp;</p>
-<p>#LI-Remote</p>
+<p>#LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
