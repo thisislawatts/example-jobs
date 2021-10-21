@@ -5,7 +5,7 @@ Senior Technical Program Manager
 
 <p><span style="font-weight: 400;">The Senior Technical Program Manager will collaborate with all of Snyk’s departments to support the evaluation, implementation and operation of technology initiatives across all departments, as well as the rollout of systems and integrations to support our fast growing company in its adoption of new systems.</span></p>
 <p><span style="font-weight: 400;">We are looking for a leader that will define and create much of our approach to cross-functional planning, management and delivery. You are not stepping into a clean, well-defined role. You are the “prototype” for the cross-functional program management function at Snyk; the one who will help us figure out how to plan, execute and communicate this work to all of Snyk.</span></p>
-<p><span style="font-weight: 400;">You’ll help us to implement Federal programs like FedRAMP Accreditation, large-scale sales efficiency programs, and potentially infrastructure initiatives that cross multiple departments.&nbsp;</span></p>
+<p><span style="font-weight: 400;">You’ll help us to implement Federal programs like FedRAMP Accreditation, large-scale sales efficiency programs, and potentially infrastructure initiatives that cross multiple departments. This role reports to the CIO.</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering closely with Snyk business stakeholders to ensure we are accurately translating internal needs into well defined programs, projects and backlogs</span></li>
@@ -16,7 +16,7 @@ Senior Technical Program Manager
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in being a technical program/project manager at a startup and/or growth-mode organization. Public company experience is a plus (pre- and post-IPO even better!)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 10 years progressive experience as project and program management<br>Have proven experience in being a technical program/project manager at a startup and/or growth-mode organization. Public company experience is a plus (pre- and post-IPO even better!)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in Agile methodologies. Ideally, you’re deep in Agile and have a strong understanding of roles, approaches, etc.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in building platforms and products for internal customers, with the ability to drive adoption of these products</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience collaborating with multiple stakeholders and managing priorities.</span></li>
