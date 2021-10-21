@@ -6,7 +6,7 @@ Senior Technical Project Manager
 <p><span style="font-weight: 400;">Our team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across all departments, as well as the rollout of systems and integrations to support our fast growing company in its adoption of new systems.</span></p>
 <p><span style="font-weight: 400;">Our current technology environment includes a handful of core systems like Salesforce, Marketo, Netsuite, Slack, Google Workspace, Okta and (soon) Workday along with a lot of other SaaS apps. This environment is rapidly changing. We are adding applications, workflows and integrations all the time.</span></p>
 <p><span style="font-weight: 400;">We are looking for a project manager that will define/create much of our approach to IT project planning, management and delivery. You are not stepping into a clean, well-defined role. You are the “prototype” for tech project management function at Snyk; the one who will help us figure out how to plan, execute and communicate this work to all of Snyk.</span></p>
-<p><span style="font-weight: 400;">You will juggle multiple projects at any given time. Some might only last a week, others a month or two. You will help us get better at planning and executing these projects. You will also put in place the measurements and data to help us better understand and communicate our capacity and commitments.</span></p>
+<p><span style="font-weight: 400;">You will juggle multiple projects at any given time. Some might only last a week, others a month or two. You will help us get better at planning and executing these projects. You will also put in place the measurements and data to help us better understand and communicate our capacity and commitments. This role will report to the Program Manager.&nbsp;</span></p>
 <h3><span style="font-weight: 400;"><strong>You’ll spend your time</strong>:</span></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering closely with Snyk business stakeholders to ensure we are accurately translating internal needs into well defined projects and backlogs.</span></li>
@@ -17,7 +17,7 @@ Senior Technical Project Manager
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience in being a technical project manager</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have 5-10 years proven technical project management experience&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience managing an ongoing portfolio of varied projects. This is not a job for people with only serial project management experience.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in Agile methodologies. Ideally, you’re deep in Agile and have a strong understanding of roles, approaches, etc.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in Agile Coaching. Have helped implement or deepen an organization’s adoption of agile.</span></li>
