@@ -4,9 +4,9 @@ People Experience Specialist (Maternity Cover)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><em><strong>Location: </strong><strong>This role is open to office work only</strong></em></p>
 <hr>
-<p><strong>Location: Tel Aviv, Israel - Maternity cover</strong></p>
+<p><strong>Tel Aviv, Israel - Maternity cover</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a People Experience Specialist to e</span>levate the Snyker experiences through a focus on workplace, communications, and inclusion. The PX Specialist will be a key partner to the Snyk population in Tel Aviv, and use frequent feedback to support a culture that is engaging and enabling.</p>
 <p class="p1"><strong>How you'll spend your time</strong></p>
 <p class="p2">• Liaise with key stakeholders to align their business needs in the workplace</p>
