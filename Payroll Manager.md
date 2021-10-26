@@ -25,7 +25,7 @@ Payroll Manager
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years of experience processing US and/or Canadian payroll in a high-growth business environment that includes commission and bonus payments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 7+ years of experience processing US and/or Canadian payroll in a high-growth business environment that includes commission and bonus payments</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are knowledgeable about US and Canadian payroll tax and expense reporting rules and regulations or are eager to learn</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable with change and would embrace being a leader in process change</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">care deeply about the accuracy of data and ensuring timely reporting</span></li>
