@@ -1,13 +1,14 @@
-Principal Go to Market Recruiter - Americas
+Sr Talent Attraction Partner, GTM 
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><strong>We’re looking for a Principal Talent Attraction Partner, GTM to join our Recruiting team, helping to scale Snyk's GTM teams globally while contributing to building a great employer brand.</strong></p>
+<p><strong>We’re looking for a talented Sr Talent Attraction Partner to join our Recruiting team, helping to scale Snyk's GTM teams globally while contributing to building a great employer brand.</strong></p>
 <p><strong>The role</strong></p>
-<p><span style="font-weight: 400;">As a Principal Talent Attraction Partner, GTM for Snyk, you'll join the Go-To-Market (GTM) Recruiting team within our global People Team. This role reports into our Sr Manager, Talent Attraction GTM, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">As a <strong>Sr Talent Attraction Partner</strong> for Snyk, you'll join the Go-To-Market (GTM) Recruiting team within our global People Team. This role reports into our GTM Talent Attraction Manager, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications globally for the roles that you’re responsible for</span></li>
@@ -27,10 +28,10 @@ Principal Go to Market Recruiter - Americas
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have internal recruitment experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have at least 10+ years or equivalent experience in full lifecycle recruiting and sourcing, ideally within Marketing, specifically in North America</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have recruited for a technical product company before, and have a strong understanding of technology which you can evaluate in others</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are great at building relationships with stakeholders and driving new initiatives of improvement</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have internal recruitment experience&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have at least 5-8 years or equivalent experience in full lifecycle recruiting and sourcing, ideally within Sales, Customer Success and Marketing, specifically in North America</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have recruited for a technical product company before, and have a good understanding of technology which you can evaluate in others</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are great at building relationships with stakeholders</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy working in a fast paced, high growth company and feel comfortable with ambiguity</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">value diversity and believe strongly in creating inclusive environment</span></li>
 </ul>
@@ -45,7 +46,7 @@ Principal Go to Market Recruiter - Americas
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5578084002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5571883002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
