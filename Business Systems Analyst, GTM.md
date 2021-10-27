@@ -3,37 +3,37 @@ Business Systems Analyst, GTM
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an experienced Finance Systems Administrator to join our IT organization to support Snyk’s hyper-growth across multiple applications, specializing in NetSuite.&nbsp; A solid foundation of both technology and supporting multiple finance processes is a must.&nbsp; As a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting NetSuite, as well as experience with other finance technologies.</span></p>
-<p><span style="font-weight: 400;">You will partner with the functional resources to manage the configuration and development of system enhancements, upgrades, system modifications, and day-to-day issue analysis, tracking, and resolution.&nbsp; You are responsible for supporting our finance systems (i.e. Netsuite, Ivalua, FloQast, Vena) for business needs, and ensure the functionality is optimized to meet the evolving needs of the business. &nbsp; </span></p>
-<p><span style="font-weight: 400;">You are also responsible to ensure that functional users are fully equipped with the training and knowledge required to to effectively work in the NetSuite environment and other core systems.&nbsp; Key to success in this position is transparent communication to the business and responsiveness to stakeholders issues and requests.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly effective, proven GTM Business Systems Analyst to join our IT organization to support Snyk’s Sales and Marketing departments during this period of hyper-growth.&nbsp; A solid foundation in a breadth of Sales, Customer Success and Marketing business processes is essential for this role.&nbsp; Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global Sales and Marketing organization on a variety of applications, including Salesforce, Marketo and various Sales tooling.</span></p>
+<p><span style="font-weight: 400;">You will partner with the business to create and deliver scalable solutions and automate core business processes across the finance organization.&nbsp; Your primary responsibility will be to define and interpret business requirements to the technical team on system implementations and enhancements across the Sales organization.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">managing the NetSuite application and all integrated cloud-based applications, such as our financial planning tool (Vena), our procurement system (Ivalua), our close management tool (FloQast), and others</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">maintain user access and roles, ensuring appropriate segregation of duties</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">supporting all end user requests and providing timely issue resolution for internal users</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">troubleshooting problems including system interfaces and integration issues</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assisting the finance department with data analysis and reporting needs (such as saved searches) to support their optimized use of NetSuite and other identified applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">performing functional configuration, system maintenance, and business process testing for ongoing projects and improvements&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">training new hires and proactively communicate changes resulting from system updates</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">leading business requirements sessions, collaborating on systems design and process developments to support the Sales and Marketing teams, for both new business processes and existing ones&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">defining detailed functional requirements for enhancements and new tooling to Salesforce</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">documenting and developing high level, business processes flows, requirements and design document for new business requirements</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">understanding the current business processes, pain points, and challenges and implementing technological solutions and enhancements</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working with functional subject matter experts and leadership, on strategic initiatives&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">conducting and/or facilitating complex system testing, identifying discrepancies, and ensure remediation prior to any technology release&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interacting with cross functional business teams to define requirements and understand the systems upstream and downstream changes, i.e Salesforce CPQ, NetSuite, and Marketo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assisting the GTM Product Owner in supporting our Salesforce instance for long term scalability and growth</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have Bachelor’s degree in a Technology or Finance related field</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years experience with NetSuite, with at least 3+ years NetSuite administration experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">possess an extensive understanding of NetSuite, including experience in advanced revenue management (ARM), multi-book accounting, and being integrated with a SFDC CPQ environment and SFDC billing&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have Bachelor’s degree in a Technology related field or experience working in the Salesforce ecosystem</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years experience in an IT organization supporting sales and marketing process</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a thorough understanding of the Sales processes and best practices around GTM strategies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a strong knowledge of system and software quality assurance best practices and methodologies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator in both formal and informal situations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are able to manage shifting responsibilities in a dynamic and cross-functional teamwork environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in working in a geographically distributed / remote environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a detail oriented, critical thinker with a problem-solving mindset</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">act speedily and iteratively - focused on getting things done&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of financial processes&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have enjoy acquiring new knowledge and skills and can do so quickly&nbsp;</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have SaaS industry experience at a global company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have administered multiple finance systems, including extensive NetSuite experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with systems such as SFDC, Ivalua, FloQast, Vena, Avalara, Expensify or other similar applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have administered Salesforce in the past or worked as a Salesforce Business Analyst</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with systems such as Salesforce CPQ, Salesforce Billing, and Marketo</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are hands-on, curious and love to learn new things</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are ridiculously easy to work with - ability to build strong relationships with a broad set of stakeholders that have diverse interests</span></li>
 </ul>
