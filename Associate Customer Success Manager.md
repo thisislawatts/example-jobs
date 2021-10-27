@@ -4,7 +4,6 @@ Associate Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Associate Customer Success Manager</strong></p>
-<p><strong>Location: Boston o</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a curious and personable Customer Success Associate to join our Customer Success org and work to drive value for our customers.</span></p>
 <p><span style="font-weight: 400;">The Customer Success team helps our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll help build and maintain the long term relationship with the customer by advocating their needs internally across departments like Product, Support, and Sales.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
