@@ -4,11 +4,11 @@ Sr Talent Attraction Partner, GTM
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></p>
 <hr>
-<p><strong>We’re looking for a talented Sr Talent Attraction Partner to join our Recruiting team, helping to scale Snyk's GTM teams globally while contributing to building a great employer brand.</strong></p>
+<p><strong>We’re looking for a talented Sr Talent Attraction Partner to join our Talent Attraction team, helping to scale Snyk's GTM teams globally while contributing to building a great employer brand.</strong></p>
 <p><strong>The role</strong></p>
-<p><span style="font-weight: 400;">As a <strong>Sr Talent Attraction Partner</strong> for Snyk, you'll join the Go-To-Market (GTM) Recruiting team within our global People Team. This role reports into our GTM Talent Attraction Manager, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">As a <strong>Sr Talent Attraction Partner</strong> for Snyk, you'll join the Go-To-Market (GTM) Talent Attraction team within our global People Team. This role reports into our GTM Talent Attraction Manager, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications globally for the roles that you’re responsible for</span></li>
@@ -16,7 +16,7 @@ Sr Talent Attraction Partner, GTM
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting and encouraging employee referrals&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing full-cycle recruitment process for the roles you are assigned</span></li>
 </ul>
-<p><strong>Along with other members of the Recruiting team, you’ll also get involved in:</strong></p>
+<p><strong>Along with other members of the Talent Attraction team, you’ll also get involved in:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">building a strong employer brand for Snyk globally</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">tracking and building an exceptional candidate experience</span></li>

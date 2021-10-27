@@ -3,9 +3,9 @@ Senior Talent Attraction Partner, R&D
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>We’re looking for a Sr Technical Recruiter with strong sourcing skills to join our recruiting team, helping to scale Snyk's R&amp;D teams globally whilst contributing to building a great employer brand.</strong></p>
+<p><strong>We’re looking for a Sr Technical Recruiter with strong sourcing skills to join our Talent Attraction team, helping to scale Snyk's R&amp;D teams globally whilst contributing to building a great employer brand.</strong></p>
 <h3><strong>The role</strong></h3>
-<p><span style="font-weight: 400;">As a Sr Technical Recruiter for Snyk, you'll join the R&amp;D Recruiting team within our global People Team, reporting into our Director, Talent Attraction R&amp;D. We've started scaling fast in a short space of time, so there are many</span><span style="font-weight: 400;">&nbsp;opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration. &nbsp;</span></p>
+<p><span style="font-weight: 400;">As a Sr Technical Recruiter for Snyk, you'll join the R&amp;D Talent Attraction team within our global People Team, reporting into our Director, Talent Attraction R&amp;D. We've started scaling fast in a short space of time, so there are many</span><span style="font-weight: 400;">&nbsp;opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration. &nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications within Israel and internationally for the roles you’re responsible for</span></li>
@@ -13,7 +13,7 @@ Senior Talent Attraction Partner, R&D
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting and encouraging employee referrals&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing the recruitment process for your roles, including candidate experience and process management.</span></li>
 </ul>
-<h3><strong>Along with other members of the Recruiting team, you’ll also get involved in:</strong></h3>
+<h3><strong>Along with other members of the Talent Attraction team, you’ll also get involved in:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">building a strong employer brand for Snyk globally, including designing swag, coordinating on messaging, and encouraging participation from other teams at Snyk to help us promote ourselves as a great employer globally</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">tracking and building an exceptional candidate experience</span></li>
@@ -35,11 +35,7 @@ Senior Talent Attraction Partner, R&D
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Diversity is important to us at Snyk, and we would <em>particularly</em> encourage applications from those who are traditionally underrepresented in tech or HR. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway!</span></p>
-<h3><strong>About Snyk</strong></h3>
-<p><strong>Snyk's mission is to help developers use open source code and stay secure</strong><span style="font-weight: 400;">. Our product enables developers and enterprise security to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows. The use of open source is booming, but security is a key concern.</span></p>
-<p><strong>We are growing fast -&nbsp;</strong><span style="font-weight: 400;">we want you to join us!&nbsp; By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). </span><span style="font-weight: 400;">We also raised an additional $70 Million, </span><a href="https://en.globes.co.il/en/article-open-source-security-platform-snyk-raises-70m-1001300189"><span style="font-weight: 400;">announced September 10, 2019</span></a><span style="font-weight: 400;">,&nbsp; from investors such as Accel, GV and Boldstart, demonstrating that they are as excited as we are by Snyk’s progress and potential</span><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>&nbsp;</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-ES1 #LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
