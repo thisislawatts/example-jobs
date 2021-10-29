@@ -6,8 +6,8 @@ Open Source Analyst, Data & Orchestration
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
 <p><strong><br>Location: This role is also open to remote work from Germany, Israel, Sweden, Switzerland, Romania, and United Kingdom</strong></p>
 <p>&nbsp;</p>
-<p><strong>Open Source Analyst</strong><strong>, Data &amp; Orchestration</strong></p>
-<h3>&nbsp;</h3>
+<p><strong>Open Source Analyst, </strong><strong>Data &amp; Orchestration</strong></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We are looking for a curious, analytical and detail-oriented Open Source Analyst to join our team and help us curate a dataset of undefined dependencies.</span></p>
 <h3>&nbsp;</h3>
 <p><strong>Your Role</strong></p>
