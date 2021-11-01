@@ -3,12 +3,12 @@ Technical Operations Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We're looking for a Technical Operations Specialist to join our IT team, providing technical&nbsp; support across all offices with a focus on North America, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
+<p><span style="font-weight: 400;">We're looking for a Technical Operations Specialist to join our IT team, providing technical support across all offices, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
 <p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across the different departments.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You are experienced with existing technologies, and comfortable with new ones. You are a problem solver with excellent execution and communication skills. You will use this experience to define the systems and policies that will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s Ottawa offices, including Networking and Conferencing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s offices, including Networking and Conferencing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Snyk’s employee base with a data driven approach and a focus on user satisfaction</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and offboarding of leaving employees</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding our current technology stack and its usage across the company, as well as current gaps and requirements for future tools and systems</span></li>
