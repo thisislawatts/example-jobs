@@ -17,7 +17,7 @@ Program Manager, Sales Process & Methodology (Global)
 <li style="font-weight: 400;"><span style="font-weight: 400;">Define KPI’s and provide quarterly reporting to the executive steering committee</span></li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>You should apple if you:&nbsp;</strong></p>
+<p><strong>You should apply if you:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in managing large global programs is essential</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in managing a methodology roll out is desirable</span></li>
