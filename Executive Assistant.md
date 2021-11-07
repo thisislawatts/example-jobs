@@ -3,9 +3,9 @@ Executive Assistant
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Remote (US East Coast/Central time zones) - main office in Boston, MA</strong></p>
+<p><strong>Location: Boston (US East Coast/Central time zones)&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced Executive Assistant to join our Snyk team to provide comprehensive administrative support to multiple executives.&nbsp;</span></p>
-<p><strong>As an Executive Assistant for Snyk, </strong><span style="font-weight: 400;">you’ll join our Global People Operations team to provide effective and efficient administrative support for executives on our management team. You’ll spend your time being the central point of contact for the executive(s) you support, making them accessible where possible. Calendar management for your executives will be done across multiple time zones, where you’ll be arranging meetings and appointments, as well as multi-faceted domestic and international travel itineraries (as and when travel restrictions allow).</span></p>
+<p><strong>As an Executive Assistant for Snyk, </strong><span style="font-weight: 400;">you’ll provide effective and efficient administrative support for executives on our management team. You’ll spend your time being the central point of contact for the executive(s) you support, making them accessible where possible. Calendar management for your executives will be done across multiple time zones, where you’ll be arranging meetings and appointments, as well as multi-faceted domestic and international travel itineraries (as and when travel restrictions allow).</span></p>
 <p><span style="font-weight: 400;">To be successful in this role, you should be well-organized, flexible, have exemplary time management and communication skills, and be able to act without guidance.</span></p>
 <p><span style="font-weight: 400;">Responsibilities include:</span></p>
 <ul>
