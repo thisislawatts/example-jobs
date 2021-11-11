@@ -4,19 +4,22 @@ Regional Director Enterprise Sales, West Region
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
-<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working Sales Manager to join our fast-growing, west coast, commercial sales team.</span></p>
-<p><span style="font-weight: 400;">As a Regional Director of Enterprise Sales at Snyk you’ll be responsible for:</span></p>
+<p><strong>Regional Director, Enterprise Sales - West Region</strong></p>
+<p><strong>Location: Remote - West Region</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, data driven, and hard working front-line leader to join our fast-growing sales team.</span></p>
+<p><span style="font-weight: 400;">As a Regional Director at Snyk you’ll be responsible for:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">End-to-end coaching, management and quota attainment of 6-8 sales representatives&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Recruiting top talent (Internal and External)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">End-to-end coaching, management and quota attainment of 5-7 account executives</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Recruiting and developing top talent (Internal and External)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Efficiently ramping new hires&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Motivating and developing the careers of your direct reports</span></li>
 </ul>
 <p><span style="font-weight: 400;">We want you to contribute to the iterative improvement of your team's sales process, tone and approach. You will have plenty of ownership to inform the way we develop our internal tooling to help you work efficiently and effectively. We’re a collaborative team with different experiences, and we spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team.</span></p>
-<p><span style="font-weight: 400;">We’re looking for a highly motivated leader who thrives with the freedom to decide how to develop their team in a world class organization. This role will report directly to our VP of Sales.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly motivated leader who thrives with the freedom to decide how to develop their team in a world class organization. This role will report directly to our regional sales leader.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years experience managing a successful team selling a technical product in the midmarket, commercial and/or low enterprise space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 3+ years experience managing a successful team selling a technical product in enterprise or strategic space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you’re a natural “coach”</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are motivated by the development and success of your team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">aim to exceed quota, and enjoy working in fast-paced environment that embraces change</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative with other internal departments (Marketing, Sales Engineering, Product, Customer Success) to get your deal done&nbsp;</span></li>
@@ -27,6 +30,8 @@ Regional Director Enterprise Sales, West Region
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in CyberSecurity, Application Security, DevOps, or DevSecOps&nbsp;</span></li>
 </ul>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <h3><strong>About Snyk</strong></h3>
