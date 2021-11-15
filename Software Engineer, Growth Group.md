@@ -3,7 +3,7 @@ Software Engineer, Growth Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.&nbsp;</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We’re looking for impact driven, experienced software engineers to join our Growth group and amplify the value Snyk is bringing to developers all around the world.</span></p>
 <h3><strong>Who are we?</strong></h3>
 <p><span style="font-weight: 400;">The teams in the Growth group focus on acquisition, engagement and conversion of Snyk's individual users. In our work, we are motivated by making a business impact:</span></p>
