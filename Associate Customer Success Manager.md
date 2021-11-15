@@ -4,6 +4,7 @@ Associate Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Associate Customer Success Manager</strong></p>
+<p><strong>Location: Boston or Ottawa (In-office)&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a curious and personable Customer Success Associate to join our Customer Success org and work to drive value for our customers.</span></p>
 <p><span style="font-weight: 400;">The Customer Success team helps our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll help build and maintain the long term relationship with the customer by advocating their needs internally across departments like Product, Support, and Sales.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
@@ -17,6 +18,7 @@ Associate Customer Success Manager
 <p><strong>You’d be a great fit if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are pragmatic, curious to explore new domains and technologies, and are a proactive problem-solver&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with full-stack web development (e.g. experience with JavaScript) </span></li>
 <li><span style="font-weight: 400;">are interested in developer workflows and standard tooling (e.g. GitHub, Jira, Jenkins, VScode)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a team-first mentality, and care about helping others be as successful as you want to be</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are excited about SaaS products, and want to help our customers gain more value from Snyk</span></li>
