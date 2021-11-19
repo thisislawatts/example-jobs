@@ -6,29 +6,44 @@ Customer Success Manager, Enterprise
 <h5><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></h5>
 <p><strong>Enterprise Customer Success Manager</strong></p>
 <p><strong>Location: Denver or Remote in US West region</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Enterprise Customer Success Organization to help retain and grow Snyk’s largest and most strategic customers.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The Enterprise Customer Success team works hand-in-hand with Development and Security leaders from Fortune 100 organizations to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
-<p><span style="font-weight: 400;">As an Enterprise CSM, you’ll spend your time:</span></p>
+<p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our North American team to guide Snyk’s customers and help build the future of Customer Success at Snyk.</span></p>
+<p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) to help customers drive security within their </span><strong>Software Development Life Cycle (SDLC)</strong><span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis .&nbsp;</span></p>
+<p><span style="font-weight: 400;">As the technical point of contact you will become the trusted product advisor for clients and partners to identify key strategies that will unlock business value and improve product usability, expand product adoption, increase customer satisfaction and loyalty.</span></p>
+<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">You’ll Spend Your Time:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building and fostering trusted relationships with leaders from our customers’ engineering and security organizations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Designing and executing&nbsp; customized onboarding programs helping customers achieve their security program goals through the use of Snyk’s suite of products</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mobilizing internal and external resources to remove barriers to adoption</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Advocating internally for the needs of your customers, working proactively with Sales, Product, Support and other teams to identify expansion opportunities and mitigate risks</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Preparing and facilitating business review meetings, training sessions, product feedback/roadmap reviews, and other strategic customer interactions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fostering and building overall relationships with assigned customers through increasing adoption, ensuring retention and long-term customer success.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Project managing the deployment and usage strategy of the Snyk products, putting in place a program to mature security, and educate developers on the Snyk solution.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with internal teams to manage technical use cases for your book of business.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Outlining Snyk best practices and use cases, which help customers improve their security posture and optimize their processes.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Providing a layer of technical oversight, and assisting with technical questions during the entire customer life cycle.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Coordinating technical working sessions with Snyk’s Customer Success Engineers and customers to jointly map out workflows that meet customer needs/goals based of Snyk solutions subscribed to.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Delivering internal and external quarterly reviews based on your book of business performance and product usage metrics.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working in small teams to make customers successful.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with the Sales and Renewals team to deliver impactful customer insights which help drive expansions and retention.</span></li>
 </ul>
-<p><span style="font-weight: 400;">You should apply if you:</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">You should apply if you:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 8-10 years of progressive experience in a customer-facing professional role</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Can demonstrate working knowledge of Developer or Application Security tools (e.g. GitHub, Jira, Jenkins, VScode)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have proven experience managing post-sales client relationships with Fortune 100 Enterprise companies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are an effective and influential communicator with a range of personas (from end user to C-level executive); you can facilitate challenging discussions and are adept at handling objections</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in a collaborative, fast-paced environment and as a part of a results oriented team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to translate technical tasks from the customer to other Snyk teams.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">own the ability to independently manage multiple projects.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked closely with highly technical customers.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">use strong analytical skills to manage customer sense of value.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">embrace the opportunity to present to executive teams.</span></li>
+</ul>
+<p><strong>We’d especially love to hear from you if you:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created a Snyk account and got to know our tech!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with developers or DevOps teams.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a developer background or any kind of experience with coding.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You love Application Security and want to make the world secure!</span></li>
 </ul>
 <h4><strong>Interested?</strong></h4>
 <p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
-<p><span style="font-weight: 400;">#LI-EO1 #LI- Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">#LI-LM1 </span></p>
+<p><span style="font-weight: 400;">#LI- Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
