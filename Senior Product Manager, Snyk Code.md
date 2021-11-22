@@ -5,7 +5,7 @@ Senior Product Manager, Snyk Code
 
 <p><span style="font-weight: 400;">Snyk is used by over 2.2M developers, from those working on open source projects to teams in large enterprise organisations.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We secure the code you write, with Snyk Code. The libraries you depend upon with Snyk Open Source. The containers you package it all into, with Snyk Container and lastly the infrastructure that you run it on with Snyk Infrastructure as Code.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We’re looking for a product manager for </span><strong>Snyk Code</strong><span style="font-weight: 400;">, to work as an integral part of our security, Program Analysis and ML teams to drive impact across this product.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a product manager for </span><strong>Snyk Code</strong><span style="font-weight: 400;">, </span><span style="font-weight: 400;">to work as an integral part of our security, Program Analysis and ML teams to drive impact across this product.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You will own Snyk Code core capabilities - from the future language coverage roadmap to internal tooling enabling our experts. Example initiatives could include understanding how to prioritise given programming language framework support, defining future ML/AI capabilities and iterating on tools that help security analysts who add and review Code rules run faster.</span></p>
 <h3><strong>You’ll spend your time</strong></h3>
 <ul>
