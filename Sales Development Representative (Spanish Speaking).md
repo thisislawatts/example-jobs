@@ -1,4 +1,4 @@
-Sales Development Representative (French Speaking)
+Sales Development Representative (Spanish Speaking)
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
@@ -18,7 +18,7 @@ Sales Development Representative (French Speaking)
 <h3><strong>You should join us if:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are ambitious, organised and energetic</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Fluent in French.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fluent in Spanish.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You build strong, meaningful relationships and take pride in being a great communicator</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re driven: you strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You are collaborative and want to work in a diverse, high-performing team</span></li>
@@ -43,7 +43,7 @@ Sales Development Representative (French Speaking)
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4419487002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5718325002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
