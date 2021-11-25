@@ -27,6 +27,7 @@ Contract - Sr. Talent Attraction Partner, R&D
 <li><span style="font-weight: 400;">attending (or organising!) events and conferences</span></li>
 <li><span style="font-weight: 400;">managing and improving relationships with agencies and third parties as relevant</span></li>
 </ul>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We are distributed across multiple locations including offices in UK, Europe, Israel, US and Canada, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
@@ -37,6 +38,7 @@ Contract - Sr. Talent Attraction Partner, R&D
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy working in a fast paced, high growth company and feel comfortable with ambiguity </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">value diversity and believe strongly in creating inclusive environment</span></li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>Our values:</strong></p>
 <p><strong>One team: </strong><span style="font-weight: 400;">In a global and highly distributed company, we firmly believe our diversity makes us stronger, and we embrace our differences. We overcome boundaries by being highly transparent and collaborative in how we operate.</span></p>
 <p><strong>Care Deeply:</strong><span style="font-weight: 400;"> We are passionate about our work and our team, and willing to go above and beyond to help both be successful.</span></p>
