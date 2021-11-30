@@ -3,8 +3,9 @@ Sr Learning Delivery Partner
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an energetic and confident <strong>Sr Learning Delivery Lead</strong> to join our Learning &amp; Development team and support the onboarding and growth of our people in the Americas.</span></p>
-<p><span style="font-weight: 400;">The Learning &amp; Development team collaborates with our People Experience Team to deliver a best-in-class onboarding experience, and with the People Partnering Team to provide an effective and impactful new people managers program. We also partner with the business to understand their core needs and work together to build capability. This year, the team built a new onboarding program, launched a new manager development program, provided coaching for senior leaders &amp; managers, and began building digital learning content to help new employees understand our business.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an energetic and confident <strong>Sr Learning Delivery Lead</strong> to join our Learning &amp; Development team and support the onboarding and growth of our people in EMEA.</span></p>
+<p><span style="font-weight: 400;">The Learning &amp; Development team collaborates with our People Experience Team to deliver a best-in-class onboarding experience, and with the People Partnering Team to provide an effective and impactful new managers program. We also partner with the business to understand their core needs and work together to build capability. This year, the team built a new onboarding experience, launched a new manager development program, provided coaching for senior leaders &amp; managers, and began building digital learning content to help new employees understand our business.</span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">You know how to deliver high-energy workshops and design high-impact learning solutions. You’ll use that knowledge to help our people reach their full potential. Here at Snyk, you’ll deliver our onboarding program to new joiners and support managers and teams to learn new skills and adopt new behaviors.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -24,13 +25,11 @@ Sr Learning Delivery Partner
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience of supporting learning &amp; development for a Go-To-Market workforce, though you don’t need to be experienced in sales training.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience of supporting learning &amp; development for a technical workforce, though you don’t need to be experienced in technical training.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with psychometric / personality / team dynamic profiling tools, such as Insights.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience of developing digital learning content</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p>#LI-GG1</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-GG1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -39,7 +38,7 @@ Sr Learning Delivery Partner
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5697836002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5697837002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
