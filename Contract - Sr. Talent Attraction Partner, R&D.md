@@ -3,10 +3,9 @@ Contract - Sr. Talent Attraction Partner, R&D
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Remote UK / Israel&nbsp;</strong></p>
+<p><strong>Location: Remote UK / Israel / Canada&nbsp;</strong></p>
 <p><strong>All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. <a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/">Check out our Flexwork policy for more information</a></strong></p>
 <p><strong>We’re looking for a talented Senior Talent Attraction Partner with strong sourcing skills to join our Talent Attraction team, helping to scale Snyk's Product team globally whilst contributing to building a great employer brand.</strong></p>
-<h3>&nbsp;</h3>
 <h3><strong>The role</strong></h3>
 <p><span style="font-weight: 400;">As a Sr Technical Talent Attraction Partner for Snyk, you'll join the R&amp;D Talent Attraction team within our global People Team, reporting into our Director, R&amp;D Talent Attraction.&nbsp; We've started scaling fast in a short space of time, so there are many</span><span style="font-weight: 400;">&nbsp;opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration. &nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
