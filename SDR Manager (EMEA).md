@@ -3,13 +3,12 @@ SDR Manager (EMEA)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p>&nbsp;</p>
 <p><strong>We’re looking for an empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives.</strong></p>
 <p><strong>The role</strong></p>
-<p><span style="font-weight: 400;">As an SDR Manager for Snyk, you will manage the day-to-day activities and training of our SDR team, coaching them as they drive meetings, sales demos and pipeline to support incremental revenue growth for our Sales organization.&nbsp; As our SDR Leader in the West, you’ll play an integral role in coaching and ramping up that team, as well as improving sales pipeline. You’ll work closely with our Marketing team to define our ABM strategy and outbound process and you will report directly to the Global SDR Director.</span></p>
+<p><span style="font-weight: 400;">Snyk is looking for the next generation of sales leaders to continue on our journey of rapid growth. We are yet again doubling the size of our Sales Development team and are on the lookout for bright, ambitious managers to be the driving force behind our market-beating technology. Working with everyone from the hottest start-ups (Revolut) to the biggest players (Google, AWS) and everyone in-between - it’s the chance to be at the forefront of the DevSecOps world.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">hiring and building out an effective team of Sales Development Representatives to work with our Snyk Sales teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">hiring and building out an effective team of 6-8 Sales Development Representatives to work with our Snyk Sales teams</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">mentoring, coaching and driving forward the personal development of individuals on your team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">implementing productivity goals, objectives and incentive initiatives that stretch and develop your team towards successful careers within sales, where they regularly exceed objectives.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working closely with our Sales team leads to align on pipeline goals and forecasts, and tracking these back to individual activities and objectives on your team</span></li>
@@ -24,7 +23,6 @@ SDR Manager (EMEA)
 <li style="font-weight: 400;"><span style="font-weight: 400;">have prior experience with Salesforce.com or another CRM tool</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a team-oriented mindset and feel most successful when empowering others</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">care about diversity and enjoy meeting people from all walks of life</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand the space Snyk is operating in and feel excited about helping us expand our market presence</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
