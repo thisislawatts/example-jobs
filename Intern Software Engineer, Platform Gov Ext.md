@@ -3,11 +3,10 @@ Intern Software Engineer, Platform Gov Ext
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Snyk is on a mission to make the digital world a safer place. Thousands of companies all over the world use Snyk to help their engineering teams develop faster and more securely. Our Platform Extensibility team works to invite partners and customers to build an ecosystem of interconnected tools together with us, using our API, extensible web interface, and pluggable CLI.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We’re looking for an empathetic, analytical, curious, and focused software engineer at the start of their career. Your role is to help us deliver amazing new internal and external features, while growing yourself and the team. You bring early experience with some of our tools. You can learn the rest! You collaborate to deliver solutions that bring incremental value.</span></p>
-<p><span style="font-weight: 400;">We believe that Snyk’s DevOps approach to security is a best practice. With you, we can make it ubiquitous, by making our platform easy to extend into tools and workflows everywhere. Join us!</span></p>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. Our Snyk Platform Extensibility teams enable other Snyk engineers to achieve that mission, by building tooling, standards, and collaborating on issues. We also enable third-parties, like Amazon AWS, Digital Ocean, and Atlassian, to create amazing products on top of Snyk, via our recently launched </span><a href="https://snyk.io/blog/snyk-apps-beta-build-custom-apps-extend-snyk-security-into-workflows/"><span style="font-weight: 400;">Snyk Apps</span></a><span style="font-weight: 400;"> platform, helping delight their users and ours.&nbsp;</span></p>
+<p><span style="font-weight: 400;">If you’re highly motivated by success, are looking to touch and learn all aspects of engineering, get to see how your every project directly impacts Snyk and its users - this job will be for you! We’re looking for an analytical, creative, and driven person to join us.</span></p>
 <p><strong>What you’ll be doing:</strong></p>
-<p><span style="font-weight: 400;">In this role, you will be responsible for building and configuring tools to test, validate, and observe our APIs. You will get exposure to API design tools, DevOps, Kubernetes, Go, TypeScript, and more. Your work will directly improve the development experience for hundreds of engineers at Snyk, who build features for thousands of external developers, who use Snyk’s tools to improve security for millions of end users.</span></p>
+<p><span style="font-weight: 400;">In this role, you would be responsible for creating a new </span><a href="https://docs.snyk.io/features/integrations/snyk-apps"><span style="font-weight: 400;">Snyk App</span></a><span style="font-weight: 400;">, including taking ownership of the discovery and research of possibilities, coming up with a proposal on what we should tackle, delivering the functionality to support this, and measuring customers’ adoption. Your project will be developed as open source, allowing you to showcase your brilliant work for future employers.</span></p>
 <p><span style="font-weight: 400;">As an intern, you will collaborate with full-time software engineers doing work that matters, learning standard development methodologies, and gaining practical software engineering experience. You will be working as part of a highly collaborative team, participating in all development stages, gaining exposure to how engineering teams run, from sprint planning to shipping code.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
@@ -40,7 +39,7 @@ Intern Software Engineer, Platform Gov Ext
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5746350002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5742630002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
