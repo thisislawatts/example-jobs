@@ -3,7 +3,7 @@ Learning and Development Lead
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an energetic and confident <strong>Senior Learning and Development Manager</strong>&nbsp;to join our Learning &amp; Development team and support the onboarding and growth of our people in the Americas.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an energetic and confident <strong>Senior Learning and Development Lead</strong>&nbsp;to join our Learning &amp; Development team and support the onboarding and growth of our people in the Americas.</span></p>
 <p><span style="font-weight: 400;">The Learning &amp; Development team collaborates with our People Experience Team to deliver a best-in-class onboarding experience, and with the People Partnering Team to provide an effective and impactful new people managers program. We also partner with the business to understand their core needs and work together to build capability. This year, the team built a new onboarding program, launched a new manager development program, provided coaching for senior leaders &amp; managers, and began building digital learning content to help new employees understand our business.</span></p>
 <p><span style="font-weight: 400;">You know how to deliver high-energy workshops and design high-impact learning solutions. You’ll use that knowledge to help our people reach their full potential. Here at Snyk, you’ll deliver our onboarding program to new joiners and support managers and teams to learn new skills and adopt new behaviours.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
