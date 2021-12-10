@@ -1,10 +1,10 @@
-Account Executive, Enterprise 
+Account Executive, Enterprise TOLA
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Enterprise Account Manager</strong></p>
-<p><strong>Location: Remote - US West Coast</strong></p>
+<p><strong>Location: Remote - US Texas, Oklahoma, Arkansas, Louisiana&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working Account Executive to join our sales team.</span></p>
 <p><span style="font-weight: 400;">As an Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies to large enterprises like Google and Salesforce.</span></p>
 <p><span style="font-weight: 400;">We want you to contribute to the iterative improvement of our sales process, tone and approach, and you’ll have plenty of scope to inform the way we develop our internal tooling to help you work efficiently and effectively. We’re a collaborative team with different experiences, and we spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team.</span></p>
@@ -34,7 +34,7 @@ Account Executive, Enterprise
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5289225002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5762643002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
