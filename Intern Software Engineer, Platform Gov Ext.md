@@ -16,7 +16,10 @@ Intern Software Engineer, Platform Gov Ext
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong written and verbal communication skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively and have a collaborative, team-first, mindset</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have the ability to work in a fast-paced, team-based environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are genuinely interested in Snyk, the company, and are eager to use Snyk in a project if you haven’t already :)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are genuinely interested in Snyk, the company, and are eager to use Snyk in a project if you haven’t already :)<br></span></li>
+<li style="font-weight: 400;">
+<p><span style="font-weight: 400;">Are available for a minimum 12-week internship, ideally from January ‘22</span></p>
+</li>
 </ul>
 <p><strong>We’d especially love to hear from you if you</strong><strong> (optional):</strong></p>
 <ul>
