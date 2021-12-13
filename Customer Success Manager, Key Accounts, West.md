@@ -1,4 +1,4 @@
-Customer Success Manager, Enterprise 
+Customer Success Manager, Key Accounts, West
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
@@ -7,9 +7,9 @@ Customer Success Manager, Enterprise
 <p><strong>Enterprise Customer Success Manager</strong></p>
 <p><strong>Location: Remote - US</strong></p>
 <p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our North American team to guide Snyk’s customers and help build the future of Customer Success at Snyk.</span></p>
-<p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) to help customers drive security within their </span><strong>Software Development Life Cycle (SDLC)</strong><span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis .&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) for our Key Accounts to help customers drive security within their </span>Software Development Life Cycle (SDLC)<span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis .&nbsp;</span></p>
 <p><span style="font-weight: 400;">As the technical point of contact you will become the trusted product advisor for clients and partners to identify key strategies that will unlock business value and improve product usability, expand product adoption, increase customer satisfaction and loyalty.</span></p>
-<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">You’ll Spend Your Time:</span></p>
+<p><span style="font-weight: 400;"><br></span><strong>You’ll Spend Your Time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Fostering and building overall relationships with assigned customers through increasing adoption, ensuring retention and long-term customer success.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Project managing the deployment and usage strategy of the Snyk products, putting in place a program to mature security, and educate developers on the Snyk solution.</span></li>
@@ -22,7 +22,7 @@ Customer Success Manager, Enterprise
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with the Sales and Renewals team to deliver impactful customer insights which help drive expansions and retention.</span></li>
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">You should apply if you:&nbsp;</span></p>
+<p><strong>You should apply if you:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to translate technical tasks from the customer to other Snyk teams.</span></li>
@@ -52,7 +52,7 @@ Customer Success Manager, Enterprise
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4353398002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5762300002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
