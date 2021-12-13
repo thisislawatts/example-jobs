@@ -30,7 +30,6 @@ Product Ops Director
 <p><strong>We’d especially love to hear from you if:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have Bachelor’s degree</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have an MBA</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have management consulting experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have product management experience in agile SaaS companies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are proficient in MS Excel and MS Powerpoint&nbsp;</span></li>
