@@ -3,13 +3,13 @@ Sales Development Representative
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Sales Development Representative to join our team.</span></p>
-<p><span style="font-weight: 400;">The use of open source software is booming: technology is integral to almost every facet of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <em><span style="font-weight: 400;">aren’t security experts</span></em></a><span style="font-weight: 400;">. But we are.</span></p>
-<p><span style="font-weight: 400;">We’re a developer tooling company with deep security expertise: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
-<p><span style="font-weight: 400;">We’re focussed on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
-<h2><strong>Your role</strong></h2>
-<p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll have great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and lots of mentorship and training.</span><span style="font-weight: 400;"><br></span></p>
-<h3><strong>You’ll spend your time:</strong></h3>
+<p><strong>Sales Development Representative</strong></p>
+<p><span style="font-weight: 400;"><strong>Location:</strong> Denver, CO</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enterprising and ambitious Sales Development Representatives to join our team!</span></p>
+<p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and hands-on mentorship and training.</span><span style="font-weight: 400;"><br></span></p>
+<p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
+<p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as your progress into a high-commission account executive role.</span></p>
+<h4><strong>You’ll spend your time:</strong></h4>
 <ul>
 <li><span style="font-weight: 400;">Account mapping and researching potential accounts that fit our Ideal Customer Profile</span></li>
 <li><span style="font-weight: 400;">Sourcing qualified contacts using our persona guidelines</span></li>
@@ -17,22 +17,22 @@ Sales Development Representative
 <li><span style="font-weight: 400;">Enroll accounts/contacts in customized sequences</span></li>
 <li><span style="font-weight: 400;">Set meetings and generate pipeline for sales team&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account execs, including participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a&nbsp; high-growth technology company focussed on security.</span></p>
-<p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as your progress into a high-commission account executive role.</span></p>
-<h2><strong>You should join us if:</strong></h2>
+<h4><strong>You'd be a great fit if you</strong><strong>:</strong></h4>
 <ul>
-<li><span style="font-weight: 400;">You are ambitious, organized and energetic</span></li>
-<li><span style="font-weight: 400;">You build strong, meaningful relationships and take pride in being a great communicator</span></li>
-<li><span style="font-weight: 400;">You’re driven: you strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
-<li><span style="font-weight: 400;">You are collaborative and want to work in a diverse, high-performing team</span></li>
-<li><span style="font-weight: 400;">You are resilient and continually working to be better</span></li>
-<li><span style="font-weight: 400;">You’re open, honest and love to learn</span></li>
-<li><span style="font-weight: 400;">You’re excited about technology and security, and you want to join a high-growth startup</span></li>
+<li><span style="font-weight: 400;">are ambitious, organized, and energetic</span></li>
+<li><span style="font-weight: 400;">build strong, meaningful relationships and take pride in being a great communicator</span></li>
+<li><span style="font-weight: 400;">strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
+<li><span style="font-weight: 400;">love to collaborate and work in a diverse, high-performing team</span></li>
+<li><span style="font-weight: 400;">are resilient and continually working to be better</span></li>
+<li><span style="font-weight: 400;">are open, honest, and love to learn</span></li>
+<li><span style="font-weight: 400;">are excited about technology and security, and want to join a high-growth startup</span></li>
 </ul>
-<h2><strong>Interested?</strong></h2>
-<p><span style="font-weight: 400;">We'd love to hear from you - please apply below.</span></p>
+<p><strong>Additional Information</strong></p>
+<p><span style="font-weight: 400;">Minimum OTE of USD $67,000 + equity + benefits, but can go up depending on an individuals experience + qualifications.</span></p>
+<h4><strong>Interested?</strong></h4>
+<p><span style="font-weight: 400;">We'd love to hear from you - please apply below!</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
-<h6><em>#LI-HP1 </em></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-JD1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -41,7 +41,7 @@ Sales Development Representative
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4764994002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5742791002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
