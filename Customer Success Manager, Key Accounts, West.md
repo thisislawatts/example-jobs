@@ -4,7 +4,7 @@ Customer Success Manager, Key Accounts, West
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h5><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></h5>
-<p><strong>Enterprise Customer Success Manager</strong></p>
+<p><strong>Customer Success Manager, Key Accounts</strong></p>
 <p><strong>Location: Remote - US</strong></p>
 <p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our North American team to guide Snyk’s customers and help build the future of Customer Success at Snyk.</span></p>
 <p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) for our Key Accounts to help customers drive security within their </span>Software Development Life Cycle (SDLC)<span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis .&nbsp;</span></p>
