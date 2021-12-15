@@ -3,7 +3,6 @@ Leadership Development Lead
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3>&nbsp;</h3>
 <p><strong>Location: Boston, USA - This role is open to office work or Flex only</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an energetic and thoughtful Leadership Development Lead to join our Learning &amp; Development team and support the development of our managers and leaders globally.</span></p>
 <p><span style="font-weight: 400;">The Learning &amp; Development team collaborates with our People Experience Team to deliver a best-in-class onboarding experience, and with the People Partnering Team to provide an effective and impactful new managers programme. We also partner with the business to understand their core needs and work together to build capability. This year, the team built a new onboarding programme, launched a new manager development programme, provided coaching for senior leaders &amp; managers, and began building digital learning content to help new employees understand our business.</span></p>
