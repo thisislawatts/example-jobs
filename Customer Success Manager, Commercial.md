@@ -7,7 +7,7 @@ Customer Success Manager, Commercial
 <p><strong>Commercial Customer Success Manager</strong></p>
 <p><strong>Location: Boston or remote&nbsp;</strong></p>
 <p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our North American team to guide Snyk’s customers and help build the future of Customer Success at Snyk.</span></p>
-<p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) to help customers drive security within their </span><strong>Software Development Life Cycle (SDLC)</strong><span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis .&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk is looking for a Customer Success Manager (CSM) to help customers drive security within their </span>Software Development Life Cycle (SDLC)<span style="font-weight: 400;"> and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis.</span></p>
 <p><span style="font-weight: 400;">As the technical point of contact you will become the trusted product advisor for clients and partners to identify key strategies that will unlock business value and improve product usability, expand product adoption, increase customer satisfaction and loyalty.</span></p>
 <p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">You’ll Spend Your Time:</span></p>
 <ul>
@@ -22,7 +22,7 @@ Customer Success Manager, Commercial
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with the Sales and Renewals team to deliver impactful customer insights which help drive expansions and retention.</span></li>
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">You should apply if you:&nbsp;</span></p>
+<p><strong>You should apply if you:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to translate technical tasks from the customer to other Snyk teams.</span></li>
