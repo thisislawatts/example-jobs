@@ -5,7 +5,7 @@ Senior UX Designer
 
 <p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
 <p><span style="font-weight: 400;">Cyber security is taking centre stage for many companies, and the demand for Snyk’s product is sky-rocketing.&nbsp; Snyk has been adopted by over 2.2M developers who use Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software faster.</span></p>
-<p><span style="font-weight: 400;">We’re looking for a UX or Product Designer to join our brand new security education team, designing a range of exciting and interactive tools to help the 27 million software developers in the world learn how to build secure apps.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a UX or Product Designer to join Snyk, designing a range experiences to make it incredibly easy for the 27 million software developers in the world to build secure apps.</span></p>
 <p><span style="font-weight: 400;">You will be working closely with product and engineering colleagues to help drive the future of this product.&nbsp;</span></p>
 <h2><strong>You’ll spend your time</strong></h2>
 <ul>
