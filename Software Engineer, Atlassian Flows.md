@@ -4,14 +4,17 @@ Software Engineer, Atlassian Flows
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><em><span style="font-weight: 400;">All roles listed as remote, are available for remote work within one of the countries advertised.</span></em></p>
-<p><span style="font-weight: 400;">We are looking for experienced and empathetic engineers to join our newly created Atlassian Flows team to help design, create and shape our integrations with Atlassian, one of our key strategic partners.</span><span style="font-weight: 400;"><br></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are looking for experienced and empathetic engineers to join our newly created Atlassian Flows team to help design, create and shape our integrations with Atlassian, one of our key strategic partners.</span><span style="font-weight: 400;"><br><br></span></p>
 <p><span style="font-weight: 400;">We love to spend time making sure we are delivering high quality and well thought out solutions, which is why we are creating a dedicated team building out integrations and developer experience across the Atlassian toolchain. Initially our focus will be on the Bitbucket SCM (Cloud, Server), Jira and Bitbucket Pipelines.&nbsp;</span></p>
 <h3><span style="font-weight: 400;">Who are we?</span></h3>
 <p><span style="font-weight: 400;">The Developer Workflows team at Snyk is a very collaborative and welcoming group. We focus on providing frictionless integrations that allow developers to seamlessly consume security insights and remediate issues within their workflows. We build on top of the entire Snyk product offering – Snyk Open Source, Snyk Container, Snyk IaC and Snyk Code. We focus on user behaviour and business metrics that drive the most important needles for the company.</span></p>
-<p><span style="font-weight: 400;">We are a distributed team, and many of us work from home or in our offices (UK, Israel, Sweden, Germany, Switzerland, Czech Rep, Canada and the US). If you are applying from Malmö or anywhere else in the Öresund region, you would work with us at the iconic Malmö city building Hamnpaviljongen, just about 15 minutes by foot from the Central Station.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are a distributed team, and many of us work from home or in our offices. Our colleagues are based in the UK, Israel and Sweden, while others in the wider group are also based in Germany, Switzerland, Czech Rep., Canada and the US.&nbsp;</span></p>
 <h3><span style="font-weight: 400;">Who are you?</span></h3>
 <p><span style="font-weight: 400;">You are a versatile, experienced software engineer. You pick the right tool for the job, starting from the end result you want to achieve. You thrive on multi-disciplinary teams, working alongside marketers, designers and data analysts.</span></p>
 <h3><span style="font-weight: 400;">We’d like to hear from you if you:</span></h3>
+<p>&nbsp;</p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have demonstrable experience working on cloud-native application development.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Like to start new things, see them through to production, and learn from your mistakes.</span></li>
@@ -19,12 +22,14 @@ Software Engineer, Atlassian Flows
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a team player who enjoys learning and sharing with your peers and are comfortable pair programming</span></li>
 </ul>
 <h3><span style="font-weight: 400;">We’d especially love to hear from you if you:</span></h3>
+<p>&nbsp;</p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Know a wide array of programming languages (TypeScript, Golang, Node.js, Java)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience building integrations for Atlassian products</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working as part of a distributed team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have been contributing to, documenting or maintaining open source projects</span></li>
 </ul>
+<p>&nbsp;</p>
 <h3><span style="font-weight: 400;">Interested?</span></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created here at Snyk and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
 <p><span style="font-weight: 400;">#LI-HY1<br>#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
