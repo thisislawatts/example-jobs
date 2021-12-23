@@ -10,16 +10,16 @@ Helpdesk Specialist
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s offices, including Networking and Conferencing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Snyk’s employee base with a data driven approach and a focus on user satisfaction</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and off-boarding of leaving employees</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and offboarding of leaving employees</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding our current technology stack and its usage across the company, as well as current gaps and requirements for future tools and systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying and prioritising organisational opportunities for automation, software adoption.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying and prioritizing organizational opportunities for automation, software adoption.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the rest of the CIS team in defining policies and procedures, and making recommendations for operational best practices</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Help Desk or Systems Engineer</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Using expertise, analyse &amp; resolve the user problem at 1st contact via phone and remote session.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using expertise, analyze &amp; resolve the user problem at 1st contact via phone and remote session.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have demonstrated computer skills, Handle service requests from company users.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Excellent troubleshooting skills in hardware and software issues, ability to diagnose and resolve advance technical issues</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Good understanding of computer systems (macOS), mobile devices and other tech products</span></li>
@@ -45,7 +45,7 @@ Helpdesk Specialist
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5724896002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5783148002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
