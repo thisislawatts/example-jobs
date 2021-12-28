@@ -3,11 +3,11 @@ Implementation Consultant
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: Denver, CO (Or US Remote)&nbsp;</strong></p>
-<h3>Customer Onboarding Specialist</h3>
-<p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; Look no further, we’re looking for a talented, entrepreneurial and driven Onboarding Specialist to join our North American Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;&nbsp;</span></p>
+<p><strong>Location:&nbsp; US Remote&nbsp;</strong></p>
+<h3>Implementation Consultant</h3>
+<p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; Look no further, we’re looking for a talented, entrepreneurial and driven Implementation Consultant to join our North American Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Customer Success team works hand-in-hand with Development and Security leaders from Snyk’s customer organizations to advance their security program using the Snyk Cloud Native Application Security Platform. Snyk is continuing to experience explosive growth across our customer install base which has led to increased demand for our post-sales teams to help ensure customers achieve resounding success with the Snyk platform.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Customer Onboarding Specialists must have a working understanding of the SDLC and where Snyk fits in it, consulting best practices, and enterprise DevOps architectures. This position requires a technical background, excellent client and project management skills, proven ability to facilitate hands-on technical work and ability to lead and manage multiple onboarding engagements. </span><span style="font-weight: 400;">Your opportunity is to provide Snyk’s customers a world class onboarding experience.</span></p>
+<p><span style="font-weight: 400;">Implementation Consultants must have a working understanding of the SDLC and where Snyk fits in it, consulting best practices, and enterprise DevOps architectures. This position requires a technical background, excellent client and project management skills, proven ability to facilitate hands-on technical work and ability to lead and manage multiple onboarding engagements. </span><span style="font-weight: 400;">Your opportunity is to provide Snyk’s customers a world class onboarding experience.</span></p>
 <h3>&nbsp;</h3>
 <p><strong>Here at Snyk, you’ll spend your time:</strong></p>
 <ul>
@@ -23,11 +23,9 @@ Implementation Consultant
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of technical consulting, SaaS software implementation or customer-facing experience as a technical lead&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A working knowledge of SDLC and DevOps methodologies</span></li>
-</ul>
-<ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">The ability to clearly articulate complex technical issues</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Interest in application security, and an understanding of the importance of a developer first approach</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with CI/CD and DevOps tools</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding of CI/CD and DevOps tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A demonstrated consultative and technical aptitude for bringing people, technology, and processes together&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Excellent communication skills, organized and disciplined approach to problem solving, relationship-building, and project management.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Willingness to travel up to 15% of the time as the job requires.</span></li>
