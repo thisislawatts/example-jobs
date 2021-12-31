@@ -11,7 +11,7 @@ Automation Engineer, Salesforce
 <li style="font-weight: 400;"><span style="font-weight: 400;">implementing integrations between Salesforce.com and other systems that support our sales and marketing processes</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with team members to deliver high quality solutions in a timely manner</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">analyzing and identifying gaps in functional and business requirements; discussing and elaborating with product owners on required changes that align with the SFDC stack and architecture</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building integrations between SFDC and external applications using REST APIs, oAuth and Single Sign on, as well as Heroku Connect and other data management systems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building integrations between SFDC and external applications using REST APIs, Auth and Single Sign on, as well as Heroku Connect and other data management systems</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
