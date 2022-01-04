@@ -3,12 +3,12 @@ Helpdesk Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We're looking for a Helpdesk Specialist to join our IT team, providing technical&nbsp; support across all offices with a focus on North America, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
+<p><span style="font-weight: 400;">We're looking for a Helpdesk Specialist to join our IT team, providing technical support across all offices, facilitating internal usage of tools and systems, managing the offices’ IT infrastructure, and implementing policies and cross-functional IT initiatives that help enable Snyk to scale globally.</span></p>
 <p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across the different departments.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You are experienced with existing technologies, and comfortable with new ones. You are a problem solver with excellent execution and communication skills. You will use this experience to define the systems and policies that will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s Tel Aviv office, including Networking and Conferencing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the day to day operation of Snyk’s offices, including Networking and Conferencing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Snyk’s employee base with a data driven approach and a focus on user satisfaction</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Supporting the onboarding of new employees, and off-boarding of leaving employees</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding our current technology stack and its usage across the company, as well as current gaps and requirements for future tools and systems</span></li>
@@ -18,33 +18,24 @@ Helpdesk Specialist
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Help Desk or Systems Engineer</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end-user problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Using the expertise, analyse &amp; resolve the user problem at 1st contact via phone and remote session</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have demonstrated computer skills, Handle service requests from company users</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">High School Diploma or college courses/certificates in related field (computer science, information technology)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong technical skills and experience managing a large portfolio of business applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent troubleshooting skills in hardware and software issues,Ability to diagnose and resolve advanced technical issues</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent Knowledge of macOS</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Good understanding of computer systems, mobile devices and other tech products</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Multitask with the ability to work in a dynamic environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using expertise, analyse &amp; resolve the user problem at 1st contact via phone and remote session.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have demonstrated computer skills, Handle service requests from company users.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent troubleshooting skills in hardware and software issues, ability to diagnose and resolve advance technical issues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Good understanding of computer systems (macOS), mobile devices and other tech products</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are user-focussed and enjoy building effective relationships with stakeholders at all levels of the company</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are able to adapt in a fast-paced environment, with the ability to manage competing priorities and multi-task</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to cover after-office hours and weekend support if there are any infrastructure issues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to cover after-office hours and weekend support if there are any infrastructure issues.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have good knowledge of networks, including TCP/IP, LAN, VLAN, WLAN. VPN systems (IPSEC)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have coding experience and experience with the use of APIs to automate processes and integrate systems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience managing access control systems and SSO</span></li>
+<li><span style="font-weight: 400;">Have strong technical skills and experience managing a large portfolio of business applications</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p class="p1"><span class="s1"><strong>About Snyk</strong></span></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we <a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <p><span style="font-weight: 400;">#LI-KT1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
@@ -54,7 +45,7 @@ Helpdesk Specialist
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5088588002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4368632002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
