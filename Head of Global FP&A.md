@@ -3,10 +3,8 @@ Head of Global FP&A
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><span style="font-weight: 400;">Boston, MA</span></p>
-<p><span style="font-weight: 400;">We’re looking for an experienced and entrepreneurial FP&amp;A Director to join our </span><span style="font-weight: 400;">Finance </span><span style="font-weight: 400;">team to </span><span style="font-weight: 400;">lead and grow Snyk’s global FP&amp;A function and team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an experienced and entrepreneurial FP&amp;A Leader to join our </span><span style="font-weight: 400;">Finance </span><span style="font-weight: 400;">team to </span><span style="font-weight: 400;">lead and grow Snyk’s global FP&amp;A function and team based. </span></p>
+<p><span style="font-weight: 400;">We are specifically looking for Finance professionals who have worked or are currently working in a <span style="text-decoration: underline;"><strong>hyper growth, SaaS enterprise software company</strong></span> and have experience with the subscription business model. Since the entire team is in the East Coast and in EMEA, <span style="text-decoration: underline;"><strong>we are looking for someone who is or is willing to relocated </strong><strong>t</strong><strong>o </strong><strong>the East Coast</strong></span>.</span></p>
 <p><span style="font-weight: 400;">The finance team at Snyk embraces concepts of a modern finance organization, focused on automation and data driven insights.&nbsp; </span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">The </span><span style="font-weight: 400;">FP&amp;A</span><span style="font-weight: 400;"> team </span><span style="font-weight: 400;">drives all financial planning, revenue forecasting, budgeting and SaaS and other financial metrics&nbsp; for the company. </span><span style="font-weight: 400;">By the end of this year the team </span><span style="font-weight: 400;">will have supported through more than 150% growth in ARR and headcount.</span><span style="font-weight: 400;">&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -23,10 +21,11 @@ Head of Global FP&A
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a CPA. An MBA is additionally a strong differentiator&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">10+ years of directly applicable experience with time spent in FP&amp;A within a hyper growth, SaaS enterprise software company</span></li>
+<li style="font-weight: 400;"><span style="text-decoration: underline;"><strong>10+ years of directly applicable experience with time spent in FP&amp;A within a hyper growth, SaaS enterprise software company</strong></span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a team player and experience managing a small team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience managing to a global P&amp;L across multiple business units and regions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in public and private companies</span></li>
+<li style="font-weight: 400;"><span style="text-decoration: underline;"><strong>have experience in public and private companies</strong></span></li>
+<li style="font-weight: 400;">IPO experience would be a plus</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have superb analytical/quantitative and communication skills and strong executive presence</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have ownership mentality and demonstrated ability to independently drive projects to completion, with high attention to detail</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">demonstrates thought leadership and manages relationships with senior stakeholders</span></li>
