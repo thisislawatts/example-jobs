@@ -3,31 +3,38 @@ Full Stack Engineer, Security R&D
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a talented software engineer to join our SAST security team to work on our ML-enhanced pipeline and internal tooling and enable our analysts to efficiently curate and triage SAST security rules that power our </span><a href="https://snyk.io/blog/developer-first-sast-with-snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;"> offering.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The security team works to develop novel, effective methods to sift through likely vulnerabilities in open source which haven’t yet been discovered, verified, or disclosed.&nbsp;</span></p>
+<p><strong>Experienced Software Engineer: Security R&amp;D Team</strong></p>
+<p><strong>Location: London, Tel-Aviv, Zurich, Romania, Sweden, Germany</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We’re looking for a talented software engineer to join our security R&amp;D group to work on our ML-enhanced pipeline and internal tooling and enable our analysts to efficiently curate and triage SAST security rules that power our </span><a href="https://snyk.io/blog/developer-first-sast-with-snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;"> offering.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The security group works to develop novel, effective methods to sift through likely vulnerabilities in open source which haven’t yet been discovered, verified, or disclosed.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We need your help to help push our internal tooling and systems to the next level! You will play an integral part in the development and progression of our SAST product, Snyk Code.</span></p>
 <p><a href="https://snyk.io/blog/remediate-javascript-type-confusion-bypassed-input-validation/"><span style="font-weight: 400;">Read about the latest research paper published by the team</span></a></p>
-<p>&nbsp;</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enhancing systems to help our analyst team work more efficiently</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Creating and improving tooling to enable our security analysis and research work</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working collaboratively with analysts to tackle issues with vulnerabilities</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Engineering systems to scale</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plan, design and maintain systems and tools to help our analysts work more efficiently</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mentor and coach other engineers in team and group</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Influence technical decisions and roadmaps for the team and group</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working across the full stack, in a CI/CD environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Take part in our security R&amp;D oncall rotation</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 3+ years of experience in developing high performance and scaled environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in developing in a high performance and scaled environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience developing in Javascript (TypeScript)</span></li>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We’d especially like to hear from you if you have experience with VueJS</span></li>
-</ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience leading and designing projects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working closely with your end users, and care about iterative improvement</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Appreciate being part of a diverse team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively and speak English to a good standard</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Really enjoy solving problems, and love learning new things</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy solving problems, and love learning new things</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Interested in security or open source software, and you believe in our mission</span></li>
+</ul>
+<p><strong>We’d especially love to hear from you if you:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience developing in VueJS</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with AWS, system design and architecture</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working as part of a distributed team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have worked with Kubernetes or another container-based operational environment</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
