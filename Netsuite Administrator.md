@@ -3,56 +3,51 @@ Netsuite Administrator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven individual to join our IT organization to support Snyk’s hyper-growth as a Financial systems developer specializing in Netsuite, Coupa, and their respective integrations. </span></p>
-<p><span style="font-weight: 400;">You will own the full integration development life cycle that includes requirements gathering, design, build, test, deploy and maintain. In addition to new integration requests, the position includes providing ongoing technical support and maintenance of existing integrations.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an experienced Netsuite Administrator to join our IT organization to support Snyk’s hyper-growth across multiple applications, specializing in NetSuite.&nbsp; A solid foundation of both technology and supporting multiple finance processes is a must.&nbsp; As a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting NetSuite, as well as experience with other finance technologies.</span></p>
+<p><span style="font-weight: 400;">You will partner with the functional resources to manage the configuration and development of system enhancements, upgrades, system modifications, and day-to-day issue analysis, tracking, and resolution.&nbsp; You are responsible for supporting our finance systems (i.e. Netsuite, Ivalua, FloQast, Vena) for business needs, and ensure the functionality is optimized to meet the evolving needs of the business. &nbsp; </span></p>
+<p><span style="font-weight: 400;">You are also responsible to ensure that functional users are fully equipped with the training and knowledge required to to effectively work in the NetSuite environment and other core systems.&nbsp; Key to success in this position is transparent communication to the business and responsiveness to stakeholders issues and requests.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developing and maintaining integration lifecycle and implementing best practices</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Driving process and system efficiencies to promote data integrity and ensure delivery of accurate data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monitoring and maintaining the ongoing system integrations between our accounting system (Netsuite) and our cloud-based financial planning tool (Vena)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">planning, reviewing, and managing customization and integration requests</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">researching and analyzing application behaviors and improve performance and stability</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working directly with internal customers and third-party vendors to provide technical support, research, troubleshoot, and resolve integration issues in a timely manner</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">partnering with IT business partners and Finance team members to develop consistent and standardized processes and services across the organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ensuring that processes and procedures adhere to defined audit and internal controls</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">leading Finance Team projects in accordance with established methodologies, conduct unit testing, create test plans, and oversee end-user testing</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with and overseeing the work of external integrators to deploy high-quality solutions and systems across the Finance organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">providing data and generating reports to assist with analysis, business process mapping, reporting needs, continuous improvement initiatives, change management, and support for optimal usage</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting Procurement and AP on the creation and maintenance of custom configuration and creation solutions within the Coupa platform.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">managing the NetSuite application and all integrated cloud-based applications, such as our financial planning tool (Vena), our procurement system (Ivalua), our close management tool (FloQast), and others</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">maintain user access and roles, ensuring appropriate segregation of duties</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">supporting all end user requests and providing timely issue resolution for internal users</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">troubleshooting problems including system interfaces and integration issues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assisting the finance department with data analysis and reporting needs (such as saved searches) to support their optimized use of NetSuite and other identified applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">performing functional configuration, system maintenance, and business process testing for ongoing projects and improvements&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">training new hires and proactively communicate changes resulting from system updates</span></li>
 </ul>
-<p><span style="font-weight: 400;">We are distributed across five offices in London, Tel Aviv, Boston, Ottawa, and Zurich with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 3+ years experience with NetSuite, with at least 2 years NetSuite development experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to develop and debug SuiteScripting (Client Script, User Event Script, Scheduled Script, Custom Workflow Actions, Suitelets &amp; RESTlets)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged startup environment</span><span style="font-weight: 400;">&nbsp; &nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">posses advanced Level knowledge of Netsuite and Netsuite integration tools&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a baseline understanding of financial statements (balance sheet, profit &amp; loss, cash flow)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">International payroll/PECI experience required</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are ridiculously easy to work with - ability to build strong relationships with a broad set of stakeholders that have diverse interests</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong communication skills in both formal and informal situations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a high level of proficiency in supporting Coupa core P2P and associated Power Apps (i.e. SIM, Coupa Pay, Expenses, etc.)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have Bachelor’s degree in a Technology or Finance related field</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years experience with NetSuite, with at least 3+ years NetSuite administration experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">possess an extensive understanding of NetSuite, including experience in advanced revenue management (ARM), multi-book accounting, and being integrated with a SFDC CPQ environment and SFDC billing&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator in both formal and informal situations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are a detail oriented, critical thinker with a problem-solving mindset</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">act speedily and iteratively - focused on getting things done&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of financial processes&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have enjoy acquiring new knowledge and skills and can do so quickly&nbsp;</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building and working with APIs and Web Services</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Knowledge of Finance disciplines a plus</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator able to influence actions and outcomes</span></li>
-<li><span style="font-weight: 400;">have experience with database schema design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have SaaS industry experience at a global company</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have administered multiple finance systems, including extensive NetSuite experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with systems such as SFDC, Ivalua, FloQast, Vena, Avalara, Expensify or other similar applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are hands-on, curious and love to learn new things</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are ridiculously easy to work with - ability to build strong relationships with a broad set of stakeholders that have diverse interests</span></li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (https://snyk.io/stateofossecurity/). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</span></p>
-<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
+<p><span style="font-weight: 400;">#LI-KT1<br>#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5139029002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5157092002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
