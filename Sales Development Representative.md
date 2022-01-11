@@ -4,8 +4,8 @@ Sales Development Representative
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Development Representative</strong></p>
-<p><span style="font-weight: 400;"><strong>Location:</strong> Boston, MA</span></p>
-<p><span style="font-weight: 400;">We’re looking for an enterprising and ambitious Sales Development Representatives to join our team!</span></p>
+<p><span style="font-weight: 400;"><strong>Location:</strong>Boston, MA</span></p>
+<p><span style="font-weight: 400;">We’re looking for enterprising and ambitious Sales Development Representatives to join our team!</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and hands-on mentorship and training.</span><span style="font-weight: 400;"><br></span></p>
 <p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
 <p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as your progress into a high-commission account executive role.</span></p>
@@ -17,7 +17,7 @@ Sales Development Representative
 <li><span style="font-weight: 400;">Enroll accounts/contacts in customized sequences</span></li>
 <li><span style="font-weight: 400;">Set meetings and generate pipeline for sales team&nbsp;</span></li>
 </ul>
-<h4><strong>You'd be a great fit if you</strong><strong>:</strong></h4>
+<h4>You'd be a great fit if you:</h4>
 <ul>
 <li><span style="font-weight: 400;">are ambitious, organized, and energetic</span></li>
 <li><span style="font-weight: 400;">build strong, meaningful relationships and take pride in being a great communicator</span></li>
