@@ -1,10 +1,10 @@
-Netsuite Administrator
+Netsuite Administrator 
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an experienced Netsuite Administrator to join our IT organization to support Snyk’s hyper-growth across multiple applications, specializing in NetSuite.&nbsp; A solid foundation of both technology and supporting multiple finance processes is a must.&nbsp; As a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting NetSuite, as well as experience with other finance technologies.</span></p>
-<p><span style="font-weight: 400;">You will partner with the functional resources to manage the configuration and development of system enhancements, upgrades, system modifications, and day-to-day issue analysis, tracking, and resolution.&nbsp; You are responsible for supporting our finance systems (i.e. Netsuite, Ivalua, FloQast, Vena) for business needs, and ensure the functionality is optimized to meet the evolving needs of the business. &nbsp; </span></p>
+<p><span style="font-weight: 400;">We’re looking for an experienced Netsuite Administrator to join our IT organization to support Snyk’s hyper-growth across multiple applications, specializing in NetSuite. A solid foundation of both technology and supporting multiple finance processes is a must.&nbsp; As a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting NetSuite, as well as experience with other finance technologies.</span></p>
+<p><span style="font-weight: 400;">You will partner with the functional resources to manage the configuration and development of system enhancements, upgrades, system modifications, and day-to-day issue analysis, tracking, and resolution. You are responsible for supporting our finance systems (i.e. Netsuite, Ivalua, FloQast, Vena) for business needs, and ensure the functionality is optimized to meet the evolving needs of the business. &nbsp; </span></p>
 <p><span style="font-weight: 400;">You are also responsible to ensure that functional users are fully equipped with the training and knowledge required to to effectively work in the NetSuite environment and other core systems.&nbsp; Key to success in this position is transparent communication to the business and responsiveness to stakeholders issues and requests.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -47,7 +47,7 @@ Netsuite Administrator
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5157092002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5825397002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
