@@ -5,16 +5,10 @@ Senior Treasury Analyst
 
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p>&nbsp;</p>
 <p><strong>Location: This role is open to remote work from the United States</strong></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for an experienced and driven Senior Treasury Analyst who is highly motivated and has demonstrated the ability to work in a fast-paced international treasury environment. &nbsp; This role will provide support for global treasury operations, playing a key role in cash, investments and foreign exchange.&nbsp; This position will identify and drive process improvement to support dynamic growth across the business.&nbsp; The ideal candidate is interested in building a Treasury foundation that will support a growing international business while maintaining the highest level of controls over cash, bank accounts, and bank access.</span></p>
-<p>&nbsp;</p>
 <p><strong>You’ll spend your time:</strong></p>
-<p>&nbsp;</p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting daily cash management activities for global treasury operations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">evaluating and implementing controls across all treasury functions</span></li>
@@ -28,7 +22,6 @@ Senior Treasury Analyst
 <li style="font-weight: 400;"><span style="font-weight: 400;">identifying process improvements and driving them to completion</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">serving as administrator on online banking platforms</span></li>
 </ul>
-<p><br><br></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have 3-5 years of treasury experience</span></li>
@@ -40,17 +33,14 @@ Senior Treasury Analyst
 <li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate strong excel skills using advanced functions such as VLookup and pivot tables</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">is agile and enjoys the speed of a fast-paced, highly engaged startup environment.</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a multinational treasury department</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a strong understanding of controls around cash, bank accounts and payments</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a CTP or equivalent certification</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply </span><em><span style="font-weight: 400;">anyway</span></em><span style="font-weight: 400;"> :)</span></p>
-<p>&nbsp;</p>
 <p><strong>Additional Information</strong></p>
 <p><span style="font-weight: 400;">Minimum OTE of $85,000 + equity + benefits, but can go up depending on an individuals experience + qualifications.</span></p>
 <p><span style="font-weight: 400;"><br></span><em><span style="font-weight: 400;">#LI-Remote</span></em></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
