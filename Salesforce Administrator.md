@@ -3,7 +3,8 @@ Salesforce Administrator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Salesforce Administrator to join our IT organisation to support Snyk’s Sales and Marketing departments during this period of hyper-growth. A solid foundation in a breadth of Sales, Customer Success and Marketing business processes is essential for this role. Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global Sales and Marketing organisation on a variety of applications, including Salesforce, Marketo and various Sales tooling.</span></p>
+<p><strong>Location: Boston or US Remote</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a highly effective, proven GTM Salesforce Administrator to join our IT organization to support Snyk’s Sales and Marketing departments during this period of hyper-growth. A solid foundation in a breadth of Sales, Customer Success and Marketing business processes is essential for this role.&nbsp; Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global Sales and Marketing organization on a variety of applications, including Salesforce, Marketo and various Sales tooling.</span></p>
 <p><span style="font-weight: 400;">You will partner with the business to create and deliver scalable solutions and automate core business processes across all areas in Salesforce.&nbsp; Your primary responsibility will be to provide administrator support for all the support cases and bugs coming into the Salesforce support queue.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -26,11 +27,11 @@ Salesforce Administrator
 <li style="font-weight: 400;"><span style="font-weight: 400;">3 + years’ experience with Salesforce administration</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience with SFDC tools like Data Import Wizard, Data Loader</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of experience working with Sales and Marketing tooling</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">CPQ Admin experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CPQ Admin Experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor’s Degree</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience creating dynamic Reports and Dashboards</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to understand business objectives and the infrastructure that supports it</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The ideal candidate must be organised, detail oriented, and a problem-solver</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The ideal candidate must be organized, detail oriented, and a problem-solver</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
@@ -49,7 +50,7 @@ Salesforce Administrator
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5808662002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5789592002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
