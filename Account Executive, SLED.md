@@ -3,6 +3,7 @@ Account Executive, SLED
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
 <p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working <strong>Account Executive</strong> to join our sales team.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is growing rapidly: technology is a core part of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <span style="font-weight: 400;">aren’t security experts</span></a><span style="font-weight: 400;">. But our team is.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security knowledge: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
@@ -22,13 +23,8 @@ Account Executive, SLED
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">We'd love to hear from you!</span></p>
 <p><span style="font-weight: 400;">We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!</span></p>
-<p>&nbsp;</p>
-<p><strong><em>About Snyk</em></strong></p>
-<p><em><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span></em><a href="https://snyk.io/stateofossecurity/"><em><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></em></a><em><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million,</span></em><a href="https://snyk.io/blog/snyk-closes-150m/"> <em><span style="font-weight: 400;">announced January 21, 2020</span></em></a><em><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></em></p>
-<h6>#LI-EO1</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h6>#LI-EO1</h6>
+<h6>#LI-Remote</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -37,7 +33,7 @@ Account Executive, SLED
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5754892002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5754897002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
