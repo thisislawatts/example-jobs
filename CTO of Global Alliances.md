@@ -3,38 +3,56 @@ CTO of Global Alliances
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<hr>
-<h3><strong>Overview</strong></h3>
-<p>XYZ</p>
-<h3><strong>You’ll spend your time:</strong></h3>
+<p><strong>Global Alliances CTO</strong></p>
+<p><strong>Location: AMER (remote)</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Snyk’s Business Development team’s mission is to find and leverage non-linear growth opportunities across sales, user acquisition, brand recognition and our ecosystem presence. To achieve these goals, Snyk heavily invests in partnerships and alliances, with a deep and substantive product integration vision, and emphasis on a joint GTM approach with our partner ecosystem.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are looking for a Global Alliances CTO to lead and continue to build a forward facing technology vision within our partnership ecosystem. In this role, you will be responsible for all our partnerships, globally, spanning multiple verticals like Security (Rapid7, Trend Micro), Dev Tooling (Atlassian, Docker, CircleCI), APM (Datadog, Dynatrace, AppDynamics), Cloud (AWS, Azure, GCP, IBM/Red Hat) and GSIs (Accenture, Deloitte, Wipro).</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The Global Alliances CTO reports to and works closely with the VP of Business and Corporate Development to combine Snyk’s business strategy and execution with our technical vision. Reporting up to the Global Alliances CTO, is a team of highly experienced, technical Partner Solutions Architects (contributors and managers) who help actuate the vision set by the Global Alliances CTO.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This is the perfect role for business savvy “big picture” technologists, who understand the DevOps, Security and Dev Tooling spaces, can build a forward facing technology vision for how Snyk can win by partnering, get all the internal and external stakeholders on board, and then execute on the partnership vision. As an example, can take inspiration from some of Snyk’s most celebrated partnerships, like with Docker and with Atlassian, in which Snyk partnered with other best-of-breed companies in the developer tool chain to bring security natively in those tools… where developers are at.</span></p>
+<p><br><br></p>
+<p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;">XYZ</li>
-</ul>
-<p><span style="font-weight: 400;">As a company we are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;">XYZ</li>
+<li style="font-weight: 400;"><strong>Creating and Communicating the Technical Vision:</strong><span style="font-weight: 400;"> you’ll work&nbsp; closely with Snyk’s product and engineering teams to understand our roadmap, and build a complementary technical vision focused on winning in the market through partners and alliances.</span></li>
+<li style="font-weight: 400;"><strong>Executing on the existing partner roadmap:</strong><span style="font-weight: 400;"> you’ll focus on alignment amongst all internal teams to create buy-in and execute the technical vision.</span></li>
+<li style="font-weight: 400;"><strong>Evangelizing Snyk:</strong><span style="font-weight: 400;"> as a senior technical leader, you’ll build relationships with other leading vendors in the industry,sharing Snyk’s mission, and finding compelling partners and partnership opportunities.</span></li>
 </ul>
-<h3><strong>We’d especially love to hear from you if you:</strong></h3>
+</ul>
 <ul>
-<li>are excited by Snyk’s mission, open-source, or developer tools</li>
+<li><strong>Managing the Partner Solutions Architects: </strong><span style="font-weight: 400;">You’ll lead&nbsp; a team of highly technical partner solutions architects working within our various partner verticals</span></li>
 </ul>
-<h3><strong>Tech Stack</strong></h3>
-<p><span style="font-weight: 400;">Our current stack consists of: NodeJS, JavaScript, Vue.js, TypeScript, jQuery, Express, Postgresql, SQL, Sass, BEM, CSS, Google Cloud, BigQuery, Docker, Fractal, Kibana, Elasticsearch, Kubernetes.</span></p>
-<p><span style="font-weight: 400;">While we are looking for candidates with existing experience with our tech stack we believe curiosity, communication, and the ability to learn are most important.</span></p>
-<h3><strong>What does our interview process look like?</strong></h3>
-<p><span style="font-weight: 400;">We start by having a video call to get to know you. We’ll tell you more about us, the role, and why our culture is so great! We also want to hear about you, your skills and experience, and why you are interested in exploring Snyk.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Next up we’ll send you a take home exercise. Ideally, you will get it back to us within a week and we can take a look at your work.</span></p>
-<p><span style="font-weight: 400;">From there we’ll have an onsite interview where you will get to visit our office, meet a few different members of the BI team, and other stakeholders either in person or over Zoom, and find out everything you need to know about the way we work.&nbsp;</span></p>
-<h3><strong>Interested?</strong></h3>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<h3><strong>About Snyk</strong></h3>
+<ul>
+<li style="font-weight: 400;"><strong>Driving Internal Enablement:</strong><span style="font-weight: 400;"> Creating the partnership is just the beginning, you’ll be responsible for the strategy &amp; messaging so Snyk’s field teams understand, and take advantage of the various partnerships and integrations Snyk has put in place</span></li>
+</ul>
+<p><strong>You should apply if you:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a at least 15 years or more in technical roles, intimately understand the developer’s world, and have experience with a wide range of technologies and development tools and methodologies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">spent 5 years or more in senior technical roles (like CTO), preferably with customer and partner facing experience.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">deeply understand the DevOps, Security and Dev Tooling space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">thrive in communicating technical visions to all stakeholders, from C-suite, business and sales folks, product, marketing and engineers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you have strong technical leadership abilities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lead with a team-oriented mindset</span></li>
+</ul>
+<p><br><br></p>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway. :)</span></p>
+<p>&nbsp;</p>
+<p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. </span><span style="font-weight: 400;">We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). </span><span style="font-weight: 400;">We also raised an additional $200 Million, <a href="https://snyk.io/blog/snyk-closes-200m-to-modernize-security-industry/" target="_blank">announced on September 9, 2020</a></span><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential</span><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we have teams across multiple offices, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
