@@ -3,15 +3,15 @@ People Experience Coordinator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>PX Coordinator (Boston)</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a passionate, organized PX Coordinator to join our People Experience team and nail the first impressions at Snyk in our Boston office. You’ll have a direct impact on in- office experiences in Boston as well as remotely for our New York office. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
+<p><strong>PX Coordinator (London)</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate, organised PX Coordinator to join our People Experience team and nail the first impressions at Snyk in our London and Zurich offices. You’ll have a direct impact on in- office experiences in London as well as remotely for our Zurich office. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Represent Snyk as you engage with employees, candidates, clients, guests, whether in-office as well as remotely for our other offices as well as our remote Snykers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Support the local People Experience Specialist in broader cultural initiatives, events or communications, as well as other duties that may be assigned to in alignment with your role</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Manage administrative operations of all the offices we support, including receiving and organizing mail, communicating with the facilities team and vendors, assisting with visitor coordination including registration of visitors/candidates ,managing NDA/Waivers signatures, and maintaining office and kitchen supplies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manage administrative operations of all the offices we support, including receiving and organising mail, communicating with the facilities team and vendors, assisting with visitor coordination including registration of visitors/candidates ,managing NDA/Waivers signatures, and maintaining office and kitchen supplies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Update office policies and procedures as needed</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Recognize opportunities for improvement and partner with the appropriate teams to find solutions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Recognise opportunities for improvement and partner with the appropriate teams to find solutions</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partner with the local IT, security, legal, and executive teams to maintain a safe environment compliant with COVID-19 regulations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Contribute to a positive work environment, often being the heart and soul of the office</span></li>
 </ul>
@@ -20,9 +20,9 @@ People Experience Coordinator
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have 1+ year experience working as a team/office assistant role ideally with some HR components</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in a fast-paced environment,&nbsp; and enjoy the consistency and stability of day-to-day routines</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have outstanding interpersonal and communication skills, with a service oriented approach. You will be helping to maintain the energy/vibe in the office, and will be the go-to person that everyone knows</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong organizational&nbsp; skills and a keen eye for detail. Enjoy collaborative work as well as on occasion, taking the lead on some social projects for the office/department</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong organisational skills and a keen eye for detail. Enjoy collaborative work as well as on occasion, taking the lead on some social projects for the office/department</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a self-starter: you can identify issues and don’t need to wait for assignments to take them on</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to build effective working relationships at all levels of the organization&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to build effective working relationships at all levels of the organisation</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience managing vendor relationships</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to multi-task and manage a workload in a time effective way with multiple daily priorities to deal with</span></li>
 </ul>
@@ -44,7 +44,7 @@ People Experience Coordinator
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5831390002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5807700002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!

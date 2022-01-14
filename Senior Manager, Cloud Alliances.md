@@ -5,7 +5,7 @@ Senior Manager, Cloud Alliances
 
 <p><span style="font-weight: 400;">Snyk is leading the market in developer-first security, helping development and security teams build software quickly </span><em><span style="font-weight: 400;">and</span></em><span style="font-weight: 400;"> securely.&nbsp; We’re growing fast, adding thousands of new users, onboarding new enterprise customers, rapidly expanding our teams every quarter, and sharing our story with the market&nbsp; - and we want YOU to join us for the ride!&nbsp;</span></p>
 <p><strong>Your Role:</strong></p>
-<p><strong>The Senior Manager, Cloud Alliances</strong><span style="font-weight: 400;"> role is an incredible opportunity to join a highly successful team dedicated to developing and closing our cloud-influenced pipeline with our strategic Cloud Alliance partners. You will work in the Cloud team within our Global Alliances organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market with/through our Cloud Alliances partners. You will be a connector between partner and Snyk sales teams, and a catalyst for our pipeline development influenced by and/or sold through our Cloud Alliance partners in the territory.</span></p>
+<p><strong>The Senior Manager, Cloud Alliances</strong><span style="font-weight: 400;">&nbsp;role is an incredible opportunity to join a highly successful team dedicated to developing and closing our cloud-influenced pipeline with our strategic Cloud Alliance partners. You will work in the Cloud team within our Global Alliances organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market with/through our Cloud Alliances partners. You will be a connector between partner and Snyk sales teams, and a catalyst for our pipeline development influenced by and/or sold through our Cloud Alliance partners in the territory.</span></p>
 <p><strong>Key Responsibilities include:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Engage and support Snyk’s field teams in pursuit of joint business with Cloud Alliance partners, including AWS, Microsoft Azure and Google Cloud.</span></li>
@@ -36,7 +36,7 @@ Senior Manager, Cloud Alliances
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5691352002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5691357002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
