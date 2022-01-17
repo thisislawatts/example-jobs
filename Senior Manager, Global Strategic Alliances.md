@@ -31,13 +31,9 @@ Senior Manager, Global Strategic Alliances
 <li style="font-weight: 400;"><span style="font-weight: 400;">Various sales &amp; marketing practice experience&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ability to accommodate with different business cultures and work on a global basis</span></li>
 </ul>
-<p><br><br></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;"><strong data-stringify-type="bold">Minimum OTE of $130,000 + equity + benefits, but can go up depending on and individuals experience + qualifications.</strong></span></p>
 <p><span style="font-weight: 400;">#LI-EO1</span></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>

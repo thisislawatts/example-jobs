@@ -27,8 +27,6 @@ Sales Development Representative
 <li><span style="font-weight: 400;">are open, honest, and love to learn</span></li>
 <li><span style="font-weight: 400;">are excited about technology and security, and want to join a high-growth startup</span></li>
 </ul>
-<p><strong>Additional Information</strong></p>
-<p><span style="font-weight: 400;">Minimum OTE of USD $67,000 + equity + benefits, but can go up depending on an individuals experience + qualifications.</span></p>
 <h4><strong>Interested?</strong></h4>
 <p><span style="font-weight: 400;">We'd love to hear from you - please apply below!</span></p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
