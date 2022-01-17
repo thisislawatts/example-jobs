@@ -22,19 +22,13 @@ Customer Success Manager
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
+<li data-stringify-indent="0" data-stringify-border="0">have at least 3 years of relevant experience in supporting B2B and big enterprises.</li>
 <li data-stringify-indent="0" data-stringify-border="0">are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec.</li>
 <li>have the ability to translate technical tasks from the customer to other Snyk teams.</li>
 <li>own the ability to independently manage multiple projects.&nbsp;</li>
 <li>have worked closely with highly technical customers.&nbsp;</li>
 <li>use strong analytical skills to manage customer sense of value.</li>
 <li>embrace the opportunity to present to executive teams.</li>
-</ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
-<ul>
-<li>Created a Snyk account and got to know our tech!</li>
-<li>Have experience working with developers or DevOps teams.</li>
-<li>Have a developer background or any kind of experience with coding.</li>
-<li>You love Application Security and want to make the world secure!</li>
 </ul>
 <p>&nbsp;</p>
 <p>#LI-RC5</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
