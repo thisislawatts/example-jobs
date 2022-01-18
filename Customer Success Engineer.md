@@ -3,7 +3,7 @@ Customer Success Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location: London, or UK Remote</strong></p>
+<p><strong>Location: Boston or remote</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a self-driven, customer-focused, and technically savvy Customer Success Engineer (CSE) to join our Customer Success team to help retain and grow Snyk’s most strategic customers through robust technical solutioning and consulting.</span></p>
 <p><span style="font-weight: 400;">A Snyk CSE is a key member of our Customer Success Organization who is a product expert focused on the technical health of our customer implementations.&nbsp; As CSE, you will drive customer value and adoption by deeply integrating within the customers DevOps ecosystem, &nbsp; ultimately making them sticky with Snyk and successful in their mission of shipping secure cloud native applications.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Your work will have a real impact on the success of our customers and the direction of our products.&nbsp; You will be part of a flexible and ambitious team with a growth mindset that encourages open communication, innovation, collaboration, and a shared focus on customer success.&nbsp;&nbsp;</span></p>
 <p><strong>Here at Snyk, you’ll spend your time:</strong></p>
@@ -53,7 +53,7 @@ Customer Success Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5822583002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5345926002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
