@@ -11,14 +11,15 @@ Account Executive, Commercial - San Francisco Bay Area
 <p><span style="font-weight: 400;">We’re a collaborative team from a variety of backgrounds, made up of sales executives and technical sales engineers.&nbsp; We spend time coaching each other, giving and receiving feedback, and ensuring we work together to make the most of the skills and experience we have within the team to maximize performance and earning potential..&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <p><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 2+ years experience selling a technical product, and you want to join a startup on its way to success</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience of both short and long sales cycles</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative and love belonging to a high-achieving sales team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a fully remote position</span></li>
+<li><span style="font-weight: 400;">Have 2+ years of closing experience selling Cloud, SaaS and/or Cybersecurity solutions to mid-market companies, and want to join a startup on its way to success</span></li>
+<li><span style="font-weight: 400;">Understand the software developer lifecycle and can articulate how a developer tooling product might fit in</span></li>
+<li><span style="font-weight: 400;">Have experience of both short and long sales cycles</span></li>
+<li><span style="font-weight: 400;">Are a self-motivated and hard-working: you aim to exceed your quota, and you enjoy working in fast-paced environments</span></li>
+<li><span style="font-weight: 400;">Are collaborative and love belonging to a high-achieving sales team</span></li>
+<li><span style="font-weight: 400;">Are resilient: you believe mistakes and failures are learning opportunities, and you value feedback</span></li>
+<li><span style="font-weight: 400;">Are open, honest and take an entrepreneurial approach to sales, mindful of your customer’s risk tolerance</span></li>
+<li><span style="font-weight: 400;">Have strong communication (written and verbal) and presentation skills, both internally and externally</span></li>
+<li><span style="font-weight: 400;">Have experience working in a fully remote position</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
