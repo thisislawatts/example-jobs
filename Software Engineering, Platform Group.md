@@ -4,7 +4,7 @@ Software Engineering, Platform Group
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Software Engineering, Platform Group</strong></p>
-<p><strong>Bucharest or Remote</strong><strong>.</strong></p>
+<p><strong>UK, Israel and Switzerland.</strong><strong><br></strong><strong>We have offices in London, Tel Aviv and Zurich if you prefer not to work remotely.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a number of smart, caring and proactive senior software engineers to join our core product teams to help our enterprise customers adopt open source and stay secure.</span></p>
 <p><span style="font-weight: 400;">The teams in the Platform Group aim to build a scalable, extensible platform that is used by both our Snyk product offering teams and our Enterprise customers to solve complex challenges, namely:</span></p>
 <ul>
@@ -58,7 +58,7 @@ Software Engineering, Platform Group
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5834198002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4864848002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
