@@ -5,7 +5,7 @@ Cloud Account Manager
 
 <p><span style="font-weight: 400;">Snyk is leading the market in developer-first security, helping development and security teams build software quickly </span><em><span style="font-weight: 400;">and</span></em><span style="font-weight: 400;"> securely.&nbsp; We’re growing fast, adding thousands of new users, onboarding new enterprise customers, rapidly expanding our teams every quarter, and sharing our story with the market&nbsp; - and we want YOU to join us for the ride!&nbsp;</span></p>
 <p><strong>Your Role:</strong></p>
-<p><strong>The Cloud Account Manager, East US</strong><span style="font-weight: 400;"> role is an incredible opportunity to join a highly successful team dedicated to developing and closing our cloud-influenced pipeline with our strategic Cloud Alliance partners. You will work in the Cloud team within our Global Alliances organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market with/through our Cloud Alliances partners. You will be a connector between partner and Snyk sales teams, and a catalyst for our pipeline development influenced by and/or sold through our Cloud Alliance partners in the territory.</span></p>
+<p><strong>The Senior Manager, Cloud Alliances</strong><span style="font-weight: 400;"> role is an incredible opportunity to join a highly successful team dedicated to developing and closing our cloud-influenced pipeline with our strategic Cloud Alliance partners. You will work in the Cloud team within our Global Alliances organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market with/through our Cloud Alliances partners. You will be a connector between partner and Snyk sales teams, and a catalyst for our pipeline development influenced by and/or sold through our Cloud Alliance partners in the territory.</span></p>
 <p><strong>Key Responsibilities include:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Engage and support Snyk’s field teams in pursuit of joint business with Cloud Alliance partners, including AWS, Microsoft Azure and Google Cloud.</span></li>
@@ -20,7 +20,7 @@ Cloud Account Manager
 <p><strong>&nbsp;Ideal Qualifications:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Sound knowledge of the public cloud industry, and strong executive and field network with cloud providers, especially AWS.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of Cloud industry commercial (sales, business development) experience, of which at least three in the public cloud sector. Ideally, experience on behalf of disruptive, emerging technologies and companies.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2-3 years of Cloud industry commercial (sales, business development) experience, of which at least three in the public cloud sector. Ideally, experience on behalf of disruptive, emerging technologies and companies.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Demonstrated ability to get things done through an organizational matrix and high performance cross-functional groups.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Project management ability, strategic and critical thinking, and analytical skills.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Strong organizational, communications and interpersonal skills.</span></li>
