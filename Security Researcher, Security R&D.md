@@ -22,7 +22,7 @@ Security Researcher, Security R&D
 <li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy hunting for security vulnerabilities through the wilds of open source software security.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have previous experience in the application security field, pentesting or consulting, and have a good understanding of major vulnerability types such as XSS, CSRF, SQL Injection, Deserialization, RCE.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You communicate proactively and speak fluent English.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You’re </span><strong>familiar</strong><span style="font-weight: 400;"> with a wide range of programming languages and frameworks, and excited about learning and diving into unfamiliar languages.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re </span>familiar<span style="font-weight: 400;"> with a wide range of programming languages and frameworks, and excited about learning and diving into unfamiliar languages.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have hands-on software development experience in at least one high-level programming language.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re passionate about security and want to contribute to the community.</span></li>
 </ul>
