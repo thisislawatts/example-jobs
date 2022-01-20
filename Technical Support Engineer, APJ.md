@@ -12,7 +12,7 @@ Technical Support Engineer, APJ
 <h3><strong>You'll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding, reproducing and resolving complicated technical issues that our customers have raised.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript</strong><span style="font-weight: 400;">, to figure out where the issue lies, and what a good solution might look like.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript, </strong><span style="font-weight: 400;">to figure out where the issue lies, and what a good solution might look like.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Providing expert communication, ensuring that every user knows exactly when they’ll hear back from us and providing regular updates while solving their problem.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Listening to our users’ needs, listening for recurring requests, and representing their voice in daily meetings with the Tier 2 and engineering teams.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Contributing to building up a best-in-class technical support function, including writing customer documentation and FAQs, building dashboards, or designing integrations between tools.</span></li>
