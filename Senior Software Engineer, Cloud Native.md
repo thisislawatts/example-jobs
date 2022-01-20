@@ -25,6 +25,7 @@ Senior Software Engineer, Cloud Native
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have seen good (and bad) infrastructure, and have opinions about what works and what doesn’t.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a Software Engineer with strong interests in infrastructure and operational aspects of building great software.</span></li>
+<li><span style="font-weight: 400;">Have production-grade experience with Kubernetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are approachable and friendly; an excellent communicator</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with Node/Javascript/Typescript or Go skills, or are a polyglot with experience learning a new language</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working collaboratively using pair programming and code reviews</span></li>
@@ -44,7 +45,6 @@ Senior Software Engineer, Cloud Native
 <p><em><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, </span></em><strong><em>nor should you feel like you need to meet all of them to apply</em></strong><em><span style="font-weight: 400;">.</span></em></p>
 <h2><strong>We’d especially love to hear from you (but you don’t <em>need</em> these skills to apply!) if you:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kuberenetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have an SRE background</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience contributing to open-source projects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with distributed system architectural challenges</span></li>
