@@ -3,52 +3,66 @@ Senior Software Engineer, Cloud Native
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
-<p><span style="font-weight: 400;">We’re looking for a collaborative senior software engineer to join our Cloud-Native team to help us build </span><a href="https://snyk.io/product/container-vulnerability-management/"><span style="font-weight: 400;">Snyk Container</span></a><span style="font-weight: 400;">, our container vulnerability management solution.</span></p>
-<p><span style="font-weight: 400;">In the cloud-native team we build products that enable developers to test, fix and monitor open source vulnerabilities in their container images. This can happen locally, on-premise, or in the cloud where we integrate with the world’s most popular cloud-providers.</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
+<p><span style="font-weight: 400;"><br><strong>Location: </strong><strong>This role is also open to remote work from Germany, Israel, Romania, Sweden, Switzerland, and United Kingdom</strong></span></p>
+<p><span style="font-weight: 400;">Snyk's mission is to empower developers to build more secure software with minimal investment in time and resources.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We are looking for a collaborative Cloud Native Senior Software Engineer to join Snyk Code. With your team, you will own the future product direction, development, testing and operational reliability of our services. You will be working with a distributed team across the UK, Europe and Israel.&nbsp;</span></p>
+<p><a href="https://snyk.io/product/snyk-code/"><span style="font-weight: 400;">Snyk Code</span></a><span style="font-weight: 400;"> enables developers to scan their own source code for security issues and provides meaningful and actionable results to fix those issues. We support different environments and integrations as part of the CI/CD, IDE Plugins and web experience as well. We try to bring a new, innovative and a fast experience into the SAST product world. We have e2e ownership of all of our tech stack - Node and C++ microservices,</span></p>
+<h2><strong>You'll most likely spend your time on:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">building and maintaining the services that power our Snyk Container product</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working across the stack to deliver new features from start-to-end</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">deploying new features to production</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">improving performance and overcoming scalability limits</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">talking to our customers, making sure we’re building a product they truly love</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with your team, planning the most important projects to work on next</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">mentoring and coaching other team members</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working as part of a distributed team across Israel and the UK</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working across the stack and entire development life cycle to build, test, deploy and support high quality, reliable, fast services that power Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Drive the team’s best practices of how we deploy our services in the cloud and on customer premises.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming to collaboratively build the services that power Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Talking to our customers and collaborating with other teams to build a product everyone truly loves</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Continuously delivering small, high quality changes to production, at a sustainable pace</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying potential improvements in our team processes and workflows and driving the changes needed to address them</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting and growing the other engineers in your team through pairing, feedback and mentoring</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Investigating and addressing performance and scalability concerns across our services as we grow.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evolving our technology and architecture to meet the challenges ahead.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Participating in our on-call rotation (compensated)</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<h2><strong>You should apply if you:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 5+ years of work experience in software engineering</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">know how containers work internally and have significant experience with containers in production</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">know and have deployed/used/managed large-scale Kubernetes clusters in production</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have designed, built, deployed, and hosted microservices on a major cloud-provider&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">practice writing tests as an integral part of your software development life-cycle</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensure a high-quality of code, that can be safely co-authored in a fast growing organisation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable working in a cross-functional team, working across the stack to deliver new features from start-to-end</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">communicate proactively and have a team-first mind-set</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">love working in a fast-paced start-up environment that respects its engineers and customers&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have seen good (and bad) infrastructure, and have opinions about what works and what doesn’t.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are a Software Engineer with strong interests in infrastructure and operational aspects of building great software.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are approachable and friendly; an excellent communicator</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with Node/Javascript/Typescript or Go skills, or are a polyglot with experience learning a new language</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working collaboratively using pair programming and code reviews</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Promote testing as a natural part of any coding effort to improve code quality</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">See mistakes as a learning opportunity and a key driver for personal growth</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have strong proficiency with JavaScript and Typescript</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with a front-end framework in the past (React, Angular, Vue, Ember)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have production-grade experience with Kuberenetes either as a stand-alone or as a hosted cloud-service (AWS ECS/EKS, GKE or Azure AKS)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a good track record of project leadership and mentorship of software engineers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong community involvement (open-source, conferences, meetups, etc)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have high standards and opinions on topics such as code quality, testing and continuous delivery and enjoy working with others to raise the bar.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working on early stage products; talking with customers to identify, prioritise and solve problems iteratively and build something that they really love.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production.</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
-<p>The use of open source is booming, but security is a key concern (<a class="c-link" href="https://snyk.io/stateofossecurity/" target="_blank" data-stringify-link="https://snyk.io/stateofossecurity/" data-sk="tooltip_parent">https://snyk.io/stateofossecurity/</a>). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us! By September 2020, Snyk was already adopted by over 1.5M developers, including multiple enterprise customers (such as Google, New Relic, ASOS and others).</p>
-<p>Our September 2020 Series D funding round of $200M has put us at over $2.6 billion company valuation.We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p><span style="font-weight: 400;">#LI-FS1</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Love working in a fast-paced start-up environment that respects its engineers and customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy solving complex technical problems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Feel comfortable working with uncertainties and unknowns</span></li>
+</ul>
+<p><em><span style="font-weight: 400;">We value building a team with a diverse set of backgrounds and experience. This list is not an exhaustive list of skills we're looking for, </span></em><strong><em>nor should you feel like you need to meet all of them to apply</em></strong><em><span style="font-weight: 400;">.</span></em></p>
+<h2><strong>We’d especially love to hear from you (but you don’t <em>need</em> these skills to apply!) if you:</strong></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kuberenetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have an SRE background</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience contributing to open-source projects</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with distributed system architectural challenges</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy the challenge of finding the right alerting, monitoring and SLOs for your services</span></li>
+</ul>
+<p>#LI-HW1</p>
+<p><span style="font-weight: 400;">#LI-Remote<br></span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4976777002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5841597002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
