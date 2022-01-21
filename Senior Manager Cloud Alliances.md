@@ -1,0 +1,43 @@
+Senior Manager Cloud Alliances
+---
+
+<img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
+
+<p>We are looking for a <strong>Senior Manager of Global Strategic Alliances</strong><span style="font-weight: 400;"> who will manage key strategic cloud partnerships for Snyk.&nbsp; <br>This person will be a part of the Business Development organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market through and with our Strategic Alliances.&nbsp;&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">In this role you will develop global relationships with your assigned partners from top to bottom, including driving outcomes on executive engagement, certifications and integrations, joint solutions, content and enablement, GTM&nbsp; and technology roadmaps, to ensure differentiation and technology adoption with the partner’s technologies.</span></p>
+<p><strong>Key Responsibilities include:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop and manage the relationships with Snyk Global Strategic Partners such as Microsoft and Google Cloud. Define and execute the 1 to 3 year business objectives plan in alignment with Snyk’s business strategy to meet and exceed the corporate objectives.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Map executive connections and manage continuous cadences between key Snyk leaders and their Alliance partner counterparts.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify and pursue strategic product and infrastructure collaboration ideas, based on opportunities or gaps in the market and/or in Snyk and Alliance partner product portfolios.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build, leverage, rationalize, track and communicate alliance benefits to key stakeholders including alliance partner teams, alliance partners, alliance leadership and business units.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work with key Snyk alliance partner marketing and developer advocacy stakeholders to develop strategic marketing plans focused on joint demand gen.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Together with Snyk alliance partner marketing and Snyk co-sell teams, establish compelling joint value propositions and joint GTM messaging for field enablement.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop and execute upon global alliance agreements by working with internal teams, including Finance, Ops, Sales, and Legal, as well as key Snyk stakeholders on contracts in support of the Snyk global alliance partner relationship.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manage controversial alliance engagement escalations and conflicts.</span></li>
+</ul>
+<p><strong>&nbsp;Ideal Qualifications:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong knowledge of Public Cloud, DevOps and Security</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong executive-network with the relevant Strategic Alliance partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of Public Cloud, DevOps and Security industry experience, in product management, strategic technical sales and/or technology business development roles. Specifically, experience in bringing disruptive, emerging technologies to market through building alliances with Fortune 1000 type companies.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of demonstrable leadership of high performance teams and cross-functional groups in a matrix environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Proven program management ability, strategic and critical thinking, and analytical skills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Demonstrated experience in leading for results, as well as strong organizational, communications and interpersonal skills</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to accommodate with different business cultures and work on a global basis.</span></li>
+</ul>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p>#LI-CH2 #LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
+
+Interested?
+---
+
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5847256002#app).
+
+We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
+If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
