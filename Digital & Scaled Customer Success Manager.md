@@ -4,11 +4,11 @@ Digital & Scaled Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<h4><strong><sub>Location: London OR UK Remote</sub></strong></h4>
+<h3><strong><sub>Location: London, UK Remote or Tel Aviv</sub></strong></h3>
 <p><strong>Overview:&nbsp;</strong></p>
 <p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our Digital &amp; Scaled Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk. We’re a small team and we’re looking for candidates who are able to learn quickly and think creatively.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Digital &amp; Scaled Customer Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
-<p><span style="font-weight: 400;">In this role, you will develop impact-driving digital engagement strategies in partnership with many teams across Customer Success, Marketing, Product Management and Support.</span></p>
+<p><span style="font-weight: 400;">In this role, you will develop impact-driving digital engagement strategies in partnership with many teams across Customer Success, Marketing, Sales, Product Management and Support.</span></p>
 <p><strong>You’ll Spend Your Time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Growing product adoption within a portfolio of a variety of companies primarily through scaled programs&nbsp;</span></li>
