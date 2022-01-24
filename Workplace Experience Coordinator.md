@@ -3,7 +3,6 @@ Workplace Experience Coordinator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>PX Coordinator (Boston)</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a passionate, organized Workplace Coordinator to join our Workplace Experience team and nail the first impressions at Snyk in our Boston and Denver offices. You’ll have a direct impact on in- office experiences in Boston as well as remotely for our New York office. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -35,7 +34,7 @@ Workplace Experience Coordinator
 <p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.</span></p>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.We are experiencing rapid growth - and we want you to join us!</span></p>
-<p><span style="font-weight: 400;">#LI-KT1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-ES1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
