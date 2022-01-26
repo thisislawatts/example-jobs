@@ -4,7 +4,7 @@ Open Source Software Auditor
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h2><strong>Open Source Software Auditor</strong></h2>
-<p>Location: <span style="font-weight: 400;">Bucharest, Malmö, or EMEA Remote</span></p>
+<p>Location: <span style="font-weight: 400;">Romania, remote</span></p>
 <p><span style="font-weight: 400;">At Snyk we care deeply about the value and experience our customers get from our audit services. It requires constant innovation as we increase our product breadth and depth, and scale our footprint globally to enable millions of external developers through our compliance and security products, all while maintaining high availability and reliability of our platforms and services.</span></p>
 <p><span style="font-weight: 400;">We are looking for candidates who are passionate about software compliance (and security), effective collaboration at scale, have demonstrable experience of software auditing processes, and are sensitive to group dynamics. If you have strong interpersonal skills (coaching, team building) as well as robust analytical expertise, you may be the person we’re looking for.</span></p>
 <p><span style="font-weight: 400;">You will be joining the Audit Services team whose focus is to </span><span style="font-weight: 400;">provide quickly and reliably audits services with clear, actionable outcomes for our Customers</span><span style="font-weight: 400;">. You will work closely with the Sales and development teams within the company. Snyk is a fast-growing business with close to 900 employees. We are set to nearly double that in the next year!<br><br></span></p>
