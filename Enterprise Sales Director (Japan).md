@@ -3,7 +3,7 @@ Enterprise Sales Director (Japan)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">The Enterprise Sales Director (Japan) will be part of an expanding APJ Sales Team covering the Japanese market.&nbsp; This person will be responsible for developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers in the territory. The Enterprise Sales Director will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Enterprise Sales Director, Japan will be part of an expanding APJ Sales Team covering the Japanese market.&nbsp; This person will be responsible for developing, accelerating, up-selling and closing business with new and existing Snyk prospects and customers in the territory. The Enterprise Sales Director will maintain the highest level of knowledge about Snyk’s solutions and business strategy while being responsible for the successful execution of the respective sales plan.&nbsp;</span></p>
 <h2><strong>A successful seller will:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be an aggressive self-starter with the ability to build executive relationships, articulate Snyk’s solution and business value, create demand and close deals.</span></li>
@@ -17,7 +17,7 @@ Enterprise Sales Director (Japan)
 <h2><strong>A combination of education and experience will be considered:</strong></h2>
 <ul>
 <li style="font-weight: 400;"><strong>IDEALLY have experience selling and working in the Dev/Sec/Ops space with proven success of selling Security and/or DevOps software solutions</strong></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Minimum of five (5) or more years of enterprise sales experience; direct and channel sales experience required.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Minimum of seven (7) or more years of enterprise sales experience; direct and channel sales experience required.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Proven ability to develop new sales with prospecting, relationship building and execution skills.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Must have knowledge of solution selling and value-based selling techniques.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be a high-energy sales person who is comfortable working in a fast-paced environment where roles and responsibilities change quickly.</span></li>

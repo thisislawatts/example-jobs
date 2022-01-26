@@ -4,7 +4,7 @@ Japan Developer (Evangelist), 開発者(エバンジェリスト)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <pre class="c-mrkdwn__pre" data-stringify-type="pre">Snyk（スニーク）は、一緒に日本でのビジネスの立ち上げに挑戦してくれる開発者(エバンジェリスト）を募集しています。</pre>
-<p class="p1">We’re looking for an experienced, hands-on and self-directed Developer (Evangelist) to build and grow the Developer Community of Snyk users and beyond.&nbsp; Through education, engagement and networking programs, the Developer (Evangelist) will drive awareness and adoption of DevSecOps practices and Snyk’s developer-first security platform throughout the Japanese region.&nbsp;&nbsp;</p>
+<p class="p1">We’re looking for an experienced, hands-on and self-directed Developer (Evangelist) to build and grow the Developer Community of Snyk users and beyond. Through education, engagement and networking programs, the Developer (Evangelist) will drive awareness and adoption of DevSecOps practices and Snyk’s developer-first security platform throughout the Japanese region.&nbsp;&nbsp;</p>
 <p class="p1"><strong>As the Snyk Community Advocate:</strong></p>
 <p class="p1">You will develop, implement and lead a well-defined community growth strategy that will reach&nbsp; our Snyk community of users and the broad developer community in Japan. You will help accelerate awareness and interest in developer security and the Snyk product platform through content development, speaking opportunities, community events and conferences, social channels, Slack forums, virtual sessions and more.</p>
 <p class="p1"><strong>You’ll spend your time:</strong></p>
