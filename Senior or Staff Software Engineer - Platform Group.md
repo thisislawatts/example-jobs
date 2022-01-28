@@ -3,8 +3,6 @@ Senior/Staff Software Engineer - Platform Group
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Senior/Staff Software Engineer, Platform Group</strong></p>
-<p><strong>UK, Israel, Switzerland.&nbsp;</strong><strong><br></strong><strong>We have offices in London, Tel Aviv, Zurich if you prefer not to work remotely.</strong></p>
 <p class="p1">We’re looking for a number of smart, caring and proactive software engineers to join our core product teams to help our enterprise customers adopt open source and stay secure.<span class="Apple-converted-space">&nbsp;</span></p>
 <p class="p1">We are hiring across all levels from Junior to Architect, as a global and growing business, we can truly offer a world of opportunities to expand your skills and develop your career.</p>
 <p class="p1">Here at Snyk, you’ll use your knowledge and passion as a developer, along with your problem solving skills to help us develop software that, in turn, helps others to develop software that is and remains secure.</p>
@@ -18,18 +16,7 @@ Senior/Staff Software Engineer - Platform Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">Mentoring and coaching other engineers in the team &amp; group</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Taking part in our on-call rotation to maintain and support our production service (for a week every ~10 weeks)</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working on a SaaS web application</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Encourage effective testing, code quality, and useful code review</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Like to move quickly and iteratively, and believe that shipping early is often best</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable with Continuous Integration / Continuous Deployment workflows</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are proactive and enjoy working on cross-functional delivery teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy learning and sharing with your peers, and are comfortable pair programming</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are interested in providing technical direction for the team, and influencing prioritisation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy helping to mentor and grow other engineers</span></li>
-</ul>
-<p><strong>We’d especially love to hear from you if you have experience with:</strong></p>
+<p><strong>We’d love to hear from you if you have experience with:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Typescript or Javascript experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Kubernetes or another container-based operational environment</span></li>
