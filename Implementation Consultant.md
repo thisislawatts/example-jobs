@@ -22,6 +22,7 @@ Implementation Consultant
 <p><strong>You should apply if you have</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of technical consulting, SaaS software implementation or customer-facing experience as a technical lead&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A bachelor's degree in a related field of study</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A working knowledge of SDLC and DevOps methodologies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">The ability to clearly articulate complex technical issues</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Interest in application security, and an understanding of the importance of a developer first approach</span></li>
@@ -32,7 +33,6 @@ Implementation Consultant
 </ul>
 <p><strong>We’d especially love to hear from you if you have</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A degree in Computer Science with experience in programming&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a technical account manager, project manager, solution architect, sales engineer or similar for AppSec, CI, or DevSecOps products and services.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Security certification such as CEH, CISSP, or CSSLP, or other.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience with enterprise-scale web development technologies and microservices.</span></li>
