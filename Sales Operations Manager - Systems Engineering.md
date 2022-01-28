@@ -3,6 +3,7 @@ Sales Operations Manager - Systems Engineering
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same state/country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located.</span></strong></p>
 <p><strong>Sales Operations Manager, Systems Engineering</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Sales Operations Manager to join our Strategy &amp; Operations team to support Snyk’s Global Systems Engineering (SE) team through a period of hyper-growth. The Strategy &amp; Operations team’s mission is to support Synk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale. The position will report directly to Snyk’s Sr. Director, GTM Strategy, Operations and Analytics.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
