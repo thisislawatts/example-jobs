@@ -6,8 +6,7 @@ Intern Open Source Automation Engineer
 <h2><strong>Intern Open Source Automation Engineer</strong></h2>
 <p><span style="font-weight: 400;">We are looking for a curious, analytical and detail-oriented Open Source Engineer to join our team and help us curate a dataset of undefined dependencies.</span></p>
 <h2><strong>Your Role</strong></h2>
-<p><span style="font-weight: 400;">In modern software development, much of any project's code relies on open source pa</span></p>
-<p><span style="font-weight: 400;">ckages. These are out there in the world, visible for anyone, and within that code there are vulnerabilities. As part of our team, you'll join us on our mission to continually improve our ability to find these open source components and vulnerabilities.</span></p>
+<p><span style="font-weight: 400;">In modern software development, much of any project's code relies on open source pa</span><span style="font-weight: 400;">ckages. These are out there in the world, visible for anyone, and within that code there are vulnerabilities. As part of our team, you'll join us on our mission to continually improve our ability to find these open source components and vulnerabilities.</span></p>
 <p><span style="font-weight: 400;">You'll join our interdisciplinary team, alongside fully dedicated engineers focused on building tools that make your work more effective and have lots of opportunities to learn and grow. This role is particularly well-suited to help you develop a deep understanding of how code works, and over time you'll have the opportunity to work with just about every programming language.</span></p>
 <h2><strong>You’ll spend your time:</strong></h2>
 <ul>
