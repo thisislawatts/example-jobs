@@ -5,7 +5,6 @@ Security Analyst Operations Lead, Open Source Security Team
 
 <p><strong>Security Analyst Operations Lead, Open Source Security Team</strong></p>
 <p><span style="font-weight: 400;">We are looking for an experienced, analytical, and collaborative Security Analyst Operations Lead to join our team and help us build the best DB of open source vulnerabilities out there.</span></p>
-<p>&nbsp;</p>
 <p><strong>Your Role</strong></p>
 <p><span style="font-weight: 400;">In modern software development, much of any project's code relies on open-source packages. These packages are visible for anyone, and within that code there are vulnerabilities. As part of our security group, you'll join us on our mission to continually improve our ability to find these open source vulnerabilities in a programmatic way. Every day new vulnerabilities and updates are published that require processing and triage in order to be added to the Snyk Vulnerability DB.</span></p>
 <p><span style="font-weight: 400;">Your role will be to take charge of a squad of analysts who will be conducting this work. You’ll lead the effort of maintaining our DB, monitoring our workflows, and shaping our processes, to make sure we continue to have the most accurate, timely, and informative open source vulnerability DB in the market.</span></p>
@@ -35,10 +34,8 @@ Security Analyst Operations Lead, Open Source Security Team
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have experience PoCing vulnerabilities and dealing with vulnerability disclosures</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You have worked closely with Data Scientists in the past and have experience working with ML</span></li>
 </ul>
-<p class="p2">&nbsp;</p>
 <p class="p4"><strong>Interested?</strong></p>
 <p class="p1">We'd love to hear from you - please apply below!</p>
-<p class="p2">&nbsp;</p>
 <p class="p1">We value diversity at Snyk, and we particularly encourage applications from those who are traditionally underrepresented in tech and security. If you like the sound of this role, but are not totally sure whether you’re the right person, please do apply anyway - we would love to hear from you.</p>
 <p class="p1">#LI-OB1</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
