@@ -4,7 +4,6 @@ Software Engineering, Platform Group
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Software Engineering, Platform Group</strong></p>
-<p><strong>UK, Israel, Switzerland, Romania &amp; Germany</strong><strong><br></strong><strong>We have offices in London, Tel Aviv and Zurich if you prefer not to work remotely.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a number of smart, caring and proactive software engineers at all levels to join our core product teams to help our enterprise customers adopt open source and stay secure.</span></p>
 <p><span style="font-weight: 400;">The teams in the Platform Group aim to build a scalable, extensible platform that is used by both our Snyk product offering teams and our Enterprise customers to solve complex challenges, namely:</span></p>
 <ul>
