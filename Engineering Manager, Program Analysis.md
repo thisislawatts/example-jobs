@@ -3,7 +3,7 @@ Engineering Manager, Program Analysis
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an experienced and collaborative software engineer to build the next generation of code analysis based on a combination of machine learning and logical reasoning and strengthen it for the .NET platform.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an experienced and collaborative Engineering Manager to build the next generation of code analysis based on a combination of machine learning and logical reasoning and strengthen it for the .NET platform.</span></p>
 <p><span style="font-weight: 400;">The team is focused on building a real-time high-precision analyzer based on logical reasoning and machine learning. What we call Snyk’s DeepCode Engine: the most advanced platform for semantic code analysis.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
