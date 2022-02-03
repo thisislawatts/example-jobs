@@ -6,6 +6,7 @@ Senior Product Marketing Manager - Snyk Container
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We're looking for an energetic, driven, and hands-on Senior Product Marketing Manager to join our marketing team to support and drive the rapid growth of our Snyk Container product.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You'll take ownership of product marketing for our Snyk Container product. As a featured product in Snyk’s developer security platform, Snyk Container helps developers and DevOps organizations securely develop and run their application in containers - no small feat when you consider some popular container images have 100s of vulnerabilities! Snyk Container’s developer-focused approach is unique in the market and you will help us convey this value across our audiences, whether to an individual developer, to DevOps-oriented security teams,, or to leaders and security executives at software-driven enterprises.&nbsp; A key part of your role will be to become a Snyk expert on containers and container security, on customer pain points and requirements and their buyer journey, and the competitive landscape.&nbsp; You will use that knowledge to build the messaging for the product and to develop content, sales tools and stories that communicate the product’s value across all channels.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
