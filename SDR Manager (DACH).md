@@ -4,6 +4,7 @@ SDR Manager (DACH)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>We’re looking for an empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives.</strong></p>
+<p>Location: London or UK Remote or Germany Remote</p>
 <p><strong>The role</strong></p>
 <p><span style="font-weight: 400;">Snyk is looking for the next generation of sales leaders to continue on our journey of rapid growth. We are yet again doubling the size of our Sales Development team and are on the lookout for bright, ambitious managers to be the driving force behind our market-beating technology. Working with everyone from the hottest start-ups (Revolut) to the biggest players (Google, AWS) and everyone in-between - it’s the chance to be at the forefront of the DevSecOps world.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
