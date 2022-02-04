@@ -3,7 +3,7 @@ Business Systems Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth. A solid foundation in a breadth of finance and accounting business processes is essential for this role. Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organization on a variety of applications, including NetSuite.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth.&nbsp; A solid foundation in a breadth of finance and accounting business processes is essential for this role.&nbsp; Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organization on a variety of applications, including NetSuite.</span></p>
 <p><span style="font-weight: 400;">You will partner with the business to create and deliver scalable solutions and automating core business processes across the finance organization. Your primary responsibility will be to define and interpret business requirements to the technical team on system implementations and enhancements across procure-to-pay, record-to report and orders-to-cash.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -20,7 +20,7 @@ Business Systems Analyst
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have Bachelor’s degree in a Technology or Finance related field</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have 10+ years experience in an IT organization supporting finance legal applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a thorough understanding of financial processes across finance and legal work-streams and an understanding of best practices</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a thorough understanding of financial processes across finance and legal workstreams and an understanding of best practices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a strong knowledge of system and software quality assurance best practices and methodologies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">possess an understanding of NetSuite, including experience in advanced revenue management (ARM), multi-book accounting, and being integrated with a SFDC CPQ environment and SFDC billing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator in both formal and informal situations</span></li>
@@ -49,7 +49,7 @@ Business Systems Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5890633002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5598339002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
