@@ -27,8 +27,8 @@ Software Engineering, Platform Extensibility
 </ul>
 <p><strong>We’d especially love to hear from you if you have experience with</strong></p>
 <ul>
+<li><span style="font-weight: 400;">Kubernetes, Envoy, WASM, DevOps, DevSecOps, and Go</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Designing and building a platform API, including OpenAPI, JSON Schema, JSON API, GraphQL, HTTP specifications, and a variety of auth approaches</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Kubernetes, Envoy, WASM, DevOps, DevSecOps, and Go</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Building and guiding partner and customer integrations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">TypeScript</span></li>
 </ul>
