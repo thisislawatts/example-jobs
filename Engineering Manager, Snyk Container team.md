@@ -4,7 +4,7 @@ Engineering Manager, Snyk Container team
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><strong>Location: </strong>Israel</p>
+<p><strong>Location: </strong>Israel, UK, Romania, Sweden, Switzerland, Germany</p>
 <p>We are looking for an experienced and collaborative Engineering Manager to join the Product Division within Snyk, to lead a team of 5-8 engineers.</p>
 <h2><span style="font-weight: 400;">Description</span></h2>
 <p><span style="font-weight: 400;">You will build products that enable developers to write secure code before it reaches production. Snyk’s developer-first approach meets developers where they work and provides fixes that can be directly merged into code.</span></p>
