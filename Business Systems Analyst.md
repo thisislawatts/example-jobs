@@ -3,7 +3,7 @@ Business Systems Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth. A solid foundation in a breadth of finance and accounting business processes is essential for this role. Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organization on a variety of applications, including NetSuite.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth. A solid foundation in a breadth of finance and accounting business processes is essential for this role. Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organisation on a variety of applications, including NetSuite.</span></p>
 <p><span style="font-weight: 400;">You will partner with the business to create and deliver scalable solutions and automating core business processes across the finance organization. Your primary responsibility will be to define and interpret business requirements to the technical team on system implementations and enhancements across procure-to-pay, record-to report and orders-to-cash.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -49,7 +49,7 @@ Business Systems Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5890633002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5890840002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
