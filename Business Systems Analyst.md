@@ -3,7 +3,7 @@ Business Systems Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth. A solid foundation in a breadth of finance and accounting business processes is essential for this role. Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organisation on a variety of applications, including NetSuite.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a highly effective, proven Financial Business Systems Analyst to join our IT organization to support Snyk’s finance and legal departments during this period of hyper-growth.&nbsp; A solid foundation in a breadth of finance and accounting business processes is essential for this role.&nbsp; Also as a core member of the delivery team, we are searching for a flexible person who learns quickly, has previous experience supporting a global finance and legal organization on a variety of applications, including NetSuite.</span></p>
 <p><span style="font-weight: 400;">You will partner with the business to create and deliver scalable solutions and automating core business processes across the finance organization. Your primary responsibility will be to define and interpret business requirements to the technical team on system implementations and enhancements across procure-to-pay, record-to report and orders-to-cash.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -20,7 +20,7 @@ Business Systems Analyst
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have Bachelor’s degree in a Technology or Finance related field</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have 10+ years experience in an IT organization supporting finance legal applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a thorough understanding of financial processes across finance and legal work-streams and an understanding of best practices</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a thorough understanding of financial processes across finance and legal workstreams and an understanding of best practices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a strong knowledge of system and software quality assurance best practices and methodologies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">possess an understanding of NetSuite, including experience in advanced revenue management (ARM), multi-book accounting, and being integrated with a SFDC CPQ environment and SFDC billing</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are an effective listener and communicator in both formal and informal situations</span></li>
@@ -40,7 +40,7 @@ Business Systems Analyst
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
-<p><span style="font-weight: 400;">#LI-KT1<br></span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-KT1<br>#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -49,7 +49,7 @@ Business Systems Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5890840002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5598339002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
