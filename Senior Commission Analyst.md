@@ -3,6 +3,7 @@ Senior Commission Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p><strong>Location</strong><strong>: Boston. This role is open to remote work in the U.S.</strong></p>
 <p><strong>About the Role</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a Senior Commissions Analyst to join our Finance team </span><span style="font-weight: 400;">to support the commission cycle process during this time of rapid growth. This individual will have a proven track record of working across functional teams in a fast-based environment and will foster a collaborative spirit. They will have great attention to detail and be a critical part of the monthly close process but will also be collaborating closely with stakeholders outside of the accounting team especially with the GTM and sales operations teams.</span></p>
 <p><span style="font-weight: 400;">This person will be responsible for the timely and accurate processing of global field sales, AM, SDR, SE and channel commissions. </span><span style="font-weight: 400;">This role is a critical part of various process improvement initiatives related to the commissions/deferred commissions which help support our broader finance and corporate initiatives. As part of the Snyk team, you will also have the opportunity to demonstrate the core values of being easy to work with, ship it (bias for action), care deeply, and be one team while working with best-in-class development security intelligence.</span></p>
@@ -28,6 +29,7 @@ Senior Commission Analyst
 <li style="font-weight: 400;"><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a problem solver, you love to break problems into actionable tasks and bring to resolution</span></li>
 </ul>
+<p>&nbsp;</p>
 <h6><span style="font-weight: 400;">#LI-AB4 #LI-REMOTE</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
@@ -37,7 +39,7 @@ Senior Commission Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5871457002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5873016002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
