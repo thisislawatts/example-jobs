@@ -5,7 +5,7 @@ Business Development Representative (Cloud Alliances)
 
 <p><strong>Business Development Representative (Cloud Alliances)&nbsp;</strong></p>
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><strong>Location: Preferably Boston, Denver, Remote to be considered</strong></p>
+<p><strong>Location: Ottawa, Canada</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising, ambitious Cloud Business Development Representative to join our Business Development team!&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Cloud BDR role is an incredible opportunity to join a highly successful team dedicated to embracing and upleveling our strategic cloud alliances. This individual will work directly with the Global Director of Strategic Cloud Alliances to grow our co-selling motion with AWS, Google and Microsoft Azure.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
@@ -32,8 +32,7 @@ Business Development Representative (Cloud Alliances)
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply </span><em><span style="font-weight: 400;">anyway</span></em><span style="font-weight: 400;"> :)</span></p>
-<p><strong>Additional Information</strong></p>
-<p><span style="font-weight: 400;">Minimum OTE of $67,000 USD + equity + benefits, but can go up depending on an individual’s experience + qualifications.</span></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><em><span style="font-weight: 400;">#LI-JD1</span></em></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
@@ -44,7 +43,7 @@ Business Development Representative (Cloud Alliances)
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5872198002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5891489002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
