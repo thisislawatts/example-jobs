@@ -6,7 +6,7 @@ Leadership Development Director
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><strong>Location: </strong><span style="font-weight: 400;">This role is open to remote work (preferred location Boston, MA)</span></p>
-<p><span style="font-weight: 400;">The </span><strong>Leadership Development Director</strong><span style="font-weight: 400;"> will sit on the Learning and Growth team, and will develop and drive a multi-year strategy for executive education, including designing, developing, and facilitating global development programs.&nbsp;</span></p>
+<p>The Leadership Development Director<span style="font-weight: 400;"> will sit on the Learning and Growth team, and will develop and drive a multi-year strategy for executive education, including designing, developing, and facilitating global development programs.&nbsp;</span></p>
 <p><strong>Learning and Growth at Snyk: </strong><span style="font-weight: 400;">As part of our values that go to the very core of who we are, we believe strongly in the power of seeking and creating learning opportunities across all facets of our day to day experience. The mission of the Learning and Growth team is to build a culture of continuous learning through profound experiences which inspire personal and professional growth, and where every Snyker has the opportunity to maximize potential through their career journey with the company. The Learning &amp; Growth team will encompass the following areas:&nbsp;</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">New joiner orientation and enablement</span></li>

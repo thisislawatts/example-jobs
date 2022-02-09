@@ -3,7 +3,7 @@ Workplace Experience Coordinator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a passionate, organized Workplace Coordinator to join our Workplace Experience team and nail the first impressions at Snyk in our Boston and Denver offices. You’ll have a direct impact on in- office experiences in Boston as well as remotely for our New York office. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate, organized Workplace Coordinator to join our Workplace Experience team and nail the first impressions at Snyk in our U.S. offices. You’ll have a direct impact on in- office experiences in Boston as well as remotely for our New York office. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Represent Snyk as you engage with employees, candidates, clients, guests, whether in-office as well as remotely for our other offices as well as our remote Snykers</span></li>
