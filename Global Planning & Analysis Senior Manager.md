@@ -3,7 +3,7 @@ Global Planning & Analysis Senior Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
+<p><strong><em>All roles listed as ‘remote’ are available as remote within the same state.&nbsp;</em></strong></p>
 <p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Global Planning &amp; Analysis Senior Manager to join our Strategy &amp; Operations team and support Snyk’s hyper-growth globally. The Global Planning &amp; Analysis team is playing a key role in defining priorities, articulating them with investments and driving internal alignment. The Strategy &amp; Operations team’s mission is to support Synk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale. The position will report directly to Snyk’s Director, Global Planning &amp; Analysis.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
