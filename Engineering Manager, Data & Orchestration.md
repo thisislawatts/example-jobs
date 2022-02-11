@@ -3,10 +3,8 @@ Engineering Manager, Data & Orchestration
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p class="p3"><strong>Engineering Manager, Data &amp; Orchestration</strong></p>
 <p class="p3"><strong>Location: UK, Israel, Germany, Romania, Sweden or Switzerland</strong></p>
 <p class="p3"><strong>We have offices in London, Tel Aviv, Zurich and Malmö if you prefer not to work remotely.</strong></p>
-<p class="p2">&nbsp;</p>
 <p class="p3">We’re looking for an empathetic, experienced and collaborative Engineering Manager to lead one of our engineering teams. This team’s focus is on the ingestion of data from the world of open source software and dispersion of this throughout our platform to power our products. The team are also working on data engineering platforms and tooling to be used by other teams in the organization.</p>
 <p class="p3"><span class="s1"><strong>You’ll spend your time:</strong></span></p>
 <ul class="ul1">
