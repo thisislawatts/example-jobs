@@ -11,7 +11,7 @@ Global Planning & Analysis Analyst
 <li>Delivering actionable insights to leadership to inform decisions to scale and deliver on the plan’s priorities</li>
 <li>Tracking, analyzing, reporting on corporate KPIs and assess need to adjust plans depending on current business trends</li>
 <li>Ensuring alignment in decision-making and communication of priorities and planning decisions across the company</li>
-<li>Evaluating market opportunities to further expand Snyk’s footprint&nbsp;</li>
+<li>Evaluating market opportunities to further expand Snyk’s footprint</li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
