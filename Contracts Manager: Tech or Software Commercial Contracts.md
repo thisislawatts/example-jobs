@@ -3,9 +3,9 @@ Contracts Manager: Tech/Software Commercial Contracts
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Legal Counsel/Contracts Manager: Tech/Software Commercial Contracts</strong></p>
+<p><strong>Contracts Manager: Tech/Software Commercial Contracts</strong></p>
 <p><strong>Location: US</strong></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">Snyk is hiring!&nbsp; We are looking for a pragmatic, smart, collaborative, and professional team player to join our commercial legal team to support the sales teams with commercially-driven legal advice, strong drafting skills and a tenacious, “can-do” work ethic.</span></p>
+<p><span style="font-weight: 400;">Snyk is hiring!&nbsp; We are looking for a pragmatic, smart, collaborative, and professional team player to join our commercial legal team to support the sales teams with commercially-driven legal advice, strong drafting skills and a tenacious, “can-do” work ethic.</span></p>
 <p><strong>Legal Counsel at Snyk:</strong></p>
 <p><span style="font-weight: 400;">You will be based in the USA and you will report to the Senior Legal Counsel, located in Boston. You will collaborate closely with your legal team members in Europe, the U.S., and Singapore and help to scale legal support for the expanding go-to-market function. You will have excellent contract drafting and business negotiation skills gained in a SaaS provider’s in-house legal department. You’ll use that knowledge to negotiate and close B2B deals with enterprise customers. We use Slack and Zoom to collaborate internally and you will be used to dealing with the demands of a fast-paced, high growth environment.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
