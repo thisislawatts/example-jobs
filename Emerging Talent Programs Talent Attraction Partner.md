@@ -4,7 +4,7 @@ Emerging Talent Programs Talent Attraction Partner
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">Emerging Talent Programs Talent Attraction Partner&nbsp;</span></p>
-<p><span style="font-weight: 400;">The Emerging Talent team is hiring for a Talent Attraction Partner in </span><strong>Cluj, Romania</strong><span style="font-weight: 400;">. The Talent Attraction Partner is an integral part of Snyk's efforts to attract, hire, develop, and retain diverse talent from historically underrepresented groups within technology. The Talent Attraction Partner will be responsible for driving candidate engagement and progression through the recruitment process. The role will focus on entry-level candidates or candidates who had a change in career through programs designed to develop relationships with universities and associations focused on diversity in technology.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Emerging Talent team is hiring for a Talent Attraction Partner in </span><strong>Ottawa, Canada</strong><span style="font-weight: 400;">. The Talent Attraction Partner is an integral part of Snyk's efforts to attract, hire, develop, and retain diverse talent from historically underrepresented groups within technology. The Talent Attraction Partner will be responsible for driving candidate engagement and progression through the recruitment process. The role will focus on entry-level candidates or candidates who had a change in career through programs designed to develop relationships with universities and associations focused on diversity in technology.&nbsp;</span></p>
 <p><span style="font-weight: 400;">In this role, you will:</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Leverage inclusive sourcing strategies and programmatic involvement to attract and cultivate a pipeline of junior talent or talent who recently participated in a career change program</span></li>
@@ -32,7 +32,7 @@ Emerging Talent Programs Talent Attraction Partner
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5925462002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5925347002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
