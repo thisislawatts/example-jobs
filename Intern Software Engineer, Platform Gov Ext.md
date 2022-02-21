@@ -13,7 +13,7 @@ Intern Software Engineer, Platform Gov Ext
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a recent CS graduate of an accredited college, university, or coding bootcamp</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are available for a minimum 12-week full-time internship</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent analytical and problem-solving skills</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have some proficiency in programming languages, such as JavaScript, Go, or Python&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have some proficiency in programming languages, such as JavaScript, Typescript or Go&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have strong written and verbal communication skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively and have a collaborative, team-first, mindset</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have the ability to work in a fast-paced, team-based environment</span></li>
