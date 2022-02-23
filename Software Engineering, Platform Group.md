@@ -4,7 +4,6 @@ Software Engineering, Platform Group
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Software Engineering, Platform Group</strong></p>
-<p><strong>Bucharest or Remote</strong><strong>.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a number of smart, caring and proactive senior software engineers to join our core product teams to help our enterprise customers adopt open source and stay secure.</span></p>
 <p><span style="font-weight: 400;">The teams in the Platform Group aim to build a scalable, extensible platform that is used by both our Snyk product offering teams and our Enterprise customers to solve complex challenges, namely:</span></p>
 <ul>
@@ -19,7 +18,6 @@ Software Engineering, Platform Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">owning everything from the commercial success to operational insight of specific features in our product</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">engaging in problem analysis and collaborating with product to create plans that continue to delight our current users and win new ones</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">executing on those plans by coding across the full stack</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working in a full CI/CD environment, at a sustainable pace, in two-week sprints&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">promoting technical excellence across the team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">mentoring and coaching other engineers in the team &amp; group</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">taking part in our on-call rotation to maintain and support our production service (for a week every ~10 weeks)</span></li>
@@ -37,14 +35,12 @@ Software Engineering, Platform Group
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have Typescript or Javascript experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with Kubernetes or another container-based operational environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have Typescript, Javascript or Golang experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Vue.js</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience scaling a rapidly growing SaaS application</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience working as part of a distributed team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked on large-scale reporting systems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience using and/or operating ElasticSearch</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with GraphQL</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)&nbsp;</span></p>
