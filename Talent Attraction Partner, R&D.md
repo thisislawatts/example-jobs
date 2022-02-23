@@ -1,38 +1,33 @@
-Senior Talent Attraction Partner, R&D
+Talent Attraction Partner, R&D
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Location: Cluj or Romania - Remote</strong></p>
 <p><strong>All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. <a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/">Check out our Flexwork policy for more information</a></strong></p>
-<p><strong>We’re looking for a talented Senior Talent Attraction Partner with strong sourcing skills to join our Talent Attraction team. Your role will be to help scale Snyk's Engineering team globally with a specific focus initially on the Romania market, whilst contributing to building a great employer brand.</strong></p>
+<p><strong>We’re looking for a talented Talent Attraction Partner with strong sourcing skills to join our Talent Attraction team. Your role will be to help scale Snyk's Engineering team globally with a specific focus initially on the Romania market.</strong></p>
 <h3><strong>The role</strong></h3>
-<p><span style="font-weight: 400;">As a Sr Technical Talent Attraction Partner for Snyk, you'll join the R&amp;D Talent Attraction team within our global People Team, reporting into our Director, R&amp;D Talent Attraction.&nbsp; We've started scaling fast in a short space of time, so there are many</span><span style="font-weight: 400;">&nbsp;opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration. &nbsp;</span></p>
+<p><span style="font-weight: 400;">As a Technical Talent Attraction Partner for Snyk, you'll join the R&amp;D Talent Attraction team within our global People Team, reporting into our Director, R&amp;D Talent Attraction.&nbsp; We've started scaling fast in a short space of time, so there are many</span><span style="font-weight: 400;">&nbsp;opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration. &nbsp;</span></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications to meet the growing needs of the Engineering department&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">working to build our diverse pipelines of passive Engineering candidates using creative sourcing methods and other employer branding initiatives</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">supporting and encouraging employee referrals&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing the recruitment process, striving for a quality candidate experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">negotiating and closing offers across our geographies for all hires to director level</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">partnering and collaborating with the stakeholder in the Engineering department</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">negotiating and closing offers across our geographies for hands on Engineering hires&nbsp;</span></li>
 </ul>
 <h3><strong>Along with other members of the Talent Attraction team, you’ll also get involved in:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">building a strong employer brand for Snyk globally</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">tracking and improving an exceptional candidate experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">impacting and improving our diversity metrics for Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">designing interview processes that minimise our risk of bias and maximise the likelihood of identifying the best candidates </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">advising hiring managers in market nuances, offer decisions, role titles, and market competition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">impacting and improving the diversity of talent pipeline</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">continuing to learn and develop your market knowledge </span></li>
 <li><span style="font-weight: 400;">attending (or organising!) events and conferences</span></li>
-<li><span style="font-weight: 400;">managing and improving relationships with agencies and third parties as relevant</span></li>
 </ul>
 <p><span style="font-weight: 400;">We are distributed across multiple locations including offices in UK, Europe, Israel, US and Canada, with 15% of the company working fully-remote. We’ve made an organisational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.</span></p>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a strong track record in delivering full lifecycle recruiting and sourcing for Product / Engineering crafts&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of the Technology &amp; Product crafts and the candidate markets in which they operate</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are great at building relationships with stakeholders</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience delivering full lifecycle recruiting and sourcing for Product / Engineering crafts&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of the Technology &amp; Product crafts and the candidate markets in which they operate, in particular the Romania market</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love to source, but also enjoy managing relationships with direct applicants</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy working in a fast paced, high growth company and feel comfortable with ambiguity </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">value diversity and believe strongly in creating inclusive environment</span></li>
@@ -54,7 +49,7 @@ Senior Talent Attraction Partner, R&D
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5775151002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5932766002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
