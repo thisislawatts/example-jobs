@@ -15,7 +15,7 @@ Sales Manager - Commercial
 <p><span style="font-weight: 400;">We’re looking for a highly motivated leader who thrives with the freedom to decide how to develop their team in a world class organization. This role will report directly to our VP of Sales.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 2+ years experience managing a successful team selling a technical product in the midmarket, commercial and/or low enterprise space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 4+ years experience managing a successful team selling a technical product in the midmarket, commercial and/or low enterprise space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are motivated by the development and success of your team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">aim to exceed quota, and enjoy working in fast-paced environment that embraces change</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are collaborative with other internal departments (Marketing, Sales Engineering, Product, Customer Success) to get your deal done&nbsp;</span></li>
@@ -28,7 +28,7 @@ Sales Manager - Commercial
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<h6><span style="font-weight: 400;">#LI-EO1</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h6><span style="font-weight: 400;">#LI-TO-3</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
