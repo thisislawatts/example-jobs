@@ -1,49 +1,50 @@
-Product Operations Director
+Product Operations Director 
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Product Operations Director</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Product Operations Director to start and build our Product Operations team. In Product Operations, we’re building the connective tissue between our R&amp;D teams - like Labs, Product, and Engineering and both user facing teams - like sales, marketing and customer success and our internal support functions - like strategy &amp; operations, finance &amp; legal, and HR functions. The position will report directly to Snyk’s VP, Strategy &amp; Operations. The Strategy &amp; Operations team’s mission is to support Synk’s Leadership team in driving hyper-growth by enabling: 1) good, efficient decision making; 2) rapid, effective execution; and 3) scale.&nbsp;</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">Snyk is used by millions of developers, driven by its successful freemium motion - unique in the security industry - and its focus on putting the developer first. We secure the code you write, with Snyk Code, the libraries you depend upon with Snyk Open Source, the containers you package it all into with Snyk Container and the infrastructure that you run it on with Snyk Infrastructure as Code. Our product-led growth approach is critical to Snyk’s business success with our disruptive developer security platform.&nbsp;</span></p>
+<p><strong>We're looking for an experienced product professional to help us effectively scale the product management function within Snyk.</strong></p>
+<p><span style="font-weight: 400;">You will partner with the product VPs and directly support and facilitate a growing team of 30+ product managers, ensuring that the team have the right access to the necessary tools, data and processes to enable continued operational excellence as we scale.</span></p>
+<h3><strong>You’ll spend your time</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collecting, organizing, and analyzing product data to help product management and executive leadership make informed decisions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Streamlining communication between the product teams and other teams in the organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Standardizing business processes, such as planning, budgeting, and reporting, to facilitate product development</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Facilitating product feedback review and planning meetings</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying, prioritizing and solving operational challenges</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Scaling operations for existing products and designing operational programs for new initiative</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Managing initiatives to drive team productivity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working in a highly collaborative, fast-paced, diverse and autonomous team environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with the Product VPs to establish and document a standardised approach to product management across Snyk R&amp;D.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Establishing standardised processes to support effective and consistent onboarding of new Snyk PMs and development of existing Snyk PMs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Facilitating the Product org planning processes and associated KPI setting and reporting activities.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working independently (but with the help of our data science team, and partnering with Customer Success, Sales, Finance, Strategy &amp; Ops where needed) to gather key insights and feedback for the Product team to influence the roadmap/prioritization of potential product changes, with data from product analytics, surveys and NPS, customer needs, win/loss, support issues, competitive intelligence and more.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating and owning our Product to Customer Engagement process and associated governance that will enable cross-functional Snyk R&amp;D teams to safely engage with customers via multiple tools and systems for customer needs, in-app messaging and surveys.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Establishing a scalable process for managing beta / pre-release programs; supporting product teams in ensuring metrics and learnings are absorbed by the R&amp;D organisation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evangelising and supporting the adoption of our paved road for behavioural analytics and experimentation across our entire R&amp;D organisation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with our Customer Success organisation to create a developer user focused arm of our Customer Advisory Board (CAB); owning engagement and process to inform product development.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting best practice adoption of any tools relevant to the product management role.</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<h3><strong>You should apply if you</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are agile and enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in a product company, ideally in a SaaS environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have sharp analytical skills and an “insight-ready” mindset: you don’t just report the data, you generate insights &amp; provide business recommendations&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are ridiculously easy to work with, with an ability to build strong relationships with a broad set of stakeholders that have diverse interests</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have program management skills and are comfortable multitasking and prioritizing in a fast paced environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong communication skills in both formal and informal situations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have ability to influence others</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy acquiring new knowledge and skills and can do so quickly</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have worked professionally for a significant amount of time, ideally 7 years+ commercially</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in a senior product or product operations role in some or all of B2B SaaS, developer tooling or B2C technical products.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively and clearly, and would enjoy working in and leading highly cross-functional, distributed product teams.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are energized by working in a dynamic, fast paced environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a passionate interest in applying the scientific method toward business KPIs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong quantitative and qualitative research and analytics skills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with agile development practices, have a technical background or have worked closely with engineers before.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are deeply curious about users, user behavior and have strong UX sensibilities.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent written and verbal communication skills in English, and enjoy helping others to be successful.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent presentation skills, with experience presenting to executive audiences.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are happy to travel at least once a quarter (under usual circumstances) to gather feedback from our users and to spend time working face-to-face with other colleagues that aren’t colocated with you.</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if:&nbsp;</strong></p>
+<h3><strong>What You’ll Get</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have Bachelor’s degree</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have an MBA</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have management consulting experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are proficient in MS Excel and MS Powerpoint&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are a self-starter with ability to work independently with minimal supervision</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are an exceptional problem solver, with a demonstrated ability to analyze complex problems and develop solutions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Highly competitive benefits and vacation package</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To work for a true hyper-growth company with some of the most talented, yet humble people in the industry</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To use best-in-class tooling in support of your role and objectives</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To surround yourself with incredibly smart, open, curious, and action-oriented people</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Opportunities to learn at every turn</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A fun, hardworking, inclusive and casual environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Limitless growth opportunities</span></li>
 </ul>
-<p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry. Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure. Join us!</span></p>
-<p>&nbsp;</p>
-<h6><span style="font-weight: 400;">#LI-CS1<br>#LI-Remote</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h3><strong>Interested?</strong></h3>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p><span style="font-weight: 400;">#LI-JW1<br>#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -52,7 +53,7 @@ Product Operations Director
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5314125002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5908841002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
