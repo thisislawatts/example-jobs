@@ -3,58 +3,53 @@ Information Systems Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for a passionate and experienced Information systems engineer to join our IT</span> <span style="font-weight: 400;">team to help us develop, integrate and manage our internal systems that support the company’s business processes and operations.</span></p>
-<p><span style="font-weight: 400;">Snyk’s IT team maintains and manages the company’s internal infrastructure, from Networking to go-to-market systems. The team collaborates with all the company’s departments to analyse, plan, implement and deploy solutions and infrastructure architecture used throughout Snyk.</span></p>
+<p><span style="font-weight: 400;">We're looking for an Information Systems Engineer to join our IT team, supporting and maintaining a broad range of IT solutions. This position will require a flexible person who learns quickly, likes to use many different technologies, and has a solid foundation of IT knowledge.</span></p>
+<p><span style="font-weight: 400;">The IT team collaborates with all of Snyk’s departments to support the evaluation, implementation and operation of technologies across the different departments, which will help Snyk in its rapid growth.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developing and testing automation and integration between our different systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Identifying opportunities for automation and continuously improving our usage of systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Researching and evaluating new technologies to increase the performance and security of our platforms and services</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working with stakeholders to define systems requirements for new technology implementations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ensuring operations documentation is up to date, tested and distributed where needed</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ensure the global infrastructure and core technology is operating at all times </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Keeping up to date on the latest technologies and solutions and conduct research into their potential application in the organisation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the IT team, management and department leadership to plan the most important projects to work on next</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Administration of all SaaS platforms in Snyk and implementing new services.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Discover solutions and services that will fit the requirements of a growing company.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Functionally decomposing complex problems into simple, straight-forward solutions.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Architecting, designing, implementing and supporting infrastructure focused tools and services.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supporting and expanding global services and infrastructure.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the rest of the CIS team in defining policies and procedures, and making recommendations for operational best practices.</span></li>
 </ul>
-<p><span style="font-weight: 400;">You should apply if you:</span></p>
+<p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have at least five years experience in a technical IT position</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are a problem solver</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are a capable coder, and happy to work with different technologies to achieve the desired outcomes</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have Proven experience in IT infrastructure planning and development</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have an understanding of project management principles and application</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are excited to wear many hats and learn new technologies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are a solid communicator and collaborator</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Can develop API integrations and internal infrastructure to support automation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with financial tools, HRIS, CRM and other operational systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with identity management systems, SSO and information security systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are agile and enjoy the speed of a fast-paced, highly engaged startup environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have flawless written English, and you're confident running customer-facing communications.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are hands-on, curious and love to explore new domains and technologies.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience as a Systems Engineer.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have great tech experience &amp; skills in the areas of problem determination, and troubleshooting of end user problems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Slack, Okta and Google Workspace administration.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience with GitHub administration.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in automating processes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience in administering Atlassian environments (Jira, Confluence).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have basic knowledge in Python or Node.JS.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are passionate about new technologies.</span></li>
 </ul>
-<p><span style="font-weight: 400;">We’d especially love to hear from you if you:</span></p>
+<p><strong>We’d especially like to hear from you if:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have extensive experience managing SaaS products, and integrating cloud systems to work together seamlessly</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have prior experience with Ruby/Python/Javascript</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have prior experience with automation platforms such as Workato as well as RPA systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have prior experience with Heroku</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with planning and implementing disaster recovery policies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience with Microsoft Azure administration.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience with MDM solutions (JAMF, Intune, JumpCloud).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to cover after-office hours and weekend support if there are any infrastructure issues.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with GCP and AWS environments.</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure. </span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users. </span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security. </span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
-<p> </p>
-<p><span style="font-weight: 400;">#LI-TO1</span></p>
+<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
+<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
+<p><span style="font-weight: 400;">In March of 2021, we raised $300M in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure. Join us!</span></p>
+<p>#LI-Remote<br>#LI-KT1</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4567386002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5953458002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
