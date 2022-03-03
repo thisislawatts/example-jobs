@@ -21,7 +21,7 @@ Senior Customer Success Manager, DACH
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li data-stringify-indent="0" data-stringify-border="0">are fluent in German and English&nbsp;&nbsp;</li>
+<li data-stringify-indent="0" data-stringify-border="0">are fluent in German and English, both written and verbally&nbsp;</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have the ability to translate technical tasks from the customer to other Snyk teams.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">own the ability to independently manage multiple projects.&nbsp;</span></li>
