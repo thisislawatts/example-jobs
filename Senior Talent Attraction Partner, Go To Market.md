@@ -5,7 +5,7 @@ Senior Talent Attraction Partner, Go To Market
 
 <p><strong>We’re looking for a talented Senior Talent Attraction Partner to join our Talent Attraction team, helping to scale Snyk's GTM teams globally while contributing to building a great employer brand.</strong></p>
 <p><strong>The role</strong></p>
-<p><span style="font-weight: 400;">As a </span><strong>Senior Talent Attraction Partner </strong><span style="font-weight: 400;">for Snyk, you'll join the GTM Talent Attraction team within our global People Team. This role reports into our GTM Talent Attraction Leader, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</span></p>
+<p>As a Senior Talent Attraction Partner for Snyk, you'll join the GTM Talent Attraction team within our global People Team. This role reports into our GTM Talent Attraction Leader, and supports hiring for our Marketing, Customer Success and Sales teams (as well as other GTM functions). We've started scaling fast in a short space of time, so there are many opportunities ahead to build, automate and scale our hiring infrastructure at Snyk, which will mean a lot of cross-discipline collaboration, support and celebration.&nbsp;&nbsp;</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">driving new applications globally for the roles that you’re responsible for</span></li>
