@@ -23,12 +23,11 @@ Solutions Engineering Manager
 <li>Are collaborative and love belonging to a high-achieving sales team.</li>
 <li>Are resilient: you believe mistakes and failures are learning opportunities, and you value feedback.</li>
 </ul>
-<p><strong>About Snyk</strong></p>
-<p>Snyk’s mission is to help developers use open source code and stay secure.</p>
-<p>The use of open source is booming, but security is a key concern (https://snyk.io/stateofossecurity/). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</p>
-<p>We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</p>
-<p>We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</p>
-<p>#LI-HP1</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h2><strong>Interested?</strong></h2>
+<p>We'd love to hear from you!</p>
+<p>We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!</p>
+<p>#LI-DGDG1</p>
+<p>#LI-REMOTE</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -37,7 +36,7 @@ Solutions Engineering Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5770313002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5665528002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
