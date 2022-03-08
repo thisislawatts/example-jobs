@@ -6,9 +6,12 @@ Senior Product Marketing Manager - Snyk Container
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
+<h3><strong>&nbsp;</strong></h3>
+<p><strong>Location: Boston, London, Ottawa, Tel Aviv, Remote</strong></p>
 <p><span style="font-weight: 400;">We're looking for an energetic, driven, and hands-on Senior Product Marketing Manager to join our marketing team to support and drive the rapid growth of our Snyk Container product.&nbsp;</span></p>
-<p><span style="font-weight: 400;">You'll take ownership of product marketing for our Snyk Container product. As a featured product in Snyk’s developer security platform, Snyk Container helps developers and DevOps organizations securely develop and run their application in containers - no small feat when you consider some popular container images have 100s of vulnerabilities! Snyk Container’s developer-focused approach is unique in the market and you will help us convey this value across our audiences, whether to an individual developer, to DevOps-oriented security teams,, or to leaders and security executives at software-driven enterprises.&nbsp; A key part of your role will be to become a Snyk expert on containers and container security, on customer pain points and requirements and their buyer journey, and the competitive landscape.&nbsp; You will use that knowledge to build the messaging for the product and to develop content, sales tools and stories that communicate the product’s value across all channels.</span></p>
+<p><span style="font-weight: 400;">You'll take ownership of product marketing for our Snyk Container product. As a featured product in Snyk’s developer security platform, Snyk Container helps developers and DevOps organizations securely develop and run their application in containers - no small feat when you consider some popular container images have 100s of vulnerabilities! Snyk Container’s developer-focused approach is unique in the market and you will help us convey this value across our audiences, whether to an individual developer, to DevOps-oriented security teams,, or to leaders and security executives at software-driven enterprises.&nbsp; A key part of your role will be to become a Snyk expert on containers and container security, on customer pain points and requirements and their buyer journey, and the competitive landscape.&nbsp; You will use that knowledge to build the messaging for the product and to develop content, sales tools and stories that communicate the product’s value across all channels.</span><strong><br></strong></p>
+<p>&nbsp;</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">understanding the container ecosystem and competitive landscape and Snyk’s differentiated positioning</span></li>
@@ -19,18 +22,18 @@ Senior Product Marketing Manager - Snyk Container
 <li style="font-weight: 400;"><span style="font-weight: 400;">engaging with customers and sharing insights back to the rest of Snyk</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">defining pricing and packaging for Snyk Container</span><span style="font-weight: 400;">&nbsp;</span></li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have first-hand experience working with or marketing container/Docker or Kubernetes solutions. A working knowledge of developer tooling and/or security solutions is a big plus.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate success as a member or leader of a product marketing team for a B2B company.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a technical curiosity and aptitude, but are a marketer at heart with passion and talent for content creation, marketing and communications.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience in marketing for a cloud-native product (exposure to container and/or Kubernetes technologies a plus)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate success as a product marketer for a B2B company with experience in a GTM strategy&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a technical curiosity and aptitude, but are a marketer at heart with passion and talent for content creation, marketing and communications</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience marketing to enterprises as well as fast-growing technology organizations&nbsp;&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a strong background working with sales, solution engineers and technical product teams</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are excited about our mission to help developers “Develop fast and stay secure.”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are excited about our mission to help developers “Develop fast and stay secure”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A working knowledge of developer tooling and/or security solutions is a big plus</span></li>
 </ul>
-<h3><strong>Tech Stack</strong></h3>
-<p><span style="font-weight: 400;">Our current stack consists of: NodeJS, JavaScript, Vue.js, TypeScript, jQuery, Express, Postgresql, SQL, Sass, BEM, CSS, Google Cloud, BigQuery, Docker, Fractal, Kibana, Elasticsearch, Kubernetes.</span></p>
-<p><span style="font-weight: 400;">While we are looking for candidates with existing experience with our tech stack we believe curiosity, communication, and the ability to learn are most important.</span></p>
+<h3>&nbsp;</h3>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <h3><strong>About Snyk</strong></h3>
