@@ -3,47 +3,40 @@ Channel Account Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h5><span data-sheets-formula-bar-text-style="font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">This role is located as an ‘in office’ position unless specified otherwise. All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" target="_blank" data-sheets-formula-bar-text-link="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/" data-sheets-formula-bar-text-style="font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">Check out our Flexwork policy for more information!</a></h5>
-<p>We’re focused on enabling developers to find and fix open source vulnerabilities as they develop, and to help security and governance teams understand their status and drive improvement. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</p>
-<p>The Snyk<strong> Channel Account Manager</strong> is responsible for strategy, enablement, development, and performance of the Channel partners in their region. Your success in the role will rely on understanding Snyk’s sales segmentation and aligning the partners to the Snyk sales teams. You will be working within all levels of large partner organizations and have a thorough understanding of Snyk’s solutions and the business value to partners and customers.&nbsp;</p>
+<p>The Snyk Channel Account Manager is responsible for strategy, enablement, development, and performance of our strategic National Partners (in-particular Trace3, AHEAD and Presidio). Your success in the role will rely on understanding Snyk’s sales segmentation and aligning the partners to the Snyk sales teams. You will be working within all levels of large partner organizations and have a thorough understanding of Snyk’s solutions and the business value to partners and customers.&nbsp;</p>
 <h3><strong>The Role:</strong></h3>
 <ul>
-<li><span style="font-weight: 400;">Develop and manage the relationships with key regional and growth partners</span></li>
-<li><span style="font-weight: 400;">Work with inbound partner requests to identify the right partner candidates</span></li>
-<li><span style="font-weight: 400;">Develop and execute annual business plans covering all aspects of the partner relationship</span></li>
-<li><span style="font-weight: 400;">Work with the Snyk Finance, Sales, and Legal team on contracts</span></li>
-<li><span style="font-weight: 400;">Engage and equip Snyk’s regional sales teams in pursuit of joint business</span></li>
-<li><span style="font-weight: 400;">Managing channel conflict and internal escalations</span></li>
-<li><span style="font-weight: 400;">Lead business performance and relationship reviews with stakeholders at focus partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop and execute a national strategy and business plan covering all aspects of the partner relationship</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work closely with the Snyk sales leadership and team to drive pipeline within the territory</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provide clear and consistent communication among your partners and peers to build strong partnerships</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop strong Alliance Partner plans within each managed partner</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lead regular business performance and relationship reviews with stakeholders</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build and maintain activity and performance reports</span></li>
 </ul>
-<p><strong>Ideal Qualifications:</strong></p>
+<h3><strong>&nbsp;Ideal Qualifications:</strong></h3>
 <ul>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Strong knowledge of Security and Cloud Industry</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Minimum of three (3) or more years of Channel Sales experience</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Excellent presentation, written, and overall communication skills</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Program management ability, critical thinking, and analytical skills</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Strong cross-functional collaboration experience</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Demonstrates track record of solution selling and value-based selling techniques</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">Ability to travel 50% of the time to attend partner activities and events when travel safely resumes</span></li>
-<li><span style="font-weight: 400;"> &nbsp; </span> <span style="font-weight: 400;">High-energy salesperson who is comfortable working independently in a fast-paced environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Proven track record of selling with or through the Cloud Native Channel Partner ecosystem</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience managing Trace3, AHEAD, and Presidio at a national level</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Minimum of five (5) or more years of Channel Sales experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent presentation, written, and overall communication skills</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Demonstrates track record of solution selling and value-based selling techniques</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to travel 50% of the time to attend partner activities and events</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">High-energy sales person who is comfortable working independently in a fast-paced environment</span></li>
 </ul>
-<p>You’ll have the opportunity to build processes from the ground up and influence how channel sales works at Snyk. We’ll give you the freedom you need to thrive, including defining and achieving ambitious goals. Your work will influence our long-term growth and the scope of our future success.&nbsp;</p>
-<h3>Interested?</h3>
-<p>Please apply below!&nbsp;<span style="font-weight: 400;">This role is open to remote employees working in the US!&nbsp;</span></p>
+<h3><strong>Interested?</strong></h3>
+<p><span style="font-weight: 400;">Please apply below!&nbsp;</span></p>
 <p><span style="font-weight: 400;">We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway.</span></p>
-<p>&nbsp;</p>
-<p><strong><em>About Snyk</em></strong></p>
-<p><em><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span></em><a href="https://snyk.io/stateofossecurity/"><em><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></em></a><em><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q4 2019 alone, Snyk had already over 110,000 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million,</span></em><a href="https://snyk.io/blog/snyk-closes-150m/"> <em><span style="font-weight: 400;">announced January 21, 2020</span></em></a><em><span style="font-weight: 400;">. With this investment, we have partnered with Stripe, along with Coatue, Tiger Global, BoldStart, Trend Forward, Amity and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></em></p>
-<p><em><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></em></p>
-<p>&nbsp;</p>
-<h6>#LI-EO1</h6>
+<h6>#LI-TO3</h6>
+<h6>#LI-Remote</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4101822002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5970485002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
