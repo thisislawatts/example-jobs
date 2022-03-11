@@ -4,9 +4,9 @@ Senior Manager Field Marketing
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h2><strong>Senior Manager, Field Marketing</strong></h2>
-<h2><strong>Location: Remote</strong></h2>
-<p><strong>Job Description:</strong></p>
 <p>&nbsp;</p>
+<p><strong>Location: Boston, San Francisco, Remote </strong></p>
+<p><strong>Job Description:</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a Senior Regional (Field) Marketing Manager to support our rapid growth in North America. Working in close collaboration with Sales you will define and execute region-specific programs that drive pipeline growth, net new and expansion revenue and support the overall sales teams’ success. Based on your location / experience this role will cover US East, West and/or Central.</span></p>
 <p>&nbsp;</p>
 <p><strong>Responsibilities:</strong></p>
