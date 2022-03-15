@@ -5,7 +5,7 @@ ABM Campaigns Marketing Manager
 
 <p><strong>Job title: ABM Campaigns Marketing Manager</strong></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">Location: London, North America East Coast</span></p>
+<p><span style="font-weight: 400;">Location: London (remote)</span></p>
 <p><span style="font-weight: 400;"><br></span><strong>Who We Are:&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software. As we enter a world of all-things-digital and cybersecurity takes center stage in it, the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
 <p>&nbsp;</p>
