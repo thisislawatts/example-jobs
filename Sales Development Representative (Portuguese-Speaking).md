@@ -1,11 +1,11 @@
-Sales Development Representative 
+Sales Development Representative (Portuguese-Speaking)
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Sales Development Representative</strong></p>
-<p><span style="font-weight: 400;"><strong>Location:</strong> Denver, CO</span></p>
-<p><span style="font-weight: 400;">We’re looking for enterprising and ambitious Sales Development Representatives to join our team!</span></p>
+<p><strong>Sales Development Representative (Portuguese-Speaking)</strong></p>
+<p><span style="font-weight: 400;"><strong>Location:</strong> Denver, CO (Hybrid or in-office)</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enterprising and ambitious Sales Development Representative to join our team!</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and hands-on mentorship and training.</span><span style="font-weight: 400;"><br></span></p>
 <p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
 <p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as your progress into a high-commission account executive role.</span></p>
@@ -19,6 +19,7 @@ Sales Development Representative
 </ul>
 <h4><strong>You'd be a great fit if you</strong><strong>:</strong></h4>
 <ul>
+<li><span style="font-weight: 400;">are fluent in both Portuguese and English (written and verbal)</span></li>
 <li><span style="font-weight: 400;">are ambitious, organized, and energetic</span></li>
 <li><span style="font-weight: 400;">build strong, meaningful relationships and take pride in being a great communicator</span></li>
 <li><span style="font-weight: 400;">strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
@@ -41,7 +42,7 @@ Sales Development Representative
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5742791002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5988202002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
