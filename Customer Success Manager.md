@@ -4,7 +4,7 @@ Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Customer Success Manager</strong></p>
-<p><strong>Location: Singapore &amp; Australia</strong></p>
+<p><strong>Location: Singapore</strong></p>
 <p>Due to assigned accounts, Singapore based candidates will need to be able to converse fluently in English and either <span style="font-weight: 400;">Mandarin or/and Cantonese.</span></p>
 <p>Snyk is looking for a Customer Success Manager (CSM) to help customers drive security within their&nbsp;Software Development Life Cycle (SDLC)&nbsp;and drive DevSecOps transformations through the adoption of the Snyk solutions. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis.&nbsp;</p>
 <p>As the technical point of contact you will become the trusted product advisor for clients and partners to identify key strategies that will unlock business value and improve product usability, expand product adoption, increase customer satisfaction and loyalty.</p>
