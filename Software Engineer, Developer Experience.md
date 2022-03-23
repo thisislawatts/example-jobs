@@ -4,8 +4,6 @@ Software Engineer, Developer Experience
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Software Engineer, Developer Experience</strong></p>
-<p><strong>Location: United Kingdom, Israel, Switzerland, Sweden, Germany</strong></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">At Snyk we care deeply about our developer experience and productivity. It requires constant innovation as we increase our product breadth and depth, and scale our footprint globally to enable millions of external developers through our security products, all while maintaining high availability and reliability of our platforms.</span></p>
 <p><span style="font-weight: 400;">We are looking for a software engineer who is passionate about DevOps, Cloud Native Infrastructure, and enabling their fellow engineers by paving a road for teams to ship continuously and reliably to Production. For Snyk, Production covers a multi-cluster, multi-region design across a range of deployment options: Multi-tenant SaaS, Single-tenant SaaS, and On Prem solutions. There is a huge opportunity to innovate in the delivery and release engineering aspects of targeting many environments on each code push!</span></p>
 <p><span style="font-weight: 400;">You will be joining the Developer Experience team whose focus is to accelerate fellow engineers to ship code quickly, reliably, and with minimum cognitive overhead. You will work closely with the Cloud Platforms and SRE teams within the Infra Group. Snyk is a fast-growing business with close to 200 engineers. We are set to nearly double that in the next year!</span></p>
