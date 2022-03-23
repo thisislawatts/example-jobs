@@ -3,7 +3,7 @@ Sales Operations Manager - Customer Success
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Customer Success Operations Manager to join our Strategy &amp; Operations team to support Snyk’s hyper-growth. In this role you will </span><span style="font-weight: 400;">leverage qualitative and quantitative analysis to create and operationalize business strategy, and work directly with Customer Success leadership to identify areas for growth and improvement.&nbsp; </span><span style="font-weight: 400;">&nbsp;The position will report to Snyk’s Director, Post-Sales Operations on the GTM Strategy, Operations and Analytics Team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Customer Success Operations Manager to join our Strategy &amp; Operations team to support Snyk’s hyper-growth. In this role you will </span><span style="font-weight: 400;">leverage qualitative and quantitative analysis to create and operationalize business strategy, and work directly with Customer Success (CS) leadership to identify areas for growth and improvement. </span><span style="font-weight: 400;">The position will report to Snyk’s Director, Post-Sales Operations on the GTM Strategy, Operations and Analytics Team.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Designing and Launching processes, workflows, and automations that drive efficiency, increase the effectiveness of our CS team, and deliver greater value to our customers</span></li>
