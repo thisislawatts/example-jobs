@@ -4,7 +4,8 @@ Solutions Engineer DACH
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><span style="font-size: 13.65px;"><em>You must speak German fluently to apply for this position.</em></span></h3>
-<p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer. This role will focus on our customers in DACH region.&nbsp;</strong></p>
+<p><span style="font-size: 13.65px;"><em>Location: London or remote in the UK</em></span></p>
+<p><strong>We’re looking for driven, user-focussed Sales Engineers to interface between our customers (new and current!) and our product engineering teams, both supporting adoption of Snyk in new organisations and helping to evolve what Snyk has to offer.</strong></p>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">becoming a technical product expert, evangelist and coach, able to give technical sales demonstrations to customer and partners in your sleep</span></li>
@@ -17,8 +18,8 @@ Solutions Engineer DACH
 </ul>
 <h4><span style="text-decoration: underline;"><strong>You should apply if you:</strong></span></h4>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have fluent German and English language skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have spent 3 years or similar in the sales engineering, developer or security space</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Fluent in German.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with a wide variety of coding languages and how they work</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good knowledge of the developer and DevOps ecosystems and practices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">love to learn about new technology and you’re curious about how things work under the hood</span></li>
@@ -47,7 +48,7 @@ Solutions Engineer DACH
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/4977773002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/4977771002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
