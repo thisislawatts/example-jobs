@@ -4,7 +4,7 @@ Software Engineer, Machine Learning & Program Analysis
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><strong>Location:&nbsp;</strong>Israel, Switzerland, UK</p>
+<p><strong>Location:&nbsp;</strong>Israel, Romania or UK (Remote)</p>
 <p><span style="font-weight: 400;">We’re looking for an experienced and collaborative software engineer to build the next generation of code analysis based on a combination of machine learning and logical reasoning. What we call Snyk’s DeepCode Engine: the most advanced platform for semantic code analysis over BigCode.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The team will be focused on solving challenges including:</span></p>
 <ul>
