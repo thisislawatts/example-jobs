@@ -3,7 +3,7 @@ Community Engagement Intern
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 300;">Are you passionate about building, nurturing and scaling a community focused on building secure applications? At Snyk we are looking for a driven, operationally-minded and collaborative community professional to support our growing global calendar of community run events, webinars and podcasts in order to increase Snyk’s brand awareness, foster community engagement and create opportunities to support the wider DevSecOps community.</span></p>
+<p><span style="font-weight: 300;">Location: London, UK<br><br>Are you passionate about building, nurturing and scaling a community focused on building secure applications? At Snyk we are looking for a driven, operationally-minded and collaborative community professional to support our growing global calendar of community run events, webinars and podcasts in order to increase Snyk’s brand awareness, foster community engagement and create opportunities to support the wider DevSecOps community.</span></p>
 <p><span style="font-weight: 300;">&nbsp;</span></p>
 <p><span style="font-weight: 300;">You’ll work closely across the Community and Developer Relations team to help manage the pre, during and post event planning, podcast logistics and marketing of all community activities.&nbsp;&nbsp;</span></p>
 <p>&nbsp;</p>
