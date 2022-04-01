@@ -22,7 +22,7 @@ Senior Product Manager, Data & Orchestration
 </ul>
 <p><strong>You should apply if:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 4+ years experience working in a product management role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working in a product management role</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Preferably have product management experience in B2B SaaS or developer tooling</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong technical background</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are able to dive in and learn a new domain area and confidently present on it</span></li>
