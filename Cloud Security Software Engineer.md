@@ -3,20 +3,17 @@ Cloud Security Software Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We’re looking for an independent-minded, autodidact, and detail-oriented cloud security engineer to join our efforts to build a best-of-breed infrastructure-as-code security platform.</span></p>
 <p><span style="font-weight: 400;">You would be working on our brand new infrastructure-as-code security product, expanding our security covers from source code down to the infrastructure. We recognize that developers are increasingly working with technologies like Kubernetes &amp; Terraform, and it can be hard to stay secure and move fast - we provide that peace of mind with this product.&nbsp;</span></p>
-<p><span style="font-weight: 400;">In this role, you would be responsible for the best practice security policies that we recommend developers adopt to stay secure—working closely with the product team to identify customer needs and staying close to the technologies and community to identify security best practices.</span><span style="font-weight: 400;"><br></span></p>
+<p><span style="font-weight: 400;">In this role, you would be responsible for the best practice security policies that we recommend developers adopt to stay secure—working closely with the product team to identify customer needs and staying close to the technologies and community to identify security best practices.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">owning and expanding our cloud security policies ruleset to cover the newest cloud services across AWS, Azure, and GCP</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">creating threat models and attack scenarios for container orchestrators and cloud provider services</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">evaluating the latest infrastructure as code tooling for their security controls, working to develop recommended security best practices</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">converting cloud security whitepapers, documentation and API reference material to automated cloud security checks</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">building technology for automating our capability to create policies quickly</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">talking to our customers, making sure we’re building a product they truly love</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with your team, planning the most important projects to work on next</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">sharing your security expertise by presenting to internal teams, and writing technical blog posts</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
@@ -40,18 +37,21 @@ Cloud Security Software Engineer
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created, and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not sure whether you’re the right person, do apply anyway :)</span></p>
 <p><strong>About Snyk</strong></p>
-<p>We’re on a mission to make the world a safer place with more secure software.</p>
-<p>We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
-<p>Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</p>
-<p>In March of 2021, we&nbsp;<a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/" target="_blank">raised $300M</a>&nbsp;in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</p>
-<p>We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO1<br>#LI-Remote</span></p>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The use of open source is booming, but </span><a href="https://snyk.io/blog/devsecops-insights-2020/"><span style="font-weight: 400;">security is a key concern</span></a><span style="font-weight: 400;">. Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps, and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston, and Ottawa, with our engineering teams based mostly in London and Tel Aviv, and 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. Not to mention that we have an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
+<p><span style="font-weight: 400;">At Snyk, we are experiencing rapid growth, and we want you to join us! By the end of Q4 2019 alone, Snyk already had over 110,00 registered users, including multiple enterprise customers (such as Google, Salesforce, Mastercard, BBC, and others). We also raised an additional $150 million, </span><a href="https://snyk.io/blog/snyk-closes-150m/"><span style="font-weight: 400;">announced January 21, 2020</span></a><span style="font-weight: 400;">. With this investment, we have partnered with Stripes, Coatue, Tiger Global, BoldStart, Trend Forward, Amity, and Salesforce Ventures, to build on our 2019 momentum and continue to fuel our developer-first approach to security.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p>
+<p><span style="font-weight: 400;">#LI-FS1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5135116002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5912596002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
