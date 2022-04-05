@@ -5,7 +5,7 @@ Senior Product Manager - Data & Orchestration
 
 <p><span style="font-weight: 400;">Snyk is used by over 2.2M developers, from those working on open source projects to teams in large enterprise organisations.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We secure the code you write, with Snyk Code. The libraries you depend upon with Snyk Open Source. The containers you package it all into, with Snyk Container and lastly the infrastructure that you run it on with Snyk Infrastructure as Code.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We're looking for a senior product manager who will shape our cutting edge technological capabilities to benefit users of all Snyk products; building an unprecedented competitive advantage through products developers love.</span></p>
+<p><span style="font-weight: 400;">We're looking for a Senior Product Manager who will shape our cutting edge technological capabilities to benefit users of all Snyk products; building an unprecedented competitive advantage through products developers love.</span></p>
 <p><span style="font-weight: 400;">As part of a collaborative, distributed engineering team you will own identifying, ingesting and processing managed and unmanaged (undeclared) package data and components. You’ll also talk with customers, prospects and internal stakeholders to gather feedback and iterate on solutions. Example initiatives could include expanding our fingerprinting capabilities into additional products</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>

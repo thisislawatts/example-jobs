@@ -21,7 +21,7 @@ Senior UX Designer
 <p>&nbsp;</p>
 <h2><strong>You should apply if you:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 5+ years of experience in a software company in a design capacity, being the voice of the user e.g. as a user research, service design, product design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience in a software company in a design capacity, being the voice of the user e.g. as a user research, service design, product design</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a solid understanding of the user-centred design process.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience of defining a product direction based on research</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are an effective communicator and collaborator in a remote environment, including thoughtful written documentation.</span></li>

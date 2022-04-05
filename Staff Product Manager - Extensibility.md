@@ -3,7 +3,7 @@ Staff Product Manager - Extensibility
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Title</strong><span style="font-weight: 400;">: Staff Product Manager, Extensibility</span></p>
+<p><span style="font-weight: 400;">Staff Product Manager, Extensibility</span></p>
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are available as remote within the same country.</span><strong> Your regular workday must start no earlier than 9AM UK and no later than 9AM US/Eastern.</strong></p>
 <p><span style="font-weight: 400;">We’re looking for an experienced product leader to shape the way developer-first security products, features and integrations are built by Snyk and our community of customers, partners and developers.</span></p>
 <p><span style="font-weight: 400;">In this role, you’ll define the product strategy, KPIs and roadmap for the Snyk platform and the features, capabilities, and APIs that support it. You’ll work with Snyk’s world-class engineering organization to create a distributed platform that will power and scale Snyk now and into the future.</span></p>
