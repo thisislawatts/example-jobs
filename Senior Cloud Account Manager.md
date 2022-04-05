@@ -3,7 +3,7 @@ Senior Cloud Account Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Location: Boston (remote)</span></p>
+<p><span style="font-weight: 400;">Location: Denver (remote)</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Snyk is leading the market in developer-first security, helping development and security teams build software quickly </span><em><span style="font-weight: 400;">and</span></em><span style="font-weight: 400;"> securely.&nbsp; We’re growing fast, adding thousands of new users, onboarding new enterprise customers, rapidly expanding our teams every quarter, and sharing our story with the market&nbsp; - and we want YOU to join us for the ride!&nbsp;</span></p>
 <p><strong>Your Role:</strong></p>
@@ -29,7 +29,9 @@ Senior Cloud Account Manager
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">We'd love to hear from you!</span></p>
-<p><span style="font-weight: 400;">We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!</span></p>
+<h6>#LI-TO3</h6>
+<h6>#LI-Remote</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -38,7 +40,7 @@ Senior Cloud Account Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5691357002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5494266002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
