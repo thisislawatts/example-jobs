@@ -3,7 +3,7 @@ Senior Strategic ABM Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Location: East Coast (remote)</span></p>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">Whether you’re a demand gen rockstar looking to get into ABM, or a seasoned ABM pro&nbsp; - we’re looking for an innovative and driven marketing manager to fill a unique role responsible for driving new business and pipeline with our most strategic accounts. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">In this role you’ll develop, execute and optimize ABM programs for Snyk’s strategic prospect and customer accounts. In collaboration with sales development, sales leaders, product subject matter experts, digital marketing and demand marketing, you’ll drive awareness, engagement and pipeline through a mix of activities including intent-based research, messaging development, digital asset development, advertising campaigns, regional events and more. T</span><span style="font-weight: 400;">he ideal candidate will be highly adaptable, have a proven record of building success with sales, and be data-driven in decision making.</span></p>
 <p><strong>You’ll spend your time:</strong><strong><br></strong></p>
 <ul>
@@ -35,7 +35,7 @@ Senior Strategic ABM Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5321835002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6042662002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
