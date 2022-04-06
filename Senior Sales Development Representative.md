@@ -4,8 +4,8 @@ Senior Sales Development Representative
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Senior Sales Development Representative</strong></p>
-<p><strong>Location:</strong><span style="font-weight: 400;">Boston, Denver, Ottawa</span></p>
-<p><span style="font-weight: 400;">We’re looking for enterprising and ambitious Sales Development Representatives to join our team!</span></p>
+<p><strong>Location: Denver, CO (in-office or hybrid)</strong></p>
+<p><span style="font-weight: 400;">We’re looking for enterprising and ambitious Senior Sales Development Representatives to join our team!</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to high profile customers, a strong technical grounding in our product, and hands-on mentorship and training.</span></p>
 <p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
 <p><span style="font-weight: 400;">For high-achieving SDRs, we’ll support you as you progress into a high-commission account executive role.</span></p>
@@ -36,7 +36,7 @@ Senior Sales Development Representative
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5910590002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6044385002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
