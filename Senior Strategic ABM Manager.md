@@ -3,7 +3,12 @@ Senior Strategic ABM Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<h3 style="text-align: center;"><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country</sub></strong></em></h3>
+<h3 style="text-align: left;"><span style="font-size: 14pt;"><em><strong><sub>Who we are</sub></strong></em></span></h3>
+<p>We’re on a mission to make the world a safer place with more secure software. As we enter a world of all-things-digital and cybersecurity takes center stage in it, the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
+<p>Snyk has been adopted by over 2M developers who find and fix vulnerabilities in their software. In 2021 we doubled the size of our global team, successfully closed three strategic acquisitions, debuted #15 on CNBC’s Disruptor 50 List, and raised over $530M in Series F funding, bringing our company valuation to $8.5 billion.&nbsp;</p>
+<p>Our growth isn’t stopping there! Come join us, dream big, and grow your career.</p>
+<p><span style="font-size: 14pt;"><strong>Opportunity</strong></span></p>
 <p><span style="font-weight: 400;">Whether you’re a demand gen rockstar looking to get into ABM, or a seasoned ABM pro&nbsp; - we’re looking for an innovative and driven marketing manager to fill a unique role responsible for driving new business and pipeline with our most strategic accounts. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">In this role you’ll develop, execute and optimize ABM programs for Snyk’s strategic prospect and customer accounts. In collaboration with sales development, sales leaders, product subject matter experts, digital marketing and demand marketing, you’ll drive awareness, engagement and pipeline through a mix of activities including intent-based research, messaging development, digital asset development, advertising campaigns, regional events and more. T</span><span style="font-weight: 400;">he ideal candidate will be highly adaptable, have a proven record of building success with sales, and be data-driven in decision making.</span></p>
 <p><strong>You’ll spend your time:</strong><strong><br></strong></p>
 <ul>
