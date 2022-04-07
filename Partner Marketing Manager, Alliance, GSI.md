@@ -3,7 +3,7 @@ Partner Marketing Manager, Alliance, GSI
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Location: London or UK Remote&nbsp;</span></p>
+<p><span style="font-weight: 400;">Location: Boston or US Remote&nbsp;</span></p>
 <p><span style="font-weight: 400;">We're looking for a hands-on Senior Partner Marketing Manager to lead marketing activities with global system integrators, consulting firms, and managed security service providers.</span></p>
 <p><strong>Your role:</strong></p>
 <p><span style="font-weight: 400;">One of Snyk’s main growth engines is based on the relationships we build with partners across the ecosystem. The Snyk Global Service Provider Program is made up of a global network of world-class solution providers, including System Integrators, Consulting Firms, and Managed Security Service Providers. Our program is designed to support our GSP partners in building services around Snyk, whether it be for Outsourced Application Development, helping customers achieve their DevSecOps goals, or supporting their Cloud Native Journey. The Senior Partner Marketing Manager, GSP will lead us in defining and executing the joint go-to-market plans with key GSP partners, highlighting the contribution of each partner while emphasizing Snyk’s market position and differentiation. In this role, the Senior Partner Marketing Manager, GSP will work closely with the Global Service Provider team, the Marketing team, and the Sales team to drive awareness, lead generation, and pipeline growth through multi-faceted joint marketing programs and campaigns including joint messaging, webinars, content creation, field events, email campaigns and more.</span></p>
@@ -39,7 +39,7 @@ Partner Marketing Manager, Alliance, GSI
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5904735002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5904734002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
