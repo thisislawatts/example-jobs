@@ -4,7 +4,7 @@ Digital & Scaled Customer Success Manager
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<h3><strong><sub>Location: US Remote OR Canada Remote</sub></strong></h3>
+<h3><strong><sub>Location: London, UK Remote or Tel Aviv</sub></strong></h3>
 <p><strong>Overview:&nbsp;</strong></p>
 <p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; We’re looking for a talented, curious and driven individual to join our Digital &amp; Scaled Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk. We’re a small team and we’re looking for candidates who are able to learn quickly and think creatively.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Digital &amp; Scaled Customer Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform.</span></p>
@@ -41,8 +41,7 @@ Digital & Scaled Customer Success Manager
 <li style="font-weight: 400;"><span style="font-weight: 400;">Love Application Security and want to make the world secure</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience creating educational content</span></li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Interested?&nbsp;</strong></p>
+<h4><strong>Interested?</strong></h4>
 <p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p>&nbsp;</p>
@@ -56,7 +55,7 @@ Digital & Scaled Customer Success Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5850741002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5852251002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
