@@ -11,23 +11,23 @@ Technical Support Engineer - Australia
 <p><span style="font-weight: 400;">As the only technical support engineer for our technical support team, you will also play a key role in building a solid relationship with our enterprise and large accounts through steady and helpful communications and guidance each and every day!</span></p>
 <h3><strong>You'll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding, reproducing and resolving complicated technical issues that our customers have raised.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with </span><strong>NodeJS/Typescript, </strong><span style="font-weight: 400;">to figure out where the issue lies, and what a good solution might look like.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Providing expert communication, ensuring that every user knows exactly when they’ll hear back from us and providing regular updates while solving their problem.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Listening to our users’ needs, listening for recurring requests, and representing their voice in daily meetings with the Tier 2 and engineering teams.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contributing to building up a best-in-class technical support function, including writing customer documentation and FAQs, building dashboards, or designing integrations between tools.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding, reproducing and resolving complicated technical issues that our customers have raised</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diving into our codebase, primarily written with Node/Typescript, </span><span style="font-weight: 400;">to figure out where the issue lies, and what a good solution might look like</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Providing expert communication, ensuring that every user knows exactly when they’ll hear back from us and providing regular updates while solving their problem</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Listening to our users’ needs, listening for recurring requests, and representing their voice in daily meetings with the Tier 2 and engineering teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Contributing to building up a best-in-class technical support function, including writing customer documentation and FAQs, building dashboards, or designing integrations between tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Over time, we’d love for you to have ambitions to develop your career as a developer or as a technical expert within Snyk!</span></li>
 </ul>
 <h2><strong>You should join us if:</strong></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are fluent in English&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have some experience as a developer or in a similar role.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy working with others’ code and have used GitHub or other source control tools.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You love helping people and care deeply about providing an excellent customer experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You take a logical approach to solving problems and prioritization.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are a clear communicator, both verbally and in writing, and you enjoy explaining things to others.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are curious: you love to explore new challenges, but also know when you need guidance from someone with more domain experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You’re interested in security or open source software, and you believe in our mission.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have some experience as a developer or in a similar role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy working with others’ code and have used GitHub or other source control tool</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You love helping people and care deeply about providing an excellent customer experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You take a logical approach to solving problems and prioritization</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are a clear communicator, both verbally and in writing, and you enjoy explaining things to others</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are curious: you love to explore new challenges, but also know when you need guidance from someone with more domain experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’re interested in security or open source software, and you believe in our mission</span></li>
+<li><span style="font-weight: 400;">You are fluent in English&nbsp;</span></li>
 </ul>
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
