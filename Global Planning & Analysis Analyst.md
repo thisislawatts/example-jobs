@@ -3,7 +3,6 @@ Global Planning & Analysis Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
 <p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Global Planning &amp; Analysis Analyst to join our Strategy &amp; Operations team and support Snyk’s hyper-growth globally. The Global Planning &amp; Analysis team is playing a key role in defining priorities, articulating them with investments and driving internal alignment. The Strategy &amp; Operations team’s mission is to support Synk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale. The position will report directly to Snyk’s Director, Global Planning &amp; Analysis.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -30,7 +29,7 @@ Global Planning & Analysis Analyst
 <li>Are an exceptional problem solver, with a demonstrated ability to analyze complex problems and develop solutions</li>
 </ul>
 <p><span style="font-weight: 400;">We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
-<p>#LI-Remote<br>#LI-KT1<br><br></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>#LI-KT1<br><br></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
