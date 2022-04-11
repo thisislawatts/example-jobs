@@ -3,10 +3,7 @@ Senior Full Stack Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p class="p1"><strong>Senior Full Stack Software Engineer, Security RnD</strong></p>
-<p class="p1"><em>Romania, UK or Israel (Remote or Hybrid setup available)</em></p>
-<p class="p1"><strong>&nbsp;</strong></p>
-<p class="p1">We’re looking for a collaborative, passionate software engineer to join our security R&amp;D group and help us help our customers be more secure.</p>
+<p class="p1"><strong>&nbsp;</strong>We’re looking for a collaborative, passionate software engineer to join our security R&amp;D group and help us help our customers be more secure.</p>
 <p class="p1">The Security R&amp;D group researches vulnerabilities and vulnerability types, adds them to the database with pipelines and tooling specially built for their needs, and currates proprietary data for the vulnerabilities and security rules in our database. This proprietary security data is the engine which then powers the suite of Snyk products, and guarantees that we provide the leading security insights to all our users.</p>
 <p class="p1"><strong>You’ll spend your time:</strong></p>
 <ul>
@@ -33,7 +30,6 @@ Senior Full Stack Engineer
 <ul>
 <li class="p1">love working in a fast-paced start-up environment that respects its engineers and customers</li>
 <li class="p1">have worked in front-end frameworks (vue, react, etc), and love to craft beautiful websites that help to engage users and convert them into loyal customers</li>
-<li class="p1">have experience developing in Python (backend)</li>
 <li class="p1">have experience leading and designing projects</li>
 <li class="p1">are excited by Snyk’s mission, security, open-source, or developer tools</li>
 </ul>
