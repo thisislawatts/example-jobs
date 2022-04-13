@@ -3,6 +3,8 @@ Senior Manager Cloud Alliances
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<p>Location: Preferably West Coast or remote.</p>
+<p>&nbsp;</p>
 <p>We are looking for a <strong>Senior Manager of Global Strategic Alliances</strong><span style="font-weight: 400;"> who will manage key strategic cloud partnerships for Snyk.&nbsp; <br>This person will be a part of the Business Development organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market through and with our Strategic Alliances.&nbsp;&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">In this role you will develop global relationships with your assigned partners from top to bottom, including driving outcomes on executive engagement, certifications and integrations, joint solutions, content and enablement, GTM&nbsp; and technology roadmaps, to ensure differentiation and technology adoption with the partner’s technologies.</span></p>
 <p><strong>Key Responsibilities include:</strong></p>
@@ -28,7 +30,7 @@ Senior Manager Cloud Alliances
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p>#LI-CH2 #LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>#LI-TO3 #LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
