@@ -1,14 +1,13 @@
-Implementation Consultant 
+Implementation Consultant
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Location:&nbsp; US Remote&nbsp;</strong></p>
+<p><strong>Location:&nbsp; London, or UK Remote</strong></p>
 <h3>Implementation Consultant</h3>
-<p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; Look no further, we’re looking for a talented, entrepreneurial and driven Implementation Consultant to join our North American Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Want to work for a visionary company?&nbsp; Want to help customers realize their application security dreams?&nbsp; Want to be on a growth rocket ship?&nbsp; Look no further, we’re looking for a talented, entrepreneurial and driven Implementation Consultant to join our EMEA Customer Success team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Customer Success team works hand-in-hand with Development and Security leaders from Snyk’s customer organizations to advance their security program using the Snyk Cloud Native Application Security Platform. Snyk is continuing to experience explosive growth across our customer install base which has led to increased demand for our post-sales teams to help ensure customers achieve resounding success with the Snyk platform.&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">Implementation Consultants must have a working understanding of the SDLC and where Snyk fits in it, consulting best practices, and enterprise DevOps architectures. This position requires a technical background, excellent client and project management skills, proven ability to facilitate hands-on technical work and ability to lead and manage multiple onboarding engagements. </span><span style="font-weight: 400;">Your opportunity is to provide Snyk’s customers a world class onboarding experience.</span></p>
-<h3>&nbsp;</h3>
 <p><strong>Here at Snyk, you’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Delivering value to our customers by owning project delivery from kick-off to closure for customer-facing solutions</span></li>
@@ -49,7 +48,7 @@ Implementation Consultant
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5872164002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5822520002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
