@@ -4,27 +4,44 @@ Senior Director, Global Partner Solutions Architects
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Senior Director, Global Partner Solutions Architects</strong></p>
-<p><strong>Location: AMER (remote)</strong></p>
+<p><strong>Location: AMER (remote) - Preferably West Coast</strong></p>
 <p><span style="font-weight: 400;">Snyk’s Business Development team’s mission is to find and leverage non-linear growth opportunities across sales, user acquisition, brand recognition and our ecosystem presence. To achieve these goals, Snyk heavily invests in partnerships and alliances, with a deep and substantive product integration vision, and emphasis on a joint GTM approach with our partner ecosystem.</span></p>
-<p><span style="font-weight: 400;">We are looking for a Senior Director to lead and continue to build a forward facing technology vision within our partnership ecosystem. In this role, you will be responsible for all our partnerships, globally, spanning multiple verticals like Security (Rapid7, Trend Micro), Dev Tooling (Atlassian, Docker, CircleCI), APM (Datadog, Dynatrace, AppDynamics), Cloud (AWS, Azure, GCP, IBM/Red Hat) and GSIs (Accenture, Deloitte, Wipro).</span></p>
-<p><span style="font-weight: 400;">The Senior Director, Global Partner Solutions Architects reports to and works closely with the VP of Business and Corporate Development to combine Snyk’s business strategy and execution with our technical vision. Reporting up to the Global Alliances CTO, is a team of highly experienced, technical Partner Solutions Architects (contributors and managers) who help actuate the vision set by the Global Alliances CTO.</span></p>
-<p><span style="font-weight: 400;">This is the perfect role for business savvy “big picture” technologists, who understand the DevOps, Security and Dev Tooling spaces, can build a forward facing technology vision for how Snyk can win by partnering, get all the internal and external stakeholders on board, and then execute on the partnership vision. As an example, can take inspiration from some of Snyk’s most celebrated partnerships, like with Docker and with Atlassian, in which Snyk partnered with other best-of-breed companies in the developer tool chain to bring security natively in those tools… where developers are at.</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">We are looking for a Senior Director to lead and continue to build a forward facing technology vision within our partnership ecosystem. In this role, you will be responsible for all our partnerships (Cloud, ISVs, channel and GSIs), globally, spanning multiple partner types like Security (Rapid7, Trend Micro), Dev Tooling (Atlassian, Docker, CircleCI), APM (Datadog, Dynatrace, AppDynamics), Cloud (AWS, Azure, GCP, IBM/Red Hat) and GSIs (Accenture, Deloitte, Wipro).</span></p>
+<p><span style="font-weight: 400;">The Senior Director, Global Partner Solutions Architects reports to and works closely with the VP of Global Partnerships &amp; Alliances to combine Snyk’s business strategy and execution with our technical vision. Reporting up to the VP of Global Partnerships &amp; Alliances, is a team of highly experienced, technical Partner Solutions Architects (contributors and managers) who help actuate the vision set by the Senior Director, Global Partner Solutions Architects.</span></p>
+<p><span style="font-weight: 400;">This is the perfect role for business savvy “big picture” partner technologists, who understand the DevOps, Security and Dev Tooling spaces, can build a forward facing technology vision for how Snyk can win by partnering, get all the internal and external stakeholders on board, and then execute on the partnership vision. This role is all about partnerships across cloud, ISVs, GSIs and channel hence the candidate must have experience and be passionate about building partner technical strategy and growing the business through partners.</span></p>
+<p><span style="font-weight: 400;">You’ll spend your time:</span></p>
 <ul>
-<li style="font-weight: 400;"><strong>Creating and Communicating the Technical Vision:</strong><span style="font-weight: 400;"> you’ll work&nbsp; closely with Snyk’s product and engineering teams to understand our roadmap, and build a complementary technical vision focused on winning in the market through partners and alliances.</span></li>
-<li style="font-weight: 400;"><strong>Executing on the existing partner roadmap:</strong><span style="font-weight: 400;"> you’ll focus on alignment amongst all internal teams to create buy-in and execute the technical vision.</span></li>
-<li style="font-weight: 400;"><strong>Evangelizing Snyk:</strong><span style="font-weight: 400;"> as a senior technical leader, you’ll build relationships with other leading vendors in the industry,sharing Snyk’s mission, and finding compelling partners and partnership opportunities.</span></li>
-<li style="font-weight: 400;"><strong>Managing the Partner Solutions Architects: </strong><span style="font-weight: 400;">You’ll lead&nbsp; a team of highly technical partner solutions architects working within our various partner verticals</span></li>
-<li style="font-weight: 400;"><strong>Driving Internal Enablement:</strong><span style="font-weight: 400;"> Creating the partnership is just the beginning, you’ll be responsible for the strategy &amp; messaging so Snyk’s field teams understand, and take advantage of the various partnerships and integrations Snyk has put in place</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating and Communicating the Technical Vision:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You'll work closely with Snyk’s product and engineering teams to understand our roadmap, and Snyk's partners to build a complementary technical vision focused on winning in the market through partners and alliances. This role works closely with the VP of Global Partnerships/Alliances, SVP of Engineer, CPO, CEO at Snyk and C-level at partners.</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Executing on the existing partner roadmap:</span></li>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a at least 15 years or more in technical roles, intimately understand the developer’s world, and have experience with a wide range of technologies and development tools and methodologies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">spent 5 years or more in senior technical roles (like Senior Director), preferably with customer and partner facing experience.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">deeply understand the DevOps, Security and Dev Tooling space</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">thrive in communicating technical visions to all stakeholders, from C-suite, business and sales folks, product, marketing and engineers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you have strong technical leadership abilities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’ll focus on alignment amongst all internal teams to create buy-in and execute the technical vision.</span></li>
+</ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evangelizing Snyk:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">As a senior technical leader, you’ll build relationships with other leading companies in the industry,sharing Snyk’s mission, and finding compelling partners and partnership opportunities.</span></li>
+</ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Managing the Partner Solutions Architects:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’ll lead&nbsp; a team of highly technical partner solutions architects working within our various partner ecosystems</span></li>
+</ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Driving Internal Enablement:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating the partnership is just the beginning, you’ll be responsible for the strategy &amp; messaging so Snyk’s field teams understand, and take advantage of the various partnerships and integrations Snyk has put in place</span></li>
+</ul>
+</ul>
+<p><span style="font-weight: 400;">You should apply if you:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have at least 15 years or more in technical roles, intimately understand the developer’s world, and have experience with a wide range of technologies and development tools and methodologies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experienced in leading and executing on partner technical strategy and vision across cloud, ISVs, channel and GSIs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Spent 5 years or more in senior technical roles (executive), and must have partner facing experience across cloud and ISVs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Deeply understand the DevOps, Security and Dev Tooling space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in communicating technical visions to all stakeholders, from C-suite, business and sales folks, product, marketing and engineers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have strong technical leadership abilities</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Lead with a team-oriented mindset</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Inspirational leader and manager of teams</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway. :)</span></p>
