@@ -16,7 +16,6 @@ Global Planning & Business Analysis Intern
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are interested in a career in Strategy, Operations, or Analytics or in the technology industry</span></li>
-<li style="font-weight: 400;">&nbsp;</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are proficient in Google Sheets &amp; Microsoft Excel modeling</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy acquiring new knowledge and skills and can do so quickly</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are ridiculously easy to work with, with an ability to build strong relationships with a broad set of stakeholders that have diverse interests</span></li>

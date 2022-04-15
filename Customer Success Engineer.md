@@ -4,12 +4,12 @@ Customer Success Engineer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong><em>All roles listed as ‘remote’ are available as remote within the same country</em></strong></p>
-<p><strong>Location: Tel Aviv, or Israel, Remote</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a self-driven, customer-focused, and technically savvy professional to join our Implementation Engineering team to retain and grow our most strategic customers with deep integrations, technical advisory, and in general “making things work”.</span></p>
-<p><span style="font-weight: 400;">The Implementation Engineering team focuses on accelerating the time to value and deeply integrating within the customer DevSecOps ecosystem, ultimately making them sticky with Snyk and successful in their mission of shipping secure cloud native applications.</span></p>
-<p><strong>As an Implementation Engineer, you’ll spend your time:</strong></p>
+<p><strong>Location: Tel Aviv</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a self-driven, customer-focused, and technically savvy professional to join our Customer Success Engineering team to retain and grow our most strategic customers with deep integrations, technical advisory, and in general “making things work”.</span></p>
+<p><span style="font-weight: 400;">The Customer Success Engineering team focuses on accelerating the time to value and deeply integrating within the customer DevSecOps ecosystem, ultimately making them sticky with Snyk and successful in their mission of shipping secure cloud native applications.</span></p>
+<p><strong>As an Customer Success Engineer, you’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working alongside Customer Success as a technical overlay to ensure sound and successful integrations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working alongside Customer Success Managers as a technical overlay to ensure sound and successful integrations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">helping to define standards as we grow and scale, for repeatable delivery and consistent customer implementation strategies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">documenting and packaging your work into repeatable methodologies for customer success</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working closely with our internal Product &amp; Engineering teams to continuously identify ways to improve the customer’s experience with the Snyk products</span></li>
