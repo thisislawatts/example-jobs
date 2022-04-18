@@ -6,45 +6,47 @@ Senior Accountant - UK
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><span style="font-weight: 400;">We’re looking for an enthusiastic and technical Senior Accountant to join our Finance team to execute month-end close and to serve as a cross-functional business partner with respect to implementing an overhaul to the existing process.&nbsp; This is a crucial position where you will be responsible for reviewing and closing our UK books.</span></p>
-<p><span style="font-weight: 400;">You are passionate about accounting and are knowledgeable about UK and US GAAP.&nbsp; You are a change agent and thrive in positions where change and rapid growth are constant.&nbsp; You are confident in designing new processes from beginning to end, and in ensuring the proper controls and documentation are in place. &nbsp; You are detail-oriented and deadline-sensitive to ensure that books are closed in a timely and accurate manner.&nbsp; Here at Snyk, you’ll enjoy rapid growth and share your skills to help us improve our systems and processes.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enthusiastic senior accountant who has demonstrated the ability to deliver results in a high-growth, dynamic and fast-paced environment to join our UK finance team.&nbsp; This role will assist with the monthly financial close process for the UK location.&nbsp; This position will also play a key role in process documentation, improvement and integration, as well as rolling out ongoing finance process improvement initiatives.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">preparing the month-ends reporting and will own the M&amp;A pack of our UK entity</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">reviewing and processing payment runs, and ensuring they are approved promptly</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working across multiple processes to ensure a series of tight deadlines are met</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">reviewing and processing payroll journals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">reviewing the accounts payable and accounts receivable transactions processed by the team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">reviewing and submitting quarterly VAT returns</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">some ad-hoc tasks such as dealing with option grants/exercises and the consequent filing and taxation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">improving the processes that we use so that they’re frictionless, effective and precise</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">identifying and recording monthly journal entries into our NetSuite accounting system as part of the financial close while adhering to the deadlines outlined in our monthly close calendar</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring that each account on the UK trial balance has been reconciled and signed off in FloQast; working with internal groups for open issues and driving them to resolution</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">performing flux analysis on the financials monthly to explain material movements in account balances and headcount with adequate commentary</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">documenting our processes and evaluating our internal controls for the receivables, payroll, payables, fixed assets and other general ledger cycles and updating them at regular intervals; this includes working with cross functional teams to identify problems and process issues, developing and implementing creative solutions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with internal teams such as the IT department to ensure our fixed asset records are accurate/reconciled and the revenue team to ensure the collectibility of receivables and reasonableness of revenue, deferred revenue and commissions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">calculating and supporting the review and submission of quarterly VAT returns.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating with the FP&amp;A team to ensure all expenses are booked and/or allocated to the proper cost center</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ad-hoc tasks including supporting option grants/exercises processing along with corresponding filing and taxation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">proactively identifying process automation and improvement opportunities so that our processes are scalable and optimized</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a professional accounting qualification (ACCA, CIMA or equivalent) and a solid understanding of financial reporting standards</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">master UK GAAP FRS 102 and US GAAP</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have worked in a fast-moving, dynamic organisation, and enjoy the challenges brought by an environment of rapid growth and change</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">understand how a SaaS business works, and you’re accustomed to forecasting ARR, MRR and CLTV</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">build strong relationships both with colleagues and external parties (lawyers, banks, accounting &amp; audit firms)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working with subsidiaries and non-UK financial reporting standards</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are experienced in payroll accounting and well versed in issues such as income tax, labor laws, social benefits, pension contributions, social security and travel reimbursement policies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are extremely organised and exceptionally attentive to detail</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you prioritise effectively, with attention to both business impact and external deadlines</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you like working as part of a team and building relationships with stakeholders across the business</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you see finance as a tool to enable business</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 4 + years of experience working in either public accounting or within the corporate finance department of a multinational company</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">possess the following characteristics:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">team player</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">solid interpersonal skills, both written and oral</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ability to adapt quickly to changes in a dynamic environment in terms of both organizational structure and process</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">capable of meeting tight deadlines</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">proactive and problem-solving attitude</span></li>
+</ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a solid understanding of UK GAAP and FRS 102</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate strong excel skills using advanced functions such as VLOOKUP and pivot tables</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working on cross-functional teams in terms of implementing new systems and creating the related process documentation&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are experienced in supporting external audits and preparing and explaining flux analysis for an entity that provides solid explanations for account variances</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are experienced in either Payfit, Netsuite and Flowcast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have been working for a Public Company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with SOX controls</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a professional accounting qualification (ACCA, CIMA or equivalent) and a solid understanding of financial reporting standards.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience preparing and providing required support for SOX compliance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a SaaS company</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are proficient in NetSuite, FloQast, and Workday systems</span></li>
 </ul>
 <p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! </span></p>
-<p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <h6>&nbsp;</h6>
 <p>&nbsp;</p>
-<h6><span style="font-weight: 400;">#LI-AB4 #LI-REMOTE</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h6><span style="font-weight: 400;">#LI-CS1 #LI-REMOTE</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
