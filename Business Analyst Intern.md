@@ -25,7 +25,7 @@ Business Analyst Intern
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li>Are interested in a career in business analysis, sales, sales operations, or business intelligence</li>
-<li>Are currently enrolled in a Bachelor's degree&nbsp;</li>
+<li><span style="font-weight: 400;">Are currently enrolled a Bachelor's degree program, graduating between 2023-2025</span></li>
 <li>Are the ideal team player - humble, hungry, smart, and self-aware</li>
 <li>Are interested in working for one of the fastest growing startups in the world</li>
 <li>Embody our company values - Care Deeply, One Team, Ship It, and Think Bigger</li>
