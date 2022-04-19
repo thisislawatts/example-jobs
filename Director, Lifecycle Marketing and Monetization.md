@@ -37,9 +37,6 @@ Director, Lifecycle Marketing and Monetization
 <li style="font-weight: 400;"><span style="font-weight: 400;">Past ownership of e-commerce or Self-Service revenue goals a plus&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with product and data teams to create personas or Jobs to be Done frameworks </span></li>
 </ul>
-<h3><strong>Tech Stack</strong></h3>
-<p><span style="font-weight: 400;">Our current stack consists of: NodeJS, JavaScript, Vue.js, TypeScript, jQuery, Express, Postgresql, SQL, Sass, BEM, CSS, Google Cloud, BigQuery, Docker, Fractal, Kibana, Elasticsearch, Kubernetes.</span></p>
-<p><span style="font-weight: 400;">While we are looking for candidates with existing experience with our tech stack we believe curiosity, communication, and the ability to learn are most important.</span></p>
 <h3><strong>What does our interview process look like?</strong></h3>
 <p><span style="font-weight: 400;">We start by having a video call to get to know you. We’ll tell you more about us, the role, and why our culture is so great! We also want to hear about you, your skills and experience, and why you are interested in exploring Snyk.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Next up we’ll send you a take home exercise. Ideally, you will get it back to us within a week and we can take a look at your work.</span></p>
