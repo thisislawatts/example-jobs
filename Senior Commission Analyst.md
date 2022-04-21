@@ -37,7 +37,7 @@ Senior Commission Analyst
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5871457002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6081013002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
