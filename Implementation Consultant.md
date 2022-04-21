@@ -28,7 +28,6 @@ Implementation Consultant
 <li style="font-weight: 400;"><span style="font-weight: 400;">Understanding of CI/CD and DevOps tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A demonstrated consultative and technical aptitude for bringing people, technology, and processes together&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Excellent communication skills, organized and disciplined approach to problem solving, relationship-building, and project management.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Willingness to travel up to 15% of the time as the job requires.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you have</strong></p>
 <ul>
