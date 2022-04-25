@@ -4,27 +4,30 @@ Contracts Manager: Tech/Software Commercial Contracts
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Contracts Manager: Tech/Software Commercial Contracts</strong></p>
-<p><strong>Location: US</strong></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">Snyk is hiring!&nbsp; We are looking for a pragmatic, smart, collaborative, and professional team player to join our commercial legal team to support the sales teams with commercially-driven legal advice, strong drafting skills and a tenacious, “can-do” work ethic.</span></p>
-<p><strong>Contracts Manager at Snyk:</strong></p>
-<p><span style="font-weight: 400;">You will be based in the USA, reporting&nbsp; to the Senior Legal Counsel, located in Boston. You will collaborate closely with your legal team members as well as teammates in Finance, Sales, Sales Operations, and others, located both in the U.S and in our locations globally while you help to scale legal support for the expanding go-to-market function. You will have excellent contract drafting and business negotiation skills gained in a SaaS provider’s in-house legal department. You’ll use that knowledge to negotiate and close B2B deals with enterprise customers. We use Slack and Zoom to collaborate internally and you will be used to dealing with the demands of a fast-paced, high growth environment.&nbsp;</span></p>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">Snyk’s growing Commercial Legal Team is looking for an experienced and enthusiastic Contracts Manager. In this role, you will be responsible for supporting Snyk’s Go-To-Market Sales Team, your Commercial Legal Team colleagues, as well as other key Snyk stakeholders in shepherding contracts to completion for sales and procurement deals, while ensuring adherence to set contracting policies and processes; reviewing and drafting certain sales procurement-related agreements; and working closely with Commercial Legal team and Deal Desk colleagues on sales contracting process and systems improvements.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">We are looking for someone with:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Drafting, reviewing and closing a broad range of commercial agreements, including software licensing and SaaS.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Training the regional sales team, updating legal playbooks and improving contracting documents and processes.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assisting with legal department projects, including efforts to develop, implement and enhance processes that improve transaction velocity without material increases in risk.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Anything else that gets thrown your way as needed to support a dynamic, innovative company.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A bachelor’s degree</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5-7 years of experience with structuring, drafting, and negotiating a variety of commercial contracts autonomously</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience supporting and directly working with a large Go-To-Market Sales Team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience using Salesforce, DocuSign and JIRA</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in process improvement and taking initiative to address process pain points</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience educating and guiding non-legal colleagues on proper internal legal processes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to work in a fast-paced environment with internal and external stakeholders across multiple deals and projects simultaneously</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provide dedicated and excellent customer service</span></li>
 </ul>
-<p><strong>You should apply if:</strong></p>
+<p><span style="font-weight: 400;">As Contracts Manager, you will:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience drafting, negotiating and closing deals, preferably as a contracts manager</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have the ability to operate in a fast-paced, flexible culture and excel under pressure while maintaining an accountable, collaborative, positive, and pleasant attitude&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have a minimum of 3+ years experience at a law firm and/or in-house at a high growth software company, drafting and negotiating commercial contracts, including good working knowledge of SaaS agreements, technology licensing, strategic deals, and channel agreements (such as resellers, distribution, MSP, etc.). SaaS commercial experience is highly desired. Experience in cybersecurity and/or open source is a plus.&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are good at analyzing and presenting data on contract volume and workflows, using slides and dashboards.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are able to juggle multiple priorities and tasks while remaining cheerful and resilient.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy communicating complex ideas in simple language to non-lawyers.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You can demonstrate how to balance risks and rewards against a backdrop of competing priorities and stakeholders.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Review, draft, and structure a variety of sales-related agreements, NDAs, order forms, amendments and DPAs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interpret Snyk’s standard customer terms and conditions, NDAs and terms for a variety of internal stakeholders</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Serve as first point of contact to internal business units to answer contract-related inquiries and escalate as appropriate to senior legal colleagues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Educate and train members of the Sales Team on contracting processes to ensure smooth and timely turnaround of contract requests</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work with legal operations colleagues to implement and execute improvements to make commercial contracting processes, tools and systems more efficient</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assist with periodic updates to Snyk’s standard terms and conditions, policies, and other agreement templates</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop new and update existing sales training content and materials on an ongoing basis</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Route sales agreements for approval and signature</span><span style="font-weight: 400;"> </span></li>
 </ul>
+<p><span style="font-weight: 400;">Snyk’s Legal Team prides itself on the trust it has built across the business through consistently providing practical and sound legal advice. Your unique skill set and experience are critical to helping support our thriving and growing business and reinforce the trust and partnership we have cultivated with teams across the company. </span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <h6><span style="font-weight: 400;">#LI-AB4 #LI-REMOTE</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
