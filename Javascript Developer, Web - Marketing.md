@@ -6,7 +6,7 @@ Javascript Developer, Web - Marketing
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><strong>Location: US Remote&nbsp;</strong></p>
+<p><strong>Location: US/Canada/UK Remote&nbsp;</strong></p>
 <p><span style="font-weight: 400;">We’re looking for a passionate and experienced Javascript developer/engineer to join our Marketing Web Team.</span></p>
 <p><span style="font-weight: 400;">For this role, you will work as part of our Marketing Web Team within the Global Marketing Team to build a modern, static-generated site using Next.js and a headless CMS. You will partner with other developers on the development, optimization, and growth of our marketing websites.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
@@ -37,7 +37,7 @@ Javascript Developer, Web - Marketing
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p>#LI- TO3 #LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>#LI-KT1<br>#LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
