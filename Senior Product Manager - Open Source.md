@@ -25,8 +25,6 @@ Senior Product Manager - Open Source
 <li style="font-weight: 400;"><span style="font-weight: 400;">Love working in a fast-paced, empowered, distributed environment that respects the team, our customers, and our partners.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Make good product decisions in an incomplete business context of cost, value, risk, and opportunity.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work collaboratively, communicate proactively, take a team-first mind-set, and skillfully give and receive difficult feedback when necessary</span></li>
-</ul>
-<ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a proven track record with delivering SaaS products to market from business case thru to GTM and successful customer adoption</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be customer obsessed! Have in-depth understanding of how successful developer/user experience are defined</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a keen ability to synthesize a mass of data including market research, user feedback and asks, industry standards and general trends and then translating this into experience strategy and roadmap</span></li>
@@ -34,7 +32,6 @@ Senior Product Manager - Open Source
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have excellent written and verbal communication skills in English, and enjoy helping others to learn new things</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Comfortable within distributed work environments, collaborating across time zones and cultures and working with technical oriented teams</span></li>
 </ul>
-<p>&nbsp;</p>
 <h3><span style="font-weight: 400;">We’d especially love to hear from you if you have experience</span></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a product manager working in both technical and go to market roles in products</span></li>
@@ -43,7 +40,6 @@ Senior Product Manager - Open Source
 </ul>
 <h3><span style="font-weight: 400;">Interested?</span></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, we’re happy to talk ahead of application.&nbsp; &nbsp;</span></p>
 <p><span style="font-weight: 400;">#LI-GV1</span></p>
 <p><span style="font-weight: 400;">#LI-remote&nbsp;</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
