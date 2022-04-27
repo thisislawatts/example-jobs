@@ -4,7 +4,7 @@ Sales Development Representative (Public Sector)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Development Representative - Public Sector&nbsp;</strong></p>
-<p><strong>Location:</strong><span style="font-weight: 400;"> Denver, CO (hybrid or in-office)</span></p>
+<p>Location:<span style="font-weight: 400;"> Denver, CO (hybrid or in-office)</span></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising and ambitious Sales Development Representative to join our US Public Sector (PubSec) sales team!</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to government customers, a strong technical grounding in our product, and hands-on mentorship and training.</span></p>
 <p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
