@@ -7,19 +7,19 @@ Web Engineer
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
 <p><strong>Location: Remote - US, Canada, England</strong></p>
-<p><span style="font-weight: 400;">We’re looking for a passionate and experienced web software engineer to join our Marketing Web Team.</span></p>
-<p><span style="font-weight: 400;">For this role, you will work as part of our Marketing Web Team within the Global Marketing Team to build a modern, static-generated site using Next.js and a headless CMS (Contentful). You will partner with other developers on the development, optimization, and growth of our marketing websites. Your focus will be on the backend/CMS as well as the DevOps side (Netlify, CI/CD).&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a passionate and experienced web engineer to join our Marketing Web Team.</span></p>
+<p><span style="font-weight: 400;">For this role, you will work as part of our Web Team within the Global Marketing Team to build a modern, static-generated site using Next.js, and a headless CMS (Contentful). You will partner with other engineers on the development, optimization, and growth of our marketing websites. Your focus will be on the backend/CMS as well as the DevOps side, (Netlify, CI/CD).&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">maintaining our headless CMS (Contentful):</span></li>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Setting up content models and GraphQL queries</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developing custom apps using Contentful’s Custom App Framework (React)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Developing custom apps using Contentful’s Custom App Framework (React/Forma36)</span></li>
 </ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">integrating and supporting 3rd-party integrations for the CMS (e.g. Memsource TMS, Marketo, Segment, Cloudinary)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing and optimizing Netlify sites:</span></li>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Troubleshooting failed builds</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Troubleshooting build failures</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Maintain plugins for Netlify</span></li>
 </ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">managing and optimizing the CI/CD process.</span></li>
@@ -27,7 +27,7 @@ Web Engineer
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have professional experience with Contentful (or another headless CMS), Netlify, JAMStack, and/or static-site generation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have professional experience with Contentful (or another headless CMS), Netlify, JAMStack, and/or static-site regeneration.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience of SEO best practices.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with React.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with writing GraphQL queries.</span></li>
@@ -35,7 +35,7 @@ Web Engineer
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li><span style="font-weight: 400;">modeled content within a headless CMS at an Enterprise level.</span></li>
-<li><span style="font-weight: 400;">have experience managing a static generated site through Netlify at an Enterprise level.</span></li>
+<li><span style="font-weight: 400;">have experience managing static-generated sites through Netlify at an Enterprise level.</span></li>
 <li><span style="font-weight: 400;">have experience with Next.js.</span></li>
 <li><span style="font-weight: 400;">use best practices like test-driven development (TDD), documentation, and DRY principles.</span></li>
 </ul>
