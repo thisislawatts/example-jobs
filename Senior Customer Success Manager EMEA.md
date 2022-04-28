@@ -4,7 +4,7 @@ Senior Customer Success Manager EMEA
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <h2><strong>Senior Customer Success Manager EMEA</strong></h2>
-<p><strong>Fluent in English + French, Spanish or Hebrew</strong></p>
+<p><strong>Fluent in English + French, Spanish or Dutch</strong></p>
 <p><strong>Location: Remote in Israel, United Kingdom or Germany</strong></p>
 <p><span style="font-weight: 400;">We're looking for an organised and personable Sr. Customer Success Manager to help delight our customers by optimising their onboarding experience and driving adoption while helping them to accomplish their goals.&nbsp;</span></p>
 <p><span style="font-weight: 400;">You will be responsible for helping our customers build value using Snyk's Open Source Security products for their company quickly and effectively. This includes taking them through the onboarding journey and helping them build value for their company by using Snyk. You'll build and maintain the long term relationship with the customer by advocating customer needs internally across departments like Product, Support, and Sales.&nbsp;</span></p>
@@ -20,7 +20,7 @@ Senior Customer Success Manager EMEA
 <p><span style="font-weight: 400;">You'll be the main point of contact for the organisations you support, so you will need to be proactive in how you communicate, and responsive to incoming requests.&nbsp;</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">you are fluent in English and one of the following languages: French, Hebrew or Spanish -&nbsp; both written and verbally</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you are fluent in English and one of the following languages: French, Dutch or Spanish -&nbsp; both written and verbally</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you ask incisive questions and are comfortable learning to discuss complex requirements.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you don't wait for an answer, you go and find one.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">you're well organised, good at prioritising and juggling multiple work streams.&nbsp;</span></li>
