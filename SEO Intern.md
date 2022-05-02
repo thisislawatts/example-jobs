@@ -3,33 +3,31 @@ SEO Intern
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><strong>Overview:</strong></h3>
+<p><strong>Overview:</strong></p>
 <p><span style="font-weight: 400;">The SEO Intern will join a Growth Marketing team and will assist the SEO Manager in daily SEO, web and social media tasks. The intern will have the opportunity to learn the basics of on-site and off-site SEO.&nbsp;</span></p>
-<p>&nbsp;</p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Implementing metadata improvements across existing articles and pages</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Improving internal linking&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Monitoring, analyzing and finding opportunities to grow our back-linking strategy</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Monitoring and implementing technical SEO fixes&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Performing data analysis to identify SEO opportunities</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Assistance with daily tasks (uploading content to WordPress, submitting social media requests and more)</span></li>
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">hold a degree from a UK college or university</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are available for a minimum 11-week full-time internship starting on June 6, 2022</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are a native English speaker with strong command of written English</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have an analytical mindset, you are comfortable working with data and drawing actionable insights from it</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a strong command of written English, ability to create organized, easy-to-read content</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are detail-oriented and know how to multitask to meet daily and weekly goals</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have proven knowledge of Microsoft Office (especially Excel) and strong internet research skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are highly motivated to learn the ins-and-outs of the SEO world</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have proven knowledge of Microsoft Office (especially Excel)&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have strong internet research skills</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">pay attention to details</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have excellent planning and communication skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have Familiarity with the web dev industry - not a must</span></li>
 </ul>
+<p><span style="font-weight: 400;">Resources that can help you prepare for the interview:</span></p>
+<p><a href="https://searchengineland.com/guide/what-is-seo"><span style="font-weight: 400;">What Is SEO / Search Engine Optimization?</span><span style="font-weight: 400;"><br></span></a><a href="https://www.semrush.com/blog/seo-copywriting/"><span style="font-weight: 400;">SEO Copywriting Guide: 10 Tips to Improve Your Content</span></a></p>
+<p><a href="https://ahrefs.com/blog/eat-seo/"><span style="font-weight: 400;">What is E-A-T? Why It’s Important for SEO</span></a></p>
+<p><a href="https://www.searchenginejournal.com/featured-snippets-optimization/410622/"><span style="font-weight: 400;">How To Optimize For Google Featured Snippets: A 12-step Guide</span></a></p>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <p><span style="font-weight: 400;">#LI-SO1</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
