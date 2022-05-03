@@ -3,8 +3,8 @@ SDR Manager (DACH)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>We’re looking for an empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives.</strong></p>
-<p>Location: London or UK Remote or Germany Remote</p>
+<p><strong>We’re looking for an empathetic, hands-on, lead-by-example manager to grow and develop a team of Sales Development Representatives focussed on the DACH market.</strong></p>
+<p>Location: London or Area of Munich</p>
 <p><strong>The role</strong></p>
 <p><span style="font-weight: 400;">Snyk is looking for the next generation of sales leaders to continue on our journey of rapid growth. We are yet again doubling the size of our Sales Development team and are on the lookout for bright, ambitious managers to be the driving force behind our market-beating technology. Working with everyone from the hottest start-ups (Revolut) to the biggest players (Google, AWS) and everyone in-between - it’s the chance to be at the forefront of the DevSecOps world.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
@@ -17,7 +17,8 @@ SDR Manager (DACH)
 </ul>
 <h3><strong>You should apply if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">experience working on the DACH market</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">extensive experience working on the DACH market</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">fluency in German both written and verbally would be preferred</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience leading and growing a team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked as an account executive or team lead within a high tech environment, selling to a technical audience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are passionate about coaching and helping people develop</span></li>
@@ -38,7 +39,7 @@ SDR Manager (DACH)
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5812551002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6086644002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
