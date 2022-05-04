@@ -27,7 +27,7 @@ SEO Intern
 <h3><strong>Some things you should know:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">All interns are paid during their internships</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interns should attend the London office at least 3 days a week</span></li>
+<li>Interns should attend the London office at least 3 days a week</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">The internship will last 11 weeks starting on June 6, until August 19</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We offer our interns the best setting for them to grow, learn, and succeed at Snyk</span></li>
 </ul>
