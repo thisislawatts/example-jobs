@@ -8,7 +8,7 @@ Senior Commission Analyst
 <p><span style="font-weight: 400;">This person will be responsible for the timely and accurate processing of global field sales, AM, SDR, SE and channel commissions. </span><span style="font-weight: 400;">This role is a critical part of various process improvement initiatives related to the commissions/deferred commissions which help support our broader finance and corporate initiatives. As part of the Snyk team, you will also have the opportunity to demonstrate the core values of being easy to work with, ship it (bias for action), care deeply, and be one team while working with best-in-class development security intelligence.</span></p>
 <p><strong>You’ll spend your time:</strong><strong>&nbsp;</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Perform global sales commissions calculations and related accounting and reporting</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Perform global sales commissions calculations related to our high growth SaaS model and related analysis and reporting</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Owning data integrity, system administrative responsibilities, and external relationships for Sales Incentive Management software (Xactly)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with Finance &amp; Sales Operations on creating comp structures, quotas and maintain monthly commission reporting and forecasting</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ensuring the accurate and timely recording of sales commissions and deferred commissions under U.S. GAAP</span></li>
