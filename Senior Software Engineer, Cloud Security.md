@@ -9,7 +9,7 @@ Senior Software Engineer, Cloud Security
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive working environment we’ve fostered, where we can benefit from different perspectives within our team. It’s important that everyone feels comfortable contributing their ideas and views.</span></p>
 <p>&nbsp;</p>
 <p><strong>Location</strong></p>
-<p><span style="font-weight: 400;">This is a remote position for engineers located in the UK, Canada (AST/EST), or US (EST).</span></p>
+<p><span style="font-weight: 400;">This is a remote position for engineers located in the UK or Canada (AST/EST).</span></p>
 <p>&nbsp;</p>
 <p><strong>You’ll spend your time</strong></p>
 <ul>
