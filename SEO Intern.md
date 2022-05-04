@@ -24,7 +24,14 @@ SEO Intern
 <li style="font-weight: 400;"><span style="font-weight: 400;">have strong internet research skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have Familiarity with the web dev industry - not a must</span></li>
 </ul>
-<p><span style="font-weight: 400;">Resources that can help you prepare for the interview:</span></p>
+<h3><strong>Some things you should know:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">All interns are paid during their internships</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interns should attend the London office at least 3 days a week</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The internship will last 11 weeks starting on June 6, until August 19</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We offer our interns the best setting for them to grow, learn, and succeed at Snyk</span></li>
+</ul>
+<p><strong>Resources that can help you prepare for the interview:</strong></p>
 <p><a href="https://searchengineland.com/guide/what-is-seo"><span style="font-weight: 400;">What Is SEO / Search Engine Optimization?</span><span style="font-weight: 400;"><br></span></a><a href="https://www.semrush.com/blog/seo-copywriting/"><span style="font-weight: 400;">SEO Copywriting Guide: 10 Tips to Improve Your Content</span></a></p>
 <p><a href="https://ahrefs.com/blog/eat-seo/"><span style="font-weight: 400;">What is E-A-T? Why It’s Important for SEO</span></a></p>
 <p><a href="https://www.searchenginejournal.com/featured-snippets-optimization/410622/"><span style="font-weight: 400;">How To Optimize For Google Featured Snippets: A 12-step Guide</span></a></p>
