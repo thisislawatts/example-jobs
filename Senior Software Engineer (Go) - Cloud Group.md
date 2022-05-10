@@ -7,10 +7,8 @@ Senior Software Engineer (Go) - Cloud Group
 <p><span style="font-weight: 400;">We’re looking for collaborative and experienced engineers to help build a fantastic cloud security platform for developers. You’ll work with our friendly and cross functional team of engineers and product managers to extend and improve our service, utilizing your creativity and curiosity to help the team design and evolve a robust and highly scalable cloud service.</span></p>
 <p><span style="font-weight: 400;">This role is primarily focused on backend development. We like Go and Typescript and use both behind the scenes, depending on the situation. We prefer pragmatism over idealism.</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive working environment we’ve fostered, where we can benefit from different perspectives within our team. It’s important that everyone feels comfortable contributing their ideas and views.</span></p>
-<p>&nbsp;</p>
 <p><strong>Location</strong></p>
 <p><span style="font-weight: 400;">This is a remote position for engineers located in the UK or Canada (AST/EST).</span></p>
-<p>&nbsp;</p>
 <p><strong>You’ll spend your time</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Helping shape the engineering approach to adding new features to our SaaS.</span></li>
@@ -21,7 +19,6 @@ Senior Software Engineer (Go) - Cloud Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the rest of the team via shared whiteboards, Slack, and Zoom.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Participating in our on-call rotation (compensated)</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>You should apply if you</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Consider yourself a versatile, self-sufficient developer</span></li>
@@ -32,7 +29,6 @@ Senior Software Engineer (Go) - Cloud Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work sustainably, quickly, and iteratively</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are fluent in English</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>We’d especially love to hear from you if you</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have used AWS, Google, or Azure clouds</span></li>
@@ -41,7 +37,6 @@ Senior Software Engineer (Go) - Cloud Group
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are curious and love to explore new domains, technologies, and approaches</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have prior experience developing a SaaS</span></li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the inclusive environment we’ve created and we highly value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
 <p>&nbsp;</p>
