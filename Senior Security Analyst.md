@@ -3,7 +3,7 @@ Senior Security Analyst
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">We are looking for a curious, analytical, and detail-oriented Security Analyst to join our team and help us build the best DB of open source vulnerabilities out there.</span></p>
+<p><span style="font-weight: 400;">We are looking for a curious, analytical, and detail-oriented Senior Security Analyst to join our team and help us build the best DB of open source vulnerabilities out there.</span></p>
 <p><strong>Your Role</strong></p>
 <p><span style="font-weight: 400;">In modern software development, much of any project's code relies on open source packages. These are out there in the world, visible to anyone, and within that code there are vulnerabilities. As part of our team, you'll join us on our mission to continually improve our ability to find these open source vulnerabilities in a programmatic way.</span></p>
 <p><span style="font-weight: 400;">You'll join our interdisciplinary team, alongside fully dedicated engineers focused on building tools that make your work more effective and have lots of opportunities to learn and grow. This role is particularly well-suited to help you develop a deep understanding of how code works, and over time you'll have the opportunity to work with just about every programming language.</span></p>
