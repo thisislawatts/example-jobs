@@ -25,7 +25,6 @@ Senior Customer Success Engineer
 <li><span style="font-weight: 400;">Proficiency in Linux/BASH and experience with Python or Typescript.</span></li>
 <li><span style="font-weight: 400;">A demonstrated consultative and technical aptitude, for bringing people, technology, and processes together to deliver enterprise solutions&nbsp;</span></li>
 <li><span style="font-weight: 400;">Excellent communication skills, organized and disciplined approach to problem solving, relationship-building, and project management.&nbsp;</span></li>
-<li><span style="font-weight: 400;">Willingness to travel up to 15% of the time as the job requires.</span></li>
 <li><span style="font-weight: 400;">Bachelor's Degree in Computer Science, Engineering, or other STEM field.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you have</strong></p>
