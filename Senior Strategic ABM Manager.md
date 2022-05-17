@@ -3,33 +3,31 @@ Senior Strategic ABM Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3>All roles listed as ‘remote’ are available as remote within the same country</h3>
-<p><strong>Who We Are:&nbsp;</strong></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software. As we enter a world of all-things-digital and cybersecurity takes center stage in it, the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has been adopted by over 2M developers who find and fix vulnerabilities in their software. In 2021 we doubled the size of our global team, successfully closed three strategic acquisitions, debuted #15 on CNBC’s Disruptor 50 List, and raised over $530M in Series F funding, bringing our company valuation to $8.5 billion. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Our growth isn’t stopping there! Come join us, dream big, and grow your career.</span><span style="font-weight: 400;"><br><br></span><strong>The opportunity:&nbsp;</strong></p>
-<p><span style="font-weight: 400;">If you’re a customer or demand marketing rockstar looking to get into ABM, or a seasoned ABM pro looking for a growth opportunity - we’d like to talk to you! We’re </span><span style="font-weight: 400;">looking for an innovative and driven marketing manager to fill a unique role responsible for driving new business, expansion and pipeline with our most strategic accounts. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">In this high impact role you’ll put your business acumen and passion for driving revenue growth to work; </span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">designing and running highly targeted, multi-touch acquisition and cross-sell/upsell ABM programs</span><span style="font-weight: 400;"> for Snyk’s strategic prospect and customer accounts. </span><span style="font-weight: 400;">&nbsp;In collaboration with partners across the go-to-market business, you’ll build awareness, engagement and expansion pipeline utilizing intent-based research, customer and product data, </span><span style="font-weight: 400;">messaging development, digital asset development, advertising campaigns, high touch events and more. </span><span style="font-weight: 400;">This role offers the opportunity to evolve and grow the target account program at Snyk, employing creative and strategic skills to ensure only revenue impact, acquisition of net-new logos and the development of critical relationships across Snyk’s customer base.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">T</span><span style="font-weight: 400;">he ideal candidate will be highly adaptable, data-driven in decision making, have a proven record of building success - and relationships - with sales, and care deeply about driving revenue growth. This role will offer you the opportunity to shape&nbsp; and build a strategic program alongside a team of high-performance marketers who are passionate about contributing to Snyk’s growth.&nbsp;</span></p>
+<p><span style="font-size: 14pt;"><strong>Who we are</strong></span></p>
+<p>We’re on a mission to make the world a safer place with more secure software. As we enter a world of all-things-digital and cybersecurity takes center stage in it, the demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</p>
+<p>Snyk has been adopted by over 2M developers who find and fix vulnerabilities in their software. In 2021 we doubled the size of our global team, successfully closed three strategic acquisitions, debuted #15 on CNBC’s Disruptor 50 List, and raised over $530M in Series F funding, bringing our company valuation to $8.5 billion.&nbsp;</p>
+<p>Our growth isn’t stopping there! Come join us, dream big, and grow your career.</p>
+<p><span style="font-size: 14pt;"><strong>Opportunity</strong></span><br><br>Whether you’re a demand gen rockstar looking to get into ABM, or a seasoned ABM pro&nbsp; - we’re looking for an innovative and driven marketing manager to fill a unique role responsible for driving new business and pipeline with our most strategic accounts. <br><br>In this role you’ll develop, execute and optimize ABM programs for Snyk’s strategic prospect and customer accounts. In collaboration with sales development, sales leaders, product subject matter experts, digital marketing and demand marketing, you’ll drive awareness, engagement and pipeline through a mix of activities including intent-based research, messaging development, digital asset development, advertising campaigns, regional events and more. The ideal candidate will be highly adaptable, have a proven record of building success with sales, and be data-driven in decision making.</p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li>Adding a new strategic component to an already robust and mature ABM model (1:Many)&nbsp; with access to high program budgets and ABM tools &amp; infrastructure.&nbsp;<strong><br></strong></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working cross-functionally, in a highly visible role, with senior sales leadership and sales development teams to define account-plan strategies and execute complex and targeted account-based playbooks for 1:Few and 1:1 ABM programs.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with the customer success and operations team to identify priority expansion opportunities.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Gathering intent and intelligence to identify target accounts for 1:Few and 1:1 ABM plays.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with product marketing and content teams to develop personalized messaging to engage security and developer buyers based on account intent, vertical, use case and persona</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building and executing compelling, engaging, sometimes complex and always high-performing 1:Few and 1:1 programs. Starting with messaging ideation with product marketing and continuing with planning, production, and promotion of all deliverables through digital and influencer channels.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assessing effectiveness of the program by campaigns, tactics and messaging, and applying these learnings to the development of repeatable program playbooks for 1:Few and 1:1&nbsp;</span></li>
+<li>Adding a strategic component to an already robust and mature ABM model with access to high program budgets and ABM tools &amp; infrastructure&nbsp;</li>
+<li>Working cross-functionally, in a highly visible role, with senior sales leadership and sales development teams to define account-plan strategies and execute complex and targeted account-based playbooks for 1:Few and 1:1 ABM programs</li>
+<li>Gathering intent and intelligence to identify target accounts for 1:Few and 1:1 ABM plays</li>
+<li>Collaborating with product marketing and content teams to develop personalized messaging to engage security and developer buyers based on account intent, vertical, use case and persona</li>
+<li>Building and executing compelling, engaging, sometimes complex and always high-performing 1:Few and 1:1 programs. Starting with messaging ideation with product marketing and continuing with planning, production, and promotion of all deliverables through digital and influencer channels</li>
+<li>Assessing effectiveness of the program by campaigns, tactics and messaging, and applying these learnings to the development of repeatable program playbooks for 1:Few and 1:1&nbsp;</li>
 </ul>
 <p><strong>You’ll do amazing things at Snyk if you have:&nbsp;</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have 5+ years experience managing enterprise B2B technology marketing programs, with a focus on customer, demand, campaigns, or ABM strategies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are an agile, self-starter that thrives in fast-paced, highly engaged startup environments.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working in lock-step with sales teams and sales leadership - and have demonstrable experience in influencing and building relationships with stakeholders in order to get the job done!&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are results and metrics-driven; and experienced with analyzing campaign results to assess effectiveness, inform business recommendations and find opportunities for optimization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Passion for impacting, supporting and accelerating revenue and pipeline goals&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience using marketing and CRM tools such as SFDC, Marketo, 6Sense and Sendoso&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Proven track record of planning and executing integrated marketing campaigns, continuously assessing program performance for dynamic optimisation.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent project management skills with an ability to prioritize independently</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have had past experience working with a technical audiences (highly desirable)</span></li>
+<li>Have 5+ years experience managing enterprise B2B technology marketing programs, with a focus on customer, demand, campaigns, or ABM strategies</li>
+<li>Are an agile, self-starter that thrives in fast-paced, highly engaged startup environments</li>
+<li>Enjoy working in lock-step with sales teams and sales leadership - and have demonstrable experience in influencing and building relationships with stakeholders in order to get the job done!&nbsp;</li>
+<li>Are results and metrics-driven; and experienced with analyzing campaign results to assess effectiveness, inform business recommendations and find opportunities for optimization</li>
+<li>Passion for impacting, supporting and accelerating revenue and pipeline goals&nbsp;</li>
+<li>Experience using marketing and CRM tools such as SFDC, Marketo, 6Sense and Sendoso&nbsp;</li>
+<li>Proven track record of planning and executing integrated marketing campaigns, continuously assessing program performance for dynamic optimisation.&nbsp;</li>
+<li>Excellent project management skills with an ability to prioritize independently</li>
+<li>Have had past experience working with a technical audiences (highly desirable)</li>
 </ul>
 <p>#LI-KT1<br>#LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
@@ -40,7 +38,7 @@ Senior Strategic ABM Manager
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6042669002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5321835002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
