@@ -16,7 +16,7 @@ Python Software Engineer
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience developing with Python</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience developing with Python</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience working with databases and data pipelines</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience leading and designing projects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working closely with your end users, and care about iterative improvement</span></li>
