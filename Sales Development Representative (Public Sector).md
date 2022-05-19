@@ -4,7 +4,7 @@ Sales Development Representative (Public Sector)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Sales Development Representative - Public Sector&nbsp;</strong></p>
-<p>Location:<span style="font-weight: 400;"> Denver, CO (hybrid or in-office)</span></p>
+<p>Location:<span style="font-weight: 400;"> Boston, MA (in-office or hybrid)</span></p>
 <p><span style="font-weight: 400;">We’re looking for an enterprising and ambitious Sales Development Representative to join our US Public Sector (PubSec) sales team!</span></p>
 <p><span style="font-weight: 400;">As a member of our fast-growing sales team, you’ll gain great insight into how the full sales-cycle works, exposure to government customers, a strong technical grounding in our product, and hands-on mentorship and training.</span></p>
 <p><span style="font-weight: 400;">We care deeply about learning and development, and will support you as you grow. You’ll have opportunities to learn from experienced account executives through participating in initial demonstrations, and gaining a deep understanding of how multiple selling motions work in a high-growth technology company.</span></p>
@@ -28,8 +28,6 @@ Sales Development Representative (Public Sector)
 <li style="font-weight: 400;"><span style="font-weight: 400;">are open, honest, and love to learn</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are excited about technology and security, and want to join a high-growth startup</span></li>
 </ul>
-<p><strong>Additional Information</strong></p>
-<p><span style="font-weight: 400;">Minimum OTE of USD $67,000 + equity + benefits, but can go up depending on an individuals experience + qualifications.</span></p>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply </span><em><span style="font-weight: 400;">anyway</span></em><span style="font-weight: 400;"> :)</span></p>
 <p><em><span style="font-weight: 400;">#LI-JD1</span></em></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
@@ -41,7 +39,7 @@ Sales Development Representative (Public Sector)
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6091770002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5822536002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
