@@ -23,6 +23,7 @@ Compliance Lead
 </ul>
 <p><strong>You should apply if you</strong></p>
 <ul>
+<li><span style="font-weight: 400;">Have been part of a Cloud GRC team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Consider yourself to be detail-oriented and highly analytical</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are a process driven person who enjoys program management</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have an interest in or want to learn more about cloud security and compliance</span></li>
@@ -32,7 +33,6 @@ Compliance Lead
 </ul>
 <p><strong>We’d especially love to hear from you if you</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have been part of a Cloud GRC team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with HIPAA, GDPR, SOC2, CSA-CCM, or other compliance standards</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with automation or scripting</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have prior experience working on a product team or an interest in doing so</span></li>
