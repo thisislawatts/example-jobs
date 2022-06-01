@@ -4,7 +4,7 @@ Cloud Security Software Engineer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><span style="font-weight: 400;"><br><strong>Location: </strong><strong>This role is also open to remote work from Israel, Romania, and United Kingdom</strong></span></p>
+<p><span style="font-weight: 400;"><br><strong>Location: </strong><strong>This role is also open to remote work from the United Kingdom</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We’re looking for an independent-minded, autodidact, and detail-oriented cloud security engineer to join our efforts to build a best-of-breed infrastructure-as-code security platform.</span></p>
 <p><span style="font-weight: 400;">You would be working on our brand new infrastructure-as-code security product, expanding our security covers from source code down to the infrastructure. We recognize that developers are increasingly working with technologies like Kubernetes &amp; Terraform, and it can be hard to stay secure and move fast - we provide that peace of mind with this product.&nbsp;</span></p>
