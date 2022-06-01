@@ -4,7 +4,7 @@ Talent Attraction Intern
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-size: 10pt;"><span style="font-weight: 400;"><strong>Location:</strong> Boston, MA (in-office)</span></span></p>
-<p><span style="font-size: 10pt;"><span style="font-weight: 400;">We’re looking for a<strong> </strong></span>Talent Attraction Intern<span style="font-weight: 400;"> to join our global Talent Attraction team in our Boston, MA office, to assist in working on projects and initiatives dedicated to building out and enhancing our recruitment function.&nbsp;</span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-weight: 400;">We're looking for a&nbsp;<strong>Talent Attraction Intern t</strong>o join our global Talent Attraction team in our Boston, MA office, to assist in working on projects and initiatives dedicated to building out and enhancing our recruitment function.</span></span></p>
 <p><span style="font-weight: 400; font-size: 10pt;">This individual will work to enhance our current Talent Attraction processes, documentation, and programs to support future growth of the team.&nbsp;</span></p>
 <p><span style="font-size: 10pt;"><strong>You’ll spend your time:</strong></span></p>
 <ul>
