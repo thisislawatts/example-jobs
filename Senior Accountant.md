@@ -6,44 +6,50 @@ Senior Accountant
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><strong>Location:&nbsp; This role is open to work in our Boston office or remote work from the Boston metro area</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an enthusiastic senior accountant who has demonstrated the ability to deliver results in a high-growth, dynamic and fast-paced environment to join our North America finance team.&nbsp; This role will assist with monthly financial close for the United States and Canada.&nbsp; This position will also play a key role in process documentation, improvement and integration, as well as rolling out ongoing finance process improvement initiatives.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Boston, Remote (East Coast)</span></p>
+<p><span style="font-weight: 400;">We’re looking for a Senior Accountant to join our fast-growing finance team who will lead the global commission accounting process and support our ASC 606 revenue recognition and related accounting. The ideal candidate will be a versatile team player with a proven track record in accounting for a global technology company. The Senior Accountant will work closely with the accounting controllers to ensure the timely and accurate recording of commissions and also cross functionally with field finance and FP&amp;A on supporting sales incentive programs, revenue recognition and related forecasting. They will have great attention to detail and be a critical part of the monthly close process.</span></p>
+<p><span style="font-weight: 400;">The Senior Accountant role will have the opportunity to implement various process improvement initiatives related to revenue recognition and sales incentive accounting which help support our broader finance and corporate initiatives. As part of the Snyk team, you will demonstrate the core values of being easy to work with, ship it (bias for action), care deeply, and be one team while working with best-in-class development security intelligence.</span></p>
+<h3>&nbsp;</h3>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">identifying and recording monthly journal entries into our Netsuite accounting system as part of the financial close while adhering to the deadlines outlined in our monthly close calendar</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring that each account on the trial balance has been reconciled and signed off in Floqast; working with internal groups for open issues and driving them to resolution</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">performing flux analysis on the financials monthly to explain material movements in account balances and headcount with adequate commentary</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">documenting our processes and evaluating our internal controls for the payroll, payables, fixed asset and other general ledger cycles and updating them at regular intervals; this includes working with cross functional teams to identify problems and process issues, developing and implementing creative solutions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with internal teams such as the IT department to ensure our fixed asset records are accurate/reconciled and the revenue team to ensure the collectibility of receivables and reasonableness of revenue, deferred revenue and commissions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">calculating and communicating both US and Canadian transfer price invoices to the parent company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating with the FP&amp;A team to ensure all expenses are booked and/or allocated to the proper cost center</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">proactively identifying process automation and improvement opportunities so that our processes are scalable and optimized</span></li>
+<li><span style="font-weight: 400;">ensuring the accurate and timely recording of sales commissions and deferred commissions under U.S. GAAP</span></li>
+<li><span style="font-weight: 400;">performing ASC 606 revenue recognition analysis and related accounting and reporting for revenue, deferred revenue, and unbilled receivables</span></li>
+<li><span style="font-weight: 400;">supporting the close process around online marketplace transactions including revenue recognition, fee deferrals and related accruals</span></li>
+<li><span style="font-weight: 400;">leading process improvement initiatives around the commissions accounting cycle, working closely with the local controllers and field finance</span></li>
+<li><span style="font-weight: 400;">performing ad hoc partnering with field finance &amp; sales operations on creating comp structures, quotas and maintain monthly commission reporting and forecasting</span></li>
+<li><span style="font-weight: 400;">being a key partner with internal and external stakeholders including our external auditors</span></li>
+<li><span style="font-weight: 400;">creating and maintain policies and controls around the commission accounting cycle, working with the controllers to ensure timely recording of all commissions entries within the close timeline</span></li>
+<li><span style="font-weight: 400;">being a key part of a public company readiness journey including SOX 404 compliance</span></li>
 </ul>
-<p><strong>You should apply if you:</strong></p>
+<h3>&nbsp;</h3>
+<p><strong>You should apply if you have:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 4 + years of experience working in either public accounting or within the corporate finance department of a multinational company (CPA preferred)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">possess the following characteristics:</span></li>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">team player</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">solid interpersonal skills, both written and oral</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ability to adapt quickly to changes in a dynamic environment in terms of both organizational structure and process</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">capable of meeting tight deadlines</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">proactive and problem-solving attitude</span></li>
+<li><span style="font-weight: 400;">bachelor's degree in accounting&nbsp;</span></li>
+<li><span style="font-weight: 400;">5+ years experience in accounting for a global technology company (SaaS preferred)</span></li>
+<li><span style="font-weight: 400;">thorough understanding of ASC 606 and general knowledge of US GAAP</span></li>
+<li><span style="font-weight: 400;">experience with commission accounting, related accruals, and deferred commissions</span></li>
+<li><span style="font-weight: 400;">experience with a top-tier ERP system (NetSuite preferred)</span></li>
+<li><span style="font-weight: 400;">are incredibly easy to work with and can build strong cross-team relationships even when conflicting interests exist</span></li>
+<li><span style="font-weight: 400;">have a bias for action, works iteratively towards bigger picture goal, and strives for continuous improvement&nbsp;</span></li>
+<li><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged environment</span></li>
 </ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">can demonstrate strong excel skills using advanced functions such as VLookup and pivot tables</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working on cross-functional teams in terms of implementing new systems and creating the related process documentation&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience preparing and providing required support for SOX and external audits</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are experienced preparing and explaining flux analysis for an entity that provides solid explanations for account variances</span></li>
-</ul>
+<h3>&nbsp;</h3>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working in a SaaS company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are proficient in Netsuite, Floqast, and Workday systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Certified Public Accountant (CPA) credentials preferred</span></li>
+<li><span style="font-weight: 400;">have a CPA license and/or master’s degree (accounting or finance)</span></li>
+<li><span style="font-weight: 400;">have accounting experience in a hyper-growth SaaS model</span></li>
+<li><span style="font-weight: 400;">have experience with NetSuite ARM, Xactly and/or Salesforce.com</span></li>
+<li><span style="font-weight: 400;">have created dashboards, KPIs and other management tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">are a problem solver, you love to break problems into actionable tasks and bring to resolution</span></li>
 </ul>
-<p><strong>Interested?</strong></p>
+<h3>&nbsp;</h3>
+<h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<h6><span style="font-weight: 400;">#LI-AB4 #LI-REMOTE</span></h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h3><strong>About Snyk</strong></h3>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world. Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us here.</span></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the Forbes Cloud 100 2021, the 2021 CNBC Disruptor 50 and was named a Visionary in the 2021 Gartner Magic Quadrant for AST.</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -52,7 +58,7 @@ Senior Accountant
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5770914002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6187703002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
