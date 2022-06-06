@@ -6,7 +6,7 @@ Senior Accountant
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
-<p><span style="font-weight: 400;">Boston, Remote (East Coast)</span></p>
+<p><span style="font-weight: 400;">Boston, or Remote (East Coast)</span></p>
 <p><span style="font-weight: 400;">We’re looking for a Senior Accountant to join our fast-growing finance team who will lead the global commission accounting process and support our ASC 606 revenue recognition and related accounting. The ideal candidate will be a versatile team player with a proven track record in accounting for a global technology company. The Senior Accountant will work closely with the accounting controllers to ensure the timely and accurate recording of commissions and also cross functionally with field finance and FP&amp;A on supporting sales incentive programs, revenue recognition and related forecasting. They will have great attention to detail and be a critical part of the monthly close process.</span></p>
 <p><span style="font-weight: 400;">The Senior Accountant role will have the opportunity to implement various process improvement initiatives related to revenue recognition and sales incentive accounting which help support our broader finance and corporate initiatives. As part of the Snyk team, you will demonstrate the core values of being easy to work with, ship it (bias for action), care deeply, and be one team while working with best-in-class development security intelligence.</span></p>
 <h3>&nbsp;</h3>
