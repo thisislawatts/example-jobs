@@ -4,7 +4,7 @@ Staff Software Engineer, Snyk Open Source
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><span style="font-weight: 400;"><br><strong>Location: </strong><strong>This role is also open to remote work from Israel, Romania and United Kingdom</strong></span></p>
+<p><span style="font-weight: 400;"><br><strong>Location: </strong><strong>This role is also open to remote work from anywhere in Romania&nbsp;</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Snyk's mission is to empower developers to build more secure software with minimal investment in time and resources.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We are looking for collaborative Senior Software Engineers and Staff Software Engineers to join our Open Source Product Division. With your team, you will own the future product direction, development, testing and operational reliability of our services. You will be working with distributed teams across the UK, Europe and Israel.&nbsp;</span></p>
