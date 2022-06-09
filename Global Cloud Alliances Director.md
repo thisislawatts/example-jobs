@@ -4,13 +4,12 @@ Global Cloud Alliances Director
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">Director of Global Strategic Alliances</span></p>
-<p><span style="font-weight: 400;">Location: West Coast (remote)</span></p>
 <h1><span style="font-weight: 400;">Overview</span></h1>
 <p><strong>Director of Global Strategic Alliances</strong><span style="font-weight: 400;"> will manage key strategic cloud partnerships for Snyk.&nbsp; This person will be a part of the Business Development organization, whose mission is to accelerate the adoption of Snyk technologies and services in the market through and with our Strategic Alliances.&nbsp;&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">You will develop global relationships with your assigned partners from top to bottom, including driving outcomes on executive engagement, certifications and integrations, joint solutions, content and enablement, GTM&nbsp; and technology roadmaps, to ensure differentiation and technology adoption with the partner’s technologies.</span></p>
 <p><strong>Key Responsibilities include:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Develop and manage the relationships with Snyk Global Strategic Partners such as AWS. Define and execute the 1 to 3 year business objectives plan in alignment with Snyk’s business strategy to meet and exceed the corporate objectives.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop and manage the relationships with Snyk Global Strategic Partners such as GCP and Microsoft Azure. Define and execute the 1 to 3 year business objectives plan in alignment with Snyk’s business strategy to meet and exceed the corporate objectives.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Map executive connections and manage continuous cadences between key Snyk leaders and their Alliance partner counterparts.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Identify and pursue strategic product and infrastructure collaboration ideas, based on opportunities or gaps in the market and/or in Snyk and Alliance partner product portfolios.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Build, leverage, rationalize, track and communicate alliance benefits to key stakeholders including alliance partner teams, alliance partners, alliance leadership and business units.</span></li>
