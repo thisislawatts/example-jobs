@@ -16,7 +16,7 @@ Deal Desk Analyst
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 3-5 Years experience in deal desk, finance, or sales ops role (preferably at a high-growth SaaS company)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 5-8 Years experience in deal desk, finance, or sales ops role (preferably at a high-growth SaaS company)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have SalesForce &amp; SalesForce CPQ experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">pay superlative attention to detail and data accuracy</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">possess excellent communication and problem-solving skills</span></li>
