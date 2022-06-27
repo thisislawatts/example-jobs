@@ -13,7 +13,7 @@ Salesforce Automation Support Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">Identifying root causes, and fixes, and develop new debugging tools while working closely with product teams</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">analyzing and identifying gaps in functional and business requirements; discussing and elaborating with product owners on required changes that align with the SFDC stack and architecture</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">collaborating with team members to deliver high quality solutions in a timely manner</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building integrations between SFDC and external applications using REST APIs, Auth and Single Sign on, as well as Heroku Connect and other data management systems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Building integrations between SFDC and external applications using REST APIs, Auth and Single Sign on, as well as Heroku Connect and other data management systems.</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
@@ -25,17 +25,17 @@ Salesforce Automation Support Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">thoroughly understand the SFDC deployment processes</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a clear and proactive communicator, both verbally and in writing&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are user-focussed and enjoy building effective relationships with stakeholders at all levels of the company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a pragmatic approach to problem solving with good attention to detail and excellent organizational skills</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a pragmatic approach to problem solving with good attention to detail and excellent organizational skills.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Agile development methodologies and have worked as part of an agile development team</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Heroku, python or Node.js development and microservice architectures</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have coding experience and experience with the use of APIs to automate processes and integrate systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Salesforce CPQ &amp; Billing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Salesforce CPQ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Mulesoft.</span></li>
 </ul>
-<p><span style="font-weight: 400;">#LI-MC2</span></p>
-<p>&nbsp;</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-MC2</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -44,7 +44,7 @@ Salesforce Automation Support Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5985562002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6181084002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
