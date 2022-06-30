@@ -3,7 +3,7 @@ Software Engineer, Cloud Group (Golang)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Software Engineering, Cloud Security</strong></p>
+<p><strong>Software Engineer, Cloud Security</strong></p>
 <p><span style="font-weight: 400;">We’re looking for collaborative and experienced engineers to help build a fantastic cloud security platform for developers. You’ll work with our friendly and cross functional team of engineers and product managers to extend and improve our service, utilizing your creativity and curiosity to help the team design and evolve a robust and highly scalable cloud service.</span></p>
 <p><span style="font-weight: 400;">This role is primarily focused on backend development. We like Go and Typescript and use both behind the scenes, depending on the situation. We prefer pragmatism over idealism.</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive working environment we’ve fostered, where we can benefit from different perspectives within our team. It’s important that everyone feels comfortable contributing their ideas and views.</span></p>
