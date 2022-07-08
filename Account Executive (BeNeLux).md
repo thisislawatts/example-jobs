@@ -3,7 +3,7 @@ Account Executive (BeNeLux)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<h3><strong>We’re looking for a collaborative, hard-working Account Executive to join one of the hottest startups in the UK!</strong></h3>
+<h3><strong>We’re looking for a collaborative, hard-working Account Executive to join one of the hottest startups!</strong></h3>
 <p><strong>Your role</strong></p>
 <p><span style="font-weight: 400;">As part of the EU sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces. In this role you’ll be responsible for the end-to-end sales cycle for net new customers within the BeNeLux region.&nbsp;</span></p>
 <p><span style="font-weight: 400;">This will include, taking warm inbound leads, outbound sourcing leads and connecting with prospects in accounts that match our ideal customer profile, and building strong relationships with key stakeholders in the DevSecOps, Development, and Digital Transformation teams at those accounts</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;">Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.</span></p>
