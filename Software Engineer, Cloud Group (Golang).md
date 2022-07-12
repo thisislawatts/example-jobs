@@ -21,7 +21,7 @@ Software Engineer, Cloud Group (Golang)
 </ul>
 <p><strong>You should apply if you</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Consider yourself a versatile, self-sufficient developer</span></li>
+<li style="font-weight: 400;">Consider yourself a dynamic developer with strong collaboration skills and demonstrated experience or knowledge across a variety of technical environments</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable with designing web services and APIs</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have an interest in or want to learn more about cloud engineering and cloud security</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Like taking action and making progress, even when the path isn’t totally clear</span></li>
@@ -31,6 +31,7 @@ Software Engineer, Cloud Group (Golang)
 </ul>
 <p><strong>We’d especially love to hear from you if you</strong></p>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience with Golang, in either professional or personal projects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have used AWS, Google, or Azure clouds</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Deploy and manage infrastructure with Terraform, CloudFormation, or other IaC tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have a familiarity with Docker</span></li>
