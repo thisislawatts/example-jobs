@@ -6,7 +6,7 @@ Lead Compensation Program Partner
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><span style="font-weight: 400;">We’re looking for an amazing team player and a Lead Compensation Program Partner to join our Total Rewards team, helping to scale Snyk's teams globally while contributing to building a great employer brand.</span></p>
-<p><span style="font-weight: 400;">As the Lead Compensation Program Partner, you will play an important role in </span><span style="font-weight: 400;">the design, </span><span style="font-weight: 400;">development, administration and implementation of compensation programs, policies, structures and practices for the organization and to help define and execute on our compensation strategy on a global basis. If you have a combination of analytical ability and strategic thinking, this is the opportunity for you. This role reports into our VP, Global Total Rewards.</span></p>
+<p><span style="font-weight: 400;">As the Lead Compensation Program Partner you will play an important role in </span><span style="font-weight: 400;">the design, </span><span style="font-weight: 400;">development, administration and implementation of compensation programs, policies, structures and practices for the organization and to help define and execute on our compensation strategy on a global basis. If you have a combination of analytical ability and strategic thinking, this is the opportunity for you. This role reports into our VP, Global Total Rewards.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">You’ll Spend Your Time</span></p>
 <ul>
