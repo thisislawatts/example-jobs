@@ -38,7 +38,7 @@ Senior Manager, Product Marketing
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6198245002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6189233002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
