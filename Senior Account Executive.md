@@ -3,14 +3,14 @@ Senior Account Executive
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Senior Account Executive</span></p>
-<p><span style="font-weight: 400;">Location: Dallas/Austin/West Coast</span></p>
+<p><strong>Senior Account Executive</strong></p>
+<p><span style="font-weight: 400;">Location: Boston</span></p>
 <p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working <strong>Senior</strong> <strong>Account Executive</strong> to join our sales team.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is growing rapidly: technology is a core part of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"> <span style="font-weight: 400;">aren’t security experts</span></a><span style="font-weight: 400;">. But our team is.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security knowledge: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
 <p><span style="font-weight: 400;">We’re focused on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
 <h2><strong>Your role</strong></h2>
-<p><span style="font-weight: 400;">As an Enterprise Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the devsecops space and digital transformation teams at companies.&nbsp; This will be a mix of expanding Snyk’s usage in our existing account base and finding, qualifying, and closing opportunities with prospective customers.</span></p>
+<p><span style="font-weight: 400;">As an Senior Account Executive at Snyk, you’ll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the devsecops space and digital transformation teams at companies.&nbsp; This will be a mix of expanding Snyk’s usage in our existing account base and finding, qualifying, and closing opportunities with prospective customers.</span></p>
 <p><span style="font-weight: 400;">We’re looking for highly motivated salespeople who thrive with the freedom to decide how to spend your day, and how best to contribute to your team’s goals.</span></p>
 <h2><strong>You should join us if:</strong></h2>
 <ul>
@@ -33,7 +33,7 @@ Senior Account Executive
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6227587002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6239283002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
