@@ -4,8 +4,7 @@ People Operations Coordinator
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<hr>
+<h3>&nbsp;</h3>
 <p><span style="font-weight: 400;">We are looking for a dynamic and collaborative individual to join our team as a People Operations Coordinator. In this role, you will partner with the entire People Team to execute and enable global people processes and make the entire HR lifecycle easy and intuitive for Snyk candidates and employees. Our global team optimizes people processes, from problem definition to execution.</span></p>
 <p><span style="font-weight: 400;">We focus on providing an amazing experience to past, present and future Snyk candidates/employees and work in Snyk’s fast paced global environment to deliver operational services, manage the contingent workforce and implement people programs across all countries.</span></p>
 <p><span style="font-weight: 400;">Regardless of location or level of experience, members of this team have the opportunity to create, develop and implement some of the most complex global operations around the world. We expect that you have high expectations of yourself and are proud to deliver the best service to your peer Snykers. Your customer service mindset drives you to go the extra mile every time!</span></p>
