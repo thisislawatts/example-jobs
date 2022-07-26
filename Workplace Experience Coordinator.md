@@ -3,9 +3,9 @@ Workplace Experience Coordinator
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">We’re looking for a passionate, organized Workplace Experience Coordinator to join our Workplace Experience team and nail the first impressions at Snyk in our APJ offices. You’ll have a direct impact on in-office experiences in Singapore as well as remotely for our Tokyo and Sydney offices. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The Workplace Experience team’s mission is to create experiences that tangibly connect our employees to the Snyk values. Essentially, we make Snyk the best place to work. We’re looking for someone who knows how to skillfully manage several projects, and has a strong commitment to excellence. The Workplace Experience Coordinator will be a key partner to our growing APJ population, and use frequent feedback to support a culture that is engaging and enabling.</span></p>
+<h3>&nbsp;</h3>
+<p><span style="font-weight: 400;">We’re looking for a passionate, organized Workplace Experience Coordinator to join our Workplace Experience team and nail the first impressions at Snyk in our Ottawa office. You’ll have a direct impact on in-office experiences in Ottawa as well as remotely for our remote Canadian Snykers. You will connect Snykers and visitors to our values, partner with the facilities teams, and manage the day-to-day office operations.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The Workplace Experience team’s mission is to create experiences that tangibly connect our employees to the Snyk values. Essentially, we make Snyk the best place to work. We’re looking for someone who knows how to skillfully manage several projects, and has a strong commitment to excellence. The Workplace Experience Coordinator will be a key partner to our growing Canadian population, and use frequent feedback to support a culture that is engaging and enabling.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Represent Snyk as you engage with employees, candidates, clients, guests, whether in-office as well as remotely for our other offices as well as our remote Snykers</span></li>
@@ -15,9 +15,9 @@ Workplace Experience Coordinator
 <li style="font-weight: 400;"><span style="font-weight: 400;">Update office policies and procedures as needed</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partner with the local IT, security, legal, and executive teams to maintain a safe environment compliant with COVID-19 regulations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Contribute to a positive work environment, often being the heart and soul of the office</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Partner with the Learning and Growth team and support our growing APJ teams through onboarding workflows, including the delivery of induction sessions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Partner with the Learning and Growth team and support our growing Canadian teams through onboarding workflows, including the delivery of induction sessions</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Partner with local leadership and teams to gain understanding of regional and office culture, areas of improvement and initiatives to lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Support communication sharing from the global business to APJ. Stay up to date on policies, processes and changes across the business to enable success in APJ.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Support communication sharing from the global business to CA. Stay up to date on policies, processes and changes across the business to enable success in APJ.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Any other duties that may be required and which are considered by your manager to be consistent with the role.</span></li>
 </ul>
 <p><strong>Champion the Snyk culture and live and breathe our values of:</strong></p>
@@ -51,8 +51,8 @@ Workplace Experience Coordinator
 </ul>
 <p><strong>Interested?</strong></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway!</span></p>
-<p>&nbsp;</p>
-<p>#LI-CM1</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<h3>#L1-CM1</h3>
+<h3>&nbsp;</h3><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -61,7 +61,7 @@ Workplace Experience Coordinator
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6245152002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6245154002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
