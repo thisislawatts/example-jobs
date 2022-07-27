@@ -3,41 +3,52 @@ Software Engineer, Growth Group - (TypeScript / JavaScript)
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<hr>
-<p><span style="font-weight: 400;">We’re looking for a passionate and collaborative senior software engineer to join our new group to help us build the new Snyk Insights product.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Cloud Native App Sec has become complicated to track and manage. Apps are composed of many services and their components (e.g. code, containers), generating diverse and long lists of vulnerabilities that are hard to manage. Many of these component vulnerabilities don't expose the app as a whole, resulting in lots of noise and expensive triage time.&nbsp;</span></p>
-<p><span style="font-weight: 400;">To address this pain, customers need an application focused solution that looks at their security posture in a holistic fashion.</span></p>
-<p>You have a great opportunity to join us building this product almost from scratch while creating an innovative environment that evolves rapidly.</p>
-<p><strong>You should apply if you:</strong></p>
+<p><em><span style="font-weight: 400;">All roles listed as ‘remote’ are available as remote within the same country.&nbsp;</span></em></p>
+<p><span style="font-weight: 400;">We’re looking for impact driven, experienced software engineers to join our Growth group and amplify the value Snyk is bringing to developers all around the world.</span></p>
+<h3><strong>Who are we?</strong></h3>
+<p><span style="font-weight: 400;">The teams in the Growth group focus on acquisition, engagement and conversion of Snyk's individual users. In our work, we are motivated by making a business impact:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in designing, building, deploying, and hosting microservices</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Love working in a fast-paced start-up environment that respects its engineers and customers&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Love building new products and getting innovative!</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a good track record of project leadership and mentorship of software engineers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have designed, built, deployed, and hosted microservices on a major cloud-provider&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ensure a high-quality of code, that can be safely co-authored in a fast growing organisation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Comfortable working in a cross-functional team, working across the stack to deliver new features from start-to-end</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate proactively and have a team-first mind-set</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we analyse the interaction of our users with our service</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we understand what our users perceive as value in these interactions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we come up with hypotheses on what can increase the value our users gain from our service</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we experiment iteratively and rapidly to prove or disprove our hypotheses</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we implement the proven hypotheses as part of our service</span></li>
 </ul>
-<p><strong>You’ll spend your time:</strong></p>
+<p><span style="font-weight: 400;">We build on top of the entire Snyk product offering – Snyk Open Source, Snyk Container, Snyk IaC and Snyk Code. We build on top of the Platform that powers these product offerings. We focus on user behaviour and business metrics that drive the most important needles for the company.</span></p>
+<p><span style="font-weight: 400;">This year the teams in the Growth group will:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Building and maintaining the services that power our new product</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Talking to our customers, making sure we’re building a product they truly love</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working across the stack to deliver new features from start-to-end</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Deploying new features to production</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Improving performance and overcoming scalability limits</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with your team, planning the most important projects to work on next</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">extend our reach to the individual developer, exponentially growing new user registrations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">increase the engagement of our users, making sure more and more registered users get value out of Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">reduce user churn, helping users make value over longer periods of time</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">drive conversion, helping business users emerge from our free tier and onboard to Snyk as a customer company</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
+<h3><strong>Who are you?</strong></h3>
+<p><span style="font-weight: 400;">You are a versatile, experienced software engineer. You pick the right tool for the job, starting from the end result you want to achieve. Your motivation lies more with your </span><em><span style="font-weight: 400;">business</span></em><span style="font-weight: 400;"> rather than </span><em><span style="font-weight: 400;">technical</span></em><span style="font-weight: 400;"> impact. You thrive on multi-disciplinary teams, working alongside marketers, designers and data analysts.</span></p>
+<p><span style="font-weight: 400;">You’ll spend your time:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong proficiency with JavaScript and Typescript</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experienced with both low level languages (C / C++) and high level languages (like JavaScript)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Worked with a front-end framework in the past (React, Angular, Vue, Ember)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Worked on a large-scale distributed system</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">identifying user behaviour through analytics in a rigorous and trustworthy way</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">coming up with hypotheses on how user behaviour can change with our service</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">implementing changes across our entire product surface</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">measuring the impact of these changes to prove or disprove these hypotheses</span></li>
 </ul>
-<p><span style="font-weight: 400;"><strong>Interested?<br><br></strong>Please apply. We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not sure if you meet all of the criteria - please apply anyway! We’d love to talk to you.</span></p>
+<h3><strong>You should apply if you:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">consider yourself a versatile, self-sufficient full-stack developer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">feel more comfortable with data you can trust</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">feel less comfortable with hunches (especially those of other people)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">prefer to disprove a theory quickly rather than exhaust all ways trying to prove it</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable with Git, GitHub and Continuous Integration / Continuous Deployment workflows</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are proactive, and enjoy working on cross-functional Growth oriented teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are interested in security, developer tooling, and open source</span></li>
+</ul>
+<h3><strong>We’d especially love to hear from you if you:</strong></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have Web application (JavaScript / TypeScript) OR IDE plugins (JavaScript / TypeScript / Java) experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with one or more front-end frameworks e.g React, Vue, Angular</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working with large data sets and/or with BigQuery</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have worked with Kubernetes or another container-based operational environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working as part of a distributed team</span></li>
+</ul>
 <p><span style="font-weight: 400;">#LI-HY1</span></p>
 <p><span style="font-weight: 400;">#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
