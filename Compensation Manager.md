@@ -5,49 +5,48 @@ Compensation Manager
 
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<hr>
-<h3><strong>Compensation Manager</strong></h3>
-<p><span style="font-weight: 400;">Do you love the challenge of scaling rapidly growing organizations? Are you passionate about the strategic role of the hiring process in influencing the culture of a company? Do you enjoy leading teams and designing creative strategies to meet high demands for growth on varied fronts?&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">At Snyk, we’re building the Compensation function, and are seeking a strategic Compensation Manager to design and build our global compensation programs as we go through significant global growth. Our People team are strategic problem solvers, focused on scaling and supporting one of the fastest growing companies in tech. In 2020 we were listed as top unicorns to watch for, experiencing tremendous growth worldwide, and this team will be key to incentivizing and rewarding employees on this exciting path. Reporting to our Head of Total Rewards and Operations and partnering with stakeholders across business leadership and within the People team, the Compensation Manager will be responsible for designing, maintaining our compensation competitiveness that enables us to attract and retain talent globally. Our compensation strategy is very much in evolution, and as the Compensation Manager you will very much have the opportunity to shape and design this strategy going forward!&nbsp;</span></p>
-<p><span style="font-weight: 400;">You’ll spend your time:&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an amazing team player and a Compensation Manager to join our Total Rewards team, helping to scale Snyk's teams globally while contributing to building a great employer brand.</span></p>
+<p><span style="font-weight: 400;">As the Compensation Manager you will play an important role in </span><span style="font-weight: 400;">the design, </span><span style="font-weight: 400;">development, administration and implementation of compensation programs, policies, structures and practices for the organization and to help define and execute on our compensation strategy on a global basis. If you have a combination of analytical ability and strategic thinking, this is the opportunity for you. This role reports into our VP, Global Total Rewards.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">You’ll Spend Your Time</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Managing a portfolio of compensation projects including compensation planning cycles, market intelligence and benchmarking, and equity analysis</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with stakeholders across the People team and business to support and advising managers on compensation-related activities</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Overseeing market pricing activities including job matching, data analytics, and job pricing, including analysis of cash and long-term incentive compensation practices</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Leading the development and distribution of effective communication materials that improve the understanding of Snyk’s compensation offerings</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Partnering with the HRIS team to ensure that the People system meets the compensation team’s needs</span></li>
+<li><span style="font-weight: 400;">Managing and administering compensation programs and processes in Workday</span></li>
+<li><span style="font-weight: 400;">Partnering with VP, Global Total Rewards in managing the annual compensation strategy and philosophy that drives the development and positioning of Snyk’s compensation programs</span></li>
+<li><span style="font-weight: 400;">Managing and maintaining annual compensation programs including salary planning, company bonus and equity</span></li>
+<li><span style="font-weight: 400;">Developing, maintaining and analyzing global base pay market positioning and salary ranges to ensure market competitiveness</span></li>
+<li><span style="font-weight: 400;">Creating analytical reports; organizing and analyzing confidential data with attention to </span>detail and accuracy</li>
+<li><span style="font-weight: 400;">Preparing presentation materials for communication to management and employees</span></li>
+<li><span style="font-weight: 400;">Leading the Workday compensation processes; partnering with People Operations team&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gathering market data and providing analysis to assess the competitiveness of our current compensation packages</span></li>
+<li><span style="font-weight: 400;">Participating in annual compensation surveys and managing data updates</span></li>
+<li><span style="font-weight: 400;">Developing and delivering global compensation training and communication for managers and employees</span></li>
+<li><span style="font-weight: 400;">Collaborating cross-functionally to find opportunities and improvements for compensation programs and strategies</span></li>
+<li><span style="font-weight: 400;">As an individual contributor in this role, you’ll be a part of the Total Rewards team and will work closely with People and Finance teams.</span></li>
 </ul>
-<p><span style="font-weight: 400;">About You:</span></p>
-<p><span style="font-weight: 400;">Does this sound like your profile? Come explore this exciting opportunity!&nbsp;</span></p>
+<p><span style="font-weight: 400;">You Should Apply If You</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">At least five years of compensation experience&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A deep understanding of RSUs, stock options, and other equity offerings</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong business acumen, attention to detail, and analytically driven</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience leading efforts around market pricing, annual compensation cycles, compensation plan/structure design</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Expertise in using Radford and other data sources for benchmarking compensation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A “Roll up your sleeves” mentality; this is a position that requires agility to “zoom out” and focus on strategic executive conversations as well as “zoom in” to be hands-on with day to day tasks</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The ability to consult and influence leaders and colleagues</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong communication skills that enable you to take complex concepts and distill them into digestible information for leaders and employees</span></li>
+<li><span style="font-weight: 400;">Have a Bachelor’s degree with a minimum of 5 years of experience as a Compensation Analyst, or directly supporting groups with compensation programs</span></li>
+<li><span style="font-weight: 400;">Have Workday experience with the Advanced Compensation functionality</span></li>
+<li><span style="font-weight: 400;">Are extremely detail oriented and analytical</span></li>
+<li><span style="font-weight: 400;">Have experience with Radford and other compensation surveys</span></li>
+<li><span style="font-weight: 400;">Have global job architecture experience including job evaluation and mapping, market </span>benchmarking, development of global salary guidelines, and communication</li>
+<li><span style="font-weight: 400;">Have excellent oral and written communication, presentation and organization skills</span></li>
+<li><span style="font-weight: 400;">Have high proficiency in Excel, Word and Powerpoint</span></li>
+<li><span style="font-weight: 400;">Have CCP (desirable)</span></li>
+<li><span style="font-weight: 400;">Enjoy working in a fast paced, high growth company and feel comfortable with ambiguity</span></li>
+<li><span style="font-weight: 400;">Value diversity and believe strongly in creating inclusive environment</span></li>
 </ul>
-<p><span style="font-weight: 400;">Bonus Points:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building and running compensation programs at a recent IPO company</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Fluidity in both Excel and Google Sheets</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Workday experience</span></li>
-</ul>
-<h3><strong>Interested?</strong></h3>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<h3><strong>About Snyk</strong></h3>
-<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. </span><span style="font-weight: 400;">We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). </span><span style="font-weight: 400;">We also raised an additional $200 Million, <a href="https://snyk.io/blog/snyk-closes-200m-to-modernize-security-industry/" target="_blank">announced on September 9, 2020</a></span><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential</span><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p>
-<p><span style="font-weight: 400;">#LI-ES1 #LI-Remote</span></p>
+<p>&nbsp;</p>
+<h4>#LI-CM1 #LI-Remote</h4><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
+<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
+<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
+<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5114015002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/5959562002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
