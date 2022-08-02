@@ -6,7 +6,7 @@ Technical Writer Intern
 <h2><strong>Technical writer intern</strong></h2>
 <p><strong>Location:</strong><span style="font-weight: 400;"> London or Boston</span></p>
 <p><strong>Length:</strong><span style="font-weight: 400;"> October to January&nbsp;</span></p>
-<p><span style="font-weight: 400;">We’re looking for an enthusiastic and driven person with some developer experience/background, who’s also interested in creating great documentation to help developers using Snyk. We especially welcome students in a gap year looking for a learning experience or students on a study break.</span></p>
+<p><span style="font-weight: 400;">We’re looking for an enthusiastic and driven person with some developer experience/background, who’s also interested in creating great documentation to help developers using Snyk. We especially welcome students in a gap year looking for a learning experience or students on a study break (paid opportunity).</span></p>
 <p><span style="font-weight: 400;">Working with the User Documentation team, you’ll work to deliver a Snyk Docs Audit, testing our product documentation to identify areas we need to improve. In this role, you’ll help enable our users to quickly access good-quality content at the point of need, in line with our developer-first approach. You’ll support our key goals of Developer Growth, enabling self-service for all our users.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
