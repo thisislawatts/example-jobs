@@ -17,22 +17,20 @@ Quality Assurance Automation Engineer
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a solid API and UI testing automation experience on the SFDC platform</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have a solid API and UI testing automation experience&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience in developing automated tests for APIs (REST and SOAP)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience using frameworks and tools like Junit/TestNG (Java), Qunit (Java Script), Provar, Postman, Selenium RC/WebDriver, Tricentis Tosca</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">possess unparalleled troubleshooting and problem-solving skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are able to adapt in a fast-paced environment, with the ability to manage competing priorities and multi-task</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have deep understanding of the SFDC platform including configuration, data model, apex based automations, lightning framework, security and accessibility model</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are a clear and proactive communicator, both verbally and in writing&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are user-focussed and enjoy building effective relationships with stakeholders at all levels of the company</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a pragmatic approach to problem solving with good attention to detail and excellent organizational skills.</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have led the development of an automated QA framework for large/complex Salesforce platform(s)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have led the development of an automated QA framework for large/complex Salesforce platform(s)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Agile development methodologies and have worked as part of an agile development team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have coding experience and experience with the use of APIs to automate processes and integrate systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Salesforce CPQ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have coding experience and experience with the use of APIs to automate processes and integrate system</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with Mulesoft.</span></li>
 </ul>
 <p><span style="font-weight: 400;">#LI-MC2<br>#LI-remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
