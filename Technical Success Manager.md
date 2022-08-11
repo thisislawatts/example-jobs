@@ -32,6 +32,11 @@ Technical Success Manager
 <li style="font-weight: 400;"><span style="font-weight: 400;">A history of problem solving and innovation developing technology programs and working across customer organizations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor’s Degree in science, technology, engineering, math, business, or equivalent experience</span></li>
 </ul>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
