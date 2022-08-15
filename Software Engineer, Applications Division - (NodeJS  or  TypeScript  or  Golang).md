@@ -4,15 +4,13 @@ Software Engineer, Applications Division - (NodeJS / TypeScript / Golang)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><span style="font-weight: 400;"><br><strong>Location: Bucharest, Cluj, or </strong><strong>remote from Romania&nbsp;</strong></span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>Location: Bucharest, Cluj, or </strong><strong>remote from Romania&nbsp;</strong></span></p>
 <p><span style="font-weight: 400;">Snyk's mission is to empower developers to build more secure software with minimal investment in time and resources.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We are looking for collaborative Software Engineers and Senior Software Engineers to join our Applications Division. With your team, you will own the future product direction, development, testing and operational reliability of our services. You will be working with distributed teams across the UK, Europe and Israel.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We are looking for engineers in the following Snyk products: Snyk Open Source, Snyk Infrastructure as Code, and Snyk Code.</span></p>
 <p><strong>Snyk Open Source </strong><span style="font-weight: 400;">In Open Source we introduce and improve support for dev tools, languages, package managers, source code management and more. This means tackling challenges such as taming the complexity in developer ecosystems, providing a reliable and fast service at scale, and optimising the algorithms behind dependency resolution.</span></p>
 <p><strong>Snyk Infrastructure as Code </strong><span style="font-weight: 400;">Snyk Infrastructure as Code enables developers to scan their cloud configuration files, e.g. Kubernetes, Terraform, CloudFormation and Helm, to pick up potential misconfigurations before they reach production. Our product aims to integrate tightly with developers continuous integration pipelines as well as providing high level information via source code import. Key challenges coming up are to deepen our understanding of cloud config languages, mapping production infrastructure back to the original source code as well as providing best-in-class security rules that allow developers and security teams to have trust in rolling out changes to their infrastructure.</span></p>
 <p><strong>Snyk Code </strong><span style="font-weight: 400;">Snyk Code enables developers to scan their own source code for security issues and provides meaningful and actionable results to fix those issues. We support different environments and integrations as part of the CI/CD, IDE Plugins and web experience as well. We try to bring a new, innovative and a fast experience into the SAST product world. We have e2e ownership of all of our tech stack - Node and C++ microservices.</span></p>
-<p>&nbsp;</p>
 <h3><strong>You'll most likely spend your time on:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming to collaboratively build the services that power Snyk</span></li>
@@ -42,7 +40,7 @@ Software Engineer, Applications Division - (NodeJS / TypeScript / Golang)
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy solving complex technical problems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Feel comfortable working with uncertainties and unknowns</span></li>
 </ul>
-<h3><strong>We’d especially love to hear from you (but you don’t </strong><strong><em>need</em></strong><strong> these skills to apply!) if you:</strong></h3>
+<h3><strong>We’d especially love to hear from you (but you don’t </strong><strong><em>need </em></strong><strong>these skills to apply!) if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kubernetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have an SRE background</span></li>

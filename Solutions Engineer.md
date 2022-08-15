@@ -3,20 +3,25 @@ Solutions Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Solutions Engineer<br><br></strong>Location: Tel-Aviv, Israel remote</p>
-<p><span style="font-weight: 400;">Want to work for a visionary company? Want to help customers realize their application security dreams? Want to be on a growth rocket ship? Are you talented, curious and ready to realise your potential?&nbsp;</span></p>
-<p><span style="font-weight: 400;">We are looking for a customer-focused Solutions Engineer to work in our integrated GTM team, with new and existing customers and partner with our product and engineering teams, enabling the adoption of Snyk and helping to evolve what Snyk has to offer.</span></p>
-<p><span style="font-weight: 400;">As the technical point of contact you will become the trusted product advisor for clients and partners to identify key strategies that will unlock business value, expand product adoption, increase customer satisfaction, and help grow Snyk's business.</span></p>
-<h4><strong>You’ll spend your time:</strong></h4>
+<hr>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<hr>
+<h3><strong>Solutions Engineer</strong></h3>
+<p>Boston, MA or Remote&nbsp;</p>
+<p><span style="font-weight: 400;">We’re looking for a driven, user-focussed Solutions Engineer to work with our sales team and our product engineering teams, enabling the adoption of Snyk in new organizations and helping to evolve what Snyk has to offer.</span></p>
+<p><strong>Snyk's mission is to help developers and organizations use open source code and stay secure</strong><span style="font-weight: 400;">. We believe that open source is a force for good, but security is a key concern.&nbsp; Our product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, with seamless integration into Dev &amp; DevOps workflows.</span></p>
+<p><span style="font-weight: 400;">Snyk now supports the work of over 300,000 developers and multiple enterprise customers (including Google, New Relic, and Digital Ocean), and our channel partner team is focussed on scaling our business to keep up with demand!&nbsp;&nbsp;</span></p>
+<h3><strong>You’ll spend your time:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Becoming a technical product expert, evangelist and coach, able to provide technical demonstrations and enable to customers in your sleep</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Fostering and building overall relationships with customers through increasing adoption, ensuring retention and long-term mutual success</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Shaping and informing decisions on new features based off your experience and feedback from customers and partners</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Drive the technical aspects of the entire customer life cycle providing demonstrations, managing proof of concepts, demonstrating product expertise and sharing best practice.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Outlining Snyk best practices and use cases, which help customers improve their security posture and optimize their processes.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Delivering internal and external reviews based on your customers's performance and product usage metrics.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">becoming a technical product expert, evangelist and coach, able to give technical sales demonstrations to customer and partners in your sleep</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">educate customer and partners about the adoption of open source and the importance of empowering developers to stay secure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">drive the technical aspects of the sale, providing demonstrations, managing proof of concepts, demonstrating product expertise and sharing best practice</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">interfacing with our channel partners, engineering, product and customer success teams to build solutions that actually solve our customers’ problems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">shaping and informing decisions on new features based off your experience and feedback from customers and channel partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working closely with channel partners to increase their proficiency in selling and supporting the Snyk solution through their sales process and beyond.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">work with channel partners to come up with joint value propositions, architect custom work-arounds and partner eco-system integrations</span></li>
 </ul>
-<h4><strong>You should apply if you:</strong></h4>
+<h3><strong>You should apply if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have spent 3 years or similar in the sales engineering, developer or security space</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with a wide variety of coding languages and how they work</span></li>
@@ -31,15 +36,15 @@ Solutions Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a team-oriented mindset</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">care about diversity and enjoy meeting people from all walks of life</span></li>
 </ul>
-<p><strong>We’d especially love to hear from you if you:</strong></p>
+<h3><strong>We’d especially love to hear from you if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have worked in early stage, fast growth startups (especially in developer tooling!)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are fluent in additional languages</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below!</span></p>
-<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.&nbsp;</span></p>
-<p>#LI-CH2</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway.</span></p>
+<p><span style="font-weight: 400;">#LI-JD2 #LI-REMOTE</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -48,7 +53,7 @@ Solutions Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6182379002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6272736002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
