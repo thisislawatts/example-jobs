@@ -7,7 +7,9 @@ Senior Analytics Engineer
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <hr>
 <h3><strong>Overview</strong></h3>
-<p><span style="font-weight: 400;">We’re looking for a senior analytics engineer to join our new group to help us build the future of customer-facing data products at Snyk.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for a Senior Analytics Engineer to join our new group to help us build the future of customer-facing data products at Snyk.</span></p>
+<p>Location: US / Canada (EST) or UK</p>
+<p><span style="font-weight: 400;">All roles listed as ‘remote’ are available as remote within the same country.</span><strong> Your regular workday must start no earlier than 9AM UK and no later than 9AM US/Eastern.</strong></p>
 <h3><strong>You’ll spend your time:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Building and maintaining the data mart that power our new customer-facing analytics product</span></li>
