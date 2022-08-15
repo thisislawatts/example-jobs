@@ -3,9 +3,8 @@ Account Executive
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<hr>
 <h4><strong>Role: Account Executive</strong></h4>
-<h4><strong>Location: Minneapolis/Chicago/Remote</strong></h4>
+<h4><strong>Location: Boston</strong></h4>
 <h4>We’re looking for a collaborative, hard-working Account Executive to join one of the hottest startups in the US!</h4>
 <h4><span style="text-decoration: underline;"><strong>You’ll spend your time:</strong></span></h4>
 <p>As part of the US sales team within a global sales org you will play a meaningful role in scaling one of the fastest growing companies in the Developer and Security spaces. As an Account Executive at Snyk, you'll be responsible for the end-to-end sales cycle for prospective customers, taking warm inbound leads, and building strong relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies. Our existing customer base ranges from mid-market companies who like to move fast right up to slow burn large enterprises like Google and Salesforce.&nbsp;</p>
@@ -35,7 +34,7 @@ Account Executive
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6281696002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6322048002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
