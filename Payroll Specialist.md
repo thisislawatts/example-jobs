@@ -3,37 +3,52 @@ Payroll Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">All roles listed as ‘remote’ are considered remote within the same country, and should we offer you the position, the remote option will be at the hiring manager’s discretion. Please note, you must not have any working restrictions in the country where this job is located. </span><a href="https://snyk.io/blog/introducing-flex-work-the-future-of-work-at-snyk/"><span style="font-weight: 400;">Check out our Flexwork policy for more information</span></a></p>
-<p><strong>Location:&nbsp; London - UK</strong></p>
-<p><span style="font-weight: 400;">We’re looking for an enthusiastic and technical Payroll Specialist to join our Finance team to execute payroll for our UK employees, and to serve as a cross-functional business partner with respect to implementing an overhaul to the existing process.&nbsp; This manager will play a key role in executing a change to a new payroll provider, and ensuring that a seamless integration between the new payroll provider and our Workday HRIS system.&nbsp;&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">You are passionate about the payroll process and are knowledgeable about the regulatory requirements of UK payroll.&nbsp; You are a change agent and thrive in positions where change and rapid growth are constant.&nbsp; You are confident in designing new processes from beginning to end, and in ensuring the proper controls and documentation are in place. &nbsp; You are detail-oriented and deadline-sensitive to ensure that payroll is completed in a timely and accurate manner.&nbsp; Here at Snyk, you’ll enjoy rapid growth and share your skills to help us improve our systems and processes.&nbsp;</span></p>
+<hr>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<hr>
+<p><strong>Location: &nbsp; </strong><strong>This role is open to work in our Boston office, or remote work within the United States.&nbsp;&nbsp;</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a motivated and experienced full-time Payroll Specialist to process and verify weekly and semi-monthly payrolls on a timely basis, while maintaining payroll records and ensuring that employee time is reported and processed accurately.&nbsp; Additionally, this role will support the Global Payroll Manager in the ADP Payroll Implementation project.&nbsp;&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">transitioning the Company off of the current payroll provider to a more scalable partner while ensuring a smooth transition and integration into Workday</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating with the People Ops team to integrate the payroll process into the new Workday HRIS implementation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">administering all monthly payroll duties such as changes to salary, amendments, starters, leavers, processing deductions and running the payroll for our UK employees in Payfit</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">coordinating with the distributed finance team to properly record and pay out sales commissions and bonuses</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring that all taxable items have been correctly added in Payfit, including compensation from company stock exercises/sales and other taxable benefits&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">liaising with finance to book all payroll related entries to the Netsuite general ledger</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">working with the People Ops team to onboard new employees and process employee salary change requests and terminations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">documenting processes and controls within the payroll cycle to ensure SOX compliance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">processing weekly &amp; semi-monthly, multi-state payrolls for the US &amp; Canada</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ensuring employee payroll deductions are being processed accordingly through weekly audits</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">confirming time and attendance for hourly employees in preparation for payroll processing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">maintaining strong payroll data exchange processes with Workday to ensure employee changes (such as salary, taxation) are processed timely and accurately</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working alongside the accounting team by supporting the monthly close process</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">providing the necessary support for the annual financial statement audit along with any statutory audits as appropriate</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">assisting employees looking for guidance with respect to payroll and tax inquiries and escalating to the Global Payroll Manager as appropriate</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working closely with the Global Payroll Manager to complete projects by their required deadline (e.g., supporting the ADP Implementation Project)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">completing other ad-hoc tasks assigned by the Global Payroll Manager</span></li>
 </ul>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 7+ years of experience processing UK payroll in a high-growth business environment that includes commission and bonus payments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are knowledgeable about UK payroll tax and expense reporting rules and regulations or are eager to learn</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable with change and would embrace being a leader in process change</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">care deeply about the accuracy of data and ensuring timely reporting</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged startup environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">demonstrate proficient excel skills</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">consider yourself to be an excellent communicator and collaborator</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">hold a certification, associates or bachelor’s degree in accounting, finance, or related field</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 5 + years of experience in a payroll or accounting role</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have 2 + years of experience processing 400+ employee, multi-state payrolls (required)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have experience working with 3rd party payroll services including report writing tools</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are proficient in managing confidential information</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">work well with a team and provide excellent customer service</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have strong computer skills with ability to master the company’s payroll and supporting platforms</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have excellent attention to detail</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">are well organized and able to demonstrate the ability to prioritize job demand</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have strong knowledge of state payroll and tax laws</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have knowledge of garnishments and benefits distribution</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are experienced in either Payfit or Workday and/or Netsuite</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have been involved in implementing a new HRIS system from a payroll perspective</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">were involved in the process of transitioning from one payroll provider to anothe</span></li>
-</ul><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<li><span style="font-weight: 400;">are proficient in ADP and ADP Celergo</span></li>
+<li><span style="font-weight: 400;">have experience with Workday</span></li>
+<li><span style="font-weight: 400;">thrive on the challenge and pace of a rapidly growing company</span></li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3><strong>Interested?</strong></h3>
+<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
+<h3><strong>About Snyk</strong></h3>
+<p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (</span><a href="https://snyk.io/stateofossecurity/"><span style="font-weight: 400;">https://snyk.io/stateofossecurity/</span></a><span style="font-weight: 400;">). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. </span><span style="font-weight: 400;">We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! By the end of Q3 2019 alone, Snyk was already adopted by over 450,000 developers, and including multiple enterprise customers (such as Google, New Relic, ASOS and others). </span><span style="font-weight: 400;">We also raised an additional $200 Million, <a href="https://snyk.io/blog/snyk-closes-200m-to-modernize-security-industry/" target="_blank">announced on September 9, 2020</a></span><span style="font-weight: 400;">, from investors such as Stripes and Salesforce Ventures, demonstrating that they are as excited as we are by Snyk’s progress and potential</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -42,7 +57,7 @@ Payroll Specialist
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5675985002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6335528002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
