@@ -3,16 +3,11 @@ Senior Solutions Engineering Specialist
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<hr>
-<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<hr>
 <h4><strong>All roles listed as ‘remote’ are available as remote within the same country.</strong></h4>
 <h2><span style="font-weight: 400;">Senior Solutions Engineering Specialist&nbsp;</span></h2>
-<h3>&nbsp;</h3>
+<p>Boston or Remote&nbsp;</p>
 <p><span style="font-weight: 400;">Snyk's mission is to help developers use open source code and stay secure.</span></p>
-<h3>&nbsp;</h3>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern. Our product enables developers and enterprise security teams to find and fix vulnerable dependencies without slowing down development. Snyk integrates seamlessly into developer workflows so that security becomes business as usual.</span></p>
-<h3>&nbsp;</h3>
 <p><span style="font-weight: 400;">As one of Snyk’s Solutions Specialists, you will be the subject matter expert supporting our Solutions Engineers working in both post and pre-sales for Snyk’s Open Source product area. Your expertise within the open source ecosystem will help you create content, triage customer feedback into the product team, and dive in deep to help solve some of our clients' most complex problems. You will work in a global team supporting the field all around the world.</span></p>
 <h3><span style="font-weight: 400;">You’ll spend your time:</span></h3>
 <ul>
@@ -35,10 +30,11 @@ Senior Solutions Engineering Specialist
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working with, building relationships, and presenting to multiple types of client persona including C-level and executive staff, engineering and security managers or directors, software engineers, and security personnel</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in an often chaotic environment where you are often an army-of-one, tackling some of Snyk’s most challenging client problems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pay attention and identify important, small, and often nuanced details of a situation such as this request to add the hacker alias “Zero Cool” to your resume or cover letter</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Speak and write excellent English, but can maybe dabble in another language or two in an effort to support our global clientbase</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Speak and write excellent English, but can maybe dabble in another language or two in an effort to support our global client-base</span></li>
 </ul>
 <h3><span style="font-weight: 400;">Interested?</span></h3>
-<p><span style="font-weight: 400;">Please apply below! At Snyk, we’re looking for candidates who are excited about and want to help make a difference in the world of developer-focused software security. If this is something you find a passion in but don’t quite meet all of the criteria above, please apply anyway!</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Please apply below! At Snyk, we’re looking for candidates who are excited about and want to help make a difference in the world of developer-focused software security. If this is something you find a passion in but don’t quite meet all of the criteria above, please apply anyway!</span></p>
+<p><span style="font-weight: 400;">#LI-JD2 #LI-REMOTE</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -47,7 +43,7 @@ Senior Solutions Engineering Specialist
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6313937002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6316847002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
