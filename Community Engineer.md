@@ -5,7 +5,7 @@ Community Engineer
 
 <hr>
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
-<p><em><strong><sub>Location: Singapore</sub></strong></em></p>
+<p><em><strong><sub>Location: London, United Kingdom or Tel Aviv, Israel&nbsp;</sub></strong></em></p>
 <hr>
 <p><strong>Overview:&nbsp;</strong></p>
 <p><span style="font-weight: 400;">The Digital Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform. We’re looking for a talented, curious and driven individual to join our team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;</span></p>
@@ -50,7 +50,7 @@ Community Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6344557002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6344555002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
