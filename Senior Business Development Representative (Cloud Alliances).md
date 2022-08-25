@@ -17,7 +17,7 @@ Senior Business Development Representative (Cloud Alliances)
 </ul>
 <p><strong>You should apply if you:&nbsp;</strong></p>
 <ul>
-<li style="font-weight: 300;"><span style="font-weight: 300;">have at least 6 months previous experience in SaaS business/sales development</span></li>
+<li style="font-weight: 300;"><span style="font-weight: 300;">have 6 months-1 year&nbsp; previous experience in SaaS business/sales development</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">are ambitious, organized, and energetic</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">build strong, meaningful relationships and take pride in being a great communicator</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">strive to exceed your goals, and love the challenge of working in a fast-paced environment</span></li>
