@@ -20,7 +20,6 @@ Payroll Specialist
 <p><strong>You should apply if you:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">hold a certification, associates or bachelor’s degree in accounting, finance, or related field</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have 5 + years of experience in a payroll or accounting role</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have 2 + years of experience processing 400+ employee, multi-state payrolls (required)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience working with 3rd party payroll services, including report writing tools</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are proficient in managing confidential information</span></li>
