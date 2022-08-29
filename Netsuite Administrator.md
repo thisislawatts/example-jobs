@@ -28,7 +28,7 @@ Netsuite Administrator
 <li style="font-weight: 400;"><span style="font-weight: 400;">enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">act speedily and iteratively - focused on getting things done&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">have a good understanding of financial processes&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have enjoy acquiring new knowledge and skills and can do so quickly.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">have enjoy acquiring new knowledge and skills and can do so quickly.&nbsp;</span></li>
 </ul>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
 <ul>
