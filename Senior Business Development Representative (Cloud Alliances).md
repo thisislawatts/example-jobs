@@ -4,7 +4,7 @@ Senior Business Development Representative (Cloud Alliances)
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <p><strong>Senior Business Development Representative (Cloud Alliances)&nbsp;</strong></p>
-<p><span style="font-weight: 300;"><strong>Location</strong>: Boston or Denver (in-office or hybrid)&nbsp;</span></p>
+<p><span style="font-weight: 300;"><strong>Location</strong>:Boston or Denver (in-office or hybrid)&nbsp;</span></p>
 <p><span style="font-weight: 300;">We’re looking for an enterprising, ambitious Cloud Business Development Representative to join our Business Development team!&nbsp;</span></p>
 <p><span style="font-weight: 300;">This role is a great opportunity to join a highly successful team dedicated to embracing and upleveling our strategic cloud alliances. This individual will work directly with the Global Director of Strategic Cloud Alliances to grow our co-selling motion with AWS, Google and Microsoft Azure.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
