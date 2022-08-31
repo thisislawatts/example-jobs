@@ -1,4 +1,4 @@
-Senior Data Engineer - Snowflake 
+Senior Data Engineer - Snowflake
 ---
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
