@@ -26,7 +26,7 @@ Senior Product Manager
 </ul>
 <p class="p1"><strong>You should apply if you</strong></p>
 <ul class="ul1">
-<li class="li1">Have 4+ years experience working in a product management role in some or all of B2B SaaS, developer tooling or cloud infrastructure</li>
+<li class="li1">Have experience working in a product management role in some or all of B2B SaaS, developer tooling or cloud infrastructure</li>
 <li class="li1">Are energized by working in a dynamic, fast paced environment.</li>
 <li class="li1">Have demonstrated experience in successfully bringing new products to market</li>
 <li class="li1">Have proven strong quantitative and qualitative research and analytics skills.</li>
