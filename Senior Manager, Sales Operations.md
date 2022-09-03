@@ -7,7 +7,7 @@ Senior Manager, Sales Operations
 <h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
 <p><em><strong><sub>Location: Boston, MA&nbsp;</sub></strong></em></p>
 <hr>
-<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Senior Manager of AMER Sales to join our Strategy &amp; Operations team to support Snyk’s hyper-growth in the Americas. The Strategy &amp; Operations team’s mission is to support Snyk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale.&nbsp; The position will report directly to Snyk’s VP, GTM Strategy, Operations and Analytics.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an entrepreneurial and driven Senior Manager of AMER Operations to join our Strategy &amp; Operations team to support Snyk’s hyper-growth in the Americas. The Strategy &amp; Operations team’s mission is to support Snyk’s Leadership team in driving hyper-growth by enabling good, efficient decision making, rapid, effective execution, and scale.&nbsp; The position will report directly to Snyk’s VP, GTM Strategy, Operations and Analytics.&nbsp;</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Leading and developing a team of data-driven and entrepreneurial Sales Operations analysts</span></li>
