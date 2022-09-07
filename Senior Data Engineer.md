@@ -30,9 +30,7 @@ Senior Data Engineer
 <h3><strong>We’d especially love to hear from you if you:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience as a Data Engineer (or equivalent).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have used streaming technologies like Kafka or Debezium.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with SQL, Git, Python, and various cloud data infrastructure technologies.</span></li>
-<li><span style="font-weight: 400;">Exposure and expertise with Snowflake or equivalent.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with SQL, Git, Python, </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Passion for building the best version of whatever you’re working on</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A track record of working autonomously, with strong organizational and time management skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A desire to continually keep up with advancements in data </span></li>
