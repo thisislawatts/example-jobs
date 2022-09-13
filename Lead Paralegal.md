@@ -136,7 +136,8 @@ Lead Paralegal
 <li style="font-weight: 400;">
 <p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 10pt;">Strong senses of both urgency and humor, ideally in equal doses!</span></p>
 </li>
-</ul><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+</ul>
+<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 10pt;">#LI-CM1. #remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
