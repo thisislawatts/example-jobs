@@ -3,36 +3,45 @@ Community Success Engineer
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><strong>Why will you enjoy this new opportunity?&nbsp;</strong></p>
-<p><span style="font-weight: 400;">Snyk enables developers and enterprise security teams to find and fix vulnerabilities in their applications, dependencies, and infrastructure, without slowing down development. We do this by empowering developers directly. In this role, you’ll play a critical role in helping developers accomplish their security goals with Snyk – and ensuring a smooth, and speedy getting started experience.&nbsp;</span></p>
-<p><span style="font-weight: 400;">As a Community Success Engineer, you’ll help new users get started and succeed with Snyk. You’ll become a trusted advisor to thousands of new users who want to understand how to secure their entire application development process. This role is part of a growing team at Snyk responsible for nurturing new users as they get to know the product and building long-lasting relationships with developers who want to use Snyk to secure open-source projects or larger deployment environments. In this role, you will work with internal departments to create solutions that serve the best interests of our users and customers at Snyk.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We value a great attitude and passion over experience, so if you feel like you are the right fit for this team, please apply.</span></p>
-<p><strong>What you’ll do:&nbsp;</strong></p>
+<hr>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<p><em><strong><sub>Location: London, United Kingdom or Tel Aviv, Israel&nbsp;</sub></strong></em></p>
+<hr>
+<p><strong>Overview:&nbsp;</strong></p>
+<p><span style="font-weight: 400;">The Digital Success team works hand-in-hand with Development and Security leaders from modern dev shops to advance their open source security program using the Snyk Cloud Native Application Security Platform. We’re looking for a talented, curious and driven individual to join our team to guide Snyk’s customers and help build the future of Customer Success at Snyk.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In this role, you will develop impact-driving digital engagement strategies in partnership with many teams across Customer Success, Marketing, Sales, Product Management and Support.</span></p>
+<p><strong>You’ll Spend Your Time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Develop a deep understanding of our users, what motivates them to try our product and why they may be interested in expanding their usage beyond the free tier</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build strong relationships, empower users to become Snyk advocates and ensure long-term success with Snyk&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help users be successful with Snyk, wherever they may be (our community Discord, StackOverflow, etc.)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collect product insights to feed into nurture and engagement opportunities that can quickly help our users find success with Snyk&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborate with the Product, Engineering, and Marketing teams to identify both scalable and unscalable ways to educate and enable the user base on the product that can help them unlock value&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Become a trusted advisor to our growing user base to help improve overall engagement and meet our developers’ goals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Growing product adoption within a portfolio of a variety of companies primarily through scaled programs&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop a deep understanding of our users, what motivates them to try our product and why they may be interested in expanding their usage&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Outlining Snyk best practices and use cases that help customers improve their security posture and optimize their processes</span><span style="font-weight: 400;">.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Representing Snyk in the customer community and advocating for </span><a href="https://snyk.io/learn/shift-left-security/"><span style="font-weight: 400;">Shift Left Security</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Representing the “Voice of Customer” by sharing feedback with our Product team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessing customer data and qualitative insights to continuously iterate and improve our scaled success efforts</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Managing </span><span style="font-weight: 400;">high level operational strategy and automation investment to tactical account level escalation.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creating educational content on how to use and adopt snyk products</span></li>
 </ul>
-<p><strong>Requirements&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><strong>You should apply if you:</strong><span style="font-weight: 400;">&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developer-centric, and willing to step into our user’s shoes to better understand their needs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Detail-oriented, organized, and can simplify complex problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Passionate about supporting others in their security success&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Curious and eager to learn from others&nbsp;</span></li>
-</ul>
-<p><strong>Approximate qualifications &amp; Experience:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">2+ years experience in software development and engineering (new grads welcome)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy helping highly technical companies solve problems and drive value to their organizations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Excellent verbal and written communication skills</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Background in computer science, engineering, or security is a plus&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can manage multiple projects independently</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong analytical skills to use data insights for assessing risk, making improvements, and learning from highly successful customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Background in computer science, engineering and security is a plus</span></li>
 </ul>
-<p><strong>Career growth &amp; opportunities:</strong></p>
-<p><span style="font-weight: 400;">This is an excellent opportunity for junior developers and security engineers to get into the industry. In this role, you’ll learn a lot about developer security and work on a wide array of interesting, real-world technical challenges.</span></p>
-<p><span style="font-weight: 400;">This role can be a great way to advance your engineering career. We’re hoping the ideal candidate will start here then eventually move into our Community team, Engineering team, Product, or Sales Engineering teams over time as your experience and domain knowledge grow.</span></p>
-<p><span style="font-weight: 400;">This role reports to the Head of Developer Relations.&nbsp;</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p>&nbsp;</p>
+<p><strong>We’d especially love to hear from you if you:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created a Snyk account and got to know our tech!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience creating educational content</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have experience executing one-to-many strategies for engagement and adoption</span></li>
+</ul>
+<p><strong>Interested?</strong></p>
+<p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
+<p>&nbsp;</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
 <p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
 <p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
@@ -41,7 +50,7 @@ Community Success Engineer
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5981224002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6344555002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
