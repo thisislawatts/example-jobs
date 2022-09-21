@@ -103,7 +103,7 @@ Customer Development Account Executive DACH
 <p>&nbsp;</p>
 <p><strong>Interested?&nbsp;</strong></p>
 <p>Please apply below! We care deeply about the warm, inclusive environment we've created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you're the right person, do apply anyway 🙂&nbsp;</p>
-<p>&nbsp;</p>
+<p>#LI-Remote<br>#LI-CH2</p>
 </div>
 </div>
 </div>
