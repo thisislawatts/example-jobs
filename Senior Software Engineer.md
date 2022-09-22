@@ -61,7 +61,10 @@ Senior Software Engineer
 <p><span style="font-weight: 400;">Snyk’s mission is to help developers use open source code and stay secure.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The use of open source is booming, but security is a key concern (https://snyk.io/stateofossecurity/). Snyk’s unique product enables developers and enterprise security teams to continuously find &amp; fix vulnerable dependencies without slowing down, offering seamless integration into Dev, DevOps and DevSecOps workflows. We care deeply about the quality and usefulness of the tools we develop, always focusing on our customers and users.</span></p>
 <p><span style="font-weight: 400;">We are experiencing rapid growth - and we want you to join us! Snyk reaches more than 2.2 million developers across the globe, positioned within organizations such as Salesforce, Google, and JP Morgan. Our most recent March 2021 Series E funding round valued us at over $4.6 Billion.</span></p>
-<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">We believe open-source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.<br></span></p>
+<p><span style="font-weight: 400;">#LI-JW1</span></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
 
 Interested?
