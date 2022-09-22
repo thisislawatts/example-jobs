@@ -4,7 +4,7 @@ Director, Product Marketing
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country</sub></strong></em></h3>
-<p><span style="font-weight: 400;">We're looking for a proven Director of Product Marketing to lead and manage the product marketing team that develops and delivers our go to marketing positioning, messaging, and enablement for Snyk’s cloud security products: our upcoming Snyk Cloud product, along with Snyk Container and Snyk Infrastructure as Code.</span></p>
+<p><span style="font-weight: 400;">We're looking for a proven Director of Product Marketing to lead and manage the product marketing team that develops and delivers our go to marketing positioning, messaging and enablement for Snyk’s cloud security products: our upcoming Snyk Cloud product, along with Snyk Container and Snyk Infrastructure as Code.</span></p>
 <h2><span style="font-weight: 400;">Your role:</span></h2>
 <p><span style="font-weight: 400;">Snyk’s product marketing team creates and carries out our key product launch activities working closely with product management, our sellers and partners, our marketing peers and other teams throughout the company. We are the experts on the personas, problems, and desired outcomes, enabling Snyk’s sellers, marketing, and partner teams to fully engage with the market in order to grow pipeline and opportunities, and develop the knowledge required to handle competitive objections. The Director of Product Marketing will be our lead product marketer for the upcoming Snyk Cloud product and help lead the team of product marketers working on Snyk’s other cloud products. Working with with senior product and product marketing management, you will help us set and carry out the short and medium term strategy for Snyk’s cloud products, and you will help us develop and guide an amazing team of product marketers in carrying out that strategy.</span></p>
 <h2><span style="font-weight: 400;">You'll spend your time:</span></h2>
@@ -35,7 +35,7 @@ Director, Product Marketing
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6198245002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6189233002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
