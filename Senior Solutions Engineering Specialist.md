@@ -38,7 +38,9 @@ Senior Solutions Engineering Specialist
 <li style="font-weight: 400;"><span style="font-weight: 400;">Speak and write excellent English, but can maybe dabble in another language or two in an effort to support our global clientbase</span></li>
 </ul>
 <h3><span style="font-weight: 400;">Interested?</span></h3>
-<p><span style="font-weight: 400;">Please apply below! At Snyk, we’re looking for candidates who are excited about and want to help make a difference in the world of developer-focused software security. If this is something you find a passion in but don’t quite meet all of the criteria above, please apply anyway!</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">Please apply below! At Snyk, we’re looking for candidates who are excited about and want to help make a difference in the world of developer-focused software security. If this is something you find a passion in but don’t quite meet all of the criteria above, please apply anyway!</span></p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>&nbsp;</p>
+<p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
 
 Interested?

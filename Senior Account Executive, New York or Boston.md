@@ -35,7 +35,9 @@ Senior Account Executive, New York or Boston
 <p><span style="font-weight: 400;">In March of 2021, we</span><a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">raised $300M</span></a><span style="font-weight: 400;"> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">We are building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
 <h6><strong>#LI-TO3</strong></h6>
-<p><span style="font-weight: 400;">#LI-Remote</span></p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
+<p><span style="font-weight: 400;">#LI-Remote</span></p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>&nbsp;</p>
+<p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
 
 Interested?
