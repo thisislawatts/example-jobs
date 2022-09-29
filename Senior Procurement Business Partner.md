@@ -17,7 +17,7 @@ Senior Procurement Business Partner
 </ul>
 <p><strong>Desired Skills and Experience</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5-10 years of experience in SAAS procurement, ideally additional experience in Corporate Services</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5 years of experience in SAAS procurement, ideally additional experience in Corporate Services</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Generalist Procurement experience, able to navigate cross commodities</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Data obsessed, familiar with data analytics tools and data visualisation /dashboards on indirect spend</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Customer centric, able to quickly establish strong relationships with internal and external stakeholders&nbsp;</span></li>
