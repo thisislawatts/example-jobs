@@ -3,6 +3,9 @@ Technical Success Manager
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
+<div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><hr>
+<h3><em><strong><sub>All roles listed as ‘remote’ are available as remote within the same country.</sub></strong></em></h3>
+<hr>
 <p><span style="font-weight: 400;">We’re looking for an empathetic, curious and experienced professional to join our Customer Solutions Organization to help retain and grow Snyk’s growing customer base.</span></p>
 <p><span style="font-weight: 400;">Snyk is looking for a Technical Success Manager (TSM) to help customers enable security within their Software Development Life Cycle (SDLC) and DevSecOps transformations through the adoption of the Snyk Platform. You’ll help customers make change management decisions based on their goals/objectives and data driven analysis. As the technical point of contact you will become the trusted product advisor for our customers, identifying strategies which unlock business value, expand product adoption, resulting in increased customer satisfaction and loyalty.</span></p>
 <p><strong>As a TSM, you’ll spend your time:</strong></p>
@@ -26,30 +29,20 @@ Technical Success Manager
 </ul>
 <p><strong>Qualifications</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience leading technical or engineering programs with a proven record of thought leadership, business case development, realizing customer benefits and successful program completion</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">experience leading technical or engineering programs with a proven record of thought leadership, business case development, realizing customer benefits and successful program completion</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">2+ years of experience in a customer-facing role, engaging with customer executives, technologists and/or partners to solve business problems with advanced technologies</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in a direct or matrixed role leading technical and non-technical transformation project teams with a proven ability to work across broad functional teams</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">A history of problem solving and innovation developing technology programs and working across customer organizations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor’s Degree in science, technology, engineering, math, business, or equivalent experience</span></li>
-</ul>
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
-<h3><strong>Interested?</strong></h3>
-<p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
-<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives.<br><br></span>#LI-KM1<br>#LI-Remote</p><div class="content-conclusion"><p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
-<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
-<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
-<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
+</ul><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>&nbsp;</p>
+<p><strong>About Snyk</strong></p>
+<p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6297415002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6396643002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
