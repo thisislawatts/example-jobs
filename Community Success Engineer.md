@@ -12,8 +12,8 @@ Community Success Engineer
 <p><span style="font-weight: 400;">In this role, you will develop impact-driving digital engagement strategies in partnership with many teams across Customer Success, Marketing, Sales, Product Management and Support.</span></p>
 <p><strong>You’ll Spend Your Time:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Growing product adoption within a portfolio of a variety of companies primarily through scaled programs&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Develop a deep understanding of our users, what motivates them to try our product and why they may be interested in expanding their usage&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Growing Snyk product adoption within a portfolio of a variety of companies primarily through scaled programs&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop a deep understanding of our users, what motivates them to buy our product and why they may be interested in expanding their usage&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Outlining Snyk best practices and use cases that help customers improve their security posture and optimize their processes</span><span style="font-weight: 400;">.&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Representing Snyk in the customer community and advocating for </span><a href="https://snyk.io/learn/shift-left-security/"><span style="font-weight: 400;">Shift Left Security</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Representing the “Voice of Customer” by sharing feedback with our Product team</span></li>
@@ -24,12 +24,12 @@ Community Success Engineer
 <p>&nbsp;</p>
 <p><strong>You should apply if you:</strong><span style="font-weight: 400;">&nbsp;</span></p>
 <ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">8+ years of software development and engineering experience</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are passionate about technology and looking for an opportunity to learn about developer workflows and AppSec</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy helping highly technical companies solve problems and drive value to their organizations</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Excellent verbal and written communication skills</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Can manage multiple projects independently</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong analytical skills to use data insights for assessing risk, making improvements, and learning from highly successful customers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Background in computer science, engineering and security is a plus</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong analytical skills to use data insights for assessing risk, driving improvements, and learning from highly successful customers</span></li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>We’d especially love to hear from you if you:</strong></p>
@@ -37,11 +37,7 @@ Community Success Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">Created a Snyk account and got to know our tech!</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience creating educational content</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience executing one-to-many strategies for engagement and adoption</span></li>
-</ul>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We’re a fast-growing company, with lots of opportunities to take on additional responsibility and to improve and shape processes.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway 🙂</span></p>
-<p>&nbsp;</p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+</ul><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
 <p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
