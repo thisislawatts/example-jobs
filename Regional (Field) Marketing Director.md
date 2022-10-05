@@ -29,6 +29,7 @@ Regional (Field) Marketing Director
 <li style="font-weight: 400;"><span style="font-weight: 400;">You love running experiments and optimizing processes to improve impact.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You’re hands-on, curious and love to explore new domains and technologies.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy fast-paced, highly engaging work environments.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Snyk will be prioritizing candidates who have the right to work in Singapore and do not require Snyk's sponsorship.</span></li>
 </ul>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>

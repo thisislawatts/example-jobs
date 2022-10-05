@@ -4,6 +4,8 @@ Senior Solutions Engineer
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><p><strong>Senior Solutions Engineer</strong></p>
+<p><strong>Location: Japan&nbsp;</strong></p>
+<p><strong>Snyk will be prioritizing candidates who have the right to work in Tokyo and do not require Snyk's sponsorship.</strong></p>
 <p><span style="font-weight: 400;">We are looking for a Senior Solutions Engineer who not only has a passion for doing what it takes to win customers but also loves evangelizing technology to the community and in public forums such as conferences. This is a dream role for someone who is passionate about developer advocacy but loves the thrill of getting the technical win with customers.&nbsp;</span></p>
 <h4><strong>You’ll spend your time:</strong></h4>
 <ul>
