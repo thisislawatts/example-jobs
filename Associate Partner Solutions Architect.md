@@ -20,6 +20,7 @@ Associate Partner Solutions Architect
 <p><strong>You’d be a great fit if you:&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 300;"><span style="font-weight: 300;">have a Bachelor’s degree or relevant experience</span></li>
+<li style="font-weight: 300;"><span style="font-weight: 300;">have previous experience with software development (Nodejs, Javascript / Typescript, REST API)</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">are self-motivated with a consistent track record in technical software sales and knowledge of technology</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">enjoy learning and are curious about new technology&nbsp;</span></li>
 <li style="font-weight: 300;"><span style="font-weight: 300;">can effectively articulate complex ideas in simple terms</span></li>
