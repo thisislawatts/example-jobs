@@ -5,8 +5,8 @@ Implementation Consultant
 
 <div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><section class="content-wrapper">
 <div class="content "><header class="visualHeader">
-<h1 class="visualHeader__title"><strong style="font-size: 14px;">Location:&nbsp; Singapore, Tokyo or Sydney</strong></h1>
-<p><strong style="font-size: 14px;"><strong data-stringify-type="bold">Snyk will be prioritizing candidates who have the right to work in either Singapore, Tokyo or Sydney and do not require Snyk's sponsorship.</strong></strong></p>
+<h1 class="visualHeader__title"><strong style="font-size: 14px;">Location:&nbsp; Singapore or Tokyo</strong></h1>
+<p><strong style="font-size: 14px;"><strong data-stringify-type="bold">Snyk will be prioritizing candidates who have the right to work in either Singapore or Tokyo and do not require Snyk's sponsorship.</strong></strong></p>
 </header></div>
 </section>
 <section class="content-wrapper">
