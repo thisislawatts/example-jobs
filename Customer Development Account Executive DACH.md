@@ -12,7 +12,7 @@ Customer Development Account Executive DACH
 <div class="layoutArea">
 <div class="column">
 <h2><strong>Customer Development Account Executive DACH</strong></h2>
-<p><strong>Location: London or remote in the UK</strong></p>
+<p><strong>Location: Tel-Aviv or remote in Israel</strong></p>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ Customer Development Account Executive DACH
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6405434002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6405438002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
