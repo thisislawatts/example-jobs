@@ -4,9 +4,9 @@ Enterprise Account Executive
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><h2><strong>Enterprise Account Executive</strong></h2>
-<p><strong>Location: Bay Area/San Francisco/Remote West Coast</strong></p>
+<p><strong>Location: Dallas/Austin/West Coast</strong></p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working Enterprise Account Executive to join our sales team.</span></p>
+<p><span style="font-weight: 400;">We’re looking for a collaborative, hard-working Account Executive to join our sales team.</span></p>
 <p><span style="font-weight: 400;">The use of open source software is growing rapidly: technology is a core part of our lives, and almost all software developers rely on open source components, but security is a key concern. Anyone can find and exploit vulnerabilities within open source code, and most of the people who maintain these projects</span><a href="https://snyk.io/stateofossecurity/#risk-and-impact"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">aren’t security experts</span></a><span style="font-weight: 400;">. But our team is.</span></p>
 <p><span style="font-weight: 400;">We’re a developer tooling company with deep security knowledge: this makes us particularly well-positioned to understand the problem space we work in.</span></p>
 <p><span style="font-weight: 400;">We’re focused on enabling developers to find and fix open source vulnerabilities through our proprietary, built from the ground up platform. Our product integrates seamlessly into typical development workflows, and the large organizations that we have on board love us. We want to make security part of business as usual for software developers.</span></p>
@@ -25,8 +25,7 @@ Enterprise Account Executive
 <h2><strong>Interested?</strong></h2>
 <p><span style="font-weight: 400;">We'd love to hear from you!</span></p>
 <p><span style="font-weight: 400;">We’re deeply committed to our healthy, inclusive culture and are working hard to nurture a diverse team at Snyk; we particularly encourage applications from those who are traditionally underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">#LI-TO3</span></p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>#LI-TO3</p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
 <p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
@@ -34,7 +33,7 @@ Enterprise Account Executive
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6331442002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6227587002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
