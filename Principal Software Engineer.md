@@ -12,7 +12,7 @@ Principal Software Engineer
 <h3><strong>You'll most likely spend your time on:</strong></h3>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming to collaboratively build the services that power Snyk</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Making use of best practices and new technologies to maintain and extend our existing services.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Making use of best practices and new technologies to maintain and extend our existing services</span></li>
 <li><span style="font-weight: 400;">Evolving our technology and architecture to meet the challenges ahead</span></li>
 <li><span style="font-weight: 400;">Supporting and growing the other engineers in your team through pairing, feedback and mentoring&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working across the stack and entire development life cycle to build, test, deploy and support high quality, reliable, fast services that power Snyk</span></li>
@@ -24,16 +24,16 @@ Principal Software Engineer
 </ul>
 <h3><strong>You should apply if you have:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong Node/Javascript/Typescript skills, or are a polyglot with experience learning a new language.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong Node/Javascript/Typescript skills, or are a polyglot with experience learning a new language</span></li>
 <li><span style="font-weight: 400;">A demonstrable track record of project leadership and mentorship of software engineers.</span></li>
 <li><span style="font-weight: 400;">Approachable and friendly demeanour, with&nbsp;</span><span style="font-weight: 400;">strong oral and written communication skills and the ability to talk about potentially complex technical concepts in ways that make it easy for others to understand.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working collaboratively using pair programming and code reviews</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a people orientated, team-first mindset and are invested in building a high performing team as much as a successful product.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a people orientated, team-first mindset and are invested in building a high performing team as much as a successful product</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Promote testing as a natural part of any coding effort to improve code quality</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">See mistakes as a learning opportunity and a key driver for personal growth</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have high standards and opinions on topics such as code quality, testing and continuous delivery and enjoy working with others to raise the bar.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working on early stage products; talking with customers to identify, prioritise and solve problems iteratively and build something that they really love.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have high standards and opinions on topics such as code quality, testing and continuous delivery and enjoy working with others to raise the bar</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working on early stage products; talking with customers to identify, prioritise and solve problems iteratively and build something that they really love</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are comfortable working in a cross-functional team, working across the stack to deliver new features from ideation to production</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy working sustainably and iteratively, delivering high quality code using continuous delivery</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Love working in a fast-paced start-up environment that respects its engineers and customers</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy solving complex technical problems</span></li>
@@ -41,12 +41,12 @@ Principal Software Engineer
 </ul>
 <h3><strong>We’d especially love to hear from you (but you don’t <em>need</em> these skills to apply!) if you:</strong></h3>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kubernetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have production-grade experience with Kubernetes or have worked with any of the popular cloud platform offerings from Google, Amazon and Microsoft Azure</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have an SRE background</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience contributing to open-source projects</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Are familiar with distributed system architectural challenges</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have cloud-native and/or Docker experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong community involvement (open-source, conferences, meet-ups, etc).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong community involvement (open-source, conferences, meet-ups, etc)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have experience supporting and running software in production</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy the challenge of finding the right alerting, monitoring and SLOs for your services</span></li>
 </ul>
