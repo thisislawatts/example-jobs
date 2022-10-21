@@ -4,7 +4,7 @@ Manager, Customer Development
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
 <div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><h1><strong>Manager, Customer Development, South Central</strong></h1>
-<p><span style="font-weight: 400;">Location: Tel-Aviv, or remote in Israel</span></p>
+<p><span style="font-weight: 400;">Location: London, or remote in the UK</span></p>
 <h3><strong>Your role</strong></h3>
 <p><span style="font-weight: 400;">The Manager, Customer Development, South Central will be responsible for leading and managing a growing team of Customer Development Account Executives (in countries like France, Israel, Germany), who are leading the end-to-end post-sales customer journey and are responsible for identifying opportunities to expand and retain within an existing client base by maintaining lasting relationships with key stakeholders in the DevSecOps space and digital transformation teams at companies.The Manager will work cross-collaboratively to identify areas of commercial risk as well as areas of expansion within the customer install base. This is done by partnering with all facets of the go-to-market org with an emphasis on alignment between both the leadership of Customer Success as well as Sales Management. This role is strategically important to the business in terms of driving world-class SaaS renewal rates as well as the growth and scale of this department. We’re looking for a driven, best-in-class Sales Manager, to up-level the renewal &amp; expansion performance throughout South Central.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We want you to contribute to the iterative style of our customer journey throughout the sales and renewal process along with,&nbsp; enabling you to inform the way we develop our internal tooling to help you work efficiently and effectively.</span></p>
@@ -40,7 +40,7 @@ Manager, Customer Development
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/6415103002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6400739002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
