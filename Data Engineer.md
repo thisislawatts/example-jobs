@@ -24,7 +24,7 @@ Data Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">have experience with data modeling, data warehousing, and building ETL pipelines</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">are familiar with statistical models and data mining algorithms</span></li>
 <li style="font-weight: 400;">have excellent knowledge of Snowflake, dbt, Looker (or similar BI tools)</li>
-<li style="font-weight: 400;">are a strong communicator; specifically, convey <span>data infrastructure, data models, and data engineering solutions with both business and technical teams</span></li>
+<li style="font-weight: 400;">are a strong communicator; specifically, convey data infrastructure, data models, and data engineering solutions with both business and technical teams</li>
 <li style="font-weight: 400;">are comfortable working in a globally distributed team across several time zones</li>
 </ul>
 <h2><strong>We’d especially love to hear from you if have:</strong></h2>
@@ -34,9 +34,8 @@ Data Engineer
 <li style="font-weight: 400;"><span style="font-weight: 400;">experience working in a startup environment</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">SaaS experience</span></li>
 </ul>
-<h2><strong>Interested?</strong></h2>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created, and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :-)</span></p>
-<p>#LI-KT1&nbsp;<br>#LI-Remote</p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
 <p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
