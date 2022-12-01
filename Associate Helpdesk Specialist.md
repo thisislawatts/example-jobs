@@ -33,7 +33,8 @@ Associate Helpdesk Specialist
 <li style="font-weight: 400;"><span style="font-weight: 400;">experience with MDM solutions (JAMF, Intune, JumpCloud, Meraki MDM).</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">experience using data to illustrate support trends</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">ability to cover after-office hours and weekend support if there are any infrastructure issues</span></li>
-</ul><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+</ul>
+<p><em><span style="font-weight: 400;">#JD-1</span></em></p><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
 <p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
 <p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
