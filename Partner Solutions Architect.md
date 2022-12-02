@@ -3,66 +3,44 @@ Partner Solutions Architect
 
 <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" width="100" alt="Snyk logo" />
 
-<p><span style="font-weight: 400;">Partner Solutions Architect - Technical Alliances</span></p>
-<p><span style="font-weight: 400;">Location: SF Bay Area, Boston, Ottawa, West Coast (remote)</span></p>
-<h1><span style="font-weight: 400;">Overview</span></h1>
-<p><span style="font-weight: 400;">Snyk is looking to add a Partner Solutions Architect to join our Business Development organization. This is the perfect role for </span><span style="font-weight: 400;">motivated technologists who possess a unique balance of technical depth, breadth, and strong interpersonal and writing skills. </span><span style="font-weight: 400;">You will </span><span style="font-weight: 400;">develop highly technical, scalable, flexible, and resilient cloud solutions </span><span style="font-weight: 400;">and narratives of how Snyk complements the partner story while delivering unique value to our joint customer base.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The Partner Solutions Architect works closely with our Business Development &amp; Platform Extensibility teams in building solutions that leverage existing and new integrations with our various technology partners. </span><span style="font-weight: 400;">You will help shape and execute a strategy to build solutions for a broad range of customer use cases while connecting technology with measurable business value. The ideal candidate should have a demonstrated ability to think strategically and solve technical challenges. </span><span style="font-weight: 400;">The Partner Solutions Architect is responsible for understanding various partner technologies; building reference architectures, and implementing against existing APIs to create minimum viable products.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">This is a fantastic opportunity to build out your personal network, practice articulating big visions, develop integrations, and immerse yourself in the most exciting partner ecosystem in the modern development toolchain.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Here are some other qualities we are looking for in our candidates:</span></p>
-<p>&nbsp;</p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Be easy and delightful to work with, and go out of your way to help wherever you can. At Snyk, we have a credo of “Ridiculously easy to work with”. In this role, you will consistently go above and beyond, be driven by passion, and willing to take on any challenge and make a big impact.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Care deeply. Have a passion for designing, developing, and building cloud solutions.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have a strong understanding of large-scale computing solutions. The ideal candidate will have past experience working as a software developer or solutions architect. You will enjoy keeping your existing technical skills honed and developing new ones, so you can make strong contributions to deep architecture discussions. You will regularly take part in deep-dive design and development exercises to create world-class solutions.</span></li>
-</ul>
-<p>&nbsp;</p>
+<div class="content-intro"><p><span style="font-weight: 400;">Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</span></p></div><p><strong>Partner Solutions Architect - Dev Tooling &amp; Ecosystems</strong></p>
+<p><strong>Location: Boston, SF Bay Area, Seattle</strong></p>
+<p><span style="font-weight: 400;">We’re looking for a Solutions Oriented Technical Architect to join our alliances/business development team, in order to engage with our broad partner ecosystem in building compelling technical solutions and narratives, of how Snyk complements the partner story to deliver unique value to the partner’s customers.</span></p>
+<p><span style="font-weight: 400;">The partner solutions architect works closely with our business development folks in building long lasting relationships with key ecosystem partners. The partner architecture team is responsible for understanding each partner’s tech stack, key narratives/messaging and technical initiatives, and based on those continuously provide insights as to how Snyk would best complement the partner. Partner architects are expected to become the subject matter experts for the list of key select partners, and based on that understanding, build the reference architectures, the marketecture and enablement docs. Partner architects work closely with product and engineering leadership within Snyk and on the partner side.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In this role you will be primarily responsible for working with our dev tooling and ecosystem partners.</span></p>
 <p><strong>You’ll spend your time:</strong></p>
 <ul>
-<ul>
-<li style="font-weight: 400;"><strong>Building Solutions:</strong><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Working within a cross-functional team ensuring solutions that integrate Snyk with our technology partners are developed for our mutual customers.&nbsp;</span></li>
-<li style="font-weight: 400;"><strong>Diving Deep:</strong><span style="font-weight: 400;">&nbsp; </span><span style="font-weight: 400;">Participate in deep architectural discussions and development of code along with product development teams to ensure solutions are designed for successful deployments.</span></li>
-<li style="font-weight: 400;"><strong>Communicating:</strong><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Author or otherwise contribute to internal and customer-facing publications such as whitepapers, solutions marketing, reference architectures, and reference implementations.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working very closely with your counterpart from the business development team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">becoming the SME (subject matter expert) on the tech stack, key narratives/messaging and technical initiatives of a select list of key partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">defining how Snyk could best complement the partners ecosystem both on a strategic and a solution level</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">building reference architectures, marketectures and decks capturing these narratives, the value props from a partnership to an end customer, to the partner and of course to Snyk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working closely with product marketing on enabling Snyk’s and partner’s field teams</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">assist Snyk and partner field teams in enterprise opportunities across all geos when needed</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">engaging and building relationships with business development, product and engineering leadership at our key partners</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">traveling to partners and key partner and ecosystem events</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">participating in quarterly reviews (QBRs) between the Snyk sponsor, partner executives, and Snyk global teams and drive the solution and technical enablement aspects of the reviews</span></li>
 </ul>
-</ul>
-<ul>
-<li><strong>Enabling: </strong><span style="font-weight: 400;">Close collaboration with product marketing enabling Snyk’s and partner’s sales and marketing teams, a</span><span style="font-weight: 400;">s well as internal teams including sales, solutions architecture, and support.</span></li>
-</ul>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are distributed across four offices in London, Tel Aviv, Boston and Ottawa, with 10% of the company working fully-remote. We’ve made an organizational commitment to building a strong, effective, distributed company: we form teams across multiple offices wherever possible, and we invest in communication so that we can benefit from each others’ perspectives. As well as an always-on webcam so we can see what’s happening in each office, we make heavy use of video calls, Slack, and some inter-office travel.</span></p>
 <p><strong>You should apply if you:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have experience</span><span style="font-weight: 400;"> in developing applications as well as working within software development or Internet-related industries architecting/operating solutions built on cloud platforms. Knowledge of Python, TypeScript, and Node.js is preferred and Java is desirable but not essential.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">love to learn about new technology and you’re curious about how things work at an in-depth level but have experience developing applications deployed to the cloud.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are articulate and pride yourself in conveying complex ideas in simple terms&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are comfortable speaking to audiences in person and on video calls (in front of partners, execs, and stakeholders)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are capable of communicating to various personas at various levels from executive stakeholders to technical engineers and product managers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">are agile and enjoy the speed of a fast-paced, highly engaged startup environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">have a team-oriented mindset</span></li>
-</ul>
-<p><br><br></p>
-<p><strong>Interested?</strong></p>
-<p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway. :)</span></p>
-<p><br><br></p>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you’ve spent 7 years or more in a solutions engineering, sales engineering or similar position in the cloud-native and/or DevOps space</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you have experience and a deep understanding of DevOps ecosystem and tools and/or the cloud-native vendor landscape.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you love to learn about new technology and you’re curious about how things work under the hood</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you are articulate and pride yourself in conveying complex ideas in simple terms, verbally and on video calls (in front of partners, execs and stakeholders)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you are comfortable talking to both business exec and stakeholders, as well as technical engineers and product people</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you are digitally organized and are known for building great decks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you are agile and enjoy the speed of a fast-paced, highly engaged startup environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you over-communicate, create alignment, rally resources and satisfy stakeholders</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">you have a team-oriented mindset</span></li>
+</ul><div class="content-conclusion"><p><em data-stringify-type="italic">We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!</em></p>
+<p>&nbsp;</p>
 <p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">We’re on a mission to make the world a safer place with more secure software.</span></p>
-<p><span style="font-weight: 400;">We’re living in a world of digital transformation that is turning ever more industries into a software-development industry.&nbsp; Cyber security is taking centre stage for many companies, and demand for Snyk’s product is sky-rocketing!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">Snyk has already been adopted by over 2.2M developers, including multiple leading enterprise customers such as Google, Salesforce and Intuit, who are using Snyk to find and fix vulnerabilities in their open source libraries and container images, empowering them to develop secure software, faster.</span></p>
-<p><span style="font-weight: 400;">In March of 2021, we</span><a href="https://snyk.io/news/snyk-advances-developer-first-security-with-series-e-investment/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">raised $300M</span></a><span style="font-weight: 400;"> in Series E funding at a $4.7 billion company valuation, just after securing an additional $200M in Series D funding in September 2020, and successfully closing two strategic acquisitions. On top of that, we doubled the size of our global team, and we’re not stopping there!&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We believe open source software is a force for good, and we’re building Snyk to make it easier for developers who aren’t security experts to stay secure.&nbsp; Join us!</span></p>
-<h6>#LI-TO3</h6>
-<h6>#LI-Remote</h6><div class="content-conclusion"><p><strong>About Snyk</strong></p>
-<p><span style="font-weight: 400;">Snyk is the leader in developer security. We empower the world's developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture.&nbsp;</span></p>
-<p><span style="font-weight: 400;">At Snyk, we envision an inclusive technology industry powering a more sustainable and secure world.</span> <span style="font-weight: 400;">Since our founding, Snykers have cared deeply for one another and the developer and security communities as well as the larger world around us. Learn more about our Snyk Impact social and environmental mission and take action with us </span><a href="https://snyk.io/about/snyk-impact/"><span style="font-weight: 400;">here.</span></a></p>
-<p><span style="font-weight: 400;">Snyk's Developer Security Platform automatically integrates with a developer's workflow and is purpose-built for security teams to collaborate with their development teams. Snyk is used by 1,200 customers worldwide today, including industry leaders such as Asurion, Google, Intuit, MongoDB, New Relic, Revolut and Salesforce.</span></p>
-<p><span style="font-weight: 400;">Snyk is recognized on the </span><a href="https://www.forbes.com/cloud100/#6f24b5ba5f94"><span style="font-weight: 400;">Forbes Cloud 100 2021</span></a><span style="font-weight: 400;">, the </span><a href="https://www.cnbc.com/2021/05/25/these-are-the-2021-cnbc-disruptor-50-companies.html"><span style="font-weight: 400;">2021 CNBC Disruptor 50</span></a><span style="font-weight: 400;"> and was named a Visionary in the</span><a href="https://snyk.io/blog/snyk-visionary-2021-gartner-magic-quadrant-for-ast/"><span style="font-weight: 400;"> 2021 Gartner Magic Quadrant for AST</span></a><span style="font-weight: 400;">.</span></p></div>
+<p><strong><span style="font-weight: 400;">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk. </span></strong></p></div>
 
 Interested?
 ---
 
-Please apply [here](https://boards.greenhouse.io/snyk/jobs/5554027002#app).
+Please apply [here](https://boards.greenhouse.io/snyk/jobs/6484671002#app).
 
 We value diversity at Snyk, and would particularly encourage applications from those who are traditionally underrepresented in tech.
 If you like the sound of this role, but are not totally sure whether you’re the right person, please apply anyway!
