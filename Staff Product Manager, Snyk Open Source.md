@@ -30,7 +30,7 @@ Staff Product Manager, Snyk Open Source
 <li style="font-weight: 400;"><span style="font-weight: 400;">Make good product decisions in an incomplete business context of cost, value, risk, and opportunity.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work collaboratively, communicate proactively, take a team-first mind-set, and skillfully give and receive difficult feedback when necessary</span></li>
 <li style="font-weight: 400;">Have a proven track record of delivering SaaS products to market from business case through to GTM and successful customer adoption</li>
-<li style="font-weight: 400;">Are customer obsessed! Have in-depth understanding of how successful developer/user experience are defined and <span>have a passion for understanding developers - their capabilities, needs, and how they work</span></li>
+<li style="font-weight: 400;">Are customer obsessed! Have in-depth understanding of how successful developer/user experience are defined and have a passion for understanding developers - their capabilities, needs, and how they work</li>
 <li style="font-weight: 400;">Have a keen ability to synthesize a mass of data including market research, user feedback and asks, industry standards and general trends and then translating this into experience strategy and roadmap</li>
 <li style="font-weight: 400;">Are comfortable influencing and leading with a wide range of different internal stakeholders, from internal engineers to executives</li>
 <li style="font-weight: 400;">Have excellent written and verbal communication skills in English, and enjoy helping others to learn new things</li>
@@ -44,10 +44,6 @@ Staff Product Manager, Snyk Open Source
 <h3><strong>Tech Stack</strong></h3>
 <p><span style="font-weight: 400;">Our current stack consists of: NodeJS, JavaScript, Vue.js, TypeScript, jQuery, Express, Postgresql, SQL, Sass, BEM, CSS, Google Cloud, BigQuery, Docker, Fractal, Kibana, Elasticsearch, Kubernetes.</span></p>
 <p><span style="font-weight: 400;">While we are looking for candidates with existing experience with our tech stack we believe curiosity, communication, and the ability to learn are most important.</span></p>
-<h3><strong>What does our interview process look like?</strong></h3>
-<p><span style="font-weight: 400;">We start by having a video call to get to know you. We’ll tell you more about us, the role, and why our culture is so great! We also want to hear about you, your skills and experience, and why you are interested in exploring Snyk.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Next up we’ll send you a take home exercise. Ideally, you will get it back to us within a week and we can take a look at your work.</span></p>
-<p><span style="font-weight: 400;">From there we’ll have an onsite interview where you will get to visit our office, meet a few different members of the BI team, and other stakeholders either in person or over Zoom, and find out everything you need to know about the way we work.&nbsp;</span></p>
 <h3><strong>Interested?</strong></h3>
 <p><span style="font-weight: 400;">Please apply below! We care deeply about the warm, inclusive environment we’ve created and we value diversity - we welcome applications from those typically underrepresented in tech. If you like the sound of this role, but are not totally sure whether you’re the right person, do apply anyway :)</span></p>
 <h3><strong>About Snyk</strong></h3>
